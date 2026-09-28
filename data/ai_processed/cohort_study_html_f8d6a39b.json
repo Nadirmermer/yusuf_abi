@@ -1,0 +1,145 @@
+{
+  "id": "cohort_study_html_f8d6a39b",
+  "original_title": "Cohort Study: Definition, Designs & Examples",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/cohort-study.html",
+  "published_date": "2023-07-31T12:30:59+00:00",
+  "read_time_minutes": 9,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prospective-Cohort_study.png",
+      "alt": "Cohort Study: Definition, Designs & Examples",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Cohort_study.png",
+      "alt": "Cohort study",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prospective-Cohort_study-1024x666.png",
+      "alt": "prospective Cohort study",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Validity-Reliability-300x217.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Reflexivity-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Qualitative-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/informed-consent-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/triangulation-1-286x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bracketing-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Julia-Simkus.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1818,
+  "turkce_baslik": "Zamanın Ellerinde: Hayatımızın Boylamsal Seyri ve Gözlemsel Gerçekliği",
+  "kanca_sorusu": "Geçmişte aldığınız tek bir karar, bugünkü duygusal tepkilerinizi nasıl sessizce yönetiyor?",
+  "score": 40,
+  "puan_nedeni": "Metin tamamen epidemiyoloji, araştırma metodolojisi ve tıbbi kohort çalışmalarını (Framingham, Whitehall vb.) ele almaktadır. Psikolojik derinlikten uzak, akademik ve istatistiksel bir inceleme olduğu için doğrudan ilişkisel veya bireysel içgörü üretmemektedir.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Bilimsel araştırmalar ve boylamsal çalışmalar, insan davranışlarının zaman içindeki değişimini anlamak için geniş kohortlar oluşturur. Tıpkı tıbbi araştırmalarda olduğu gibi, bireylerin geçmişteki maruziyetleri ile bugünkü sonuçları arasında bağlar kurulur. Ancak bu akademik yaklaşım, klinik psikolojinin insan ruhundaki derin ve anlık yankılarını açıklamada bazen soğuk kalabilir. Hayat bir kohort çalışması gibi uzun vadeli verilerle izlenirken, bireyin kendi içsel dinamiklerini ve dönüştürücü gücünü göz ardı etmemek gerekir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zamanın İzinde",
+      "body": "İnsan davranışı anlık bir reaksiyon değil, uzun vadeli bir birikimin sonucudur.",
+      "highlight_box": "Geçmişin bugüne bıraktığı izler",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Gözlemsel Gerçeklik",
+      "body": "Araştırmalar insanları yıllarca takip ederek neden-sonuç ilişkilerini arar.",
+      "highlight_box": "Hangi alışkanlıklarınız geleceğinizi şekillendiriyor?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Geçmişin Etkisi",
+      "body": "Retrospektif incelemeler gibi, zihnimiz de eski verilere bakarak bugün tepki verir.",
+      "highlight_box": "Eski kalıplar bugünü nasıl yönetiyor?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Geleceğe Yatırım",
+      "body": "Proaktif yaklaşımlar, bugünkü küçük değişimlerin yarınki büyük sonuçlarını belirler.",
+      "highlight_box": "Bugünkü maruziyetleriniz neler?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Farkındalık ve Sınır",
+      "body": "Kendi hikayenizin akışını değiştirmek için önce döngüleri fark etmelisiniz.",
+      "highlight_box": "Değişim bilinçli bir gözlemle başlar.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış",
+      "body": "Zamanın akışına kapılmak yerine, kendi yolunuzu gözlemleyin ve dönüştürün.",
+      "highlight_box": "Bu analizi daha sonra incelemek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Hayatınızı yıllar boyunca izleyen görünmez bir gözlemci olsaydı, hangi alışkanlığınızın hikayenizi değiştirdiğini görürdü?",
+    "konusma_metni": "Bilimde kohort çalışmaları insanları uzun süreler boyunca izler ve geçmişteki maruziyetlerin bugünkü sonuçlarını inceler. Bireysel hayatımızda da durum farklı değildir. Geçmişte maruz kaldığımız ortamlar ve aldığımız kararlar, bugünkü duygusal reflekslerimizi belirler. Ancak bilimin aksine, biz kendi hikayemizin hem gözlemcisi hem de değiştiricisiyiz."
+  },
+  "caption": "Bilimsel araştırmalar insan yaşamını uzun yıllar boyunca gözlemleyerek neden-sonuç ilişkilerini anlamaya çalışır. Tıpkı epidemiyolojideki kohort çalışmaları gibi, insan psikolojisi de geçmişteki maruziyetlerin ve deneyimlerin bugünkü yansımaları üzerine kuruludur. Ancak birey olarak kendi hikayemizin farkına varmak ve bu döngüyü dönüştürmek bizim ellerimizdedir. #psikoloji #bilimselaraştırma #farkındalık #zihinyönetimi #kişiselgelişim #davranışbilimleri #yaşam",
+  "processed_at": "2026-09-26 03:19:28"
+}

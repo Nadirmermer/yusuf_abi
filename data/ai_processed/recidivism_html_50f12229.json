@@ -1,0 +1,127 @@
+{
+  "id": "recidivism_html_50f12229",
+  "original_title": "Recidivism",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/recidivism.html",
+  "published_date": "2025-10-13T15:22:12+00:00",
+  "read_time_minutes": 36,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/offender-recidivism.jpg",
+      "alt": "Recidivism",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Policeman-arrests-man-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/risk-reward-300x201.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/dark-figures-crime-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Labeling-Theory-Of-Deviance-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/punish-child-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Routine-Activities-Theory-2-300x287.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 7130,
+  "turkce_baslik": "Kapanmayan Döngüler: Suç, Ceza ve İnsan Psikolojisinin Çıkmazı",
+  "kanca_sorusu": "Bir insan aynı hatayı, aynı yıkıcı döngüyü neden defalarca tekrarlar?",
+  "score": 42,
+  "puan_nedeni": "Metin kriminoloji, sosyoloji ve adalet sistemlerinin istatistiksel verilerine odaklandığı, bireyin içsel ilişkisel dünyasına veya doğrudan psikopatolojisine derinlemesine inemediği için akademik ve makro düzeyde kalmaktadır. Takipçinin günlük ilişkisel ve içsel dünyasına doğrudan ayna tutmadığı için puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan psikolojisinde recidivism, yani suç ve hata döngüsünün tekrarlanması olgusu, sadece adli sistemlerin değil, bireyin kendi içsel hapishanesinin de bir yansımasıdır. Bir insan cezalandırıldığı, uyarıldığı ya da bedel ödediği halde neden aynı yıkıcı davranış kalıplarına geri döner? Cevap, sistemin cezalandırma odaklı yapısının, bireyin kökteki yoksulluk, yalnızlık, destek yoksunluğu ve psikolojik çıkmazlarını iyileştirememesinde yatar. Toplumlar insanları izole ederek değişimi bekler; ancak gerçek dönüşüm ancak onarım, bağ ve güvenli bir yeniden entegrasyon süreciyle mümkündür. Aksi takdirde, dışarıdaki özgürlük sadece kapalı kapıların ardındaki eski alışkanlıkların tekrar sahnelendiği bir sahnare dönüşür.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Aynı Döngünün Tekrarı",
+      "body": "Neden bedel ödediğimiz, canımızın yandığı halde aynı hatalara ve ilişkilere geri döneriz?",
+      "highlight_box": "Kapanmayan kapılar ve tekrarlayan hatalar",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Sistemin ve Bireyin Çıkmazı",
+      "body": "Cezalandırmak kişiyi korkutabilir ama asla içerideki o derin boşluğu ve iyileşme ihtiyacını gidermez.",
+      "highlight_box": "Korku tek başına değişim getirmez.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Kökteki Destek Eksikliği",
+      "body": "Birey sosyal bağlardan ve güvenden mahrum kaldığında, eski tanıdık zararlı alışkanlıklarına sığınır.",
+      "highlight_box": "Yalnızlık kişiyi tanıdık olana iter.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Onarılmayan İçsel Yaralar",
+      "body": "Geçmişin travmaları ve çözülmemiş meseleler ele alınmadığında, benzer krizler kaçınılmaz olarak yeniden yaşanır.",
+      "highlight_box": "Çözülmeyen geçmiş geleceği ipotek altına alır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Cezadan Onarıma Geçiş",
+      "body": "Gerçek değişim suçlamayla değil, kişinin güvenli bir bağ içinde kendini yeniden inşa etmesiyle başlar.",
+      "highlight_box": "İyileşme ancak şefkat ve yapısal destekle mümkündür.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış ve İçsel Hatırlatma",
+      "body": "Eski döngülerinize öfkelenmek yerine, onların hangi karşılanmamış ihtiyacınızdan doğtuğuna bakın.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Bir insan neden canını yakan, ona zarar veren o döngüye defalarca geri döner?",
+    "konusma_metni": "Hayatımızda bazı hatalar, bazı yanlış ilişkiler veya yıkıcı alışkanlıklar bir döngü halinde tekrar eder. Adli psikolojide recidivism denilen bu tekrar etme hali, sadece suç dünyasında değil, bireysel ilişkilerimizde de karşımıza çıkar. Sadece cezalandırmak, korkutmak veya uzaklaştırmak asla iyileştirmez. Çünkü insan kökteki o yalnızlığı, yoksulluğu veya değersizlik hissini onarmadıkça, bildiği o karanlık limana geri dönmeye mahkumdur."
+  },
+  "caption": "Hayatımızda bazı hatalar, bazı ilişkiler ve bazı yıkıcı alışkanlıklar bir çember gibi etrafımızda dönmeye devam eder. Cezalandırılmak, bedel ödemek veya korkutulmak insanı her zaman iyileştirmez; aksine bireyi kökteki o yalnızlığın ve desteksizliğin ortasında yalnız bırakır. Gerçek değişim, kişinin kendini suçlamasıyla değil, içerideki o eksik parçanın şefkatle görülmesiyle başlar. Bu derinlemesine analizi faydalı bulduysanız kaydedebilir, benzer döngülerden geçen biriyle paylaşabilirsiniz. #psikoloji #davranışbilimleri #döngüler #iyileşme #farkındalık #içselbüyüme #ya_da_psikoloji",
+  "processed_at": "2026-09-26 02:50:57"
+}

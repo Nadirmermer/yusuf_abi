@@ -1,0 +1,145 @@
+{
+  "id": "p_value_html_a7e77187",
+  "original_title": "P-Value Significance",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/p-value.html",
+  "published_date": "2026-09-18T11:22:57+00:00",
+  "read_time_minutes": 30,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value.jpeg",
+      "alt": "P-Value Significance",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/p-value.jpg",
+      "alt": "P-Value Explained in Normal Distribution",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/type-1-and-2-errors-300x222.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cohen-d-300x142.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/moderating-variable-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mediator-moderator-variable-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-1024x768.jpeg",
+      "alt": "Probability and statistical significance in ab testing. Statistical significance in a b experiments",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/statistical-significance-two-tailed-1024x666.jpeg",
+      "alt": "statistical significance two tailed",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 5953,
+  "turkce_baslik": "İstatistiksel Anlamlılık ve İnsan Davranışının İllüzyonu",
+  "kanca_sorusu": "İlişkilerimizde veya hayatımızda kesin olduğunu sandığımız ne varsa, aslında sadece birer olasılık hesaplamasından mı ibaret?",
+  "score": 40,
+  "puan_nedeni": "Metin tamamen akademik istatistik, p-değeri ve hipotez testleri üzerine kuru bir teorik çerçeve sunmaktadır. Takipçinin içsel dünyasına, ilişkilerine veya duygusal sorunlarına doğrudan dokunmadığı, Ayna Etkisi yaratmadığı için puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İstatistik biliminde p-değeri, verilerin rastlantısal olma ihtimalini ölçmek için kullanılan soğuk ve mekanik bir araçtır. Ancak bu kavramı insan psikolojisine uyarladığımızda karşımıza başka bir gerçek çıkar: İnsan zihni de sürekli bir olasılık hesaplaması yapar. Karşımızdaki insanın davranışlarının tesadüf mü yoksa bilinçli bir tercih mi olduğunu anlamaya çalışırken, tıpkı bilim insanları gibi bir sıfır hipotezi kurarız. İlişkilerimizde yaşadığımız hayal kırıklıkları veya umutlar, ellerimizdeki verilerin ne kadar güvenilir olduğunu sorguladığımız anlarda şekillenir.\n\nAncak istatistikte küçük bir p-değeri her zaman mutlak bir hakikati kanıtlamadığı gibi, günlük hayatta elde ettiğimiz kanıtlar da karşımızdaki insanın niyetini yüzde yüz kesinlikle açıklayamaz. İnsan ilişkileri matematiksel formüllere indirgenemeyecek kadar karmaşıktır. Kesinlik arayışımız, genellikle belirsizliğe tahammül edememe halimizden beslenir. Oysa bilimde de psikolojide de her zaman küçük bir hata payı, yani rastlantı ihtimali saklıdır.\n\nBu durum, hayatın kontrol edilemeyen yönleriyle barışmamız için bize önemli bir alan açar. Her şeyi anlamlandırmaya, her davranışın arkasındaki gizli nedeni çözmeye çalışmak zihinsel tükenmişliğe yol açar. Tıpkı araştırmacıların verileri güven aralıkları ve bağlam içinde değerlendirmesi gerektiği gibi, bizim de kendi deneyimlerimizi tek bir varsayıma hapsetmeden, daha geniş bir perspektifle ele almamız gerekir. Belirsizliği kabul etmek, zihinsel özgürlüğün ilk adımıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Kesinlik İllüzyonu",
+      "body": "Zihnimiz, ilişkilerde ve hayatta belirsizliğe tahammül edemediği için sürekli kesin kanıtlar arar.",
+      "highlight_box": "Her şeyin bir nedeni olmalı mıdır?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Sıfır Hipotezi ve Zihin",
+      "body": "Tıpkı istatistikteki gibi, karşımızdaki insanın niyetine dair varsayımlar kurar ve bunları kanıtlamaya çalışırız.",
+      "highlight_box": "Kanıt arayışı seni yoruyor mu?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Mutlak Hakikat Arayışı",
+      "body": "İlişkilerde en küçük detayları bile bir kanıt gibi değerlendirip, her şeyin arkasında derin anlamlar ararız.",
+      "highlight_box": "Veriler her zaman gerçeği söylemez.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Hata Payını Reddetmek",
+      "body": "Her davranışın bilinçli bir amacı olduğuna inanmak, bizi rasyonel olmayan sonuçlara ve hayal kırıklıklarına götürür.",
+      "highlight_box": "Tesadüflere yer bırakmamak",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Belirsizlikle Yaşamak",
+      "body": "Her şeyi kontrol etme ve anlamlandırma çabasından vazgeçerek zihinsel bir alan yaratabilirsiniz.",
+      "highlight_box": "Her sorunun kesin bir cevabı yoktur.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Hayatın ve ilişkilerin karmaşasını matematiksel formüllere sığdıramazsınız. Bazen sadece akışına bırakmak gerekir.",
+      "highlight_box": "Bu içeriği zihinsel dinginlik için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Hayatınızda kesin olduğunu sandığınız her şeyin aslında sadece bir olasılıktan ibaret olduğunu biliyor musunuz?",
+    "konusma_metni": "Bugün biraz zihnimizin çalışma biçiminden ve istatistikten bahsedeceğiz. Bilimde p-değeri dediğimiz şey, bir sonucun tesadüf olup olmadığını ölçer. Ama aynı şeyi insan ilişkilerinde de yaparız. Karşımızdaki insanın niyetini anlamak için sürekli hipotezler kurar ve kanıt ararız. Sorun şu ki, tıpkı istatistikte olduğu gibi, insan psikolojisinde de hiçbir şeyin mutlak bir kesinliği yoktur. Her zaman bir hata payı, her zaman belirsizlik vardır. Kesinlik arayışı bizi tükettiği sürece, aslında sadece kendi kurduğumuz varsayımların kurbanı oluruz."
+  },
+  "caption": "İstatistik bilimindeki olasılık hesapları ile insan zihninin anlam arayışı arasında şaşırtıcı bir benzerlik vardır. Hayatımızda her şeyin kesin bir karşılığını bulmaya çalıştığımızda, belirsizliğin yarattığı kaygıyla baş başa kalırız. Oysa her durumu mantıksal bir formüle sığdırmak mümkün değildir.\n\npsikoloji zihinyönetimi belirsizlik farkındalık rasyonalite düşünceyapısı",
+  "processed_at": "2026-09-26 16:56:39"
+}

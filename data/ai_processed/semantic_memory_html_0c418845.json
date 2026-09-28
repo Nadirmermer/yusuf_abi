@@ -1,0 +1,139 @@
+{
+  "id": "semantic_memory_html_0c418845",
+  "original_title": "Semantic Memory In Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/semantic-memory.html",
+  "published_date": "2026-09-17T11:43:21+00:00",
+  "read_time_minutes": 21,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/semantic-memory.jpeg",
+      "alt": "Semantic Memory In Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--300x97.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/episodic-memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Declarative-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/schemas-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sapir-whorf-hypothesis-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/semantic-memory.jpg",
+      "alt": "semantic memory",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Ayesh-Perera.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4238,
+  "turkce_baslik": "Anıların Ötesinde: Zihnimizdeki Bilgi Ağları ve Anlam Dünyamız",
+  "kanca_sorusu": "Neden bazı bilgileri nereden öğrendiğinizi hatırlamazsınız da sadece bilirsiniz?",
+  "score": 45,
+  "puan_nedeni": "Metin, bilişsel psikolojinin nörolojik ve akademik temellerini (semantik bellek, hiyerarşik ağlar) incelemektedir. Doğrudan ilişkisel çatışma, bağlanma veya toksik dinamik barındırmadığı, daha çok akademik bilgi işleme süreçlerine odaklandığı için editoryal puanımız düşüktür.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Zihnimiz, sadece yaşadığımız kişisel olayların bir arşivi değildir; aynı zamanda dünyaya dair hiçbir anı eşlik etmeyen soyut bilgilerin, kavramların ve kelime anlamlarının da devasa bir deposudur. Bilişsel psikolojide semantik bellek olarak adlandırılan bu alan, bir şeyin ne olduğunu kişisel geçmişimizden bağımsız olarak bilmemizi sağlar. Washington'un bir eyalet olduğunu ya da fillerin memeli olduğunu biliriz ancak bu bilgiyi ilk kez hangi masada, kimden öğrendiğimizi hatırlamayız. Bu durum, zihnimizin deneyimleri ve saf bilgiyi nasıl ayrı çekmecelerde sakladığının en net kanıtıdır. Bilgi ağlarımız, kelimelerin ardındaki anlamları ve kavramsal bağları örerken, zihnimizin arka planında sessiz ama kusursuz bir mimari çalışır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Neyi Nereden Biliyoruz?",
+      "body": "Zihnimiz bazı bilgileri hatırlar, bazılarını ise sadece bilir.",
+      "highlight_box": "Kişisel anılarımız olmadan da bildiğimiz bir gerçeklik vardır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Anı ve Anlam Ayrımı",
+      "body": "Nerede ve ne zaman öğrendiğinizi hatırlamadığınız bilgiler, semantik belleğin konusudur.",
+      "highlight_box": "Bunu sık sık fark ediyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Zihinsel Ağlar",
+      "body": "Kavramlar zihnimizde hiyerarşik bir ağ şeklinde birbirine bağlıdır.",
+      "highlight_box": "Örnek: Kanarya bir kuştur, kuş bir hayvandır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Anlam Yorgunluğu",
+      "body": "Bir kelimeyi arka arkaya çok kez tekrarladığınızda geçici olarak anlamını yitirmesi bu ağın yorulmasıdır.",
+      "highlight_box": "Semantik doyum, zihnin kelime bağı koparma mekanizmasıdır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Bilginin Yapısı",
+      "body": "Zihnimiz bilgiyi sadece kaydetmez, anlamlandırır ve kategorize eder.",
+      "highlight_box": "Unutmayın: Bilmek, her zaman onu yaşamak demek değildir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Zihinsel Arşiv",
+      "body": "Geçmişin izleri silinse de anlamlar zihnimizde kalmaya devam eder.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Hiç düşündünüz mü, bir elmanın meyve olduğunu bilirsiniz ama bunu tam olarak ne zaman öğrendiğinizi neden hatırlamazsınız?",
+    "konusma_metni": "Zihnimiz iki farklı hafıza türüyle çalışır. Biri yaşadığınız anıları saklayan anısal bellek, diğeri ise nereden öğrendiğinizi asla hatırlamadığınız ama bildiğiniz gerçeğin kendisi olan semantik bellek. Bir şeyin tanımını bilirsiniz fakat o bilginin size ait ilk anını bulamazsınız. Çünkü bazı bilgiler yaşanmaz, sadece zihne yerleşir."
+  },
+  "caption": "Zihnimizin çalışma biçimi, sadece yaşadıklarımızdan ibaret değildir. Yaşantılardan bağımsız olarak sahip olduğumuz bilgiler, semantik belleğimizin derinliklerinde şekillenir. Nereden öğrendiğimizi hatırlamadığımız ama hayatımızın her anında kullandığımız bu bilgiler, zihnimizin görünmeyen mimarisini oluşturur. Bu konuda kendi zihninizde en çok şaşırdığınız detay nedir? Bilişsel Psikoloji, Semantik Bellek, Zihin Yapısı, Bilişsel Süreçler, Hafıza Sistemleri, Bilgi Ağları",
+  "processed_at": "2026-09-26 03:24:49"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "3_reasons_some_people_are_ashamed_to_adm_8fdbbc83",
+  "original_title": "3 Reasons Some People Are Ashamed to Admit They Use AI",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/liking-the-child-you-love/202609/3-reasons-some-people-are-ashamed-to-admit-they-use-ai",
+  "published_date": "2026-09-20T08:18:07-04:00",
+  "read_time_minutes": 1,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/ai_mind_pic_pexels-tara-winstead-8849295.jpg?itok=c36jHy95",
+      "alt": "3 Reasons Some People Are Ashamed to Admit They Use AI",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/image0_1_-removebg-preview.png.jpg?itok=9LsLSHnF",
+      "alt": "Jeffrey Bernstein Ph.D.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-09/joa70-medicine-9077108.jpg?itok=M0soXCDl",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/chatgpt_image_sep_17__2026__10_52_30_am.png.jpg?itok=zXBZo7uo",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 39,
+  "turkce_baslik": "Yapay Zeka Kullanımından Neden Utanıyoruz?",
+  "kanca_sorusu": "Yapay zekadan destek aldığınızı başkalarına söylerken içinizde sessiz bir suçluluk beliriyor mu?",
+  "score": 45,
+  "puan_nedeni": "Konu teknoloji ve modern çağ dinamikleri etrafında döndüğü için doğrudan derin ilişkisel travmalara veya klinik bağlanma stillerine dokunmuyor. Kuru bir teknolojik adaptasyon ve sosyal kaygı analizi düzeyinde kaldığından puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Bugün yapay zeka araçları hayatımızın her alanına sessizce sızmış durumda. Ancak iş bunları kullanmaya geldiğinde, insanlar sanki gizli bir suç ortaklığı itiraf ediyormuş gibi bir mahcubiyet hissediyorlar. Bu utancın kökeninde, zihinsel emeğin kutsandığı ve her başarının mutlak bir bireysel çaba ürünü olması gerektiğine dair katı toplumsal kabuller yatıyor. Biri size bir metni yapay zekaya düzelttirdiğini veya bir fikri oradan ürettiğini söylediğinde, ilk akla gelen şey genellikle 'yeteneksizlik' ya da 'tembellik' damgası oluyor. Oysa bu araçlar, tıpkı geçmişte hesap makinelerinin veya arama motorlarının yaptığı gibi sadece bilişsel yükü hafifleten birer iskele. Ancak insan zihni, yetersiz bulunma ve hile yaptığına dair o derin değersizlik korkusuyla yüzleştiğinde, en masum araç bile bir utanç nesnesine dönüşebiliyor.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Gizli İtiraf",
+      "body": "Yapay zeka kullanımını başkalarına anlatırken neden içimizde sessiz bir mahcubiyet beliriyor?",
+      "highlight_box": "Bunu bir sır gibi saklama gereği hissediyor musunuz?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Zihinsel Emek Miti",
+      "body": "Toplum, her başarının saf bireysel çaba ve acı çekilerek elde edilmesini bekler.",
+      "highlight_box": "Kestirme yollar her zaman suçluluk hissi tetikler.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Yetersizlik Korkusu",
+      "body": "Yardım almanın zihinsel kapasitenin düşüklüğü olarak algılanacağına dair derin kaygı.",
+      "highlight_box": "Kendi kendime yetmeliyim inancı.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Özgünlük Baskısı",
+      "body": "Üretilen her şeyin tamamen insani bir ruh taşımadığına dair dışlanma korkusu.",
+      "highlight_box": "Makine üretimi damgası yeme endişesi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Aracı Yeniden Konumlandırmak",
+      "body": "Yapay zekayı bir zeka ikamesi değil, yalnızca bilişsel bir iskele olarak kabul etmek.",
+      "highlight_box": "Araç kullanmak tembellik değil, verimliliktir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Özgürleşme",
+      "body": "Kendi potansiyelinizi başkalarının onay filtresinden geçirmeyi bıraktığınızda utanç ortadan kalkar.",
+      "highlight_box": "Bu içeriği faydalı bulduysanız kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden yapay zeka kullandığınızı sanki yasak bir şey yapıyormuş gibi gizleme gereği duyuyorsunuz?",
+    "konusma_metni": "Bugünlerde yapay zekadan yardım almak neredeyse gizli bir itiraf haline geldi. Onu bir taslak oluşturmak ya da fikir üretmek için kullandığımızda bile içimizde hafif bir suçluluk belirebiliyor. Bunun sebebi teknolojinin kendisi değil; zihinsel emeği tek ölçüt kabul eden o gizli toplumsal yargı. Sanki kendi başımıza her şeyi kusursuzca yapmalıymışız gibi hissettiren o içsel eleştirmen, en pratik araçları bile birer utanç kaynağına çeviriyor."
+  },
+  "caption": "Yapay zeka araçlarının hayatımıza girmesiyle birlikte, sadece iş yapış biçimimiz değil, bu yardımı kabul ederken hissettiğimiz duygular da değişti. Birçok insan yapay zekadan destek aldığını söylerken çekiniyor, bunu adeta saklanması gereken bir sır gibi görüyor. Temelde yatan şey, her şeyin mutlak bir bireysel çaba ve acı çekme süreci içermesi gerektiğine dair o eski toplumsal inanç. Oysa zihinsel yükü hafifletmek bir kusur değil, modern dünyanın getirdiği bir adaptasyon biçimidir. Kendinize karşı bu kadar katı olmayı ne zaman bıraktınız? #psikoloji #yapayzeka #zihinsel_emek #sosyal_kaygı #öz_şefkat #modern_yaşam #ya_da_psikoloji",
+  "processed_at": "2026-09-28 02:28:54"
+}

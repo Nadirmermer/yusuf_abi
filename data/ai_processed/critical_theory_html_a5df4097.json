@@ -1,0 +1,127 @@
+{
+  "id": "critical_theory_html_a5df4097",
+  "original_title": "Understanding Critical Theory",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/critical-theory.html",
+  "published_date": "2026-09-17T10:59:50+00:00",
+  "read_time_minutes": 13,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/critical-theory.jpeg",
+      "alt": "Understanding Critical Theory",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-constructivism-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/rational-choice-theory-300x157.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-identity-theory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hofstede-cultural-dimensions-300x144.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cultural-relativism-300x168.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-control-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/headshot.webp",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2652,
+  "turkce_baslik": "Kamusal Alanın İşgali ve Sahte Bilinç: Zihnimizi Kim Sömürüyor?",
+  "kanca_sorusu": "Gün boyunca aldığınız kararların gerçekten size ait olduğunu ne kadar savunabilirsiniz?",
+  "score": 45,
+  "puan_nedeni": "Makale, Frankfurt Okulu, Habermas ve makro sosyolojik eleştirel kuramları ele almaktadır. Bireysel psikoterapi pratiğinden ve kişisel ilişkisel dinamiklerden ziyade geniş toplumsal yapıları ve felsefi teorileri incelediği için katı puanlama kriterlerimize göre düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Eleştirel Kuram ve Frankfurt Okulu'nun temellerine dayanan bu yaklaşım, bireylerin kendi yaşam dünyalarının politik ve ekonomik sistemler tarafından nasıl kolonize edildiğini inceler. Habermas'ın kavramlarıyla açıklanan bu durum, kamusal alanın ve bireysel zihnin görünmeyen mekanizmalar tarafından nasıl yönlendirildiğini gözler önüne serer. Günlük hayatımızda maruz kaldığımız dayatmalar, 'sahte bilinç' yaratarak gerçek potansiyelimizi ve bağımsız karar alma mekanizmalarımızı zedeler. Toplumsal normların, cinsiyet rollerinin ve mikro düzeydeki baskı unsurlarının içselleştirilmesi, bireyin kendi iç sesini duymasını engeller. @ya_da_psikoloji olarak baktığımızda, bu makro teorilerin bireyin iç dünyasındaki yansıması, kendi hayatının kontrolünü başkalarına devretme ve yabancılaşma hissidir. Zihinsel özgürleşme, bu görünmeyen sistemik baskıları fark etmekle başlar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihniniz Kimin Kontrolünde?",
+      "body": "Günlük seçimlerimizin ve inançlarımızın ne kadarı gerçekten bizim süzgecimizden geçiyor?",
+      "highlight_box": "Görünmeyen sistemik baskılar",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Yaşam Dünyasının İşgali",
+      "body": "Politik ve ekonomik yapılar sadece dış dünyamızı değil, en mahrem düşünce alanımızı bile kuşatmış durumda.",
+      "highlight_box": "Sahte bilinç hali",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Özgürlük Yanılsaması",
+      "body": "Bireyler, sistemin kurallarını kendi arzuları sanarak benimser ve içselleştirir.",
+      "highlight_box": "Kendi isteğimiz sanılan dayatmalar",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Mikro Baskılar ve Gündelik Hayat",
+      "body": "Toplumsal roller ve ön kabuller, en küçük sosyal etkileşimlerde bile kendini yeniden üretir.",
+      "highlight_box": "Fark edilmeyen önyargılar",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Sorgulama ve Uyanış",
+      "body": "Gerçek bir değişim, hayatımızı çevreleyen temel kabulleri ve dayatılan varsayımları sorgulamakla başlar.",
+      "highlight_box": "Kritik düşünce cesaret ister",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Özgürlük",
+      "body": "Kendi hayatınızın öznesi olmak için dışarıdan yüklenen sesleri susturmayı öğrenin.",
+      "highlight_box": "Bu analizi kaybetmemek için kaydet.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Kendi kararlarınızı verdiğinizi sanıyorsunuz, değil mi?",
+    "konusma_metni": "Günlük hayatımızda yaptığımız seçimlerin, benimsediğimiz arzuların ve hatta kaygılarımızın ne kadarı gerçekten bize ait? Frankfurt Okulu ve eleştirel kuramcılar tam olarak bu noktaya parmak basıyor. Sistemler ve toplumsal yapılar zihnimizi kolonize ediyor ve bize sahte bir bilinç sunuyor. Kendi hayatınızın direksiyonunda gerçekten siz mi oturuyorsunuz, yoksa başkalarının yazdığı bir senaryoyu mu oynuyorsunuz? Düşünün."
+  },
+  "caption": "Günlük hayatımızın kaçta kaçı bize ait? Frankfurt Okulu'nun ve eleştirel kuramın temellerine indiğimizde, bireyin zihninin ve kamusal alanın görünmez mekanizmalar tarafından nasıl kuşatıldığını görüyoruz. 'Sahte bilinç' kavramı, insanların kendi baskı koşullarını nasıl içselleştirdiğini ve bunu bir özgürlük sanarak nasıl sürdürdüğünü açıklar. Kendi hayatınızın ve kararlarınızın arkasında gerçekten kimin durduğunu hiç düşündünüz mü? Düşünceleriniz bizimle paylaşın.\n\n#eleştirelkuram #frankfurtokulu #habermas #zihinyönetimi #sosyalpsikoloji #farkındalık #otonomibirey",
+  "processed_at": "2026-09-26 17:07:48"
+}

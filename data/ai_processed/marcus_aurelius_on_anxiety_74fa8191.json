@@ -1,0 +1,193 @@
+{
+  "id": "marcus_aurelius_on_anxiety_74fa8191",
+  "original_title": "Learn the Stoic method for reducing anxiety.",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/ataraxia/202609/marcus-aurelius-on-anxiety",
+  "published_date": "2026-09-21T19:12:32-04:00",
+  "read_time_minutes": 42,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/neel_burton_0.jpg?itok=Y8BMExeE",
+      "alt": "Image 9: Neel Burton M.D.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/gaimard-heracles-archer-4925404_1920.jpg?itok=IITwQs1r",
+      "alt": "Image 15: Antoine Bourdelle’s Herakles the Archer (1909) captures the Stoic ideal: complete commitment to the action, complete detachment from the outcome.",
+      "caption": null,
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/thumbnail_115x140/public/field_user_blogger_photo/neel_burton_0.jpg?itok=R2vsdOz5",
+      "alt": "Image 21: Neel Burton M.D.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-09/sword-of-damocles.png.jpg?itok=idu5PZ2K",
+      "alt": "Image 22: AI-generated.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-09/boldini-pianist-colaco-hero.jpg?itok=5zB1jSpA",
+      "alt": "Image 23: \"The Pianist A. Rey Colaço\"/Giovanni Boldini/Wikimedia Commons/Public domain",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-09/orpheus_and_eurydice.png.jpg?itok=50m3v9-6",
+      "alt": "Image 24: Wikimedia commons/W Poynter/public domain.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_images/2026-08/istock-2199518458.jpg?itok=yDBvhj3k",
+      "alt": "Image 26: IStock/taka-hashi",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2023-06/victoriano-izquierdo-JG35CpZLfVs-unsplash.jpg?h=8d613ead&itok=u56mWQV0",
+      "alt": "Image 27: Victoriano Izquierdo/Unsplash",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/hero_image/pt_self_test/2024-05/tests-depression-hero-large.jpg?itok=2BfVDNyY",
+      "alt": "Image 28: Rommel Canlas / Shutterstock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/swenico-oriku7dxros-unsplash.jpg?itok=bwyfAycK",
+      "alt": "Image 29: Swenico / Free to use under the Unsplash License",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_images/2021-05/afraid_of_loved_one_dying_1.png.jpg?itok=7bTLdEks",
+      "alt": "Image 30: Imtmphoto/Shutterstock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/worried-girl-413690_1920_0.jpg?itok=IGQoGr2O",
+      "alt": "Image 31: Pixabay",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/pexels-cottonbro-6964953.jpg?itok=0qCD5fQc",
+      "alt": "Image 32: Cottonbro Studio / Pexels",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/2021-02/pexels-anna-tarazevich-6136091.jpg?itok=OiDtEMM-",
+      "alt": "Image 33: Photo by Anna Tarazevich from Pexels",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/istock-1490767513__1_.jpg?itok=nBn2VlS2",
+      "alt": "Image 34: FG Trade/istock/Used with permission",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/20260604_101619_2.jpg?h=5f1f1adb&itok=kI_M72bw",
+      "alt": "Image 35: Josh Bartok/ Used with permission",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/shutterstock_2622574233.jpg?itok=uE1Pz0k8",
+      "alt": "Image 36: Migma Agency/Shutterstock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/pexels-kampus-8422668.jpg?itok=ETB732Ds",
+      "alt": "Image 37: Kampus Productions / Pexels",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-08/brighter_future.jpg?itok=xSDPjx0v",
+      "alt": "Image 38: iStockphoto/gremlin",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/default_images/counseling.jpg",
+      "alt": "Image 39: Counselling",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 8375,
+  "turkce_baslik": "Zihinsel Takip: Anksiyete Geleceği Neden Tutsak Eder?",
+  "kanca_sorusu": "Kovalayan kimse yokken neden sürekli kaçıyormuş gibi hissediyorsunuz?",
+  "score": 85,
+  "puan_nedeni": "Modern insanın kronik anksiyete, aşırı düşünme (overthinking) ve geleceği kontrol etme çabasıyla doğrudan bağ kurduğu için yüksek editoryal potansiyele sahiptir.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Depresyon geçmişin ağırlığıyla bugünü ezerken, anksiyete tamamen gelecekle beslenir. Ne olacağı, neyin ters gideceği ya da bizden ne beklendiği düşüncesi zihni sürekli bir alarm halinde tutar. Modern dünyada artık vahşi hayvanlardan kaçmıyoruz; bildirimler, ödenmemiş faturalar, sosyal medyada başkalarının hayatlarıyla kıyaslanma baskısı ve bitmek bilmeyen görevlerle çevriliyiz. Tehdit dışarıda değil, zihnimizin tam içindedir. Kimse bizi kovalamazken, o kovalayanı kendi kafamızın içinde taşırız.\n\nBu içsel baskıdan kaçmak için sürekli bir meşguliyet ararız. Durmaksızın çalışmak, plan yapmak, her şeyi organize etmek bize bir kontrol hissi verir gibi görünür. Aslında yaptığımız şey anksiyeteyle yüzleşmek değil, onun gürültüsünden kaçmaktır. Ancak Stoacı felsefenin de işaret ettiği gibi, huzur her şeyi kontrol etmekte değil, kontrolümüz dışındaki gerçeği kabul etmekte yatar. Eylemimize tam bir adanmışlık gösterirken, sonucuna karşı derin bir tarafsızlık geliştirmek zihinsel yükümüzü hafifletmenin tek yoludur.\n\nZihnin sürekli geleceği senaryolaştırması, şimdiki anı yaşanmaz kılar. Geleceğin belirsizliğine karşı duyulan tahammülsüzlük, bizi her an potansiyel bir felakete karşı tetikte durmaya zorlar. Oysa yapabileceğimiz tek şey, elimizdeki eyleme odaklanmaktır. Kontrol edemeyeceğimiz sonuçları serbest bırakmak, anksiyetenin o boğucu döngüsünü kırmanın ilk adımıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihinsel Kaçış",
+      "body": "Gelecek kaygısı, bugünümüzü çalan görünmez bir hırsızdır.",
+      "highlight_box": "Kovalayan kimse yokken neden yoruluyorsunuz?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "İçsel Takipçi",
+      "body": "Atalarımız dışarıdaki tehlikelerden kaçardı; biz ise kafamızın içindeki senaryolardan kaçıyoruz.",
+      "highlight_box": "Tehdit dışarıda değil, zihnimizin içinde.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Sürekli Meşguliyet",
+      "body": "Anksiyeteyle yüzleşmek yerine durmaksızın çalışarak ve plan yaparak ondan kaçmaya çalışırız.",
+      "highlight_box": "Meşguliyet her zaman iyileşme değildir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Kontrol Yanılsaması",
+      "body": "Gelecekteki her ihtimali hesaplama çabası, zihinsel kaynaklarımızı tüketen en büyük etkendir.",
+      "highlight_box": "Her şeyi kontrol edemezsiniz.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Stoacı Denge",
+      "body": "Eyleminize tam olarak odaklanın, ancak sonucun kontrolünü elinizde tutmaya çalışmaktan vazgeçin.",
+      "highlight_box": "Sadece elinizde olanı yönetin.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Geleceğin belirsizliğiyle barışmak, şimdiki anın huzurunu geri getirir.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Kimse seni kovalamadığı halde neden sürekli kaçma hissediyorsun?",
+    "konusma_metni": "Modern hayatın en büyük yanılgısı, sürekli meşgul olarak anksiyeteden kurtulabileceğimizi sanmaktır. Oysa mailler, bildirimler ve bitmeyen sorumluluklar yüzünden kovalayanı kendi kafamızın içine taşıdık. Durduğumuz anda gelen o suçluluk ve huzursuzluk hissi, aslında kontrol etme çabamızın tükenmişliğidir. Stoacıların yüzyıllar önce söylediği gibi: Eylemine odaklan, sonuca değil."
+  },
+  "caption": "Anksiyete, geleceğin belirsizliği karşısında zihnin kurduğu bir savunma mekanizmasıdır ancak zamanla kişinin kendisine kurduğu bir tuzşa dönüşür. Modern insan, dışarıdaki tehlikelerden ziyade kafasının içinde taşıdığı o sürekli kovalamaca hissinden yorulur. Meşguliyetle bastırılmaya çalışılan kaygılar, ancak kontrol alanı ile kontrol dışı olanın fark edilmesiyle hafifler. Bu derinlemesine analizi faydalı bulduysanız sevdiklerinizle paylaşmayı unutmayın.\n\n#anksiyete #stresyönetimi #aşırıdüşünme #zihinselsağlık #psikoloji #felsefe #ya_da_psikoloji",
+  "processed_at": "2026-09-26 17:45:44"
+}

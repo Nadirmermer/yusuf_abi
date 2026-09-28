@@ -1,0 +1,166 @@
+{
+  "id": "within_subjects_design_html_51c061c9",
+  "url": "https://www.simplypsychology.org/within-subjects-design.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Within-Subjects Design: Examples, Pros & Cons",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2023-07-31T12:41:21+00:00",
+  "date_modified": null,
+  "read_time_minutes": 8,
+  "word_count": 1578,
+  "summary": "Psychology»Research Methodology",
+  "topics": [],
+  "key_points": [
+    "1. What’s the difference between a between-subjects versus within-subjects design?",
+    "2. Can you use a between-subjects and within-subjects design in the same study?"
+  ],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Research Methodology\n\nA within-subjects design is anexperimental designin which the same group of participants is exposed to all independent variable levels. This design controls for individual differences and often requires fewer participants.\n\nA within-subjects design allows researchers to assign test participants to different treatment groups. In a within-subjects design, each participant experiences every condition of the independent variable.\n\n- How it Works\n\n- Disadvantages\n\n- Learning Check",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "How it Works",
+      "content": "Researchers test the same participants repeatedly across all treatments to assess for differences between the variables. Within-subjects designs do not have a control group as all participants are tested both before and after they are exposed to treatment.\n\nThis study design is coined “within-subjects” because conditions are compared within the same group of participants. On the other hand, abetween-subjects designis the opposite of a within-subjects design where the differences in conditions occur between the groups of subjects.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Using a within-subjects design",
+      "content": "Within-subjects studies are typically used forlongitudinal studies, as researchers can assess changes within the same group of subjects over an extended period of time.\n\nFor example, assume a psychiatrist is looking for a new medication to treat patients with Obsessive-Compulsive Disorder (OCD). She has four potential options for medications to help patients with their OCD.\n\nIn order to determine which medication is going to be the most beneficial for her patients, she measures each child’s performance four times, once after being on each of four drug doses for a week. Each subject’s performance is thus measured at each of the four levels of the factor, or dose.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Does not require a large subject pool",
+      "content": "Within-subjects designs require smaller sample sizes as each participant provides repeated measures for each treatment condition. This also reduces the cost and resources necessary to conduct these studies.\n\nOn the other hand, a between-subjects study would require at least twice as many participants as a within-subject design. This also means twice the cost and resources.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "No variation in individual differences",
+      "content": "One reason researchers use within-group designs is to control for individual differences. Because the same participants are used in all conditions, each participant serves as their own control.\n\nSince the same individuals participate in all conditions, there will be no effects from variations in individual differences between conditions.\n\nBecause individual variation is removed, this study design has little room for error, and researchers can easily detect differences among treatments.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Time",
+      "content": "Data collection can take a long time since each participant is given multiple treatments. In addition, it can be challenging to control the effects of time on the study’s outcomes.\n\nBetween-subjects studies tend to have shorter sessions than within-subject ones.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Carryover effects",
+      "content": "In within-subject designs, participants are exposed to several levels of the same independent variable. This prior exposure to a treatment condition could alter the outcomes of later treatment conditions.\n\nFor example, exposure to a reaction time test could make participants’ reaction times faster in a subsequent treatment due to familiarity with the study.\n\nRandomization and counterbalancing can help reduce these carryover effects.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Examples",
+      "content": "- A course of Cognitive Decline in Hematopoietic Stem Cell Transplantation: A Within-subjects Design (Friedman et al., 2009).\n\n- Beliefs, attitudes, and intentions toward nuclear energy before and after Chernobyl in a longitudinal within-subjects design (Verplanken, 1989).\n\n- A comparison of paper and online tests using a within-subjects design and propensity score matching study (Lottridge, Nicewander, & Mitzel, 2011).\n\n- A test of exercise analgesia using signal detection theory and a within-subjects design (Fuller and Robinson, 1993).\n\n- Reported jealousy differs as a function of menstrual cycle stage and contraceptive pill use: A within-subjects investigation (Cobey et al., 2012).\n\n- Behavioral effects of haloperidol in young autistic children: An objective analysis using a within-subjects reversal design (Cohen et al., 1980).\n\n- Tipping and service quality: A within-subjects analysis (Lynn and Sturman, 2010).",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Learning Check",
+      "content": "Which of the following are advantages of using a within-participant design in experimental research?\n\n- It controls for individual differences, as the same participants are used in all conditions.\n\n- It requires fewer participants compared to between-participants designs.\n\n- It allows for observing changes over time or conditions in the same individual.\n\n- All of the above.\n\n- It is unaffected by order or sequence effects.\n\n- It allows for the study of interactions between independent variables.\n\n- It requires less time to collect data because each participant is in all conditions.\n\n- None of the above.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Answers",
+      "content": "4. Note: Option 5 is incorrect because within-participant designs can indeed be affected by order or sequence effects. Option 7 can also be incorrect because, even though each participant is in all conditions, each condition may require separate sessions, potentially lengthening the data collection time. Option 6 is not exclusively an advantage of within-participant designs and can apply to between-participants designs as well.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "1. What’s the difference between a between-subjects versus within-subjects design?",
+      "content": "Between-subjects and within-subjects designsare two different methods for researchers to assign test participants to different treatments.\n\nIn a between-subjects design, researchers will assign each subject to only one treatment condition. In contrast, in a within-subjects design, researchers will test the same participants repeatedly across all conditions.\n\nBetween-subjects and within-subjects designs can be used in place of each other or in conjunction with each other.\n\nEach type of experimental design has its own advantages and disadvantages, and it is usually up to the researchers to determine which method will be more beneficial for their study.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "2. Can you use a between-subjects and within-subjects design in the same study?",
+      "content": "Yes.Between-subjectsand within-subjects designs can be combined in a single study when you have two or more independent variables (a factorial design).\n\nFactorial designs are a type of experiment where multiple independent variables are tested. Each level of one independent variable (a factor) is combined with each level of every other independent variable to produce different conditions.\n\nEach combination becomes a condition in the experiment. In a factorial experiment, the researcher has to decide for each independent variable whether to use a between-subjects design or a within-subjects design.\n\nIn a mixed factorial design, researchers will manipulate one independent variable between subjects and another within subjects.\n\nSimkus, J. (2023). Within-Subjects Design: Examples, Pros & Cons. Simply Psychology. https://www.simplypsychology.org/within-subjects-design.html\n\nSimkus, Julia. \"Within-Subjects Design: Examples, Pros & Cons.\" Simply Psychology, 31 July 2023, https://www.simplypsychology.org/within-subjects-design.html.\n\nSimkus, J. (2023) Within-Subjects Design: Examples, Pros & Cons. Simply Psychology. Available at: https://www.simplypsychology.org/within-subjects-design.html (Accessed: 22 September 2026).",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "References",
+      "content": "Allen, M. (2017). The sage encyclopedia of communication research methods (Vols. 1-4). Thousand Oaks, CA: SAGE Publications, Inc doi: 10.4135/9781483381411\n\nBaeyens, F., Díaz, E., & Ruiz, G. (2005). Resistance to extinction of human evaluative conditioning using a between‐subjects design. Cognition & Emotion, 19(2), 245-268.\n\nBirnbaum, M. H. (1999). How to show that 9> 221: Collect judgments in a between-subjects design. Psychological Methods, 4(3), 243.\n\nCarey, A. A., Lester, T. G., & Valencia, R. M. (2016). The Effects of a Fatal Vision Goggles Intervention on Middle School Aged Children’s Attitudes toward Drinking and Driving and Texting and Driving as Related to Impulsivity: A Between Subjects Design (Doctoral dissertation, Brenau University).\n\nChang, H. I., & Kang, W. C. (2018). The Impact of the 2018 North Korea-United States Summit on South Koreans’ Altruism Toward and Trust in North Korean Refugees: Between-Subjects Design Around the Summit. Available at SSRN 3270334.\n\nEgele, V. S., Kiefer, L. H., & Stark, R. (2021). Faking self-reports of health behavior: a comparison between a within-and a between-subjects design. Health psychology and behavioral medicine, 9(1), 895-916.\n\nEhrlichman, H., Brown Kuhl, S., Zhu, J., & WRRENBURG, S. (1997). Startle reflex modulation by pleasant and unpleasant odors in a between‐subjects design. Psychophysiology, 34(6), 726-729.\n\nJhangiani, R. S., Chiang, I.-C. A., Cuttler, C., & Leighton, D. C. (2019, August 1). Experimental Design. Research Methods in Psychology. Retrieved from https://kpu.pressbooks.pub/psychmethods4e/\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nPsychology Researcher and Writer\n\nBA (Hons) Psychology, Princeton University\n\nJulia Simkus is a Princeton University graduate in Clinical Psychology (Magna Cum Laude) and holds a Master of Arts in Applied Psychology from New York University. During her studies she worked as a research assistant to Professor Nicole Avena at Princeton, co-authoring three published works on food addiction and substance use disorders in peer-reviewed journals and Oxford University Press. She wrote and edited over 70 articles for Simply Psychology between 2021 and 2024.",
+      "order": 13,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/within-subjects-design-1.jpg",
+      "alt": "Within-Subjects Design: Examples, Pros & Cons",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Validity-Reliability-300x217.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/informed-consent-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Qualitative-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/triangulation-1-286x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/themes-300x158.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-construction-reality-300x157.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Julia-Simkus.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Within-Subjects Design: Examples, Pros & Cons\n\n> Psychology»Research Methodology\n\n### Önemli Noktalar / Metotlar\n- 1. What’s the difference between a between-subjects versus within-subjects design?\n- 2. Can you use a between-subjects and within-subjects design in the same study?\n\n## Giriş\n\nPsychology»Research Methodology\n\nA within-subjects design is anexperimental designin which the same group of participants is exposed to all independent variable levels. This design controls for individual differences and often requires fewer participants.\n\nA within-subjects design allows researchers to assign test participants to different treatment groups. In a within-subjects design, each participant experiences every condition of the independent variable.\n\n- How it Works\n\n- Disadvantages\n\n- Learning Check\n\n## How it Works\n\nResearchers test the same participants repeatedly across all treatments to assess for differences between the variables. Within-subjects designs do not have a control group as all participants are tested both before and after they are exposed to treatment.\n\nThis study design is coined “within-subjects” because conditions are compared within the same group of participants. On the other hand, abetween-subjects designis the opposite of a within-subjects design where the differences in conditions occur between the groups of subjects.\n\n## Using a within-subjects design\n\nWithin-subjects studies are typically used forlongitudinal studies, as researchers can assess changes within the same group of subjects over an extended period of time.\n\nFor example, assume a psychiatrist is looking for a new medication to treat patients with Obsessive-Compulsive Disorder (OCD). She has four potential options for medications to help patients with their OCD.\n\nIn order to determine which medication is going to be the most beneficial for her patients, she measures each child’s performance four times, once after being on each of four drug doses for a week. Each subject’s performance is thus measured at each of the four levels of the factor, or dose.\n\n## Does not require a large subject pool\n\nWithin-subjects designs require smaller sample sizes as each participant provides repeated measures for each treatment condition. This also reduces the cost and resources necessary to conduct these studies.\n\nOn the other hand, a between-subjects study would require at least twice as many participants as a within-subject design. This also means twice the cost and resources.\n\n## No variation in individual differences\n\nOne reason researchers use within-group designs is to control for individual differences. Because the same participants are used in all conditions, each participant serves as their own control.\n\nSince the same individuals participate in all conditions, there will be no effects from variations in individual differences between conditions.\n\nBecause individual variation is removed, this study design has little room for error, and researchers can easily detect differences among treatments.\n\n## Time\n\nData collection can take a long time since each participant is given multiple treatments. In addition, it can be challenging to control the effects of time on the study’s outcomes.\n\nBetween-subjects studies tend to have shorter sessions than within-subject ones.\n\n## Carryover effects\n\nIn within-subject designs, participants are exposed to several levels of the same independent variable. This prior exposure to a treatment condition could alter the outcomes of later treatment conditions.\n\nFor example, exposure to a reaction time test could make participants’ reaction times faster in a subsequent treatment due to familiarity with the study.\n\nRandomization and counterbalancing can help reduce these carryover effects.\n\n## Examples\n\n- A course of Cognitive Decline in Hematopoietic Stem Cell Transplantation: A Within-subjects Design (Friedman et al., 2009).\n\n- Beliefs, attitudes, and intentions toward nuclear energy before and after Chernobyl in a longitudinal within-subjects design (Verplanken, 1989).\n\n- A comparison of paper and online tests using a within-subjects design and propensity score matching study (Lottridge, Nicewander, & Mitzel, 2011).\n\n- A test of exercise analgesia using signal detection theory and a within-subjects design (Fuller and Robinson, 1993).\n\n- Reported jealousy differs as a function of menstrual cycle stage and contraceptive pill use: A within-subjects investigation (Cobey et al., 2012).\n\n- Behavioral effects of haloperidol in young autistic children: An objective analysis using a within-subjects reversal design (Cohen et al., 1980).\n\n- Tipping and service quality: A within-subjects analysis (Lynn and Sturman, 2010).\n\n## Learning Check\n\nWhich of the following are advantages of using a within-participant design in experimental research?\n\n- It controls for individual differences, as the same participants are used in all conditions.\n\n- It requires fewer participants compared to between-participants designs.\n\n- It allows for observing changes over time or conditions in the same individual.\n\n- All of the above.\n\n- It is unaffected by order or sequence effects.\n\n- It allows for the study of interactions between independent variables.\n\n- It requires less time to collect data because each participant is in all conditions.\n\n- None of the above.\n\n## Answers\n\n4. Note: Option 5 is incorrect because within-participant designs can indeed be affected by order or sequence effects. Option 7 can also be incorrect because, even though each participant is in all conditions, each condition may require separate sessions, potentially lengthening the data collection time. Option 6 is not exclusively an advantage of within-participant designs and can apply to between-participants designs as well.\n\n## 1. What’s the difference between a between-subjects versus within-subjects design?\n\nBetween-subjects and within-subjects designsare two different methods for researchers to assign test participants to different treatments.\n\nIn a between-subjects design, researchers will assign each subject to only one treatment condition. In contrast, in a within-subjects design, researchers will test the same participants repeatedly across all conditions.\n\nBetween-subjects and within-subjects designs can be used in place of each other or in conjunction with each other.\n\nEach type of experimental design has its own advantages and disadvantages, and it is usually up to the researchers to determine which method will be more beneficial for their study.\n\n## 2. Can you use a between-subjects and within-subjects design in the same study?\n\nYes.Between-subjectsand within-subjects designs can be combined in a single study when you have two or more independent variables (a factorial design).\n\nFactorial designs are a type of experiment where multiple independent variables are tested. Each level of one independent variable (a factor) is combined with each level of every other independent variable to produce different conditions.\n\nEach combination becomes a condition in the experiment. In a factorial experiment, the researcher has to decide for each independent variable whether to use a between-subjects design or a within-subjects design.\n\nIn a mixed factorial design, researchers will manipulate one independent variable between subjects and another within subjects.\n\nSimkus, J. (2023). Within-Subjects Design: Examples, Pros & Cons. Simply Psychology. https://www.simplypsychology.org/within-subjects-design.html\n\nSimkus, Julia. \"Within-Subjects Design: Examples, Pros & Cons.\" Simply Psychology, 31 July 2023, https://www.simplypsychology.org/within-subjects-design.html.\n\nSimkus, J. (2023) Within-Subjects Design: Examples, Pros & Cons. Simply Psychology. Available at: https://www.simplypsychology.org/within-subjects-design.html (Accessed: 22 September 2026).\n\n## References\n\nAllen, M. (2017). The sage encyclopedia of communication research methods (Vols. 1-4). Thousand Oaks, CA: SAGE Publications, Inc doi: 10.4135/9781483381411\n\nBaeyens, F., Díaz, E., & Ruiz, G. (2005). Resistance to extinction of human evaluative conditioning using a between‐subjects design. Cognition & Emotion, 19(2), 245-268.\n\nBirnbaum, M. H. (1999). How to show that 9> 221: Collect judgments in a between-subjects design. Psychological Methods, 4(3), 243.\n\nCarey, A. A., Lester, T. G., & Valencia, R. M. (2016). The Effects of a Fatal Vision Goggles Intervention on Middle School Aged Children’s Attitudes toward Drinking and Driving and Texting and Driving as Related to Impulsivity: A Between Subjects Design (Doctoral dissertation, Brenau University).\n\nChang, H. I., & Kang, W. C. (2018). The Impact of the 2018 North Korea-United States Summit on South Koreans’ Altruism Toward and Trust in North Korean Refugees: Between-Subjects Design Around the Summit. Available at SSRN 3270334.\n\nEgele, V. S., Kiefer, L. H., & Stark, R. (2021). Faking self-reports of health behavior: a comparison between a within-and a between-subjects design. Health psychology and behavioral medicine, 9(1), 895-916.\n\nEhrlichman, H., Brown Kuhl, S., Zhu, J., & WRRENBURG, S. (1997). Startle reflex modulation by pleasant and unpleasant odors in a between‐subjects design. Psychophysiology, 34(6), 726-729.\n\nJhangiani, R. S., Chiang, I.-C. A., Cuttler, C., & Leighton, D. C. (2019, August 1). Experimental Design. Research Methods in Psychology. Retrieved from https://kpu.pressbooks.pub/psychmethods4e/\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nPsychology Researcher and Writer\n\nBA (Hons) Psychology, Princeton University\n\nJulia Simkus is a Princeton University graduate in Clinical Psychology (Magna Cum Laude) and holds a Master of Arts in Applied Psychology from New York University. During her studies she worked as a research assistant to Professor Nicole Avena at Princeton, co-authoring three published works on food addiction and substance use disorders in peer-reviewed journals and Oxford University Press. She wrote and edited over 70 articles for Simply Psychology between 2021 and 2024.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:42:08.674548"
+}

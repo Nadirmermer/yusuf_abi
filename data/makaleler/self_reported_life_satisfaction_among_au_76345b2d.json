@@ -1,0 +1,163 @@
+{
+  "id": "self_reported_life_satisfaction_among_au_76345b2d",
+  "url": "https://www.simplypsychology.org/self-reported-life-satisfaction-among-autistic-youth-with-and-without-intellectual-disability.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Self-reported life satisfaction among autistic youth with and without intellectual disability",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2025-04-24T08:53:23+00:00",
+  "date_modified": null,
+  "read_time_minutes": 6,
+  "word_count": 1210,
+  "summary": "News»Clinical Psychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "News»Clinical Psychology\n\nAutisticindividuals often experience lower life satisfaction than neurotypicals due to social isolation, unmet support needs, and challenges in navigating a world not built for them.\n\nStudying this area is crucial for understanding their unique experiences, highlighting disparities, and informing targeted interventions that meaningfully improve their quality of life and overall well-being.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Points",
+      "content": "- Focus:The study explores life satisfaction among autistic youth with and without intellectual disability (ID).\n\n- Aims:To compare life satisfaction levels between autistic youth with and without ID and identify factors correlated with their life satisfaction.\n\n- Findings:Life satisfaction did not differ significantly between autistic youth with and without ID; however, factors influencing satisfaction varied across groups.\n\n- Implications:Tailored approaches to support well-being are essential, particularly emphasizing social participation and services for youth with ID and self-determination for those without ID.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Rationale",
+      "content": "Previous research highlights lower life satisfaction among autistic individuals compared to non-autistic peers.\n\nHowever, it remains unclear if autistic youth with intellectual disabilities experience different levels of life satisfaction from those without intellectual disabilities.\n\nExisting studies have produced inconsistent results, often excluding autistic individuals with significant cognitive impairment or relying heavily on proxy-reported measures.\n\nThis study addresses these gaps by focusing explicitly on self-reported life satisfaction in autistic youth with varying cognitive abilities.\n\nUnderstanding the distinct correlates for each group provides a clearer basis for targeted interventions.\n\nGiven known disparities in outcomes and needs, this research aims to clarify individual differences among autistic youth to inform better-tailored support.\n\nThe next steps include further exploration into effective interventions to enhance subjective well-being based on identified correlates.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Method",
+      "content": "The study used a quantitative,cross-sectional approachanalyzing data from a larger randomized controlled trial.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Procedure",
+      "content": "Participants completed baseline measures before any intervention:\n\n- Consent was obtained from participants and their parents.\n\n- Parents provided demographic information and reported their child’s social participation, their own stress, and unmet service needs.\n\n- Youth completed a self-report measure of life satisfaction andself-determination.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Sample",
+      "content": "- Total participants: 134 autistic youth35 with intellectual disability (mean age 19.45 years; 71% male; mean IQ=67.19)99 without intellectual disability (mean age 19.88 years; 78% male; mean IQ=98.98)\n\n- 35 with intellectual disability (mean age 19.45 years; 71% male; mean IQ=67.19)\n\n- 99 without intellectual disability (mean age 19.88 years; 78% male; mean IQ=98.98)\n\n- Mostly White (73%), from the United States.\n\n- 35 with intellectual disability (mean age 19.45 years; 71% male; mean IQ=67.19)\n\n- 99 without intellectual disability (mean age 19.88 years; 78% male; mean IQ=98.98)",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Measures",
+      "content": "- Satisfaction with Life Scale (SWLS):Self-reported overall life satisfaction.\n\n- Self-Determination Inventory:Self-assessment of goal-setting and decision-making capabilities.\n\n- Social Participation:Frequency of engagement in social activities reported by parents.\n\n- Parent Stress (DASS):Parental self-report measure of stress.\n\n- Unmet Service Needs:Parental report of needed but unavailable services for youth.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Statistical Measures",
+      "content": "- Reliability analyses, Pearson correlations, Welch’s t-tests, Fisher’s z-tests for comparison across groups.\n\n- Adjustments made to control for false discovery rate (Benjamin–Hochberg procedure).",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Results",
+      "content": "- Autistic youth with ID reported slightly higher (though not statistically significant) life satisfaction compared to those without ID.\n\n- For autistic youth without ID, greater self-determination was associated with higher life satisfaction.\n\n- For autistic youth with ID, higher life satisfaction correlated strongly with more frequent social participation, lower parental stress, and fewer unmet service needs.\n\n- Parental stress and unmet service needs had stronger associations with life satisfaction in youth with ID compared to those without ID.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Insight",
+      "content": "The findings suggest that life satisfaction among autistic youth depends significantly on individual factors related to support and independence.\n\nFor those with ID, supports like services and parental stress management significantly impact life satisfaction. Conversely, youth without ID benefit from enhanced self-determination.\n\nThis study highlights the importance of targeted interventions rather than generic strategies.\n\nFuture research should investigate interventions specifically tailored to enhance self-determination in youth without ID and social participation and parental support for youth with ID.\n\nInvestigating satisfaction with social participation rather than frequency alone is an important next step.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Implications",
+      "content": "Practitioners and policymakers should consider:\n\n- For youth with ID:Prioritize accessible, comprehensive support services and interventions to alleviate parental stress.\n\n- For youth without ID:Encourage programs enhancing personal agency and self-determination.\n\n- Potential challenges include funding and resource allocation for personalized support, emphasizing the necessity for targeted, evidence-based interventions.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Strengths",
+      "content": "This study had several methodological strengths, including:\n\n- Used a self-report measure of life satisfaction, providing insight directly from autistic youth.\n\n- Employed separate reporters (parents/youth) for outcome and predictor variables, reducing bias.\n\n- Included a sample of autistic youth with ID capable of self-report, an underrepresented group in autism research.\n\n- Preliminary psychometric validation of the SWLS with autistic youth.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Limitations",
+      "content": "This study also had several limitations, including:\n\n- Small sample size for the group with ID, limiting statistical power.\n\n- Sample bias due to recruiting participants already involved or interested in parent advocacy programs.\n\n- Did not include autistic youth unable to self-report due to severe cognitive impairments.\n\n- Limited racial diversity, restricting generalizability.\n\n- Measures of social participation did not account for subjective satisfaction with activities.",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "Socratic Questions",
+      "content": "- How might the ability to self-report influence the findings regarding life satisfaction in autistic youth with intellectual disability?\n\n- What alternative methodologies could better capture the experiences of autistic youth unable to self-report?\n\n- How might cultural factors influence life satisfaction and its determinants among autistic youth?\n\n- Could increasing parental support services indirectly improve life satisfaction among autistic youth? Why or why not?\n\n- In what ways might enhancing self-determination differ for autistic youth without ID compared to those with ID?\n\n- How might the limited diversity of this sample affect the applicability of these findings to broader autistic populations?\n\n- What other factors not measured in this study could significantly impact life satisfaction among autistic youth?\n\nGuy-Evans, O. (2025). Self-reported life satisfaction among autistic youth with and without intellectual disability. Simply Psychology. https://www.simplypsychology.org/news/self-reported-life-satisfaction-among-autistic-youth-with-and-without-intellectual-disability/\n\nGuy-Evans, Olivia. \"Self-reported life satisfaction among autistic youth with and without intellectual disability.\" Simply Psychology, 24 April 2025, https://www.simplypsychology.org/news/self-reported-life-satisfaction-among-autistic-youth-with-and-without-intellectual-disability/.\n\nGuy-Evans, O. (2025) Self-reported life satisfaction among autistic youth with and without intellectual disability. Simply Psychology. Available at: https://www.simplypsychology.org/news/self-reported-life-satisfaction-among-autistic-youth-with-and-without-intellectual-disability/ (Accessed: 22 September 2026).\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.",
+      "order": 14,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/happy-youth.jpg",
+      "alt": "Self-reported life satisfaction among autistic youth with and without intellectual disability",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/autism-burnout-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/disclosing-diagnosis-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/lonely-autistic-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-anxiety-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/creative-child-and-parent-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-media-harm-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Self-reported life satisfaction among autistic youth with and without intellectual disability\n\n> News»Clinical Psychology\n\n## Giriş\n\nNews»Clinical Psychology\n\nAutisticindividuals often experience lower life satisfaction than neurotypicals due to social isolation, unmet support needs, and challenges in navigating a world not built for them.\n\nStudying this area is crucial for understanding their unique experiences, highlighting disparities, and informing targeted interventions that meaningfully improve their quality of life and overall well-being.\n\n## Key Points\n\n- Focus:The study explores life satisfaction among autistic youth with and without intellectual disability (ID).\n\n- Aims:To compare life satisfaction levels between autistic youth with and without ID and identify factors correlated with their life satisfaction.\n\n- Findings:Life satisfaction did not differ significantly between autistic youth with and without ID; however, factors influencing satisfaction varied across groups.\n\n- Implications:Tailored approaches to support well-being are essential, particularly emphasizing social participation and services for youth with ID and self-determination for those without ID.\n\n## Rationale\n\nPrevious research highlights lower life satisfaction among autistic individuals compared to non-autistic peers.\n\nHowever, it remains unclear if autistic youth with intellectual disabilities experience different levels of life satisfaction from those without intellectual disabilities.\n\nExisting studies have produced inconsistent results, often excluding autistic individuals with significant cognitive impairment or relying heavily on proxy-reported measures.\n\nThis study addresses these gaps by focusing explicitly on self-reported life satisfaction in autistic youth with varying cognitive abilities.\n\nUnderstanding the distinct correlates for each group provides a clearer basis for targeted interventions.\n\nGiven known disparities in outcomes and needs, this research aims to clarify individual differences among autistic youth to inform better-tailored support.\n\nThe next steps include further exploration into effective interventions to enhance subjective well-being based on identified correlates.\n\n## Method\n\nThe study used a quantitative,cross-sectional approachanalyzing data from a larger randomized controlled trial.\n\n## Procedure\n\nParticipants completed baseline measures before any intervention:\n\n- Consent was obtained from participants and their parents.\n\n- Parents provided demographic information and reported their child’s social participation, their own stress, and unmet service needs.\n\n- Youth completed a self-report measure of life satisfaction andself-determination.\n\n## Sample\n\n- Total participants: 134 autistic youth35 with intellectual disability (mean age 19.45 years; 71% male; mean IQ=67.19)99 without intellectual disability (mean age 19.88 years; 78% male; mean IQ=98.98)\n\n- 35 with intellectual disability (mean age 19.45 years; 71% male; mean IQ=67.19)\n\n- 99 without intellectual disability (mean age 19.88 years; 78% male; mean IQ=98.98)\n\n- Mostly White (73%), from the United States.\n\n- 35 with intellectual disability (mean age 19.45 years; 71% male; mean IQ=67.19)\n\n- 99 without intellectual disability (mean age 19.88 years; 78% male; mean IQ=98.98)\n\n## Measures\n\n- Satisfaction with Life Scale (SWLS):Self-reported overall life satisfaction.\n\n- Self-Determination Inventory:Self-assessment of goal-setting and decision-making capabilities.\n\n- Social Participation:Frequency of engagement in social activities reported by parents.\n\n- Parent Stress (DASS):Parental self-report measure of stress.\n\n- Unmet Service Needs:Parental report of needed but unavailable services for youth.\n\n## Statistical Measures\n\n- Reliability analyses, Pearson correlations, Welch’s t-tests, Fisher’s z-tests for comparison across groups.\n\n- Adjustments made to control for false discovery rate (Benjamin–Hochberg procedure).\n\n## Results\n\n- Autistic youth with ID reported slightly higher (though not statistically significant) life satisfaction compared to those without ID.\n\n- For autistic youth without ID, greater self-determination was associated with higher life satisfaction.\n\n- For autistic youth with ID, higher life satisfaction correlated strongly with more frequent social participation, lower parental stress, and fewer unmet service needs.\n\n- Parental stress and unmet service needs had stronger associations with life satisfaction in youth with ID compared to those without ID.\n\n## Insight\n\nThe findings suggest that life satisfaction among autistic youth depends significantly on individual factors related to support and independence.\n\nFor those with ID, supports like services and parental stress management significantly impact life satisfaction. Conversely, youth without ID benefit from enhanced self-determination.\n\nThis study highlights the importance of targeted interventions rather than generic strategies.\n\nFuture research should investigate interventions specifically tailored to enhance self-determination in youth without ID and social participation and parental support for youth with ID.\n\nInvestigating satisfaction with social participation rather than frequency alone is an important next step.\n\n## Implications\n\nPractitioners and policymakers should consider:\n\n- For youth with ID:Prioritize accessible, comprehensive support services and interventions to alleviate parental stress.\n\n- For youth without ID:Encourage programs enhancing personal agency and self-determination.\n\n- Potential challenges include funding and resource allocation for personalized support, emphasizing the necessity for targeted, evidence-based interventions.\n\n## Strengths\n\nThis study had several methodological strengths, including:\n\n- Used a self-report measure of life satisfaction, providing insight directly from autistic youth.\n\n- Employed separate reporters (parents/youth) for outcome and predictor variables, reducing bias.\n\n- Included a sample of autistic youth with ID capable of self-report, an underrepresented group in autism research.\n\n- Preliminary psychometric validation of the SWLS with autistic youth.\n\n## Limitations\n\nThis study also had several limitations, including:\n\n- Small sample size for the group with ID, limiting statistical power.\n\n- Sample bias due to recruiting participants already involved or interested in parent advocacy programs.\n\n- Did not include autistic youth unable to self-report due to severe cognitive impairments.\n\n- Limited racial diversity, restricting generalizability.\n\n- Measures of social participation did not account for subjective satisfaction with activities.\n\n## Socratic Questions\n\n- How might the ability to self-report influence the findings regarding life satisfaction in autistic youth with intellectual disability?\n\n- What alternative methodologies could better capture the experiences of autistic youth unable to self-report?\n\n- How might cultural factors influence life satisfaction and its determinants among autistic youth?\n\n- Could increasing parental support services indirectly improve life satisfaction among autistic youth? Why or why not?\n\n- In what ways might enhancing self-determination differ for autistic youth without ID compared to those with ID?\n\n- How might the limited diversity of this sample affect the applicability of these findings to broader autistic populations?\n\n- What other factors not measured in this study could significantly impact life satisfaction among autistic youth?\n\nGuy-Evans, O. (2025). Self-reported life satisfaction among autistic youth with and without intellectual disability. Simply Psychology. https://www.simplypsychology.org/news/self-reported-life-satisfaction-among-autistic-youth-with-and-without-intellectual-disability/\n\nGuy-Evans, Olivia. \"Self-reported life satisfaction among autistic youth with and without intellectual disability.\" Simply Psychology, 24 April 2025, https://www.simplypsychology.org/news/self-reported-life-satisfaction-among-autistic-youth-with-and-without-intellectual-disability/.\n\nGuy-Evans, O. (2025) Self-reported life satisfaction among autistic youth with and without intellectual disability. Simply Psychology. Available at: https://www.simplypsychology.org/news/self-reported-life-satisfaction-among-autistic-youth-with-and-without-intellectual-disability/ (Accessed: 22 September 2026).\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:31:13.633867"
+}

@@ -1,0 +1,163 @@
+{
+  "id": "adult_attachment_interpersonal_emotion_r_98917786",
+  "url": "https://www.simplypsychology.org/adult-attachment-interpersonal-emotion-regulation.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Adult Attachment & Interpersonal Emotion Regulation Motives",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2023-12-12T17:18:49+00:00",
+  "date_modified": null,
+  "read_time_minutes": 8,
+  "word_count": 1654,
+  "summary": "News»Clinical Psychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "News»Clinical Psychology\n\nInterpersonal emotion regulation encompasses both attempts to regulate one’s own emotions with the help of others (i.e., intrinsic interpersonal emotion regulation) and attempts to regulate others’ emotions (i.e., extrinsic interpersonal emotion regulation).\n\nExtrinsic interpersonal emotion regulation refers specifically to the process of intentionally influencing other people’s emotions to meet one’s goals or desired outcomes in a social interaction or relationship.\n\nThis can be driven by various motives, such as trying to improve the other person’s emotions,manage their impressions of you, maintain relationship quality, help them accomplish tasks, or even make them feel worse.\n\nThe regulator’s motives shape what strategies they choose to regulate the other’s emotions and can impact the interpersonal outcomes they perceive.\n\nAttachment stylehas been linked to intrapersonal emotion regulation motives and strategies for regulating one’s own emotions. This suggests attachment could also shape interpersonal regulation motives.\n\nAttachment avoidance is associated with deactivating emotions, and attachment anxiety with hyperactivating emotions. This could extend to interpersonal regulation motives – avoidance with dampening others’ emotions, anxiety with amplifying.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Points",
+      "content": "- The study examined links between interpersonal emotion regulation motives, outcomes, and attachment style. Motives assessed were hedonic (feel better), social (relationship quality), and performance (accomplish tasks).\n\n- Outcomes were changes in one’s own emotional and relational well-being.\n\n- Anxious attachment predicted greater impression management and self-focused hedonic motives. Avoidant attachment predicted worse emotional and relational outcomes.\n\n- Prosocial motives are linked to better outcomes; self-protective motives are linked to worse outcomes.\n\n- The research helps integrate attachment theory with interpersonal emotion regulation but is limited by self-report data and a homogeneous student sample.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Rationale",
+      "content": "Prior work shows that emotion regulation is often interpersonal, involving attempts to regulate other people’s emotions (Tamminen et al., 2019).\n\nResearch on interpersonal emotion regulation has focused more on strategies and less on the motives behind regulation attempts, even though motives shape regulatory behaviors in intrapersonal contexts (Tamir, 2016).\n\nAttachment theoryis very relevant to interpersonal functioning but has predominantly been applied to intrapersonal emotion regulation processes (Mikulincer & Shaver, 2007).\n\nBy examining howattachment dimensionsrelate to interpersonal emotion regulation motives and perceived outcomes, this study aimed to integrate these two areas and address gaps in understanding why and when people try to regulate others’ emotions.\n\nGaining insight into regulation motives and individual differences in attachment can provide a more complete picture of the interpersonal emotion regulation process.\n\nThis advances knowledge that can inform interventions aiming to improve socioemotional functioning within relationships.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Method",
+      "content": "- 211 college students completed questionnaires on attachment style and personality traits.\n\n- For one week, they responded to smartphone surveys 3 times a day about recent social interactions. Surveys asked about motives for regulating interaction partner’s emotions and changes in one’s own emotional/relational well-being due to the interaction.\n\n- Motives assessed using self-report items on hedonic (make self/other feel better), social (impression management, maintain relationship), and performance (help self/other accomplish tasks) motives.\n\n- Outcomes were self-reported changes in positive/negative emotions and relationship closeness/satisfaction after interactions.\n\n- Multilevel modeling tested if attachment dimensions predicted motives and outcomes. Relationships between motives and outcomes were also explored.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Sample",
+      "content": "- 211 college students (73% female; average age ~20 years)\n\n- Mostly white (54%) or Asian (33%); wide range of socioeconomic statuses",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Statistical Analysis",
+      "content": "- Multilevel models accounting for nesting within-person\n\n- Models tested main effects of attachment dimensions (anxiety, avoidance) and interactions in predicting motives and outcomes\n\n- Additional models tested links of motives to outcomes",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Results",
+      "content": "- Attachment anxietypredicted greater endorsement of self-focused prohedonic (trying to improve one’s own feelings) and impression management motives when regulating others’ emotions.\n\n- Attachment avoidancepredicted worse perceived emotional and relational outcomes after social interactions that involved interpersonal emotion regulation.\n\n- Several interpersonal regulation motives explained additional variance in outcomes above and beyond attachment style:Prohedonic (trying to improve own or others’ feelings), relationship maintenance, and impression management motives were linked to better emotional and relational outcomes.Relationship distancing and contrahedonic (trying to worsen own/others’ feelings) motives were linked to worse emotional and relational outcomes.\n\n- Prohedonic (trying to improve own or others’ feelings), relationship maintenance, and impression management motives were linked to better emotional and relational outcomes.\n\n- Relationship distancing and contrahedonic (trying to worsen own/others’ feelings) motives were linked to worse emotional and relational outcomes.\n\n- Prohedonic (trying to improve own or others’ feelings), relationship maintenance, and impression management motives were linked to better emotional and relational outcomes.\n\n- Relationship distancing and contrahedonic (trying to worsen own/others’ feelings) motives were linked to worse emotional and relational outcomes.\n\nMotives explained incremental variance, with prosocial motives associating with better and self-protective motives with worse socioemotional outcomes after regulating others. This highlights the importance of motives in guiding behaviors.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Insight",
+      "content": "This study demonstrates that attachment style relates to interpersonal emotion regulation motives and perceived effectiveness in regulating others’ emotions.\n\nThe results suggest insecure attachment dimensions may disrupt perceiving effective regulation of others’ emotions. Motives seem to shape effectiveness above and beyond attachment influences.\n\nFindings integrate research on attachment and emotion regulation by showing insecure attachment dimensions predict poorer socioemotional outcomes even when simply trying to manage others’ emotions.\n\nThere appear to be benefits to regulating others’ emotions for more prosocial reasons, like trying make someone feel better or improve one’s relationship with them, rather than self-focused reasons, like making oneself feel better or protecting oneself.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Strengths",
+      "content": "- Used intensive repeated assessments over one week to capture interpersonal regulation in daily life\n\n- Included range of theoretically important motives not previously examined\n\n- Distinguished between and within-person effects in linking attachment to motives and outcomes\n\n- Controlled for personality traits when linking attachment and regulation",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Limitations",
+      "content": "- Convenience samplelimits the generalizability of findings beyond college students\n\n- Self-report could contribute to biases in reported motives and/or outcomes\n\n- Did not have reports from the targets of regulation\n\n- Some motives are only measured with one item",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Implications",
+      "content": "This research demonstrates how adult attachment patterns manifest in the interpersonal regulation of emotions. Clinicians can apply this knowledge to inform case conceptualization and design tailored interventions that leverage regulation motives to improve clients’ social and emotional skills as well as relationship quality.\n\n- Certain regulation motives, like improving others’ feelings, appear more adaptive interpersonally. Clinicians could design interventions targeting self-protective or relationship-damaging motives and foster more prosocial interpersonal regulation goals to improve clients’ socioemotional functioning.\n\n- For couples or families seeing a therapist, focusing on each individual’s motives in regulating their partner’s emotions and how those link to their perceived personal and relational well-being could shed light on relationship conflicts or distress. Addressing problematic regulation motives may enhance social functioning within key relationships.\n\nMcLeod, S. (2023). Adult Attachment & Interpersonal Emotion Regulation Motives. Simply Psychology. https://www.simplypsychology.org/news/adult-attachment-interpersonal-emotion-regulation/\n\nMcLeod, Saul. \"Adult Attachment & Interpersonal Emotion Regulation Motives.\" Simply Psychology, 12 December 2023, https://www.simplypsychology.org/news/adult-attachment-interpersonal-emotion-regulation/.\n\nMcLeod, S. (2023) Adult Attachment & Interpersonal Emotion Regulation Motives. Simply Psychology. Available at: https://www.simplypsychology.org/news/adult-attachment-interpersonal-emotion-regulation/ (Accessed: 22 September 2026).",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Primary reference",
+      "content": "Springstein, T., Hamerling-Potts, K. K., Landa, I., & English, T. (2023). Adult attachment and interpersonal emotion regulation motives in daily life.Emotion, 23(5), 1281–1293.https://doi.org/10.1037/emo0001169",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Other references",
+      "content": "Mikulincer, M., & Shaver, P. R. (2007). Adult attachment strategies and the regulation of emotion. In J. J. Gross (Ed.),Handbook of emotion regulation(pp. 446-465). Guilford Press.\n\nTamir, M. (2016). Why do people regulate their emotions? A taxonomy of motives in emotion regulation.Personality and Social Psychology Review, 20(3), 199-222.https://doi.org/10.1177/1088868315586325\n\nTamminen, K. A., Page-Gould, E., Schellenberg, B., Palmateer, T., Thai, S., Sabiston, C. M., & Crocker, P. R. (2019). A daily diary study of interpersonal emotion regulation, the social environment, and team performance among university athletes.Psychology of Sport and Exercise, 45, 101566.https://doi.org/10.1016/j.psychsport.2019.101566",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "Further Reading",
+      "content": "Butler, E. A., & Randall, A. K. (2013). Emotional coregulation in close relationships.Emotion Review, 5(2), 202–210.\n\nButner, J., Diamond, L. M., & Hicks, A. M. (2007). Attachment style and two forms of affect coregulation between romantic partners.Personal Relationships, 14(3), 431–455.",
+      "order": 14,
+      "items": []
+    },
+    {
+      "heading": "Keep Learning",
+      "content": "Here are some potential discussion questions for a college class:\n\n- How might cultural factors influence people’s interpersonal emotion regulation motives and perceived outcomes?\n\n- Would teaching people about the different types of interpersonal regulation motives change their behavior or effectiveness?\n\n- How would you design a daily diary or experience sampling study to capture whether some interpersonal regulation motives are more effective than others as a situation unfolds? What methodological challenges might come up in that kind of intensive longitudinal study?\n\n- What would be some appropriate intervals and relationship contexts to select if you wanted to study how interpersonal regulation motives change across development using a longitudinal design?\n\n- What are some real-world contexts where understanding regulation motives could be applied to improve individual and/or relationship functioning?\n\n- What role might gender norms play in shaping interpersonal regulation behaviors and motives?\n\n- If you wanted to test whether making people consciously aware of their motives improves regulation abilities, how might you translate that into an experimental design? What comparisons would be informative?\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 15,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/romantic-attachment-styles.jpg",
+      "alt": "Adult Attachment & Interpersonal Emotion Regulation Motives",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotion-wheel-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-anxiety-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/disclosing-diagnosis-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mindfulness-yogi-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/future-anxiety-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Adult Attachment & Interpersonal Emotion Regulation Motives\n\n> News»Clinical Psychology\n\n## Giriş\n\nNews»Clinical Psychology\n\nInterpersonal emotion regulation encompasses both attempts to regulate one’s own emotions with the help of others (i.e., intrinsic interpersonal emotion regulation) and attempts to regulate others’ emotions (i.e., extrinsic interpersonal emotion regulation).\n\nExtrinsic interpersonal emotion regulation refers specifically to the process of intentionally influencing other people’s emotions to meet one’s goals or desired outcomes in a social interaction or relationship.\n\nThis can be driven by various motives, such as trying to improve the other person’s emotions,manage their impressions of you, maintain relationship quality, help them accomplish tasks, or even make them feel worse.\n\nThe regulator’s motives shape what strategies they choose to regulate the other’s emotions and can impact the interpersonal outcomes they perceive.\n\nAttachment stylehas been linked to intrapersonal emotion regulation motives and strategies for regulating one’s own emotions. This suggests attachment could also shape interpersonal regulation motives.\n\nAttachment avoidance is associated with deactivating emotions, and attachment anxiety with hyperactivating emotions. This could extend to interpersonal regulation motives – avoidance with dampening others’ emotions, anxiety with amplifying.\n\n## Key Points\n\n- The study examined links between interpersonal emotion regulation motives, outcomes, and attachment style. Motives assessed were hedonic (feel better), social (relationship quality), and performance (accomplish tasks).\n\n- Outcomes were changes in one’s own emotional and relational well-being.\n\n- Anxious attachment predicted greater impression management and self-focused hedonic motives. Avoidant attachment predicted worse emotional and relational outcomes.\n\n- Prosocial motives are linked to better outcomes; self-protective motives are linked to worse outcomes.\n\n- The research helps integrate attachment theory with interpersonal emotion regulation but is limited by self-report data and a homogeneous student sample.\n\n## Rationale\n\nPrior work shows that emotion regulation is often interpersonal, involving attempts to regulate other people’s emotions (Tamminen et al., 2019).\n\nResearch on interpersonal emotion regulation has focused more on strategies and less on the motives behind regulation attempts, even though motives shape regulatory behaviors in intrapersonal contexts (Tamir, 2016).\n\nAttachment theoryis very relevant to interpersonal functioning but has predominantly been applied to intrapersonal emotion regulation processes (Mikulincer & Shaver, 2007).\n\nBy examining howattachment dimensionsrelate to interpersonal emotion regulation motives and perceived outcomes, this study aimed to integrate these two areas and address gaps in understanding why and when people try to regulate others’ emotions.\n\nGaining insight into regulation motives and individual differences in attachment can provide a more complete picture of the interpersonal emotion regulation process.\n\nThis advances knowledge that can inform interventions aiming to improve socioemotional functioning within relationships.\n\n## Method\n\n- 211 college students completed questionnaires on attachment style and personality traits.\n\n- For one week, they responded to smartphone surveys 3 times a day about recent social interactions. Surveys asked about motives for regulating interaction partner’s emotions and changes in one’s own emotional/relational well-being due to the interaction.\n\n- Motives assessed using self-report items on hedonic (make self/other feel better), social (impression management, maintain relationship), and performance (help self/other accomplish tasks) motives.\n\n- Outcomes were self-reported changes in positive/negative emotions and relationship closeness/satisfaction after interactions.\n\n- Multilevel modeling tested if attachment dimensions predicted motives and outcomes. Relationships between motives and outcomes were also explored.\n\n## Sample\n\n- 211 college students (73% female; average age ~20 years)\n\n- Mostly white (54%) or Asian (33%); wide range of socioeconomic statuses\n\n## Statistical Analysis\n\n- Multilevel models accounting for nesting within-person\n\n- Models tested main effects of attachment dimensions (anxiety, avoidance) and interactions in predicting motives and outcomes\n\n- Additional models tested links of motives to outcomes\n\n## Results\n\n- Attachment anxietypredicted greater endorsement of self-focused prohedonic (trying to improve one’s own feelings) and impression management motives when regulating others’ emotions.\n\n- Attachment avoidancepredicted worse perceived emotional and relational outcomes after social interactions that involved interpersonal emotion regulation.\n\n- Several interpersonal regulation motives explained additional variance in outcomes above and beyond attachment style:Prohedonic (trying to improve own or others’ feelings), relationship maintenance, and impression management motives were linked to better emotional and relational outcomes.Relationship distancing and contrahedonic (trying to worsen own/others’ feelings) motives were linked to worse emotional and relational outcomes.\n\n- Prohedonic (trying to improve own or others’ feelings), relationship maintenance, and impression management motives were linked to better emotional and relational outcomes.\n\n- Relationship distancing and contrahedonic (trying to worsen own/others’ feelings) motives were linked to worse emotional and relational outcomes.\n\n- Prohedonic (trying to improve own or others’ feelings), relationship maintenance, and impression management motives were linked to better emotional and relational outcomes.\n\n- Relationship distancing and contrahedonic (trying to worsen own/others’ feelings) motives were linked to worse emotional and relational outcomes.\n\nMotives explained incremental variance, with prosocial motives associating with better and self-protective motives with worse socioemotional outcomes after regulating others. This highlights the importance of motives in guiding behaviors.\n\n## Insight\n\nThis study demonstrates that attachment style relates to interpersonal emotion regulation motives and perceived effectiveness in regulating others’ emotions.\n\nThe results suggest insecure attachment dimensions may disrupt perceiving effective regulation of others’ emotions. Motives seem to shape effectiveness above and beyond attachment influences.\n\nFindings integrate research on attachment and emotion regulation by showing insecure attachment dimensions predict poorer socioemotional outcomes even when simply trying to manage others’ emotions.\n\nThere appear to be benefits to regulating others’ emotions for more prosocial reasons, like trying make someone feel better or improve one’s relationship with them, rather than self-focused reasons, like making oneself feel better or protecting oneself.\n\n## Strengths\n\n- Used intensive repeated assessments over one week to capture interpersonal regulation in daily life\n\n- Included range of theoretically important motives not previously examined\n\n- Distinguished between and within-person effects in linking attachment to motives and outcomes\n\n- Controlled for personality traits when linking attachment and regulation\n\n## Limitations\n\n- Convenience samplelimits the generalizability of findings beyond college students\n\n- Self-report could contribute to biases in reported motives and/or outcomes\n\n- Did not have reports from the targets of regulation\n\n- Some motives are only measured with one item\n\n## Implications\n\nThis research demonstrates how adult attachment patterns manifest in the interpersonal regulation of emotions. Clinicians can apply this knowledge to inform case conceptualization and design tailored interventions that leverage regulation motives to improve clients’ social and emotional skills as well as relationship quality.\n\n- Certain regulation motives, like improving others’ feelings, appear more adaptive interpersonally. Clinicians could design interventions targeting self-protective or relationship-damaging motives and foster more prosocial interpersonal regulation goals to improve clients’ socioemotional functioning.\n\n- For couples or families seeing a therapist, focusing on each individual’s motives in regulating their partner’s emotions and how those link to their perceived personal and relational well-being could shed light on relationship conflicts or distress. Addressing problematic regulation motives may enhance social functioning within key relationships.\n\nMcLeod, S. (2023). Adult Attachment & Interpersonal Emotion Regulation Motives. Simply Psychology. https://www.simplypsychology.org/news/adult-attachment-interpersonal-emotion-regulation/\n\nMcLeod, Saul. \"Adult Attachment & Interpersonal Emotion Regulation Motives.\" Simply Psychology, 12 December 2023, https://www.simplypsychology.org/news/adult-attachment-interpersonal-emotion-regulation/.\n\nMcLeod, S. (2023) Adult Attachment & Interpersonal Emotion Regulation Motives. Simply Psychology. Available at: https://www.simplypsychology.org/news/adult-attachment-interpersonal-emotion-regulation/ (Accessed: 22 September 2026).\n\n## Primary reference\n\nSpringstein, T., Hamerling-Potts, K. K., Landa, I., & English, T. (2023). Adult attachment and interpersonal emotion regulation motives in daily life.Emotion, 23(5), 1281–1293.https://doi.org/10.1037/emo0001169\n\n## Other references\n\nMikulincer, M., & Shaver, P. R. (2007). Adult attachment strategies and the regulation of emotion. In J. J. Gross (Ed.),Handbook of emotion regulation(pp. 446-465). Guilford Press.\n\nTamir, M. (2016). Why do people regulate their emotions? A taxonomy of motives in emotion regulation.Personality and Social Psychology Review, 20(3), 199-222.https://doi.org/10.1177/1088868315586325\n\nTamminen, K. A., Page-Gould, E., Schellenberg, B., Palmateer, T., Thai, S., Sabiston, C. M., & Crocker, P. R. (2019). A daily diary study of interpersonal emotion regulation, the social environment, and team performance among university athletes.Psychology of Sport and Exercise, 45, 101566.https://doi.org/10.1016/j.psychsport.2019.101566\n\n## Further Reading\n\nButler, E. A., & Randall, A. K. (2013). Emotional coregulation in close relationships.Emotion Review, 5(2), 202–210.\n\nButner, J., Diamond, L. M., & Hicks, A. M. (2007). Attachment style and two forms of affect coregulation between romantic partners.Personal Relationships, 14(3), 431–455.\n\n## Keep Learning\n\nHere are some potential discussion questions for a college class:\n\n- How might cultural factors influence people’s interpersonal emotion regulation motives and perceived outcomes?\n\n- Would teaching people about the different types of interpersonal regulation motives change their behavior or effectiveness?\n\n- How would you design a daily diary or experience sampling study to capture whether some interpersonal regulation motives are more effective than others as a situation unfolds? What methodological challenges might come up in that kind of intensive longitudinal study?\n\n- What would be some appropriate intervals and relationship contexts to select if you wanted to study how interpersonal regulation motives change across development using a longitudinal design?\n\n- What are some real-world contexts where understanding regulation motives could be applied to improve individual and/or relationship functioning?\n\n- What role might gender norms play in shaping interpersonal regulation behaviors and motives?\n\n- If you wanted to test whether making people consciously aware of their motives improves regulation abilities, how might you translate that into an experimental design? What comparisons would be informative?\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:41:11.489647"
+}

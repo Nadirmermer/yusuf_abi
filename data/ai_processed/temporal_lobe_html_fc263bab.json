@@ -1,0 +1,157 @@
+{
+  "id": "temporal_lobe_html_fc263bab",
+  "original_title": "Temporal Lobe",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/temporal-lobe.html",
+  "published_date": "2026-09-21T10:53:15+00:00",
+  "read_time_minutes": 25,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/temporal-lobe.jpg",
+      "alt": "Temporal Lobe",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/temporal-lobe-function.jpg",
+      "alt": "An infographic titled \"Temporal Lobes main functions\" with the following text: Left Temporal Lobe Functions: Language Understanding Speech Processing Verbal Memory & Learning Language Comprehension Speech Formation Melody Processing Right Temporal Lobe Functions: Non-verbal Memory Visual Pattern Recognition Face Recognition Emotional Processing Spatial Processing Tone/Pitch Processing Outline of the brain and the temporal region shaded in yellow.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Broca_Wernicke-300x185.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brodmanns-areas-300x169.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotions-brain-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/dorsolateral-prefrontal-cortex-300x228.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/temporal-lobe-structure.jpg",
+      "alt": "temporal lobe structure",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/limbic-system-structures.jpg",
+      "alt": "limbic system structures",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/temporal-lobe-1.jpeg",
+      "alt": "a diagram of the temporal lobes highlighted in yellow",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Karina-Ascunce.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4910,
+  "turkce_baslik": "Temporal Lob ve Bellek: Yaşadığımız Her Duygunun Beyindeki Anatomik Karşılığı",
+  "kanca_sorusu": "Geçmişin yükünü neden zihnimizden atamayız, hiç düşündünüz mü?",
+  "score": 45,
+  "puan_nedeni": "Metin temel olarak nöroloji, biyopsikoloji ve temporal lob anatomisi üzerine kuruludur. İnsan ilişkileri, bağlanma stilleri veya günlük psikolojik dinamikler yerine doğrudan beyin yapısını, işitsel işleme ve afazi gibi klinik durumları incelediği için klinik psikoloji ve editoryal derinlik açısından düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Temporal lob, beynimizin dört ana lobundan biri olarak hem işitsel bilgileri işlemekte hem de geçmişin izlerini bugüne taşımakta kritik bir rol oynar. Medial temporal lob içinde yer alan hipokampus ve amigdala gibi yapılar, yalnızca hafızayı saklamakla kalmaz; aynı zamanda deneyimlediğimiz her korkunun, sevginin ve travmanın duygusal ağırlığını belirler. Sol taraf genellikle dil ve analitik süreçlerle ilgilenirken, sağ taraf nonverbal ve duygusal verileri işler. Bu anatomi, yaşadığımız ilişkisel krizlerin veya bastırılmış anıların neden yalnızca soyut birer düşünce olmadığını, aynı zamanda biyolojik bir temele sahip olduğunu gösterir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihnimizin Arşiv Odası",
+      "body": "Temporal lob, sadece sesleri ve kelimeleri değil, geçmişte yaşadığımız duygusal kırılmaları da kaydeder.",
+      "highlight_box": "Geçmiş neden bugünü yönetir?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Bellek ve Duygunun Buluştuğu Yer",
+      "body": "Medial temporal lob, öğrenilen bilgileri uzun süreli belleğe aktarırken onlara anlam yükler.",
+      "highlight_box": "Amigdala her anı duygusal olarak etiketler.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "İşitsel ve Sözel İşleme",
+      "body": "Sol temporal lob dili ve konuşmayı anlamlandırırken, duyduklarımızı mantıksal bir süzgeçten geçirir.",
+      "highlight_box": "Kelime var ama anlam yok: Wernicke bölgesi",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Yüzler ve Kimlik Tanıma",
+      "body": "Fusiform yüz alanı, insan yüzlerini tanımamızı sağlar; buradaki hasar prosopagnozi yani yüz körlüğüne yol açabilir.",
+      "highlight_box": "Tanıdık bir yüzü unutmanın nörolojik temeli",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Anıları Yeniden Çerçevelemek",
+      "body": "Beynin yapısal mekanizmalarını anlamak, geçmişteki travmatik kayıtlarla bugünkü bağımızı koparmamıza yardım eder.",
+      "highlight_box": "Anı değişmez ama ona yüklenen anlam değişebilir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Biyolojik Gerçeklik",
+      "body": "Zihninizde olup biten her şeyin somut bir nörolojik karşılığı vardır. Kendinize bu yüzden haksızlık etmeyin.",
+      "highlight_box": "Daha sonra incelemek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Beyniniz geçmişteki o kötü anıyı neden bir türlü unutamıyor biliyor musunuz?",
+    "konusma_metni": "Temporal lobumuzun derinliklerinde yer alan amigdala ve hipokampus, anılarımızı sıradan birer bilgi olarak saklamaz. Onları duygusal ağırlıklarıyla birlikte mühürler. Bu yüzden bazı anılar zihnimizden silinmezken, bazı sesler veya yüzler bizi aniden geçmişe götürür. Beyin anatomisi, aslında ruhsal tarihimizin haritasıdır."
+  },
+  "caption": "Temporal lob, beynimizin temporal bölgesinde yer alan ve işitsel verileri işleyen, dili anlayan, hafızayı oluşturan ve duyguları tanzim eden karmaşık bir merkezdir. Özellikle hipokampus ve amigdala yapıları sayesinde dış dünyadan gelen uyaranları yalnızca kaydetmekle kalmaz, onlara derin bir duygusal ton katar. İlişkilerde neden bazı anıları unutsak da bazılarını bir tetikleyiciyle aniden yeniden yaşarız sorusunun yanıtı bu anatomide saklıdır.\n\n#temporalob #nöropsikoloji #beyinvebilinç #hafıza #amigdala #hipokampus #zihinselyolculuk",
+  "processed_at": "2026-09-26 02:41:45"
+}

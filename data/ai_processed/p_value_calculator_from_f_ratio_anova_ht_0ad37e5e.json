@@ -1,0 +1,127 @@
+{
+  "id": "p_value_calculator_from_f_ratio_anova_ht_0ad37e5e",
+  "original_title": "P Value Calculator From F Ratio (ANOVA)",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/p-value-calculator-from-f-ratio-anova.html",
+  "published_date": "2024-07-02T09:09:19+00:00",
+  "read_time_minutes": 2,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/anova-calculator.jpg",
+      "alt": "P Value Calculator From F Ratio (ANOVA)",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/one-way-ind-anova-300x183.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/t-test-formula-300x129.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cohen-d-300x142.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Chi-Square-Test-of-Independence-300x186.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/chi-squared-equation-300x169.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 353,
+  "turkce_baslik": "İstatistiksel Hesaplamalardan İlişkisel Çözümmelere: ANOVA ve Post-Hoc Testlerinin Psikolojik Arka Planı",
+  "kanca_sorusu": "İlişkilerinizde sürekli genel bir sorun olduğunu hissedip, bu sorunun kaynağını hangi spesifik davranışın tetiklediğini bulamadığınız anlar oldu mu?",
+  "score": 40,
+  "puan_nedeni": "Metin doğrudan akademik istatistik, ANOVA ve p-değeri hesaplama yöntemleri gibi teorik ve sayısal konuları ele almaktadır. Takipçinin günlük iç dünyasına doğrudan hitap eden bir ilişkisel dinamik barındırmadığı için puanı düşüktür.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Psikolojide ve araştırmalarda verileri analiz ederken kullandığımız istatistiksel yöntemler, aslında zihnimizin karmaşık örüntülerini anlamlandırma çabamızın bir yansımasıdır. Bir genelleme yaptığımızda veya büyük resme baktığımızda, sorunun kaynağını tam olarak saptayamayabiliriz. İnsan ilişkilerinde de durum benzerdir. Genel bir mutsuzluk veya tükenmişlik hissettiğimizde, bunun hangi spesifik etkiden kaynaklandığını bulmak için derinlemesine bir bakışa ihtiyaç duyarız. Tıpkı istatistikteki detaylı karşılaştırma testleri gibi, zihnimiz de olayları ve kişileri tek tek süzgeçten geçirerek asıl kırılma noktasını arar.\n\nGünlük hayatta yaşadığımız krizlerde toptancı yaklaşımlar yerine, meseleyi parçalarına ayırabilmek psikolojik dayanıklılığın temelidir. Hangi davranışın ilişkiyi yıprattığını veya hangi sınırın ihlal edildiğini netleştirmek, belirsizliğin yarattığı kaygıyı azaltır. İstatistiksel analizlerin ardındaki mantık, verinin sesini duymak olduğu gibi; bireysel farkındalık da iç sesimizi ve ilişkisel dinamiklerimizi net bir şekilde okuyabilmemizle mümkündür. Belirsizliklerle dolu zihinsel yükleri somutlaştırmak, iyileşme yolculuğunun ilk ve en kritik adımıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Genellemelerin Tuzağı",
+      "body": "Her şeyin kötü gittiğini düşündüğünüz o anlarda, asıl meseleyi gözden kaçırıyor olabilirsiniz.",
+      "highlight_box": "Büyük resme değil, detaylara odaklanın.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Spesifik Kaynağı Bulmak",
+      "body": "Karmaşık duygusal krizler, ancak kaynağı net olarak tanımlandığında yönetilebilir hale gelir.",
+      "highlight_box": "Sorun nerede başlıyor?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Toptancı Yaklaşım",
+      "body": "Her şeyi birbiriyle ilişkilendirip tek bir büyük problem haline getirmek zihni tüketir.",
+      "highlight_box": "Problemleri birbirinden ayırın.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Bireysel Farklar",
+      "body": "Her durumun kendi koşulları ve değişkenleri vardır. Kıyaslama yaparken bunu göz ardı etmeyin.",
+      "highlight_box": "Koşulları dikkate alın.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Netlik ve Sınır",
+      "body": "Zihinsel karmaşayı azaltmanın yolu, gerçekçi ve somut sınırları çizebilmekten geçer.",
+      "highlight_box": "Belirsizliği netliğe dönüştürün.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizdeki karmaşık verileri anlamlandırmak bir süreçtir. Kendinize zaman tanıyın.",
+      "highlight_box": "Tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Genel bir sorun var hissediyorsunuz ama kaynağını bulamıyor musunuz?",
+    "konusma_metni": "Hayatımızda işler yolunda gitmediğinde genellikle toptancı bir yaklaşımla her şeyin kötü gittiğini düşünürüz. Oysa psikolojide ve araştırmalarda olduğu gibi, bizim de detaylı bir analize ihtiyacımız var. Sorunun nerede başladığını, hangi spesifik etkileşimin bu sonucu doğurduğunu bulmadan kalıcı bir çözüm üretemeyiz. Genellemeleri bırakıp detaylara odaklanın."
+  },
+  "caption": "İlişkilerde veya zihinsel dünyamızda işler sarpa sardığında, genellikle toptancı bir yaklaşımla her şeyin kötü gittiğini varsayarız. Oysa tıpkı bilimsel analizlerde olduğu gibi, krizin asıl kaynağını ve hangi spesifik davranışın bu sonucu doğurduğunu bulmak gerekir. Genellemeler kaygıyı artırır; detaylar ve net sınırlar ise çözüm getirir. Zihninizdeki karmaşayı sadeleştirmek için bugün hangi adımı atıyorsunuz? Psikoloji, zihin yönetimi, farkındalık, analitik düşünce, sınırlar, içsel yolculuk, psikolojik analiz.",
+  "processed_at": "2026-09-26 17:37:54"
+}

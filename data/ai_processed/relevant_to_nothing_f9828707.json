@@ -1,0 +1,199 @@
+{
+  "id": "relevant_to_nothing_f9828707",
+  "original_title": "A timely rant about college application essays",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/in-practice/200812/relevant-to-nothing",
+  "published_date": "2008-12-15T10:41:40-05:00",
+  "read_time_minutes": 45,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/Untitled_19.jpg?itok=fxhLB7Br",
+      "alt": "Image 9: Peter D Kramer",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/sites/default/files/styles/article-inline-half/public/blogs/36/2008/12/2672-75820.jpg?itok=amTYDGH5",
+      "alt": "Image 15",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/pexels-sarah-chai-7282656.jpg?itok=_QpR4ZEo",
+      "alt": "Image 16: Sarah Chai / Pexels",
+      "caption": null,
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/pexels-antonius-ferret-5278798.jpg?itok=Olz9NjRj",
+      "alt": "Image 17: Antonius Ferret / Pexels",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/thumbnail_115x140/public/field_user_blogger_photo/Untitled_19.jpg?itok=kovd_byn",
+      "alt": "Image 23: Peter D Kramer",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/zilchzeronada_-_white_0.jpg?itok=MpaD85wu",
+      "alt": "Image 24: wikicommons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/faces2_mck_original_sketch_1_0.jpg?itok=b7ZdHDVC",
+      "alt": "Image 25: image by Matthew C Kramer",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/Medicine_Drug_Pills_on_Plate_0.png.jpg?itok=3BuCZ6q3",
+      "alt": "Image 26: Katefreedman/Wikimedia Commons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/kinsella__1__0.jpg?itok=R8UIGzED",
+      "alt": "Image 27: website of W P Kinsella",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2024-03/shutterstock_2137327855.jpg?itok=8UbnyiXB",
+      "alt": "Image 28: fizkes/Shutterstock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2025-12/1600px-02018_0948_Teenage_couples_kissing.jpg?itok=58SZYecp",
+      "alt": "Image 29: Silar, Wikimedia Commons / Creative Commons Attribution-Share Alike 4.0 International ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/hero_image/pt_self_test/2024-05/tests-assertiveness-hero-large.jpg?itok=fqRv19Ge",
+      "alt": "Image 30: Giulio Fornasar / Shutterstock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/mom_and_adult_daughter_cooking_pexels-elly-fairytale-3893546.jpg?itok=ZzNYzE82",
+      "alt": "Image 31: Elly Fairytale/Pexels",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-07/pexels-rdne-8500353.jpg?itok=RFTNb5CZ",
+      "alt": "Image 32: RDNE Stock project / Pexels",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/shutterstock_1846601005.jpg?itok=p0pEhV6F",
+      "alt": "Image 33: BAZA Production/Shutterstock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2023-07/upset_adult_child_female_sharon-mccutcheon-idrul0fb5kc-unsplash.jpg?itok=Jk8PRqM1",
+      "alt": "Image 34: Sharon McCutcheon/Unsplash",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2025-10/pexels-yaroslav-shuraev-5604947.jpg?itok=7X8zmhrw",
+      "alt": "Image 35: Yaroslav Shuraev/Pexels",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/pexels-pavel-danilyuk-8057360.jpg?itok=r-Y8kNt_",
+      "alt": "Image 38: Pavel Danilyuk / Pexels ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/pexels-ron-lach-10643464.jpg?h=0616b8de&itok=tIBnP8s0",
+      "alt": "Image 39: Ron Lach / Pexels",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/pexels-karola-g-8147393.jpg?itok=dMAcBYv1",
+      "alt": "Image 40: Kaboompics/Pexels",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/default_images/counseling.jpg",
+      "alt": "Image 41: Counselling",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 9031,
+  "turkce_baslik": "Kusursuz Görünme Zorunluluğu: Üniversite Başvurularından Ebeveyn Kaygısına Hayatın Provaları",
+  "kanca_sorusu": "Çocuklarınız veya kendi hayatınız için hazırladığınız o kusursuz profillerin arkasında, aslında kimin onaylanma ihtiyacı gizli?",
+  "score": 45,
+  "puan_nedeni": "Makale Amerikan üniversite kabul süreçleri ve akademik yazım kalitesi gibi spesifik bir yapı üzerine kurulu olduğundan, @ya_da_psikoloji takipçilerinin günlük ilişkisel dinamikleriyle doğrudan bağ kurmakta zayıf kalmaktadır. Ancak ebeveyn baskısı ve performans kaygısı boyutlarıyla ele alındığında orta düzeyde bir farkındalık sunabilir.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Hayatın belirli dönemeçlerinde karşımıza çıkan sınavlar, başvurular ve değerlendirme süreçleri, bireyin iç dünyasındaki yetersizlik kaynayan suları yüzeye çıkarır. Makalenin bahsettiği kabul süreçleri, aslında sadece bir okul ya da kurum seçimi değildir; bireyin 'görünür' ve 'kabul edilir' olmak için ne kadar zahmetli bir maske takmak zorunda kaldığının göstergesidir. Ebeveynlerin çocuklarının hayatına müdahale etme arzusu ya da gençlerin kendi elleriyle yazamadıkları o 'kusursuz' hikayeler, sevilmek ve onaylanmak için öz benliklerinden ne kadar uzaklaştıklarının birer kanıtıdır. Sistem, insanlardan kusursuz birer ürün talep ederken, ruh sağlığı bu baskının altında sessizce ezilmektedir. Gerçek potansiyel, başkalarının onayladığı o yapay metinlerde değil, bireyin kendi dağınık ve gerçek sesindedir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Kusursuzluk Maskesi",
+      "body": "Hayatımızın kritik eşiklerinde yazdığımız hikayeler gerçekten bize mi ait, yoksa sistemin duymak istedikleri mi?",
+      "highlight_box": "Onaylanma ihtiyacı dürüstlüğün önüne geçer.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Performans Kaygısı",
+      "body": "Eksik ya da kusurlu görünme korkusu, bireyi kendi gerçekliğinden uzaklaştırarak başkalarının tasarladığı bir hayata hapseder.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Başkalarının Beklentisiyle Yaşamak",
+      "body": "Kendi kararlarınızı alırken dahi 'Bunu dışarıdan nasıl görürler?' kaygısıyla hareket etmek ve otantikliğin kaybolması.",
+      "highlight_box": "Kendi sesiniz nerede?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Ebeveyn Projeksiyonları",
+      "body": "Çocukların ya da bireylerin üzerinden kendi yaşanmamışlıklarını ve başarı hırslarını telafi etmeye çalışan çevre.",
+      "highlight_box": "Bu beklenti kimin omuzlarında?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Otantikliğe Dönüş",
+      "body": "Kusursuz olma zorunluluğunu bir kenara bırakıp, kendi gerçek hatalarınız ve hikayenizle barışma cesareti göstermek.",
+      "highlight_box": "Unutmayın: Bu bir süreçtir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış & İçsel Hatırlatma",
+      "body": "Hiçbir kurum, başvuru veya dış onay, sizin kendi iç sesinizden ve gerçekliğinizden daha değerli değildir.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Başkalarının onayını almak için kendi hikayenizi ne kadar değiştirdiniz?",
+    "konusma_metni": "Bugünlerde herkes kusursuz görünmek zorunda. Başvurularda, ilişkilerde, sosyal medyada... Yazdığımız her metin, çizdiğimiz her profil aslında bir başkasının onayını arıyor. Üniversite essaylerinden tutun da günlük hayatımızdaki performansımıza kadar her şey birer onay mücadelesine dönüştü. Peki bu kusursuzluk yarışında kendi sesinizi en son ne zaman duydunuz? Gerçekten onaylanmaya çalışan siz misiniz, yoksa başkalarının beklentileri mi?"
+  },
+  "caption": "Hayatın her alanında bir başvuru sürecindeyiz sanki. Okulda, iş yerinde, ilişkilerde ve hatta sosyal medyada sürekli kendimizi kanıtlama, kusursuz bir profil sunma çabası içindeyiz. Peki bu onaylanma yarışında kendi gerçekliğimizi ne kadar unuttuk? Başkalarının duymak istediklerini söylemek, bir süre sonra kendi sesimizi duymamamıza neden olur. Kusursuz olmak zorunda değilsiniz; kendi hikayenizin yazarı olmak, başkalarının taslaklarına uymaktan çok daha değerlidir. Bu konuyu kiminle paylaşmanız gerektiğini biliyorsunuz.\n\npsikoloji, performanskaygısı, onaylanmaihtiyacı, bireyselleşme, zihinyönetimi, içselgelişim, otantiklik",
+  "processed_at": "2026-09-26 17:45:54"
+}

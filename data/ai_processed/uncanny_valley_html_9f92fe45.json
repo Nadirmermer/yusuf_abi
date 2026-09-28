@@ -1,0 +1,157 @@
+{
+  "id": "uncanny_valley_html_9f92fe45",
+  "original_title": "Uncanny Valley: Examples, Effects, and Theory",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/uncanny-valley.html",
+  "published_date": "2026-09-17T14:54:48+00:00",
+  "read_time_minutes": 28,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/uncanny-valley.jpeg",
+      "alt": "Uncanny Valley: Examples, Effects, and Theory",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bottom-up-processing-300x131.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/halo-effect-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/false-memory-300x191.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/heuristics-cognitive-bias-300x239.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mere-exposure-effect-300x240.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/tin-toy.jpg",
+      "alt": "tin toy",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/final-fantasy.jpg",
+      "alt": "final fantasy",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/christmas_carol.jpg",
+      "alt": "christmas carol",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/tintin.jpg",
+      "alt": "tintin",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Ayesh-Perera.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 5651,
+  "turkce_baslik": "Aynadaki Yabancı: İnsan Olmaya Çok Yakın Ama Eksik Olanın Yarattığı Derin Huzursuzluk",
+  "kanca_sorusu": "Karşınızdaki kişi her şeyiyle normal görünmesine rağmen içten alta size oradan hemen uzaklaşma hissi veren o tuhaf tekinsizliği daha önce yaşadınız mı?",
+  "score": 45,
+  "puan_nedeni": "Makale temel olarak robotik, estetik ve yapay zeka alanındaki 'Uncanny Valley' (Tekinsiz Vadi) kavramını incelemektedir. İnsan ilişkileri, bağlanma veya doğrudan psikopatoloji yerine ağırlıklı olarak bilişsel algı ve teknoloji estetiği odaklı olduğu için kuru akademik/teorik kategoriye girer ve orta-düşük puan alır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan psikolojisi, tanıdık olanla tehdit edici olanı ayırt etmek üzere evrimleşmiştir. Tekinsiz vadi, tam olarak bu hassas mekanizmanın sekteye uğradığı noktada ortaya çıkar. Bir nesne, bir robot veya bir insan, insana kusursuz bir şekilde benzemeye çalıştığı ancak küçük bir pürüzle gerçeğin gerisinde kaldığı an, zihnimizde derin bir reddedilme ve huzursuzluk dalgası baş gösterir. Tamamen insan olmayan bir varlık bize tehdit gelmez; tamamen insan olanla da güven bağımız kurulur. Ancak 'neredeyse insan' olan o ara form, beynin alarm sistemlerini tetikler. Çünkü zihnimiz orada bir tutarsızlık, bir kandırmaca sezer. İlişkilerimizde de durum farklı değildir. Karşımızdakinin söylediği sözlerle mimiklerindeki ya da enerjisindeki uyumsuzluk, bize bu tekinsiz vadinin hissettirdiği o soğuk ürpermeyi yaşatır. Kusursuz olmaya çalışan ama özünde eksik ya da sahte kalan hiçbir şey insan ruhunda güven barındırmaz.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Neredeyse İnsan",
+      "body": "Bir şey insana ne kadar çok benziyor ama bir o kadar da yabancı geliyorsa, orada başka bir şey vardır.",
+      "highlight_box": "Zihnimizin gizli alarm sistemi",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Tekinsiz Vadinin Tanımı",
+      "body": "Tam olarak insan gibi görünmeyen ama insan taklidi yapan nesneler ve durumlar derin bir huzursuzluk yaratır.",
+      "highlight_box": "Kusursuz taklit her zaman güven vermez",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Algısal Uyumsuzluk",
+      "body": "Gözümüzün gördüğü ile beynimizin kabul ettiği şey çeliştiğinde içsel bir gerilim başlar.",
+      "highlight_box": "Bir şeylerin ters gittiğini bilirsiniz",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Sahte Yakınlık Hissi",
+      "body": "İlişkilerde de benzer bir dinamik vardır; rol yapıldığı anlaşılan samimiyet tekinsiz hissettirir.",
+      "highlight_box": "Doğal olmayan akış",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "İçgüdülere Güvenmek",
+      "body": "Mantığınız 'her şey normal' dese bile bedeninizin duyduğu huzursuzluğu yok saymayın.",
+      "highlight_box": "Beden yanılmaz",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Gerçek Olanla Kalmak",
+      "body": "Yapay olanın yarattığı tekinsizlikten uzaklaşmak, zihinsel sağlığınızı korumanın ilk adımıdır.",
+      "highlight_box": "Bu analizi kaydetmeyi unutmayın.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden bazı şeyler insana bu kadar benzediği halde içimizde korkunç bir rahatsızlık uyandırır?",
+    "konusma_metni": "Psikolojide tekinsiz vadi dediğimiz bir kavram var. Bir şey insana yüzde doksan dokuz benzediğinde ama o yüzde birlik yapaylık kaldığında, beynimiz tehlike çanları çalmaya başlar. Çünkü zihnimiz kandırıldığını hisseder. Bu sadece robotlarda değil, hayatımızdaki bazı insanlarda da böyledir. Her şeyi doğru yapar ama o samimiyetsizlik hissi sizi kaçmaya iter."
+  },
+  "caption": "Tekinsiz vadi kavramı, estetik ve robotiğin ötesinde insan psikolojisinin savunma mekanizmalarını anlamamız için derin bir ayna tutar. Bir şey insana ne kadar çok benzemeye çalışıp yine de o doğal akışı yakalayamıyorsa, zihnimiz orada bir tehdit veya tutarsızlık algılar. Bu durum sadece dijital dünyada değil, insan ilişkilerindeki sahte yakınlıklar ve yapay samimiyetler için de geçerlidir. Bedenimiz, mantığımızdan önce o uyumsuzluğu sezer ve geri çekilme sinyali verir. İçgüdülerinize kulak verin.\n\nPsikoloji, ZihinYönetimi, Algı, İnsanDoğası, SavunmaMekanizması, Farkındalık, YaDaPsikoloji",
+  "processed_at": "2026-09-26 02:42:13"
+}

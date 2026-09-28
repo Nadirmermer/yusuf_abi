@@ -1,0 +1,103 @@
+{
+  "id": "central_limit_theorem_html_9acb6529",
+  "url": "https://www.simplypsychology.org/central-limit-theorem.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "What is the Central Limit Theorem in Statistics?",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2026-09-17T10:57:26+00:00",
+  "date_modified": null,
+  "read_time_minutes": 3,
+  "word_count": 617,
+  "summary": "Psychology»Statistics",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Statistics\n\nThe central limit theorem states that the sampling distribution of the mean approaches a normal distribution as the sample size increases. This fact holds especially true for sample sizes over 30.\n\nTherefore, as a sample size increases, the sample mean and standard deviation will be closer in value to the population mean μ and standard deviation σ.\n\nWhy is the central limit theorem important?The central limit theorem tells us that no matter what the distribution of the population is, the shape of the sampling distribution will approachnormalityas the sample size (N) increases.This is useful, as the research never knows which mean in the sampling distribution is the same as the population mean, but by selecting many random samples from a population, the sample means will cluster together, allowing the research to make a very good estimate of the population mean.You Might Also LikeIntroduction to the Normal Distribution (Bell Curve)Sampling Distribution In StatisticsStandard Error In Statistics: What It Is, Why It Matters, & How to CalculateConfidence IntervalsZ-Score [standard Score]P-Value SignificanceRelated ArticlesIntroduction to the Normal Distribution (Bell Curve)Sampling Distribution In StatisticsStandard Error In Statistics: What It Is, Why It Matters, & How to CalculateConfidence IntervalsZ-Score [standard Score]P-Value SignificanceEffect SizeHow to Use the Z-Score Table (Standard Normal Table)Thus, the sampling error will decrease as the sample size (N) increases.SummaryAs the sample size increases, the distribution of frequencies approximates a bell-shaped curved (i.e. normal distribution curve).Sample sizes equal to or greater than 30 are required for the central limit theorem to hold true.A sufficiently large sample can predict the parameters of a population, such as the mean and standard deviation.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Why is the central limit theorem important?",
+      "content": "The central limit theorem tells us that no matter what the distribution of the population is, the shape of the sampling distribution will approachnormalityas the sample size (N) increases.\n\nThis is useful, as the research never knows which mean in the sampling distribution is the same as the population mean, but by selecting many random samples from a population, the sample means will cluster together, allowing the research to make a very good estimate of the population mean.\n\nThus, the sampling error will decrease as the sample size (N) increases.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Summary",
+      "content": "- As the sample size increases, the distribution of frequencies approximates a bell-shaped curved (i.e. normal distribution curve).\n\n- Sample sizes equal to or greater than 30 are required for the central limit theorem to hold true.\n\n- A sufficiently large sample can predict the parameters of a population, such as the mean and standard deviation.\n\nMcLeod, S. (2026). What is the Central Limit Theorem in Statistics?. Simply Psychology. https://www.simplypsychology.org/central-limit-theorem.html\n\nMcLeod, Saul. \"What is the Central Limit Theorem in Statistics?.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/central-limit-theorem.html.\n\nMcLeod, S. (2026) What is the Central Limit Theorem in Statistics?. Simply Psychology. Available at: https://www.simplypsychology.org/central-limit-theorem.html (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 3,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sampling-distribution.jpg",
+      "alt": "What is the Central Limit Theorem in Statistics?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/sampling-distribution.jpg",
+      "alt": "sampling distributions",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bell-curve-300x250.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sampling-distribution-300x166.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Standard-error-formula-300x88.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# What is the Central Limit Theorem in Statistics?\n\n> Psychology»Statistics\n\n## Giriş\n\nPsychology»Statistics\n\nThe central limit theorem states that the sampling distribution of the mean approaches a normal distribution as the sample size increases. This fact holds especially true for sample sizes over 30.\n\nTherefore, as a sample size increases, the sample mean and standard deviation will be closer in value to the population mean μ and standard deviation σ.\n\nWhy is the central limit theorem important?The central limit theorem tells us that no matter what the distribution of the population is, the shape of the sampling distribution will approachnormalityas the sample size (N) increases.This is useful, as the research never knows which mean in the sampling distribution is the same as the population mean, but by selecting many random samples from a population, the sample means will cluster together, allowing the research to make a very good estimate of the population mean.You Might Also LikeIntroduction to the Normal Distribution (Bell Curve)Sampling Distribution In StatisticsStandard Error In Statistics: What It Is, Why It Matters, & How to CalculateConfidence IntervalsZ-Score [standard Score]P-Value SignificanceRelated ArticlesIntroduction to the Normal Distribution (Bell Curve)Sampling Distribution In StatisticsStandard Error In Statistics: What It Is, Why It Matters, & How to CalculateConfidence IntervalsZ-Score [standard Score]P-Value SignificanceEffect SizeHow to Use the Z-Score Table (Standard Normal Table)Thus, the sampling error will decrease as the sample size (N) increases.SummaryAs the sample size increases, the distribution of frequencies approximates a bell-shaped curved (i.e. normal distribution curve).Sample sizes equal to or greater than 30 are required for the central limit theorem to hold true.A sufficiently large sample can predict the parameters of a population, such as the mean and standard deviation.\n\n## Why is the central limit theorem important?\n\nThe central limit theorem tells us that no matter what the distribution of the population is, the shape of the sampling distribution will approachnormalityas the sample size (N) increases.\n\nThis is useful, as the research never knows which mean in the sampling distribution is the same as the population mean, but by selecting many random samples from a population, the sample means will cluster together, allowing the research to make a very good estimate of the population mean.\n\nThus, the sampling error will decrease as the sample size (N) increases.\n\n## Summary\n\n- As the sample size increases, the distribution of frequencies approximates a bell-shaped curved (i.e. normal distribution curve).\n\n- Sample sizes equal to or greater than 30 are required for the central limit theorem to hold true.\n\n- A sufficiently large sample can predict the parameters of a population, such as the mean and standard deviation.\n\nMcLeod, S. (2026). What is the Central Limit Theorem in Statistics?. Simply Psychology. https://www.simplypsychology.org/central-limit-theorem.html\n\nMcLeod, Saul. \"What is the Central Limit Theorem in Statistics?.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/central-limit-theorem.html.\n\nMcLeod, S. (2026) What is the Central Limit Theorem in Statistics?. Simply Psychology. Available at: https://www.simplypsychology.org/central-limit-theorem.html (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:18:14.553610"
+}

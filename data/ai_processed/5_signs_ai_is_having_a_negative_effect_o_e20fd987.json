@@ -1,0 +1,183 @@
+{
+  "id": "5_signs_ai_is_having_a_negative_effect_o_e20fd987",
+  "original_title": "How to recognize subtle signs of AI dependence and take back control.",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/in-practice/202609/5-signs-ai-is-having-a-negative-effect-on-you",
+  "published_date": "2026-09-14T18:19:45-04:00",
+  "read_time_minutes": 5,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/alice_boyes.jpg?itok=beWKdmMs",
+      "alt": "Image 9: Alice Boyes Ph.D.",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/gemini_generated_image_fq83n4fq83n4fq83__1_.jpeg.jpg?itok=LgrxzwQl",
+      "alt": "Image 15: AI Generated Image; Google/Gemini",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/chatgpt_image_sep_17__2026__10_52_30_am.png.jpg?itok=zXBZo7uo",
+      "alt": "Image 16: AI-generated image",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/pexels-googledeepmind-18069697.jpg?itok=DR2pOwQK",
+      "alt": "Image 17: Google Deep Mind/Pexels",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/thumbnail_115x140/public/field_user_blogger_photo/alice_boyes.jpg?itok=nHWOyu7z",
+      "alt": "Image 23: Alice Boyes Ph.D.",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-09/gemini_generated_image_ome8z7ome8z7ome8.jpeg.jpg?itok=uxtheXx2",
+      "alt": "Image 24: AI Generated Image",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-07/shutterstock_2345529619.jpg?itok=3D13EQQm",
+      "alt": "Image 25: Miljan Zivkovic/Shutterstock",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-07/shutterstock_2300500995.jpg?itok=161woeul",
+      "alt": "Image 26: PeopleImages/Shutterstock",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-06/gemini_generated_image_759io9759io9759i.png.jpg?itok=InzhD86w",
+      "alt": "Image 27: AI Generated Image",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_images/2026-06/engin_akyurt-woman-4566089.jpg?itok=55oiJAqw",
+      "alt": "Image 28: Image by Engin Akyurt from Pixabay",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_images/2026-08/mleonascimento0-prayer-888757.jpg?itok=Rg3Ck-ED",
+      "alt": "Image 29: Image by mleonascimento0 from Pixabay.",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/hero_image/pt_self_test/2025-09/shutterstock_1579993498.jpg?itok=eLk4Hb4R",
+      "alt": "Image 30: Mary Long / Shutterstock",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/pexels-pavel-danilyuk-6926543.jpg?itok=9gMLrbri",
+      "alt": "Image 31: Pavel Danilyuk/Pexels",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2025-05/DeviousAI.png.jpg?itok=BLu55arB",
+      "alt": "Image 32: Dr. Mike Brooks/DALL-E",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-01/pexels-bertellifotografia-16027824.jpg?itok=0U-UrdCC",
+      "alt": "Image 33: Pexels - Matheus Bertelli",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-02/pexels-rdne-6517085.jpg?itok=ecH0HLIh",
+      "alt": "Image 34: RDNE Stock project/Pexels",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/yamu_jay_pixabay.png.jpg?itok=vDgr2oRu",
+      "alt": "Image 35: Yamu_Jay / Pixabay",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-09/startupstockphotos-man-593372__1_.jpg?itok=kWHN9A9C",
+      "alt": "Image 37: StartupStockPhotos/Pixabay",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-09/elchinator-math-work-4711302.jpg?itok=hZomiHJh",
+      "alt": "Image 38: Image by Elchinator from Pixabay.",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-09/pexels-business-1839191.jpg?itok=V9oD8sJP",
+      "alt": "Image 39: Pexels / Pixabay",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/istock-836005756.jpg?itok=L-SWp4p_",
+      "alt": "Image 40: SIphotography / IStockphoto",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/default_images/counseling.jpg",
+      "alt": "Image 41: Counselling",
+      "caption": null
+    }
+  ],
+  "word_count": 0,
+  "turkce_baslik": "Zihinsel Konfor Tuzakları: Yapay Zeka Bağımlılığının Görünmeyen Sinyalleri",
+  "kanca_sorusu": "Yapay zeka hayatınıza girdiğinden beri, kendi başınıza karar vermekten veya basit bir not tutmaktan çekinmeye başladığınızı fark ettiniz mi?",
+  "score": 78,
+  "puan_nedeni": "Her ne kadar teknoloji odaklı görünse de, konu bireylerin bilişsel konfor alanı, karar verme zaafları, otomasyon kaygısı ve insan ilişkilerine yansıyan iletişim kalıpları üzerinden doğrudan modern insanın iç dünyasına ve zihin yönetimine hitap etmektedir.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Teknolojinin hayatımıza entegrasyonu sadece iş yapış biçimlerimizi değil, aynı zamanda düşünme mimarimizi, problem çözme sabrımızı ve duygusal toleransımızı da dönüştürüyor. Yapay zeka sistemleri başlangıçta zihinsel yükümüzü hafifleten pratik araçlar olarak görünse de, zamanla kendi bilişsel yetilerimizi dış kaynaklara devretme eğilimi yaratabiliyor. En basit not alma süreçlerinde bile yapay zekaya ihtiyaç duymak, zihinsel kaslarımızın zayıfladığının ve dışsal onay mekanizmalarına bağımlı hale geldiğimizin sessiz bir göstergesidir.\n\nBu bağımlılık döngüsü yalnızca zihinsel kapasitemizi etkilemekle kalmıyor; insan ilişkilerimize de sızıyor. Yapay zekaya verdiğimiz emirler ve kurduğumuz tahammülsüz, mekanik iletişim biçimi zamanla gerçek insanlarla olan etkileşimlerimize de model oluyor. Karşımızdakileri birer algoritma gibi yönetmeye, onlardan anında ve kusursuz çıktılar beklemeye başladığımızda, ilişkilerin doğasında barındıran o kaçınılmaz pürüzleri ve insani yavaşlığı kabul edemez hale geliyoruz. Kontrolü yeniden ele almak, teknolojiyi tamamen reddetmekle değil, onunla kurduğumuz zihinsel teması ve sınırları yeniden tanımlamakla mümkündür.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihinsel Konfor Tuzakları",
+      "body": "Yapay zeka araçları hayatımızı kolaylaştırırken, sessizce kendi karar verme mekanizmalarımızı ve zihinsel sabrımızı ele geçiriyor olabilir.",
+      "highlight_box": "Zihinsel dış kaynak kullanımının sınırını kaçırıyor muyuz?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Görünmeyen Bağımlılık Sinyalleri",
+      "body": "Teknoloji şirketlerinin ürünleri 'yapışkan' kılma taktikleri, bireylerin kendi bilişsel süreçlerine olan güvenini sarsmaya başladı.",
+      "highlight_box": "Destek mi alıyorsunuz, yoksa kendi iradenizi mi devrediyorsunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Basit İşlerde Bile Destek Arayışı",
+      "body": "Not alma, ufak bir metin oluşturma veya en temel karar anlarında bile yapay zekaya yaslanma hissi, öz yeterlilik algısını zayıflatır.",
+      "highlight_box": "Kendi zihinsel çabanıza olan inancınızı yitiriyorsunuz.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Mekanik İletişimin İnsanlara Taşınması",
+      "body": "Yapay zekaya sürekli emirler yağdırmak ve net çıktılar beklemek, gerçek insan ilişkilerinde de aynı tahammülsüz ve buyurgan dili kullanmanıza yol açar.",
+      "highlight_box": "İnsanları birer algoritma gibi yönetmeye başladığınızı fark edin.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kontrolü Yeniden Ele Almak",
+      "body": "Zihinsel konfor alanından çıkın. Yapay zekayı birer dayanak değil, yalnızca bir araç olarak konumlandırmak için bilinçli molalar verin.",
+      "highlight_box": "Kendi düşünme sürecinize yeniden alan açın.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Teknoloji hayatınızı kolaylaştırmalı; ancak asla sizin yerinize düşünmemeli ve insani bağlarınızı mekanikleştirilmemelidir.",
+      "highlight_box": "Zihinsel bağımsızlığınızı korumak için bu içeriği kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Yapay zekaya olan bağımlılığınızın farkında olmadan insan ilişkilerinizi nasıl zehirlediğini biliyor musunuz?",
+    "konusma_metni": "Bugün teknolojinin zihnimiz üzerindeki görünmeyen etkilerini konuşacağız. Eğer her kararınızda, en basit not alma sürecinizde bile yapay zekaya yaslanıyorsanız, zihinsel kaslarınızı dışarıya devrediyorsunuz demektir. Daha da kötüsü, yapay zekaya emir vermeye alışan o sabırsız dil, zamanla gerçek insanlara karşı da tahammülsüz ve buyurgan bir iletişime dönüşüyor. Kendi kararlarınızın ve zihninizin kontrolünü geri almak için durup bu döngüyü fark etmeniz gerekiyor."
+  },
+  "caption": "Yapay zekanın hayatımıza entegrasyonu, pratik birer yardımcı olmanın ötesine geçerek zihinsel mimarimizi ve ilişkisel dinamiklerimizi dönüştürüyor. Kendi başımıza karar alma cesaretimiz zayıflarken, yapay zekaya karşı geliştirdiğimiz buyurgan iletişim biçimi farkında olmadan gerçek insan ilişkilerimize de sızıyor. Zihinsel bağımsızlığınızı korumak ve bu görünmeyen döngüyü kırmak için sınırlarınızı yeniden gözden geçirin. \n\n#zihinletonetim #yapayzekabağımlılığı #bilişselkonfor #insanilişkileri #sınırçizmek #psikolojikfarkındalık",
+  "processed_at": "2026-09-26 19:08:32"
+}

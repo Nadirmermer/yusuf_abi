@@ -1,0 +1,219 @@
+# Improving Organizational Skills in ADHD: Central Executive Training vs. Inhibitory Control Training
+
+- **Kaynak Platform**: Simply Psychology
+- **Orijinal URL**: https://www.simplypsychology.org/organizational-skills-in-adhd-training.html
+- **Yayın Tarihi**: 2024-01-08T22:42:01+00:00
+- **Okuma Süresi / Kelime**: ~12 dk (2449 kelime)
+- **Çekilme Zamanı**: 2026-09-22T12:40:46.345543
+
+---
+
+## 📌 Giriş / Özet
+News»Clinical Psychology
+
+
+## 🖼️ Konuyla İlgili Görseller (Arka Plan & Tasarım İçin)
+- ![Improving Organizational Skills in ADHD: Central Executive Training vs. Inhibitory Control Training](https://www.simplypsychology.org/wp-content/uploads/adhd-planning-child.jpeg) - *Header Image*
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/disclosing-diagnosis-1-300x200.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/future-anxiety-300x169.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/autism-burnout-300x200.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/creative-child-and-parent-300x200.jpeg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/therapy-session-300x200.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/social-media-harm-300x200.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg)
+
+
+## 📝 Makale Bölümleri ve Detaylı İçerik
+
+### Giriş
+
+News»Clinical Psychology
+
+Individuals with attention-deficit/hyperactivity disorder (ADHD) frequently struggle with organizational skills like planning tasks, using organizational strategies, and managing materials.
+
+These difficulties are hypothesized to arise partly from problems withexecutive functioning.Executive functions are higher-order cognitive processes that regulate decision-making and goal-directed behaviors.
+
+Core executive functions that develop in childhood includeworking memory, which allows temporarily manipulating information, and inhibitory control, or resistingimpulsive behaviors.
+
+Deficits in these self-regulation capacities are thought interfere with effectively applying organizational knowledge and routines.
+
+### Key Points
+
+- Central executive training (CET) produced significant improvements in parent- and teacher-reported organizational skills (task planning, organized actions, memory/materials management) from pre- to post-treatment (d = 0.46 – 0.95)
+
+- CET gains were superior to an active control inhibitory control training (ICT) for improving teacher-reported organizational skills overall (d = 0.61)
+
+- CET gains were maintained 2-4 months after treatment termination per parent report
+
+- Results provide initial evidence that targeting underlying working memory deficits can improve downstream organizational impairments in ADHD.
+
+- Limitations include sample demographic homogenity and reliance on subjective ratings
+
+### Rationale
+
+Attention-deficit/hyperactivity disorder (ADHD)is associated with prominent difficulties in organization skills including task planning, using organizational strategies, and managing materials and assignments (Abikoffet al., 2013).
+
+These skills deficits predict adverse academic and occupational outcomes (Bikicet al., 2017; Kentet al., 2011). Behavioral interventions that directly teach organizational skills produce only moderate gains that rely on continued implementation of strategies/contingencies (Bikic et al., 2017).
+
+Conceptual models propose organizational problems in ADHD stem partly from executive functioning deficits that interfere with implementing learned skills (Abikoffet al., 2013).
+
+Supporting this, working memory deficits explained 20% of variance in organizational problems (Kofler, Sarver, Harmon, et al., 2018).
+
+Targeting underlying neurocognitive deficits could thus improve organizational skills performance without ongoing supports. Improving organizational skills can be an effectiveway of managing ADHD. However, most neurocognitive training protocols failed to improve their target mechanism or functional outcomes (Rapportet al., 2013; Simonset al., 2016).
+
+In contrast, CET improved working memory (d = 0.70 – 0.91) and ADHD symptoms in two trials (Kofleret al., 2018; Kofleret al., 2020). This trial examined if CET has downstream benefits for ADHD-related organizational deficits.
+
+### Method
+
+Seventy-three children with ADHD (ages 8-13 years) were randomly assigned to 10 weeks of CET or a matched control (ICT).
+
+CET and ICT are 10-week computerized training protocols. Children complete sessions once per week in-clinic plus parent-supervised home sessions 2-3 times per week.
+
+- CET targets working memory capacities like mentally manipulating information. The games train skills like dual processing and continuously updating items in memory.
+
+- ICT trains inhibitory control through games emphasizing action restraint and cancelation. The two treatments are matched in all aspects (dose, platform, procedures) except the cognitive mechanisms targeted.
+
+Parents and teachers completed theChildren’s Organizational Skills Scaleat pre- and post-treatment. Parents provided additional follow-up data 2-4 months later.
+
+The scale includes Task Planning, Organized Actions, and Memory/Materials Management subscales. Lower scores indicate better functioning.
+
+Analyses compared changes in raw subscale scores from pre- to post-treatment between groups via mixed modelANOVAs.Gains were characterized via planned within-group contrasts.
+
+### Results
+
+For parent-reported organizational skills, significant pre-post improvements were found across groups (d = 0.48,p< .001).
+
+Both CET and ICT improved on the Memory/Materials Management subscale (d = 0.62 and 0.67 respectively, p < .001). However, only CET improved significantly on Task Planning and Organized Actions (d = 0.50 and 0.58 respectively,p≤ .003).
+
+For teacher-reported skills, a Treatment × Time interaction favored CET (d = 0.61, p = .01). CET demonstrated significant pre-post gains on all three subscales: Task Planning (d = 0.68), Organized Actions (d = 0.46), and Memory/Materials Management (d = 0.95), p ≤ .02. In contrast, ICT did not improve significantly on any subscale (d = 0.04 to 0.22, p ≥ .27).
+
+Regarding follow-up, CET maintained gains on Task Planning and Memory/Materials Management per parent-report (d = 0.42 and 0.74 respectively, p ≤ .03). ICT showed additional improvements in Memory/Materials Management at follow-up (d = 1.14, p < .001) but no gains on other subscales.
+
+### Insight
+
+This study provides initial evidence that targeting underlying working memory deficits using CET can improve ADHD-related organizational skills.
+
+Parents and teachers reported significant pre-post improvements in all three assessed domains (task planning, using organizational strategies, managing materials/assignments) for children receiving CET.Effect sizesranged from medium (d = 0.46) to large (d = 0.95).
+
+In contrast, the active control training inhibitory control showed virtually no benefits on organizational skills (teacher report). CET gains were also maintained without continued intervention for 2-4 months per parent report.
+
+Conceptual models propose that organizational deficits in ADHD arise partly from executive functioning problems that interfere with effectively implementing taught skills (Abikoff et al., 2013).
+
+By remediating working memory, CET may allow children with ADHD to better access and apply learned organizational knowledge. Preliminary analyses suggest that only 2 to 8 children need treatment with CET for 1 additional child to demonstrate reliable organizational skills improvements versus the control.
+
+In the real world, these findings imply that complementing behavioral training with neurocognitive approaches targeting root deficits may boost outcomes.
+
+Students receiving CET progressed from requiring frequent oversight and implementing organizational skills at school to needing substantially less intervention several months later. Thus, CET could reduce demands on teachers and parents to provide ongoing support.
+
+The results contribute to a growing evidence base indicating working memory is functionally involved in ADHD symptoms and impairment (Kofleret al., 2011), likely reflecting shared genetic risk (Moseset al., 2022). As such, directly strengthening this mechanism appears to yield broad benefits.
+
+### Strengths
+
+- Relatively large sample size for a clinical trial (N = 73), exceeding recommendations (Simons et al., 2016) for cognitive training protocols to allow adequate power.
+
+- Used arandomized controlled designwith concealed allocation to minimize bias in assigning participants to conditions.
+
+- Included an active control group training an identical dose/format but targeting an alternate neurocognitive mechanism (inhibitory control). This isolates effects to working memory specifically.
+
+- Critical organizational skills outcome measures were collected from teachers and data analysts who were successfully masked to treatment allocation status to prevent bias.
+
+- Used multiple informants (parents in addition to teachers) and settings (home and school behaviors) with converging results, allowing stronger claims.
+
+- Carefully adhered to current best practice guidelines (Simonset al., 2016) for executing and evaluating cognitive training protocols in multiple respects to allow drawing stronger causal conclusions.
+
+### Limitations
+
+- The sample lacked diversity in terms of race/ethnicity and socioeconomic status. Participants were predominantly white children from highly educated families. This reduces generalizability of findings.
+
+- Families volunteering for lengthy intervention trials could differ from those less motivated or adherent in the community. This may further limit generalizability.
+
+- Relied solely on subjectivequestionnaire measurescompleted by potentially biased informants rather than objective indicators of organizational skills.
+
+- Parent raters were aware of intervention status, and while teachers were successfully masked, some residual bias is still possible. This could inflate perceived benefits.
+
+- Included no objective indicators of organizational skills like blinded academic/behavioral observations or computerized performance measures.
+
+- Focused assessments narrowly on organizational skills only without evaluating potential collateral improvements in broader ADHD functioning.
+
+### Implications
+
+This research makes several valuable contributions. First, it provides initial evidence that strengthening working memory confers downstream benefits to a prominent area of impairment in ADHD – organizational skills.
+
+While working memory deficits are well documented in ADHD and hypothesized to functionally contribute to disorganization (Abikoffet al., 2013), empirical demonstration of these links was lacking.
+
+Second, directly targeting a root neurocognitive deficit improved ADHD-related deficits even months after treatment ended, whereas leading psychosocial approaches rely on the continued use of externally provided supports (Chackoet al., 2014).
+
+This favors conceptual models positing inconsistent performance rather than lack of skill knowledge drives ADHD impairment (Abikoffet al., 2013) and suggests neurocognitive training could enhance sustainability of multimodal interventions.
+
+Third, the degree of far transfer to school functioning exceeded the effects of stimulus-response learning-based training targeting isolated inhibitory control. This favors hierarchical models where strengthening domain-general working memory facilitates deploying taught techniques over directly drilling basic inhibition skills.
+
+Finally, the study design and execution provides a model for rigorous evaluation of digital therapeutics for pediatric ADHD and neurodevelopmental disorders more broadly.
+
+Adhering to best-practice standards allowed strong causal claims regarding the specificity of working memory in improving organizational skills. Wider adoption of these methods can elevate intervention research quality.
+
+Clinically, with further replication, CET could be incorporated into ADHD care plans to target disorganization early before cumulative academic and social deficits accumulate. The potential cost savings of preventing years of costly supports could offset access barriers that currently restrict cognitive training utilization.
+
+Guy-Evans, O. (2024). Improving Organizational Skills in ADHD: Central Executive Training vs. Inhibitory Control Training. Simply Psychology. https://www.simplypsychology.org/news/organizational-skills-in-adhd-training/
+
+Guy-Evans, Olivia. "Improving Organizational Skills in ADHD: Central Executive Training vs. Inhibitory Control Training." Simply Psychology, 8 January 2024, https://www.simplypsychology.org/news/organizational-skills-in-adhd-training/.
+
+Guy-Evans, O. (2024) Improving Organizational Skills in ADHD: Central Executive Training vs. Inhibitory Control Training. Simply Psychology. Available at: https://www.simplypsychology.org/news/organizational-skills-in-adhd-training/ (Accessed: 22 September 2026).
+
+### Primary reference
+
+Chan, E. S., Gaye, F., Cole, A. M., Singh, L. J., & Kofler, M. J. (2023). Central executive training for ADHD: Impact on organizational skills at home and school. A randomized controlled trial.Neuropsychology,37(8), 859.https://doi.org/10.1037/neu0000918
+
+### Other references
+
+Abikoff, H., Gallagher, R., Wells, K. C., Murray, D. W., Huang, L., Lu, F., & Petkova, E. (2013). Remediating organizational functioning in children with ADHD: Immediate and long-term effects from a randomized controlled trial.Journal of Consulting and Clinical Psychology, 81(1), 113-128.https://doi.org/10.1037/a0029648
+
+Bikic, A., Reichow, B., McCauley, S. A., Ibrahim, K., & Sukhodolsky, D. G. (2017). Meta-analysis of organizational skills interventions for children and adolescents with attention-deficit/hyperactivity disorder.Clinical Psychology Review, 52, 108-123.https://doi.org/10.1016/j.cpr.2016.12.004
+
+Chacko, A., Kofler, M., & Jarrett, M. (2014). Improving outcomes for youth with ADHD: A conceptual framework for combined neurocognitive and skill-based treatment approaches.Clinical Child and Family Psychology Review, 17(4), 368–384.https://doi.org/10.1007/s10567-014-0171-5
+
+Kent, K. M., Pelham, W. E., Jr, Molina, B. S., Sibley, M. H., Waschbusch, D. A., Yu, J., Gnagy, E. M., Biswas, A., Babinski, D. E., & Karch, K. M. (2011). The academic experience of male high school students with ADHD.Journal of Abnormal Child Psychology, 39(3), 451–462.https://doi.org/10.1007/s10802-010-9472-4
+
+Kofler, M. J., Sarver, D. E., Harmon, S. L., Moltisanti, A., Aduen, P. A., Soto, E. F., & Ferretti, N. (2018). Working memory and organizational skills problems in ADHD.Journal of Child Psychology and Psychiatry, and Allied Disciplines, 59(1), 57–67.https://doi.org/10.1111/jcpp.12773
+
+Kofler, M. J., Sarver, D. E., Austin, K. E., Schaefer, H. S., Holland, E., Aduen, P. A., Wells, E. L., Soto, E. F., Irwin, L. N., Schatschneider, C., & Lonigan, C. J. (2018). Can working memory training work for ADHD? Development of central executive training and comparison with behavioral parent training.Journal of Consulting and Clinical Psychology, 86(12), 964–979.https://doi.org/10.1037/ccp0000308
+
+Kofler, M. J., Wells, E. L., Singh, L. J., Soto, E. F., Irwin, L. N., Groves, N. B., Chan, E. S. M., Miller, C. E., Richmond, K. P., Schatschneider, C., & Lonigan, C. J. (2020). A randomized controlled trial of central executive training (CET) versus inhibitory control training (ICT) for ADHD.Journal of Consulting and Clinical Psychology, 88(8), 738-756.https://doi.org/10.1037/ccp0000550
+
+Moses, M., Tiego, J., Demontis, D., Bragi Walters, G., Stefansson, H., Stefansson, K., Børglum, A. D., Arnatkeviciute, A., & Bellgrove, M. A. (2022). Working memory and reaction time variability mediate therelationship between polygenic risk and ADHD traits in a general population sample.Molecular Psychiatry, 27(12), 5028–5037.https://doi.org/10.1038/s41380-022-01775-5
+
+Rapport, M. D., Orban, S. A., Kofler, M. J., & Friedman, L. M. (2013). Do programs designed to train working memory, other executive functions, and attention benefit children with ADHD? A meta-analytic review of cognitive, academic, and behavioral outcomes.Clinical Psychology Review, 33(8), 1237-1252.https://doi.org/10.1016/j.cpr.2013.08.005
+
+Simons, D. J., Boot, W. R., Charness, N., Gathercole, S. E., Chabris, C. F., Hambrick, D. Z., & Stine-Morrow, E. A. (2016). Do “brain-training” programs work?Psychological Science in the Public Interest, 17(3), 103-186.https://doi.org/10.1177/1529100616661983
+
+Singh, L. J., Gaye, F., Cole, A. M., Chan, E. S. M., & Kofler, M. J. (2022). Central executive training for ADHD: Effects on academic achievement, productivity, and success in the classroom.Neuropsychology, 36(4), 330-345.https://doi.org/10.1037/neu0000798
+
+### Keep Learning
+
+Here are some suggested Socratic discussion questions for a college class:
+
+- How might we design experiments to test whether organizational deficits in ADHD arise more from performance inconsistencies versus lack of skill knowledge? What are the challenges in interpreting such studies?
+
+- Should we prioritize interventions that target root deficits, like working memory, versus teaching compensatory strategies in ADHD? Under what conditions might each approach be preferred?
+
+- If working memory training enhances sustainability of gains after treatment ends in ADHD, how might we incorporate such protocols into stepped care to maximize efficiency?
+
+- What objective real-world criteria should future research collect to complement rating scale measures when evaluating far transfer of cognitive training protocols?
+
+- How could we adapt the CET protocol to ensure equitable access and effectiveness for minority children and those from low-SES backgrounds?
+
+- Should cognitive training be a first-line treatment for ADHD given current insurance coverage barriers or reserved for severe/non-responsive cases? What policy changes could support wider utilization?
+
+BSc (Hons) Psychology, MRes, PhD, University of Manchester
+
+Chartered Psychologist (CPsychol)
+
+Saul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.
+
+Olivia Guy-Evans, MSc
+
+Associate Editor for Simply Psychology
+
+BSc (Hons) Psychology, MSc Psychology of Education
+
+Olivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.

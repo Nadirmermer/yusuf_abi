@@ -1,0 +1,127 @@
+{
+  "id": "artificial_intelligence_shows_promise_in_27e90724",
+  "original_title": "Artificial intelligence shows promise in diagnosing cognitive disorders",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/artificial-intelligence-shows-promise-in-diagnosing-cognitive-disorders.html",
+  "published_date": "2025-09-01T14:13:20+00:00",
+  "read_time_minutes": 4,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brain-scans.jpg",
+      "alt": "Artificial intelligence shows promise in diagnosing cognitive disorders",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/AI-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/disclosing-diagnosis-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adult-friendships-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/future-anxiety-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mindfulness-yogi-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/autism-burnout-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 877,
+  "turkce_baslik": "Zihinsel Çözülmenin Erken İzleri: Yapay Zeka Bellek Kaybını Nasıl Yakalıyor?",
+  "kanca_sorusu": "Sevdiklerinizin veya kendinizin zihnindeki o en küçük değişimi, henüz her şey çok yavaşken fark edebilir miydiniz?",
+  "score": 42,
+  "puan_nedeni": "Metin, klinik psikoloji ve nörodejeneratif hastalıkların yapay zeka ile tespiti üzerine genel, teknik ve akademik bir derleme sunmaktadır. İlişkisel dinamikler, bağlanma stilleri veya kişisel içgörü barındırmadığı, daha çok tıbbi teknoloji odaklı olduğu için kuru akademik kategoriye girmektedir.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Klinik psikoloji ve nöroloji sınırında yapılan son araştırmalar, yapay zekanın beyin fonksiyonlarındaki ve davranışlardaki en silik değişimleri yakalayabileceğini gösteriyor. Geleneksel klinik değerlendirmeler bazen yaşlanma ile bilişsel gerileme arasındaki o ince çizgiyi kaçırabilirken, makine öğrenmesi algoritmaları göz hareketleri ve konuşma kalıpları gibi detaylarla erken teşhiste yeni bir kapı aralıyor. Bu durum, hastalıkların henüz en başında fark edilmesini sağlayarak belirsizliği azaltma potansiyeli taşıyor.\n\nAncak bu teknolojik ilerleme, insan yargısının ve klinik uzmanlığın yerini almaktan ziyade, ona veri sağlayan yardımcı bir araç konumundadır. Zihinsel sağlığın korunması ve bilişsel süreçlerin takibi, sadece veri analitiğinden ibaret değildir; aynı zamanda bireyin yaşam öyküsüne ve insani bağlarına duyulan hassasiyeti gerektirir. Algoritmalar bize sinyalleri gösterse de, o sinyallerin insan hayatındaki karşılığını anlamlandırmak yine derinlemesine bir klinik bakış ister.\n\nGünlük hayatta kendi zihnimizin sınırlarını zorladığımızı, unutkanlıkların arttığını hissettiğimizde yaşadığımız o sessiz kaygı, aslında bilimin de yıllardır çözmeye çalıştığı bir karmaşadır. Erken farkındalık, sadece tıbbi bir tanı almakla kalmaz; bireyin kendi zihinsel bütünlüğünü koruma yolunda attığı ilk bilinçli adımdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihnin Sessiz Değişimi",
+      "body": "Bellek ve bilişsel yetilerdeki gerileme, çoğu zaman dışarıdan fark edilmeyecek kadar yavaş başlar.",
+      "highlight_box": "En küçük unutkanlıklar neyin habercisi?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Gözden Kaçan Detaylar",
+      "body": "Geleneksel klinik testler, zihinsel yorgunluğun ve bilişsel gerilemenin en erken sinyallerini her zaman yakalayamaz.",
+      "highlight_box": "Normal yaşlanma mı, yoksa daha fazlası mı?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Konuşma ve İfade Kalıpları",
+      "body": "Algoritmalar ve yeni araştırmalar, günlük konuşma ritmindeki en küçük sapmaların bile zihinsel süreçler hakkında ipucu verebileceğini gösteriyor.",
+      "highlight_box": "Kelime bulmada yaşanan zorluklar",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Göz Hareketleri ve Dikkat",
+      "body": "Okuma veya odaklanma sırasında yapılan görevlerdeki göz hareketleri, bilişsel sağlığın gizli bir haritasını sunuyor.",
+      "highlight_box": "Odaklanma süresindeki değişimler",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Erken Farkındalığın Gücü",
+      "body": "Teknolojik araçlar ve yapay zeka, klinik uzmanların elini güçlendirerek süreci daha erken yönetmemize zemin hazırlıyor.",
+      "highlight_box": "Unutmayın: Erken farkındalık hayat kurtarır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Bir Hatırlatma",
+      "body": "Zihinsel sağlığınızı korumak, kendi iç sesinize kulak vermekle ve değişimleri zamanında kabul etmekle başlar.",
+      "highlight_box": "Bu bilgiyi zihinsel sağlığı önemseyen biriyle paylaşın.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Konuşma tarzınızdaki en küçük değişim, zihninizin yorulduğunun habercisi olabilir.",
+    "konusma_metni": "Zihinsel gerileme ve bellek kaybı gibi durumlar genellikle çok yavaş başlar ve geleneksel testler bunları erken aşamada kaçırabilir. Ancak son araştırmalar, yapay zeka ve makine öğrenmesi sistemlerinin konuşma kalıplarımızdaki veya göz hareketlerimizdeki en ince detayları yakalayabildiğini gösteriyor. Bu durum erken teşhis için umut vadediyor olsa da, asıl önemli olan kendi zihnimizdeki değişimleri göz ardı etmemek ve bu süreci insani bir farkındalıkla ele almaktır."
+  },
+  "caption": "Zihinsel süreçler, bellek kaybı ve bu süreçlerin teknoloji ile nasıl incelendiği üzerine derinlemesine bir bakış. Bilim, insan zihninin en hassas kıvrımlarını anlamaya çalışırken, birey olarak kendi iç dünyamıza ve bilişsel sağlığımıza verdiğimiz dikkat de aynı oranda önem kazanıyor. Erken farkındalık, hem bireyin hem de yakınlarının bu belirsizlik sürecinde daha bilinçli adımlar atmasını sağlar.\n\n#klinikpsikoloji #bilişselsağlık #nöroloji #zihinyönetimi #farkındalık #psikolojinotları #ya_da_psikoloji",
+  "processed_at": "2026-09-26 17:26:34"
+}

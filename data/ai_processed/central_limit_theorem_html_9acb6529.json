@@ -1,0 +1,133 @@
+{
+  "id": "central_limit_theorem_html_9acb6529",
+  "original_title": "What is the Central Limit Theorem in Statistics?",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/central-limit-theorem.html",
+  "published_date": "2026-09-17T10:57:26+00:00",
+  "read_time_minutes": 3,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sampling-distribution.jpg",
+      "alt": "What is the Central Limit Theorem in Statistics?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/sampling-distribution.jpg",
+      "alt": "sampling distributions",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bell-curve-300x250.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sampling-distribution-300x166.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Standard-error-formula-300x88.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 617,
+  "turkce_baslik": "İstatistikte Merkezî Limit Teoremi ve Örneklem Boyutunun Psikolojideki Yeri",
+  "kanca_sorusu": "Araştırmalardaki büyük örneklemler gerçekten neyi temsil ediyor?",
+  "score": 45,
+  "puan_nedeni": "Metin tamamen temel istatistik ve metodoloji kurallarını (Merkezî Limit Teoremi, örneklem ortalaması, standart sapma) açıklamaktadır. İlişkisel dinamikler, bağlanma stilleri veya bireyin iç dünyasına dair bir ayna etkisi barındırmadığı için akademik ve kuru bulunarak düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Psikoloji biliminde insan davranışını anlamaya çalışırken doğrudan tüm popülasyonu incelemek imkansızdır. Bu noktada devreye istatistiksel temeller girer. Merkezî limit teoremi, örneklem boyutu arttıkça veri dağılımının normal dağılıma yaklaşacağını söyler. Özellikle otuz ve üzeri örneklem boyutlarında, örneklem ortalaması popülasyon parametrelerine yaklaşır. Bu durum, araştırmacıların bireysel sapmaları dengeleyerek genel eğilimler hakkında güvenilir tahminler yapmasını sağlar. Ancak bu teknik detay, bireyin kendi içsel gerçekliğindeki karmaşayı doğrudan çözmez; aksine araştırmacının veriye hangi mesafeden bakması gerektiğini belirleyen metodolojik bir çerçevedir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Verinin Arkasındaki Gerçek",
+      "body": "Psikolojik araştırmalar yüzlerce insanla yapılır ancak sonuçlar hepimize uyarlanır. Bunun istatistiksel bir temeli vardır.",
+      "highlight_box": "Merkezî Limit Teoremi nedir?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Örneklem ve Popülasyon",
+      "body": "Bütün bir toplumu incelemek imkansızdır. Bu yüzden rastgele örneklemler alınarak genel eğilimler tahmin edilir.",
+      "highlight_box": "Örneklem boyutu neden önemlidir?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Otuz Kuralı",
+      "body": "Teoremin geçerli olabilmesi için örneklem boyutunun otuz veya daha fazla olması gerektiği kabul edilir.",
+      "highlight_box": "Neden otuz ve üzeri?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Normal Dağılıma Yaklaşmak",
+      "body": "Örneklem büyüdükçe frekans dağılımı çan eğrisine yani normal dağılıma yaklaşır ve hata payı düşer.",
+      "highlight_box": "Çan eğrisinin gücü",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Bilimsel Öngörü",
+      "body": "Yeterince büyük örneklemler, popülasyonun ortalamasını ve standart sapmasını yüksek doğrulukla tahmin etmemizi sağlar.",
+      "highlight_box": "Veriye dayalı çıkarım",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Metodolojik Temel",
+      "body": "Psikolojideki her iddia sağlam istatistiksel temellere ve yeterli örneklem büyüklüklerine dayanmak zorundadır.",
+      "highlight_box": "Bilimsel düşünce biçimi.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Psikolojide bir araştırmanın güvenilir olduğunu nasıl anlarsınız?",
+    "konusma_metni": "Bilimsel araştırmalarda neden hep büyük örneklemlerden bahsedilir hiç düşündünüz mü? Merkezî limit teoremi bize der ki, örneklem boyutu otuzun üzerine çıktığında veriler çan eğrisine yaklaşır ve genel popülasyonu temsil etme gücü artar. Metodoloji olmadan psikoloji sadece sezgiden ibaret kalır."
+  },
+  "caption": "Psikoloji biliminde insan davranışını anlamaya çalışırken kullanılan yöntemler sadece teoriden ibaret değildir. Merkezî limit teoremi, örneklem boyutunun sonuçları nasıl etkilediğini ve bilimsel verilerin nasıl güvenilir hale geldiğini açıklar. Araştırmalara yaklaşırken bu metodolojik temelleri bilmek, bilgiyi süzgecimizden geçirmemizi sağlar. Psikoloji bilimi ve araştırma yöntemleri üzerine derinlemesine içerikler için takipte kalın. #psikoloji #bilimselaraştırma #istatistik #metodoloji #akademikpsikoloji #veri",
+  "processed_at": "2026-09-26 17:08:21"
+}

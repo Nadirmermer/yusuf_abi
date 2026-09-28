@@ -1,0 +1,151 @@
+{
+  "id": "kurtosis_html_8e6df935",
+  "original_title": "Kurtosis in Statistics",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/kurtosis.html",
+  "published_date": "2026-09-17T11:32:44+00:00",
+  "read_time_minutes": 11,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Kurtosis.gif",
+      "alt": "Kurtosis in Statistics",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Kurtosis.gif",
+      "alt": "Types of Kurtosis ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/normal-distribution.jpg",
+      "alt": "Normal Distribution Bell Curve",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/negative-kurtosis.jpg",
+      "alt": "Platykurtic: Negative Kurtosis ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/positive-kurtosis.jpg",
+      "alt": "Leptokurtic: Positive Kurtosis",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bell-curve-300x250.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-whisker-plot-300x165.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cohen-d-300x142.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2146,
+  "turkce_baslik": "İstatistikte Sivrilikler ve Çıkıntılar: Verinin Görünmeyen Gerçeği",
+  "kanca_sorusu": "Hayatınızdaki istisnalar mı yoksa sıradan ortalamalar mı sizi siz yapıyor?",
+  "score": 40,
+  "puan_nedeni": "Metin doğrudan akademik istatistik kavramları, basıklık, sivrilik (kurtosis) ve veri dağılımlarını incelemektedir. İlişkisel dinamiklerden ve bireysel psikolojiden uzak, kuru akademik bir teori olduğu için düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İstatistiksel bir kavram olan basıklık ve sivrilik, yani kurtosis, verilerin ortalamaya nasıl yığıldığını ya da uç noktalarda nasıl kümelendiğini inceler. Akademik dünyada normal dağılımdan sapmalar her zaman bir hata olarak görülmez; aksine, insan davranışlarının ve gerçek hayat verilerinin çoğunun zaten normal dağılıma uymadığı bilinmektedir. Tıpkı insan psikolojisinde olduğu gibi, neyin ortalama neyin uç nokta olduğunu anlamak, verinin karakterini çözmekle başlar. Ancak bu teknik detaylar, doğrudan bir psikoterapi seansının veya ilişkisel çatışmanın karşılığı değildir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Verinin Şekli",
+      "body": "İstatistikte verilerin ortalamada nasıl toplandığı veya uçlara yığıldığı dağılımın karakterini belirler.",
+      "highlight_box": "Her veri ortalamaya uymaz.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Üç Farklı Dağılım",
+      "body": "Mesokurtik, leptokurtic ve platykurtic dağılımlar verinin basıklık ve sivrilik derecelerini gösterir.",
+      "highlight_box": "Normallik bir varsayımdır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Sivri Dağılım",
+      "body": "Leptokurtic dağılımlar, verinin ortalamaya sıkıca tutunduğu ancak uçlarda yoğun biriktiği durumları ifade eder.",
+      "highlight_box": "Uçlardaki yoğunluk.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Basık Dağılım",
+      "body": "Platykurtic dağılımlar ise daha düz bir tepeye ve ince kuyruklara sahiptir, veriler daha dağınık yayılır.",
+      "highlight_box": "Dağınık veeşit stratejiler.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Gerçek Veri Standartları",
+      "body": "Bilimsel araştırmalar, gerçek verilerin çoğunun kusursuz normal dağılımdan sapma gösterdiğini kanıtlamaktadır.",
+      "highlight_box": "Normallik istisna değil, sapma kuraldır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış",
+      "body": "İstatistikte ve analizde körü körüne ortalamaya güvenmek yerine, dağılımın tamamını görmek esastır.",
+      "highlight_box": "Detaylı okuma için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Verileriniz bile textbooks kurallarına uymuyorken siz neden her şeyin normal olmasını bekliyorsunuz?",
+    "konusma_metni": "İstatistikte kurtosis yani basıklık kavramı, verinin ne kadar sivri ya da basık olduğunu inceler. Gerçek hayatta topladığımız verilerin neredeyse hiçbirisi o kusursuz çan eğrisine uymaz. Tıpkı insan ilişkileri ve zihinsel tepkilerimiz gibi. Uçlardaki değerler, yani kuyruklar, hayatın en öğretici kısımlarıdır. Kusursuz bir ortalama aramak yerine, dağılımın gerçek şekline bakmak gerekir."
+  },
+  "caption": "İstatistikte veri dağılımının sivrilik ve basıklık ölçüsü olan kurtosis, verilerin kuyruklarda veya zirvede nasıl kümelendiğini inceler. Akademik araştırmalar, psikolojik ve eğitimsel ölçümlerin çoğunun kusursuz bir normal dağılıma uymadığını göstermektedir. Verinin gerçek şeklini anlamak, ezbere kabullerden ziyade analitik bir yaklaşım gerektirir.\n\n#istatistik #verianalizi #psikometri #bilimselaraştırma #metodoloji #akademikpsikoloji",
+  "processed_at": "2026-09-26 17:02:45"
+}

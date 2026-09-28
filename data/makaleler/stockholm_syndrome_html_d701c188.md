@@ -1,0 +1,390 @@
+# Stockholm Syndrome
+
+- **Kaynak Platform**: Simply Psychology
+- **Orijinal URL**: https://www.simplypsychology.org/stockholm-syndrome.html
+- **Yayın Tarihi**: 2026-09-17T14:52:45+00:00
+- **Okuma Süresi / Kelime**: ~17 dk (3400 kelime)
+- **Çekilme Zamanı**: 2026-09-21T19:07:30.684904
+
+---
+
+## 📌 Giriş / Özet
+Psychology»Social Psychology
+
+
+## 🖼️ Konuyla İlgili Görseller (Arka Plan & Tasarım İçin)
+- ![Stockholm Syndrome](https://www.simplypsychology.org/wp-content/uploads/stockholm-syndrome-2.jpg) - *Header Image*
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/social-identity-theory-1-300x169.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/social-cognitive-theory-300x145.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/resolution-cognitive-dissonance-300x231.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/groupthink-300x285.jpeg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/social-control-1-300x169.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/frustration-aggression-hypothesis-300x139.png)
+- ![An infographic titled 'factors contributing to stockholm syndrome' with 6 panels outlining some of these factors with associated images such as prolonged exposure to intense situation, and shared space with captor.](https://www.simplypsychology.org/wp-content/uploads/stockholm-syndrome-1.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg)
+
+
+## 📝 Makale Bölümleri ve Detaylı İçerik
+
+### Giriş
+
+Psychology»Social Psychology
+
+Stockholm Syndrome is a psychological phenomenon where captives develop positive feelings towards their captors. It’s primarily associated with hostage situations and kidnappings, though it can occur in various abusive contexts.
+
+- 1973 Bank Robbery
+
+- Signs & Symptoms
+
+- Other Contexts
+
+- Criticism and Controversy
+
+- How to Help
+
+### The 1973 Stockholm Bank Robbery
+
+The term comes from an attempted robbery of Sveriges Kreditbanken at Norrmalmstorg square in Stockholm, Sweden, on 23 August 1973. Escaped convict Jan-Erik Olsson took four bank employees hostage: three women and one man.
+
+He demanded money, a getaway car, and the release of his associate Clark Olofsson from prison.
+
+Police brought Olofsson to the bank to join him. The siege lasted six days, with the hostages held in the vault throughout.
+
+Several hostages came to fear the police more than their captors. One reportedly telephoned Swedish Prime Minister Olof Palme. She said she trusted the robbers, not the police. She feared a raid would get everyone killed.
+
+In some cases, hostages formed bonds with their captors and becamesympathetictowards them. This was the opposite of the fear, terror, and hostility one might expect.
+
+Police ended the siege by pumping tear gas into the vault. The captors surrendered without anyone being killed.
+
+The hostages felt no hatred for their captors. They refused to testify against them, and some reportedly helped raise money for their legal defence.
+
+Thepsychiatrist and criminologistNils Bejerot, who advised police during the siege, described the hostages’ unexpected bond to the media (Bejerot, 1974). In Sweden, the reaction became known as Norrmalmstorg syndrome. Internationally, it became known as Stockholm syndrome.
+
+FBI hostage negotiators and the psychiatrist Frank Ochberg later helped formalise the concept for crisis-negotiation training. The whole label rests on this single, uncontrolled case.
+
+Stockholm Syndrome does not occur in every captive situation, and its exact causes remain unclear. Some experts view it as one aspect of emotional abuse or trauma bonding rather than a standalone syndrome.
+
+### Signs someone is experiencing Stockholm Syndrome
+
+Although Stockholm Syndrome is not listed as a formal mental health diagnosis, people who experience this syndrome tend to display the following signs:
+
+- Positive Feelings:warmth, sympathy, or affection towards the captor.
+
+- Supporting Their Reasoning:agreeing with the captor’s behavior and the logic behind it.
+
+- Shared Values:perceiving the captor’s humanity and believing they share the same goals.
+
+- No Attempt to Escape:little or no effort to get away, even when possible.
+
+- Belief in Their Goodness:a conviction that the captor is fundamentally good.
+
+- Reinforced Compliance:when a reward — less abuse, or survival itself — follows appeasing behavior, that behavior is reinforced.
+
+- Pity for the Captor:feeling sorry for them, sometimes seeing them as a victim too.
+
+- Wanting to ‘Save’ Them:a wish to protect or rescue the captor.
+
+Aside fromhaving an attachmentor bond with their captor, the victims may also develop different feelings towards those outside the situation. For instance, they may:
+
+- Be unwilling to engage in any behaviors that could assist in their release.
+
+- Have negative feelings towards their friends or family who may try to rescue them.
+
+- Develop negative feelings towards the police, authority figures, or anyone who might be trying to help them get away from their captor.
+
+- Refuse to cooperate against their captor, such as during the subsequent investigation or during legal trials.
+
+- Refuse to leave their captors even when given the opportunity to escape.
+
+- Believe that the police and other authorities do not have their best interests at heart.
+
+Even after being released from captivity, the person with Stockholm Syndrome may continue to have positive feelings towards their captor and may report some of the following symptoms:
+
+- Continuously thinking positively about their captor, recalling the captor’s actions as protective or caring despite the reality.
+
+- Feeling personally guilty for actions that led to their capture or believing they deserved the treatment they received.
+
+- Denying or minimizing the captor’s abusive behavior, even when faced with clear evidence.
+
+- Withdrawing socially from friends and family, preferring isolation or minimal interaction.
+
+- Frequently experiencing heightened stress and tension, especially when reminded of their captivity.
+
+- Persistent anxiety directly related to their captor, such as worry about the captor’s well-being or fearing harm might come to them.
+
+In addition, individuals often show symptoms similar to Post-Traumatic Stress Disorder (PTSD), including:
+
+- Becoming startled easily by unexpected sounds or movements.
+
+- Experiencing persistent mistrust or suspicion towards others.
+
+- Having feelings of unreality, detachment, or dissociation from their surroundings.
+
+- Frequent, intrusive flashbacks vividly reliving aspects of their captivity.
+
+- Heightened irritability, sometimes manifesting as uncharacteristic anger or frustration.
+
+- Recurrent nightmares involving scenarios related to captivity or their captor.
+
+- Difficulty concentrating on daily tasks, showing impaired memory or decision-making.
+
+- Chronic insomnia or severely disrupted sleep patterns.
+
+### Causes of Stockholm Syndrome
+
+Stockholm Syndrome does not have a single, definitive cause but rather arises from a combination of factors in situations of captivity or prolonged abuse. Below are key contributing factors:
+
+### Survival Mechanism
+
+Stockholm Syndrome is primarily considered a psychological strategy for survival. Victims develop positive feelings toward their captors as a coping mechanism to manage overwhelming stress and anxiety experienced during captivity or abuse.
+
+### Identification With the Aggressor
+
+PsychoanalystAnna Freud(1937) described a defence mechanism calledidentification with the aggressor. Faced with an overwhelming threat, a person may unconsciously take on their aggressor’s attributes rather than remain a helpless target.
+
+By adopting the captor’s viewpoint, the victim turns an uncontrollable outside threat into something that feels, psychologically, on their side.
+
+### Learned Helplessness
+
+A behavioural explanation points tolearned helplessness. When resistance and escape feel repeatedly futile, people can stop trying to fight back and shift into passive accommodation instead.
+
+Seligman and Maier (1967) first demonstrated this pattern in dogs exposed to inescapable shock, and later extended it to human depression.
+
+This response explains the passivity often seen in captivity. It does not, on its own, explain the positive feelings some victims go on to report.
+
+### Emotional and Physical Dependence
+
+Victims who rely heavily on their captors for basic needs—such as food, shelter, safety, or even human contact—may begin to feel emotionally dependent.
+
+This dependency can lead victims to perceive their captors positively or sympathetically as providers, rather than solely as threats.
+
+### Captor’s Behavior
+
+The captor’s behavior significantly influences the development of Stockholm Syndrome. Occasional acts of kindness, compassion, or simply refraining from violence can trigger emotional bonds, making victims view their captors as benevolent or misunderstood.
+
+### Duration and Isolation
+
+Prolonged exposure and isolation from the outside world intensify emotional responses. When victims share confined spaces with captors over extended periods, the continuous, close interaction can blur boundaries, fostering complex emotional connections.
+
+### Psychological Complexity and Trauma Bonding
+
+Stockholm Syndrome shares similarities with trauma bonding, where alternating cycles of abuse and kindness create emotional confusion.
+
+Victims remain hopeful for kindness amidst cruelty, reinforcing their emotional attachment and complicating efforts to escape or resist.
+
+Dutton and Painter (1981) named this patterntraumatic bonding. They traced it to two conditions acting together: a power imbalance that leaves the victim more dependent on the dominant person, and intermittent abuse.
+
+Together, the two conditions forge an unusually powerful emotional bond.
+
+### Examples
+
+There have been a few famous historical cases that researchers have believed were examples of someone having Stockholm Syndrome.
+
+These examples appear to show that these individuals may have had some level of positive feelings toward their captors. Whether these are actually examples of Stockholm Syndrome is up for debate.
+
+### Mary McElroy
+
+In 1933, four men held 25-year-old Mary McElroy at gunpoint, chained her to walls in an abandoned farmhouse, and demanded a ransom from her family.
+
+When she was released, she had reportedly struggled to name her captors in their trial and had publicly expressed sympathy for them. Whilst she agreed that her captors should receive punishment, she still visited them while they were in prison.
+
+### Patty Hearst
+
+One of the most famous examples of what was believed to be Stockholm Syndrome, Hearst, was kidnapped in 1974 by the Symbionese Liberation Army (SLA).
+
+During her captivity, Hearst was reported to have renounced her family, adopted a new name, and even joined her captors in robbing banks.
+
+She was later arrested and claimed she had Stockholm Syndrome as a defense in her trial.
+
+Her trial became a flashpoint for the label’s biggest weakness. Prosecutors and her defence disputed whether her crimes were coerced adaptation to captivity, or a free choice she made.
+
+That same tension has followed the label ever since: using Stockholm syndrome to question, rather than support, a survivor’s own account.
+
+### Natascha Kampusch
+
+In 1998, when ten years old at the time, Kampusch was kidnapped and kept captive in an underground, dark, insulated room. She was held captive by her kidnapper for more than eight years.
+
+During this time, she was reportedly physically abused by her captor, but he had also shown her kindness.
+
+Kampusch says she adapted to survive. In her 2010 memoir,3,096 Days, she describes navigating her captivity to survive it, not as living with an illness.
+
+She eventually escaped. Her captor had committed suicide, and it was reported that she ‘wept inconsolably.’ Kampusch denied that she had Stockholm Syndrome and suggested the relationship with her kidnapper was complex.
+
+She explains: ‘I find it very natural that you would adapt yourself to identify with your kidnapper, especially if you spend a great deal of time with that person.’
+
+### Can Stockholm Syndrome be applied to other situations?
+
+While Stockholm Syndrome is typically associated with hostage situations, it can be applied to various other relationships and circumstances:
+
+### Abusive Relationships
+
+Stockholm Syndrome frequently occurs within parent-child dynamics and romantic partnerships.
+
+Children, for example, may form emotional attachments to abusive parents, confusing harmful actions and threats for genuine love and affection.
+
+Individuals in abusive relationships often become emotionally bonded to their abusers, prolonging the cycle of abuse (Cantor & Price, 2007).
+
+Victims may protect their abusers, justify their behavior, or express feelings of love even after the relationship has ended.
+
+### Sex Trafficking
+
+Karan and Hansen (2018) studied female sex workers in India and identified conditions consistent with Stockholm Syndrome. These included perceived threats to survival, perceived kindness from traffickers or clients, isolation from the outside world, and a sense of being unable to escape.
+
+Remarkably, some women expressed a desire to start families with their traffickers or clients.
+
+They called it “Sonagachi syndrome” instead. This was a caution against applying a Western label without testing whether it truly fits a different culture.
+
+### Sports Coaching
+
+A 2018 study revealed that abusive coaches often victimize young athletes, who may rationalize such abuse as beneficial.
+
+Athletes sometimes endure severe emotional abuse and challenging conditions, believing these experiences improve their performance.
+
+Athletes often idolise the coach their advancement depends on. They may sympathize with the coach’s intentions and justify mistreatment as necessary training (Bachand & Djak, 2018).
+
+### Cults and Coercive Groups
+
+Members of cults and other coercive groups may similarly defend a controlling leader and adopt the group’s worldview. They may resist rescue attempts by family or friends.
+
+The same conditions that drive Stockholm Syndrome in captivity, isolation and total dependence on one authority figure, are common features of high-control groups.
+
+### Criticism and Controversy
+
+Stockholm syndrome is not an official diagnosis. It does not appear in the DSM-5-TR or the ICD-11, and it has no agreed diagnostic criteria.
+
+Many experts doubt it is a unique condition at all. They see it as a label for reactions already explained by trauma bonding or post-traumatic stress disorder (PTSD).
+
+Media coverage shaped much of its popularity. Critics argue that high-profile stories, not research, built the idea of Stockholm syndrome (Namnyaket al.,2008).
+
+Fuselier’s (1999) analysis of over 1,200 FBI hostage-negotiation cases found the reaction was rare. About 8% of cases showed it overall. That fell to roughly 5% once hostages who simply expressed anger at police, rather than warmth toward the captor, were excluded.
+
+The evidence is thin. Namnyak et al.’s (2008) review found no agreed diagnostic criteria and noted that most examples in the literature were only case studies.
+
+It is a systematic review: a study that searches the published literature thoroughly and transparently, rather than relying on hand-picked sources. That method places it near the top of the evidence hierarchy. It is the strongest single critique the label has faced.
+
+Some researchers go further, suggesting “Stockholm syndrome” is more of a pop culture concept than a valid clinical syndrome.
+
+Overall, the debate highlights the controversial and complex nature of this phenomenon in psychology.
+
+### Contemporary Research
+
+Recent psychology research has mostly moved away from “Stockholm syndrome” as a scientific term. It now focuses on trauma bonding as a measurable process.
+
+A 2023 path-model study of 354 adults currently in abusive relationships found that childhood maltreatment and insecure attachment both predicted trauma bonding, over and above romantic love. Both were also linked to PTSD symptoms (Shaughnessy et al., 2023).
+
+Insecure attachment made the effect stronger. The link between maltreatment and bonding was strongest in people with the most insecure attachment styles.
+
+Extending earlier evolutionary accounts of survival responses (Cantor & Price, 2007), a separate 2023 review argues the “Stockholm syndrome” label should be retired altogether in favor of “appeasement.”
+
+This is an automatic survival response. A threatened person can appear emotionally bonded to whoever is endangering them, in order to reduce the danger and survive.
+
+The paper explains this survival response through Polyvagal Theory, a framework describing how the nervous system reacts to threat. It was co-authored by Stephen Porges, the theory’s originator, and by kidnapping survivor Jaycee Dugard.
+
+Dugard argues the reframing helps survivors. She says it treats their response as a normal survival strategy rather than a disorder (Bailey et al., 2023).
+
+### Overcoming Stockholm Syndrome
+
+Recovering from Stockholm Syndrome involves various approaches designed to support individuals in regaining emotional independence and mental health. Below are practical methods:
+
+### Professional Therapy
+
+Psychotherapy is highly beneficial in addressing Stockholm Syndrome. Therapists often utilize cognitive-behavioral therapy (CBT) to help individuals recognize and change unhelpful thought patterns, process traumatic experiences, and build healthier coping mechanisms.
+
+According to psychiatrist Judith Herman’s influential model of trauma recovery, treatment works best in three phases (Herman, 1992). These are establishing safety, processing and mourning the trauma, and reconnecting with ordinary life.
+
+### Support Networks
+
+Reconnecting with supportive friends, family members, or joining support groups provides critical emotional reinforcement.
+
+Open, judgment-free conversations can significantly assist individuals in feeling validated and supported through their recovery process.
+
+### Education and Awareness
+
+Learning about Stockholm Syndrome, trauma bonding, and related psychological phenomena empowers individuals by providing context to their experiences.
+
+Understanding their condition can reduce confusion, self-blame, and feelings of isolation.
+
+### Building Independence
+
+Developing practical life skills and regaining autonomy helps individuals reduce emotional dependence on their former captors or abusers.
+
+Encouraging independent decision-making and participating in daily activities can gradually restore self-confidence and emotional resilience.
+
+### Self-Care and Emotional Wellness
+
+Practicing regular self-care activities such asmindfulness, exercise, adequate rest, and healthy nutrition supports overall mental and physical well-being.
+
+Prioritizing personal wellness is essential in recovering from the effects of trauma and abuse.
+
+### How to help someone who may be experiencing Stockholm Syndrome
+
+You may be a loved one of someone who has gone through a traumatic event and shows signs of Stockholm Syndrome. Here are some ways to support them through their emotions:
+
+- Listen without judgment– as the victim is considering everything that has happened to them and they are trying to process their experiences,listen and use reflectionto show your concern and validation.
+
+- Avoid polarization– when listening to the victim, it may be unhelpful to try to convince them of the villainous traits of their abuser. This can cause the victim to polarize and defend their captor. They may also not want to share their experiences with you.
+
+- Validate their truth– being the victim of amanipulative relationshipcan causecognitive dissonance. This means that the victim’s intuition has been damaged, and they may be confused about their reality. Helping them by validating their truth and encouraging them to trust themselves can be beneficial for them.
+
+- Don’t give advice unless they ask for it– the victim should feel empowered to make their own decisions. If they ask you for advice, then you can give it, but this may be something that they need to work through and make decisions for on their own.
+
+### Key Takeaways
+
+- No Formal Diagnosis:Stockholm Syndrome has no listing in the DSM-5-TR or ICD-11 and no agreed diagnostic criteria — it’s a descriptive label, not a clinical condition.
+
+- Survival Response:bonding with a captor is best understood as a way of coping with inescapable, life-threatening control, not weakness or genuine affection. It can develop over days, weeks, or even years.
+
+- Rare:FBI hostage-negotiation data suggest only around 5–8% of kidnap victims show clear signs, and most hostages form no positive bond with their captor at all.
+
+- Related Concepts:psychologists increasingly explain the same behaviour through trauma bonding and post-traumatic stress rather than a distinct “syndrome.”
+
+- Thin Evidence:a major review found no validated diagnostic criteria and concluded the concept is shaped more by media coverage than research.
+
+- Appeasement:recent work proposes replacing the Stockholm syndrome label with an involuntary survival strategy explained by threat physiology, and links trauma bonding to specific risk factors like childhood maltreatment and insecure attachment.
+
+Guy-Evans, O. (2026). Stockholm Syndrome. Simply Psychology. https://www.simplypsychology.org/stockholm-syndrome.html
+
+Guy-Evans, Olivia. "Stockholm Syndrome." Simply Psychology, 17 September 2026, https://www.simplypsychology.org/stockholm-syndrome.html.
+
+Guy-Evans, O. (2026) Stockholm Syndrome. Simply Psychology. Available at: https://www.simplypsychology.org/stockholm-syndrome.html (Accessed: 21 September 2026).
+
+### References
+
+Bachand, C., & Djak, N. (2018). Stockholm syndrome in athletics: A Paradox.Children Australia, 43(3), 175-180. https://doi.org/10.1017/cha.2018.31
+
+Bailey, R., Dugard, J., Smith, S. F., & Porges, S. W. (2023). Appeasement: Replacing Stockholm syndrome as a definition of a survival strategy.European Journal of Psychotraumatology, 14(1), 2161038. https://doi.org/10.1080/20008066.2022.2161038
+
+Bejerot, N. (1974). The six-day war in Stockholm.New Scientist, 61(886), 486-487.
+
+Cantor, C., & Price, J. (2007). Traumatic entrapment, appeasement and complex post-traumatic stress disorder: evolutionary perspectives of hostage reactions, domestic abuse and the Stockholm syndrome.Australian & New Zealand Journal of Psychiatry, 41(5), 377-384. https://doi.org/10.1080/00048670701261178
+
+Karan, A., & Hansen, N. (2018). Does the Stockholm Syndrome affect female sex workers? The case for a “Sonagachi Syndrome”.BMC international health and human rights, 18(1), 10. https://doi.org/10.1186/s12914-018-0148-4
+
+Dutton, D. G., & Painter, S. L. (1981). Traumatic bonding: The development of emotional attachments in battered women and other relationships of intermittent abuse.Victimology, 6(1-4), 139-155.
+
+Freud, A. (1937).The ego and the mechanisms of defence. Hogarth Press.
+
+Fuselier, G. D. (1999). Placing the Stockholm syndrome in perspective.FBI Law Enforcement Bulletin, 68(7), 22-25.
+
+Herman, J. L. (1992).Trauma and recovery: The aftermath of violence-from domestic abuse to political terror. Basic Books.
+
+Namnyak, M., Tufton, N., Szekely, R., Toal, M., Worboys, S., & Sampson, E. L. (2008). ‘Stockholm syndrome’: psychiatric diagnosis or urban myth?Acta Psychiatrica Scandinavica, 117(1), 4-11. https://doi.org/10.1111/j.1600-0447.2007.01112.x
+
+Seligman, M. E. P., & Maier, S. F. (1967). Failure to escape traumatic shock.Journal of Experimental Psychology, 74(1), 1-9. https://doi.org/10.1037/h0024514
+
+Shaughnessy, E. V., Simons, R. M., Simons, J. S., & Freeman, H. (2023). Risk factors for traumatic bonding and associations with PTSD symptoms: A moderated mediation.Child Abuse & Neglect, 144, 106390. https://doi.org/10.1016/j.chiabu.2023.106390
+
+BSc (Hons) Psychology, MRes, PhD, University of Manchester
+
+Chartered Psychologist (CPsychol)
+
+Saul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.
+
+Olivia Guy-Evans, MSc
+
+Associate Editor for Simply Psychology
+
+BSc (Hons) Psychology, MSc Psychology of Education
+
+Olivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.

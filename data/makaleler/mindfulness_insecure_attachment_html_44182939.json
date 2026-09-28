@@ -1,0 +1,157 @@
+{
+  "id": "mindfulness_insecure_attachment_html_44182939",
+  "url": "https://www.simplypsychology.org/mindfulness-insecure-attachment.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "The Role of Mindfulness Between Adult Attachment and Anxiety",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2025-06-26T10:47:37+00:00",
+  "date_modified": null,
+  "read_time_minutes": 8,
+  "word_count": 1640,
+  "summary": "News»Clinical Psychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "News»Clinical Psychology",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Points",
+      "content": "- The study examined whether traitmindfulnessmediates the relationship betweenadult attachment orientations(anxiety and avoidance) and anxiety symptoms among 219 heterosexual couples.\n\n- Key findings showed that for both men and women, higher attachment anxiety and avoidance related to lower trait mindfulness, which in turn related to higher anxiety symptoms (intrapersonal mediation).\n\n- There was also an interpersonal mediation effect where men’s attachment anxiety related to lower mindfulness in women, which related to higher anxiety symptoms in women.\n\n- Limitations of the study include its cross-sectional design, self-report measures, and a sample of only heterosexual couples.\n\n- The study highlights the role of trait mindfulness in understanding links between poor attachment patterns and anxiety, with implications for incorporating mindfulness into therapy.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Rationale",
+      "content": "Prior research has established robust links between insecure adult attachment orientations characterized by highattachment anxietyand avoidance and various poor mental health outcomes like anxiety disorders (Mikulincer & Shaver, 2012).\n\nAttachment theoryargues these associations are due to the ineffective emotion regulation strategies used by anxiously attached (hyperactivating strategies like catastrophizing) andavoidantly attached individuals(deactivating strategies like suppression; Mikulincer & Shaver, 2016).\n\nHowever, little research has examined explanatory mechanisms for these associations, especially mechanisms that can be targeted in therapy. One promising mechanism is trait mindfulness, defined as present-focused, nonjudgmental awareness.\n\nTrait mindfulness has been found to mediate associations of attachment insecurity with anxiety and other outcomes (Macaulay et al., 2015; Martín et al., 2017). It may disrupt negative appraisals and ineffective regulation tied to insecure attachment.\n\nCritically, though, no studies have tested mindfulness as a mediator within romantic couples. Romantic partners’ attachment patterns likely influence each other’s emotion regulation abilities like mindfulness.\n\nThus, analyzing actor and partner effects in couples using the Actor-Partner Interdependence Mediation Model (APIMeM) allows a nuanced understanding of how mindfulness links attachment patterns to anxiety interpersonally (Ledermann et al., 2011).",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Method",
+      "content": "219 heterosexual couples completed validated self-report measures of:\n\n- attachment anxiety and avoidance(Experiences in Close Relationships Scale; Brennan et al., 1998),\n\n- trait mindfulness(Mindful Attention Awareness Scale; Brown & Ryan, 2003),\n\n- anxiety symptoms(short-form State-Trait Anxiety Inventory; Marteau & Bekker, 1992)",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Sample",
+      "content": "- 438 participants (219 couples) from across the United States were recruited via an online survey panel (Qualtrics)\n\n- Average age was 39.05 years for men and 35.90 years for women\n\n- Most participants were White (71.7%) and married (73.5%), with an average relationship length of 10.92 years",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Statistical Analysis",
+      "content": "- An APIMeM tested study hypotheses. This model estimates intrapersonal (actor effects) and interpersonal mediation effects (partner effects) while accounting for dyadic interdependence.\n\n- Bootstrapping tested indirect effects between study variables within and between partners. For example, one’s own attachment anxiety → one’s own trait mindfulness → one’s own anxiety symptoms is an actor-actor indirect effect.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Results",
+      "content": "- For both genders, higher attachment anxiety and avoidance are related to lower trait mindfulness, and lower mindfulness is related to higher anxiety symptoms (actor effects).\n\n- There was also a partner effect where men’s attachment anxiety related to lower mindfulness in women.\n\n- Three indirect effects were significant:One’s own attachment anxiety → one’s own lower mindfulness → one’s own higher anxiety symptoms (actor-actor)One’s own attachment avoidance → one’s own lower mindfulness → one’s own higher anxiety symptoms (actor-actor)Men’s attachment anxiety → women’s lower mindfulness → women’s higher anxiety symptoms (partner-actor).\n\n- One’s own attachment anxiety → one’s own lower mindfulness → one’s own higher anxiety symptoms (actor-actor)\n\n- One’s own attachment avoidance → one’s own lower mindfulness → one’s own higher anxiety symptoms (actor-actor)\n\n- Men’s attachment anxiety → women’s lower mindfulness → women’s higher anxiety symptoms (partner-actor).\n\n- One’s own attachment anxiety → one’s own lower mindfulness → one’s own higher anxiety symptoms (actor-actor)\n\n- One’s own attachment avoidance → one’s own lower mindfulness → one’s own higher anxiety symptoms (actor-actor)\n\n- Men’s attachment anxiety → women’s lower mindfulness → women’s higher anxiety symptoms (partner-actor).",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Insight",
+      "content": "This study contributes to research onadult attachment, mindfulness, and anxiety in couples. While links between attachment insecurity and anxiety are well-established (Mikulincer & Shaver, 2012), research seldom considers romantic partners’ mutual influence despite romantic partners being each other’s primary attachment figures.\n\nUsing the APIMeM, this study showed that attachment patterns not only related to one’s ownemotion regulationand anxiety, but also influenced the partner’s mindfulness and anxiety.\n\nFinding mindfulness as a mechanism within and between partners strongly indicates that mindfulness skills could make couples more resilient to the effects of attachment insecurities.\n\nTraining couples in mindfulness may prevent anxiety by altering maladaptive emotion regulation tied to insecure attachment.\n\nOverall, the study highlights exciting possibilities for incorporating mindfulness into therapy with couples to address anxiety rooted in relational patterns.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Strengths",
+      "content": "- Used APIMeM to account for dyadic interdependence and test mediation at individual and partner levels\n\n- Had a large community sample of couples\n\n- Included validated measures of key study constructs",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Limitations",
+      "content": "- Cross-sectional designrestricts conclusions about directionality\n\n- Self-report measures prone to bias\n\n- Sample comprised only heterosexual couples, limiting generalizability\n\n- Did not assess factors like relationship commitment that may influence associations",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Implications",
+      "content": "This study carries meaningful clinical and research implications. For clinicians delivering psychotherapy to couples, directly targeting each partner’s attachment insecurities may be difficult as adult attachment orientation is largely stable (Fraley, 2002).\n\nHowever, incorporating mindfulness skills training to alter associated emotion regulation deficits seems promising. Trait mindfulness was an explanatory mechanism linking partners’ attachment patterns to heightened anxiety.\n\nMindfulness-focused emotional regulation skillsmay attenuate anxiety rooted in couple dynamics like reassurance-seeking or withdrawal tied to attachment anxiety and avoidance respectively.\n\nClinicians can also educate couples about these links between their attachment patterns, mindfulness, and anxiety. Doing so motivates couples to engage more actively in developing shared mindfulness practices that can shore up their collective emotion regulation abilities.\n\nFor researchers, this study prompts key next directions like experimental and longitudinal designs to clarify directionality among variables.\n\nResearchers can also identify other explanatory mechanisms linking couples’ attachment patterns to anxiety, including couple communication patterns and empathy.\n\nCrucially, similar studies need to be conducted with samples of same-sex couples and diverse relationship constellations to determine the equivalence of observed effects across groups.\n\nMcLeod, S. (2025). The Role of Mindfulness Between Adult Attachment and Anxiety. Simply Psychology. https://www.simplypsychology.org/news/mindfulness-insecure-attachment/\n\nMcLeod, Saul. \"The Role of Mindfulness Between Adult Attachment and Anxiety.\" Simply Psychology, 26 June 2025, https://www.simplypsychology.org/news/mindfulness-insecure-attachment/.\n\nMcLeod, S. (2025) The Role of Mindfulness Between Adult Attachment and Anxiety. Simply Psychology. Available at: https://www.simplypsychology.org/news/mindfulness-insecure-attachment/ (Accessed: 22 September 2026).",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "References",
+      "content": "Brennan, K. A., Clark, C. L., & Shaver, P. R. (1998). Self-report measurement of adult attachment: An integrative overview. In J. A. Simpson & W. S. Rholes (Eds.),Attachment theory and close relationships(pp. 46–76). Guilford Press.\n\nBrown, K. W., & Ryan, R. M. (2003). The benefits of being present: Mindfulness and its role in psychological well-being.Journal of Personality and Social Psychology, 84(4), 822–848.https://doi.org/10.1037/0022-3514.84.4.822\n\nFraley, R. C. (2002). Attachment stability from infancy to adulthood: Meta-analysis and dynamic modeling of developmental mechanisms.Personality and Social Psychology Review, 6(2), 123-151.https://doi.org/10.1207/S15327957PSPR0602_03\n\nLedermann, T., Macho, S., & Kenny, D. A. (2011). Assessing mediation in dyadic data using the actor-partner interdependence model.Structural Equation Modeling, 18(4), 595-612.https://doi.org/10.1080/10705511.2011.607099\n\nMacaulay, C. B., Watt, M. C., MacLean, K., & Weaver, A. (2015). Mindfulness mediates associations between attachment and anxiety sensitivity.Mindfulness, 6(6), 1263-1270.https://doi.org/10.1007/s12671-015-0390-y\n\nMarteau, T. M., & Bekker, H. (1992). The development of a six-item short-form of the state scale of the Spielberger State-Trait Anxiety Inventory (STAI).British Journal of Clinical Psychology, 31(3), 301-306.https://doi.org/10.1111/j.2044-8260.1992.tb00997.x\n\nMartín, D., Gillath, O., Deboeck, P., Lang, K., & Kerr, B. (2017). Changes in attachment security and mindfulness as predictors of changes in depression and general anxiety.Journal of Social and Clinical Psychology, 36(9), 769–797.https://doi.org/10.1521/jscp.2017.36.9.769\n\nMikulincer, M., & Shaver, P. R. (2012). An attachment perspective on psychopathology.World Psychiatry, 11(1), 11-15.https://doi.org/10.1016/j.wpsyc.2012.01.003\n\nMikulincer, M., & Shaver, P. R. (2016).Attachment in adulthood: Structure, dynamics, and change(2nd ed.). Guilford Press.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Keep Learning",
+      "content": "- How might therapists work with couples to cultivate shared mindfulness practices? What challenges might arise?\n\n- What other dyadic processes, beyond attachment patterns, might relate to individual capacities like mindfulness and outcomes like anxiety?\n\n- Could mindfully working through negative relationship patterns ever be more beneficial than trying to directly change those patterns? What might that look like?\n\n- How might partners encourage each other’s mindfulness practice amid the challenges of daily life and relationships?\n\n- If mindfulness changes part of your brain tied to executive control, could that explain how it disrupts negative thinking patterns – and do couples need to practice together for maximum benefit?\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 13,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mindfulness-breathing.jpeg",
+      "alt": "The Role of Mindfulness Between Adult Attachment and Anxiety",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mindfulness-yogi-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/ptsd-300x129.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-anxiety-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/future-anxiety-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/disclosing-diagnosis-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/ptsd-300x243.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# The Role of Mindfulness Between Adult Attachment and Anxiety\n\n> News»Clinical Psychology\n\n## Giriş\n\nNews»Clinical Psychology\n\n## Key Points\n\n- The study examined whether traitmindfulnessmediates the relationship betweenadult attachment orientations(anxiety and avoidance) and anxiety symptoms among 219 heterosexual couples.\n\n- Key findings showed that for both men and women, higher attachment anxiety and avoidance related to lower trait mindfulness, which in turn related to higher anxiety symptoms (intrapersonal mediation).\n\n- There was also an interpersonal mediation effect where men’s attachment anxiety related to lower mindfulness in women, which related to higher anxiety symptoms in women.\n\n- Limitations of the study include its cross-sectional design, self-report measures, and a sample of only heterosexual couples.\n\n- The study highlights the role of trait mindfulness in understanding links between poor attachment patterns and anxiety, with implications for incorporating mindfulness into therapy.\n\n## Rationale\n\nPrior research has established robust links between insecure adult attachment orientations characterized by highattachment anxietyand avoidance and various poor mental health outcomes like anxiety disorders (Mikulincer & Shaver, 2012).\n\nAttachment theoryargues these associations are due to the ineffective emotion regulation strategies used by anxiously attached (hyperactivating strategies like catastrophizing) andavoidantly attached individuals(deactivating strategies like suppression; Mikulincer & Shaver, 2016).\n\nHowever, little research has examined explanatory mechanisms for these associations, especially mechanisms that can be targeted in therapy. One promising mechanism is trait mindfulness, defined as present-focused, nonjudgmental awareness.\n\nTrait mindfulness has been found to mediate associations of attachment insecurity with anxiety and other outcomes (Macaulay et al., 2015; Martín et al., 2017). It may disrupt negative appraisals and ineffective regulation tied to insecure attachment.\n\nCritically, though, no studies have tested mindfulness as a mediator within romantic couples. Romantic partners’ attachment patterns likely influence each other’s emotion regulation abilities like mindfulness.\n\nThus, analyzing actor and partner effects in couples using the Actor-Partner Interdependence Mediation Model (APIMeM) allows a nuanced understanding of how mindfulness links attachment patterns to anxiety interpersonally (Ledermann et al., 2011).\n\n## Method\n\n219 heterosexual couples completed validated self-report measures of:\n\n- attachment anxiety and avoidance(Experiences in Close Relationships Scale; Brennan et al., 1998),\n\n- trait mindfulness(Mindful Attention Awareness Scale; Brown & Ryan, 2003),\n\n- anxiety symptoms(short-form State-Trait Anxiety Inventory; Marteau & Bekker, 1992)\n\n## Sample\n\n- 438 participants (219 couples) from across the United States were recruited via an online survey panel (Qualtrics)\n\n- Average age was 39.05 years for men and 35.90 years for women\n\n- Most participants were White (71.7%) and married (73.5%), with an average relationship length of 10.92 years\n\n## Statistical Analysis\n\n- An APIMeM tested study hypotheses. This model estimates intrapersonal (actor effects) and interpersonal mediation effects (partner effects) while accounting for dyadic interdependence.\n\n- Bootstrapping tested indirect effects between study variables within and between partners. For example, one’s own attachment anxiety → one’s own trait mindfulness → one’s own anxiety symptoms is an actor-actor indirect effect.\n\n## Results\n\n- For both genders, higher attachment anxiety and avoidance are related to lower trait mindfulness, and lower mindfulness is related to higher anxiety symptoms (actor effects).\n\n- There was also a partner effect where men’s attachment anxiety related to lower mindfulness in women.\n\n- Three indirect effects were significant:One’s own attachment anxiety → one’s own lower mindfulness → one’s own higher anxiety symptoms (actor-actor)One’s own attachment avoidance → one’s own lower mindfulness → one’s own higher anxiety symptoms (actor-actor)Men’s attachment anxiety → women’s lower mindfulness → women’s higher anxiety symptoms (partner-actor).\n\n- One’s own attachment anxiety → one’s own lower mindfulness → one’s own higher anxiety symptoms (actor-actor)\n\n- One’s own attachment avoidance → one’s own lower mindfulness → one’s own higher anxiety symptoms (actor-actor)\n\n- Men’s attachment anxiety → women’s lower mindfulness → women’s higher anxiety symptoms (partner-actor).\n\n- One’s own attachment anxiety → one’s own lower mindfulness → one’s own higher anxiety symptoms (actor-actor)\n\n- One’s own attachment avoidance → one’s own lower mindfulness → one’s own higher anxiety symptoms (actor-actor)\n\n- Men’s attachment anxiety → women’s lower mindfulness → women’s higher anxiety symptoms (partner-actor).\n\n## Insight\n\nThis study contributes to research onadult attachment, mindfulness, and anxiety in couples. While links between attachment insecurity and anxiety are well-established (Mikulincer & Shaver, 2012), research seldom considers romantic partners’ mutual influence despite romantic partners being each other’s primary attachment figures.\n\nUsing the APIMeM, this study showed that attachment patterns not only related to one’s ownemotion regulationand anxiety, but also influenced the partner’s mindfulness and anxiety.\n\nFinding mindfulness as a mechanism within and between partners strongly indicates that mindfulness skills could make couples more resilient to the effects of attachment insecurities.\n\nTraining couples in mindfulness may prevent anxiety by altering maladaptive emotion regulation tied to insecure attachment.\n\nOverall, the study highlights exciting possibilities for incorporating mindfulness into therapy with couples to address anxiety rooted in relational patterns.\n\n## Strengths\n\n- Used APIMeM to account for dyadic interdependence and test mediation at individual and partner levels\n\n- Had a large community sample of couples\n\n- Included validated measures of key study constructs\n\n## Limitations\n\n- Cross-sectional designrestricts conclusions about directionality\n\n- Self-report measures prone to bias\n\n- Sample comprised only heterosexual couples, limiting generalizability\n\n- Did not assess factors like relationship commitment that may influence associations\n\n## Implications\n\nThis study carries meaningful clinical and research implications. For clinicians delivering psychotherapy to couples, directly targeting each partner’s attachment insecurities may be difficult as adult attachment orientation is largely stable (Fraley, 2002).\n\nHowever, incorporating mindfulness skills training to alter associated emotion regulation deficits seems promising. Trait mindfulness was an explanatory mechanism linking partners’ attachment patterns to heightened anxiety.\n\nMindfulness-focused emotional regulation skillsmay attenuate anxiety rooted in couple dynamics like reassurance-seeking or withdrawal tied to attachment anxiety and avoidance respectively.\n\nClinicians can also educate couples about these links between their attachment patterns, mindfulness, and anxiety. Doing so motivates couples to engage more actively in developing shared mindfulness practices that can shore up their collective emotion regulation abilities.\n\nFor researchers, this study prompts key next directions like experimental and longitudinal designs to clarify directionality among variables.\n\nResearchers can also identify other explanatory mechanisms linking couples’ attachment patterns to anxiety, including couple communication patterns and empathy.\n\nCrucially, similar studies need to be conducted with samples of same-sex couples and diverse relationship constellations to determine the equivalence of observed effects across groups.\n\nMcLeod, S. (2025). The Role of Mindfulness Between Adult Attachment and Anxiety. Simply Psychology. https://www.simplypsychology.org/news/mindfulness-insecure-attachment/\n\nMcLeod, Saul. \"The Role of Mindfulness Between Adult Attachment and Anxiety.\" Simply Psychology, 26 June 2025, https://www.simplypsychology.org/news/mindfulness-insecure-attachment/.\n\nMcLeod, S. (2025) The Role of Mindfulness Between Adult Attachment and Anxiety. Simply Psychology. Available at: https://www.simplypsychology.org/news/mindfulness-insecure-attachment/ (Accessed: 22 September 2026).\n\n## References\n\nBrennan, K. A., Clark, C. L., & Shaver, P. R. (1998). Self-report measurement of adult attachment: An integrative overview. In J. A. Simpson & W. S. Rholes (Eds.),Attachment theory and close relationships(pp. 46–76). Guilford Press.\n\nBrown, K. W., & Ryan, R. M. (2003). The benefits of being present: Mindfulness and its role in psychological well-being.Journal of Personality and Social Psychology, 84(4), 822–848.https://doi.org/10.1037/0022-3514.84.4.822\n\nFraley, R. C. (2002). Attachment stability from infancy to adulthood: Meta-analysis and dynamic modeling of developmental mechanisms.Personality and Social Psychology Review, 6(2), 123-151.https://doi.org/10.1207/S15327957PSPR0602_03\n\nLedermann, T., Macho, S., & Kenny, D. A. (2011). Assessing mediation in dyadic data using the actor-partner interdependence model.Structural Equation Modeling, 18(4), 595-612.https://doi.org/10.1080/10705511.2011.607099\n\nMacaulay, C. B., Watt, M. C., MacLean, K., & Weaver, A. (2015). Mindfulness mediates associations between attachment and anxiety sensitivity.Mindfulness, 6(6), 1263-1270.https://doi.org/10.1007/s12671-015-0390-y\n\nMarteau, T. M., & Bekker, H. (1992). The development of a six-item short-form of the state scale of the Spielberger State-Trait Anxiety Inventory (STAI).British Journal of Clinical Psychology, 31(3), 301-306.https://doi.org/10.1111/j.2044-8260.1992.tb00997.x\n\nMartín, D., Gillath, O., Deboeck, P., Lang, K., & Kerr, B. (2017). Changes in attachment security and mindfulness as predictors of changes in depression and general anxiety.Journal of Social and Clinical Psychology, 36(9), 769–797.https://doi.org/10.1521/jscp.2017.36.9.769\n\nMikulincer, M., & Shaver, P. R. (2012). An attachment perspective on psychopathology.World Psychiatry, 11(1), 11-15.https://doi.org/10.1016/j.wpsyc.2012.01.003\n\nMikulincer, M., & Shaver, P. R. (2016).Attachment in adulthood: Structure, dynamics, and change(2nd ed.). Guilford Press.\n\n## Keep Learning\n\n- How might therapists work with couples to cultivate shared mindfulness practices? What challenges might arise?\n\n- What other dyadic processes, beyond attachment patterns, might relate to individual capacities like mindfulness and outcomes like anxiety?\n\n- Could mindfully working through negative relationship patterns ever be more beneficial than trying to directly change those patterns? What might that look like?\n\n- How might partners encourage each other’s mindfulness practice amid the challenges of daily life and relationships?\n\n- If mindfulness changes part of your brain tied to executive control, could that explain how it disrupts negative thinking patterns – and do couples need to practice together for maximum benefit?\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:28:45.190886"
+}

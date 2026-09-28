@@ -1,0 +1,145 @@
+{
+  "id": "what_is_fear_html_49eda186",
+  "original_title": "The Psychology of Fear: Definition, Symptoms, Traits, Causes, Treatment",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/what-is-fear.html",
+  "published_date": "2023-07-20T09:33:24+00:00",
+  "read_time_minutes": 21,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/fear.jpeg",
+      "alt": "The Psychology of Fear: Definition, Symptoms, Traits, Causes, Treatment",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/signs-of-fear-1.jpg",
+      "alt": "some of the signs of fear",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/generalized-anxiety-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/irrational-thinking-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/decison-making-anxiety-disorders-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/everything-is-overwhelming-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/anxious-woman-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/intolerance-of-uncertainty-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/limbic-system.jpg",
+      "alt": "parts of the limbic system",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Florence-Yeung-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4154,
+  "turkce_baslik": "Korkunun Anatomisi: Tehlike Anında Bedenimiz ve Zihnimiz Neden Savaşır?",
+  "kanca_sorusu": "Ortada somut bir tehlike yokken hissettiğiniz o ani boğulma ve kontrolü kaybetme hissi nereden geliyor?",
+  "score": 45,
+  "puan_nedeni": "Makale temel düzeyde biyolojik ve nörolojik bir konuyu (korku mekanizması ve fizyoloji) ele almaktadır. Genel tıp ve akademik psikoloji odaklı olduğu, doğrudan ilişki dinamikleri veya bağlanma örüntüleri üzerine derinlemesine bir 'ayna etkisi' yaratmadığı için puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Korku, insanlık tarihinin en eski ve en ilkel hayatta kalma mekanizmalarından biridir. Bedenimiz tehlike olarak algıladığı herhangi bir uyarıcıyla karşılaştığında sempatik sinir sistemini devreye sokar ve adrenalin salgılayarak bizi ya savaşmaya ya da kaçmaya programlar. Bu süreç tamamen biyolojiktir; kalp atış hızımız artar, göz bebeklerimiz büyür ve kaslarımız harekete geçmek için gerilir. Ancak modern dünyada bu ilkel mekanizma, sadece fiziksel tehditler karşısında değil, soyut kaygılar, sosyal baskılar veya geleceğe dair belirsizlikler karşısında da tetiklenmektedir.\n\nSorun şu ki, biyolojik tepkimiz aynı kalmasına rağmen maruz kaldığımız tehditler artık soyut ve zihinseldir. Lunaparktaki hız treninden zevk alan biri ile aynı fizyolojik tepkiyi verip dehşete düşen biri arasındaki fark, bu duyguyu nasıl anlamlandırdığımızla ilgilidir. Korku kronikleştiğinde ve günlük işlevselliğimizi bozmaya başladığında, sağlıklı bir savunma mekanizması olmaktan çıkarak anksiyete bozukluklarının, fobilerin veya panik atakların temelini oluşturur. Bedenimizin bizi korumak için ürettiği bu alarm sistemi, bazen yanlış çalışarak hayatımızın zindanı haline gelebilir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Korkunun Sessiz Mekaniği",
+      "body": "Korku sadece zihinsel bir endişe değil, bedenimizin hayatta kalma çığlığıdır.",
+      "highlight_box": "Beden tehlikeyi zihinden önce hisseder.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Savaş ya da Kaç Tepkisi",
+      "body": "Tehdit algılandığı an adrenalin salgılanır, kalp atışınız hızlanır ve kaslarınız kasılır. Bu tamamen biyolojiktir.",
+      "highlight_box": "Neden ellerimiz titrer ve nefesimiz daralır?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Fiziksel Belirtiler",
+      "body": "Çarpıntı, mide bulantısı, nefes darlığı ve yaklaşan felaket hissi korkunun bedensel yansımalarıdır.",
+      "highlight_box": "Kontrolü kaybetme hissi",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Bireysel Farklılıklar",
+      "body": "Aynı biyolojik tepki kimi için heyecan verici bir eğlenceyken, kimi için aşılması imkansız bir fobidir.",
+      "highlight_box": "Duyguyu anlamlandırma biçimimiz her şeyi değiştirir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Ne Zaman Problem Olur?",
+      "body": "Korku kalıcı hale gelip normal işlevselliğinizi bozuyorsa, bu artık sağlıklı bir savunma değil, aşılması gereken bir durumdur.",
+      "highlight_box": "Profesyonel destek bu döngüyü kırabilir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Bedeninizin verdiği tepkileri düşman olarak görmek yerine, onların nereden geldiğini anlamaya çalışın.",
+      "highlight_box": "Bu gönderiyi, ihtiyacı olan biriyle paylaşmak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Ortada hiçbir tehlike yokken kalbiniz neden saatte yüz elli atıyor biliyor musunuz?",
+    "konusma_metni": "Korku, hayatta kalmamız için tasarlanmış ilkel bir alarm sistemidir. Beynimiz bir tehdit algıladığında sempatik sinir sistemimiz devreye girer ve vücudumuza adrenalin pompalanır. Savaş ya da kaç tepkisi dediğimiz bu mekanizma bizi fiziksel tehlikelerden korur. Ancak modern hayatta bu alarm sistemi bozulur ve soyut kaygılar karşısında bile aynı şiddette çalışmaya başlar. Eğer bu his süreklilik kazantıysa, bedeniniz sürekli bir savaş halinde demektir."
+  },
+  "caption": "Korku, insan psişesinin en derinlerinde yer alan ve bizi hayatta tutmak için var olan ilkel bir mekanizmadır. Ancak modern dünyanın getirdiği stres faktörleri ve soyut kaygılar, bu koruyucu sistemi kontrolden çıkmış bir alarma dönüştürebilir. Vücudumuzun verdiği savaş ya da kaç tepkisi, fiziksel bir tehlike ortada yokken bile bizi tüketebilir. Bu durumla başa çıkmanın yolu, bedenin verdiği fiziksel sinyalleri bastırmak değil, onların altında yatan kökenleri anlamaktır. \n\n#korku #anksiyete #panikatak #sinirsistemi #psikoloji #ruhsalı̇yileşme #fobi",
+  "processed_at": "2026-09-26 17:45:16"
+}

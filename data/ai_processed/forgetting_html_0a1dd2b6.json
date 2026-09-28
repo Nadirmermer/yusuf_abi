@@ -1,0 +1,133 @@
+{
+  "id": "forgetting_html_0a1dd2b6",
+  "original_title": "Theories of Forgetting in Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/forgetting.html",
+  "published_date": "2026-09-17T11:05:28+00:00",
+  "read_time_minutes": 20,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/forgetting-in-psychology-1.jpg",
+      "alt": "Theories of Forgetting in Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--300x97.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/State-Dependent-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/flashbulb-memories-300x171.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/episodic-memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Declarative-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/serialposition.jpg",
+      "alt": "serial position effect",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4011,
+  "turkce_baslik": "Zihinsel Bellek ve Unutma Kuramları: Neden Hatırlamak Bu Kadar Zor?",
+  "kanca_sorusu": "Geçmişte yaşanan bir travmayı veya acı dolu bir konuşmayı yıllarca zihninizde canlı tutarken, dün nerede hata yaptığınızı neden unutursunuz?",
+  "score": 45,
+  "puan_nedeni": "Metin saf bilişsel psikoloji ve bellek kuramları (iz çürüme, yer değiştirme) üzerine kuruludur. İlişkisel dinamiklerden ziyade akademik nöroloji ve hafıza mekanizmalarını incelediği için @ya_da_psikoloji'nin yüksek etkileşimli ilişkisel profilinin alt sınırında kalmaktadır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, her bilgiyi aynı özenle saklamaz. Bilişsel psikoloji, unutmanın sadece bir hafıza zayıflığı değil, zihnin kendini koruma ve kapasite yönetimi biçimi olduğunu söyler. Kısa süreli belleğin o darlığı içinde yeni bilgiler eski anıları iter, zamanla izler silinir. Ancak ilişkisel travmalarda ve duygusal yüklerde durum başkadır; bazı anılar yıllarca zihnin en ulaşılmaz köşesinde saklanırken, günlük detaylar uçup gider. Zihin, acıyı veya gereksiz bilgiyi filtrelerken aslında bize kendi öncelik haritasını gösterir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihin Neden Unutur?",
+      "body": "Her şeyi hatırlamak bir lütuf değil, zihinsel bir yüktür. Unutmak, aslında beynin hayatta kalma mekanizmasıdır.",
+      "highlight_box": "Bellek bir kayıp değil, bir filtreleme sürecidir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Kısa Süreli Belleğin Sınırları",
+      "body": "Zihnimiz aynı anda sadece belirli sayıda bilgiyi tutabilir. Yeni gelen her uyaran, eskini dışarı iter.",
+      "highlight_box": "Kapasite dolduğunda eski bilgi silinir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "İz Çürüme Kuramı",
+      "body": "Zihinde bırakılan o fiziksel ve kimyasal izler, zamanla tekrar edilmezse solup gider.",
+      "highlight_box": "Zaman her şeyi siler mi?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Yer Değiştirme",
+      "body": "Yeni bilgiler, zihindeki o dar alana yerleşmek için eski anıları anında yerinden eder.",
+      "highlight_box": "Gelen gideni aratır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Hatırlama ve Bağlam",
+      "body": "Unuttuğumuzu sandığımız şeyler aslında kaybolmaz; sadece o anki ipucunu veya doğru bağlamı bulamayız.",
+      "highlight_box": "Bilgi oradadır, erişim engellenmiştir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Zihinsel Arşiv",
+      "body": "Neyi hatırladığınız kadar, neyi unuttuğunuz da kim olduğunuzu belirler.",
+      "highlight_box": "Bu analizi kaybetmemek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden bazı şeyleri asla unutmazken, bazılarını saniyeler içinde zihnimizden siliyoruz?",
+    "konusma_metni": "Zihnimiz devasa bir arşiv gibi görünse de aslında oldukça dar bir kapasiteye sahip. Kısa süreli bellek dolduğunda, yeni bilgiler eskileri iter. Buna psikolojide yer değiştirme ve iz çürüme denir. Ancak mesele sadece zaman değil; duygusal olarak yüklediğimiz anlam, bazı anıları sonsuza dek saklarken bazılarını anında unutturur."
+  },
+  "caption": "Bellek, sadece geçmişin kaydı değil, bugünün hayatta kalma stratejisidir. Zihnimiz her bilgiyi saklamaz; bazılarını zamanla eritir, bazılarını ise yeni gelenlerle yer değiştirerek ortadan kaldırır. Ancak travmalar ve derin duygusal izler bu kuralların dışına çıkar. Neyi unuttuğumuz, zihnimizin neleri tehdit olarak gördüğünün bir aynasıdır. #bilişselpsikoloji #bellek #unutmak #zihinyönetimi #psikolojianaliz #farkındalık",
+  "processed_at": "2026-09-26 17:07:00"
+}

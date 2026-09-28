@@ -1,0 +1,133 @@
+{
+  "id": "levelsofprocessing_html_025e48cf",
+  "original_title": "Levels of Processing Theory (Craik & Lockhart, 1972)",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/levelsofprocessing.html",
+  "published_date": "2026-03-31T15:27:00+00:00",
+  "read_time_minutes": 16,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/memory2.jpg",
+      "alt": "Levels of Processing Theory (Craik & Lockhart, 1972)",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/lop.jpg",
+      "alt": "levels of processing memory model",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--300x97.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-memory-300x111.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/schemas-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Declarative-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/State-Dependent-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/controlled-processing-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3150,
+  "turkce_baslik": "Yüzeysel Hatırlama Yanılgısı: Neden Bazı Anıları Unutmaya Mahkûm Ediyoruz?",
+  "kanca_sorusu": "Hayatınızdaki bazı insanları ve olayları neden sürekli tekrarlamanıza rağmen zihninizde tutamıyorsunuz?",
+  "score": 45,
+  "puan_nedeni": "Metin, bilişsel psikolojinin klasik bir hafıza teorisi olan İşleme Seviyeleri Kuramı'nı (Levels of Processing) ele almaktadır. Kuru akademik nöroloji veya hafıza depolama mekanizmalarına odaklandığı için doğrudan ilişkisel dinamikler ve duygusal çatışmalar içermediğinden orta-düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, maruz kaldığı her bilgiyi aynı derinlikte kaydetmez. Craik ve Lockhart'ın ortaya koyduğu işleme seviyeleri kuramı, hafızamızın kalitesinin sadece tekrara değil, bilginin zihnimizde ne kadar derinlemesine işlendiğine bağlı olduğunu gösterir. Günlük hayatta sürekli tekrarladığımız ama anlam yüklemediğimiz olaylar, tıpkı kelimelerin sadece harf karakterlerine bakmak gibi yüzeyde kalır ve silinmeye mahkûmdur. Buna karşılık, bir olaya ya da insana anlam yüklemek, onu geçmiş deneyimlerimizle ve kendi iç dünyamızla ilişkilendirmek derin bir işleme süreci gerektirir. İlişkilerde yaşanan hayal kırıklıklarını veya travmatik döngüleri atlatamamamızın temel sebebi de budur; olayları sadece yüzeysel bir ses veya görüntü olarak tekrar eder, ancak onlara atfettiğimiz anlamı dönüştüremeyiz. Kalıcı bir zihinsel dönüşüm, bilginin veya yaşananların yapısal ya da sessel düzeyde kalmasından öteye geçip, semantik bir süzgeçten geçirilmesiyle mümkündür.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Yüzeysel Hatırlama Yanılgısı",
+      "body": "Zihnimiz her maruz kaldığı bilgiyi aynı derinlikte kaydetmez. Bazı anılar silinir, bazıları ise ömür boyu bizimle kalır.",
+      "highlight_box": "Hafızanın kalitesi, tekrarın süresine değil, işlenme derinliğine bağlıdır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Yüzeysel ve Derin İşleme Arasındaki Çatışma",
+      "body": "Bir uyarıcıya sadece fiziksel ya da sessel olarak odaklandığınızda, bilgi kısa süreli belleğin ötesine geçemez.",
+      "highlight_box": "Sürekli tekrarlamak her zaman anlamak anlamına gelmez.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Yapısal ve Sessel Kodlama",
+      "body": "Yüzeysel işleme, bilginin sadece dış kabuğuyla ilgilenir. Kelimelerin nasıl göründüğüne veya nasıl ses çıkardığına odaklanmak derin bir bağ kurmaz.",
+      "highlight_box": "Sadece sesleri duymak ama anlamı kaçırmak.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Anlamsal İşleme ve Derinlik",
+      "body": "Derin işleme, bilginin özüne inmektir. Yaşananları geçmiş deneyimlerinizle ve kişisel anlam dünyanızla ilişkilendirdiğinizde hafıza kalıcı hale gelir.",
+      "highlight_box": "Anlam kazandırılmayan hiçbir bilgi zihne kök salmaz.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Ayrıntılı Tekrar ve İçsel Bağlantı",
+      "body": "Zihninizdeki kalıcı değişim, olayları pasif bir şekilde tekrarlamakla değil, onları aktif olarak anlamlandırmak ve dönüştürmekle başlar.",
+      "highlight_box": "Unutmayın: Derinleşmeyen hiçbir deneyim zihinde iz bırakmaz.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Hayatınızda tekrar edip durduğunuz döngüleri kırmak için, onlara yüklediğiniz anlamın derinliğini sorgulayın.",
+      "highlight_box": "Bu analizi gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Sürekli tekrarladığınız halde neden bazı şeyleri zihninizde tutamadığınızı biliyor musunuz?",
+    "konusma_metni": "Beynimiz bilgiyi kaydederken ikiye ayrılır: Yüzeysel işleme ve derin işleme. Eğer bir olaya ya da insana sadece yüzeysel bir tekrarla yaklaşıyorsanız, o hafıza izi hızla silinmeye mahkûmdur. Ancak derinlemesine işlediğiniz, kendi hayatınızla ve anlam dünyanızla bağ kurduğunuz şeyler kalıcı olur. İlişkilerinizde de durum aynıdır. Yüzeydeki kelimelere takılıp kalmak yerine, o kelimelerin sizin iç dünyanızda nereye dokunduğuna bakmadığınız sürece aynı döngüleri tekrar etmeye devam edersiniz."
+  },
+  "caption": "Zihnimizin bilgiyi işleme biçimi, hayatımızdaki olayları ve ilişkileri nasıl deneyimlediğimizi doğrudan belirler. Yüzeysel tekrarlar sadece geçici bir rahatlama sağlarken, kalıcı bir değişim ve farkındalık ancak olayların derinlemesine işlenmesiyle mümkündür. Yaşadığınız döngüleri değiştirmek istiyorsanız, onlara yüklediğiniz anlamın derinliğine odaklanın.\n\n#bilişselpsikoloji #hafıza #zihinyönetimi #farkındalık #psikoloji #kişiselgelişim #ya_da_psikoloji",
+  "processed_at": "2026-09-26 17:17:37"
+}

@@ -1,0 +1,133 @@
+{
+  "id": "behaviorism_html_56adc819",
+  "original_title": "Behaviorism in Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/behaviorism.html",
+  "published_date": "2026-09-21T12:04:15+00:00",
+  "read_time_minutes": 36,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/behaviorist-approach.jpg",
+      "alt": "Behaviorism in Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Pavlov.jpg",
+      "alt": "Pavlov",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/skinner-box-300x253.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Pavlovs-Dogs-Experiment-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/john-watson-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Operant-Conditioning-Reinforcement-1-300x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/skinner-box-1-300x185.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-cognitive-theory-300x145.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 7166,
+  "turkce_baslik": "Zihni Reddetmek: Davranışçılığın Kısıtlayıcı Dünyası ve İnsan Deneyiminin Kaybı",
+  "kanca_sorusu": "İçinizdeki karmaşık duyguları ve düşünceleri tamamen yok sayıp sizi sadece dışarıdan görünen tepkilerinize indirgeyen bir ilişkiyi fark etseniz, ne hissederdiniz?",
+  "score": 42,
+  "puan_nedeni": "Metin tamamen klasik psikoloji tarihi, davranışçılık teorileri, hayvan deneyleri ve akademik metodoloji üzerine kuruludur. Günlük ilişkisel dinamiklerden ve bireysel içgörüden uzak olduğu için kuru akademik kategoriye girer ve düşük puan alır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Davranışçılık akımı, insanı karmaşık bir zihinsel yapı olarak ele almak yerine, onu dışarıdan gelen uyarıcılara tepki veren mekanik bir sistem olarak görür. John B. Watson ve B.F. Skinner gibi isimlerin temellerini attığı bu yaklaşım, içsel düşünceleri, duyguları ve bilinçdışı süreçleri tamamen dışarıda bırakır. İnsanı doğuştan boş bir levha olarak kabul eden ve tüm davranışların çevresel koşullanmalarla açıklandığını savunan bu görüş, klinik psikoloji ve modern terapi yaklaşımları açısından oldukça indirgemecidir. Günlük hayatta sadece gözlenebilir davranışlara odaklanmak, bireyin iç dünyasında yaşadığı derin çelişkileri ve duygusal yaralanmaları anlamamızı engeller. İnsan deneyimi, basit bir uyarıcı-tepki zincirinden çok daha fazlasıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Görünenin Ötesi",
+      "body": "Psikolojinin bir dönem insanı sadece dışarıdan bakan gözlerle anlamaya çalıştığı o mekanik dönemi hatırlayın.",
+      "highlight_box": "Sadece davranışlar mı insanı açıklar?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Boş Levha Yanılgısı",
+      "body": "Davranışçılık akımı insanın doğuştan boş bir zihinle doğduğunu ve her şeyin çevresel etkenlerle yazıldığını savunur.",
+      "highlight_box": "İçsel potansiyelimiz nereye gidiyor?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Uyarıcı ve Tepki Tuzağı",
+      "body": "Karmaşık duygusal süreçlerimizi bile basit bir uyarıcı-tepki mekanizmasına indirgemek ruhsal gerçeğimizi yok saymaktır.",
+      "highlight_box": "Her şey bir koşullanma ibaresi mi?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "İç Dünyanın İhmali",
+      "body": "Düşünceleri, kaygıları ve bilinçdışı çatışmaları görmezden gelen yaklaşımlar insanı eksik tanımlar.",
+      "highlight_box": "Duygularımız göz ardı edilemez.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Bütüncül Bakış Açısı",
+      "body": "İnsanı anlamak için sadece dışarıya bakmak yetmez; içsel dünyayı ve bireysel farkları da kucaklamak gerekir.",
+      "highlight_box": "Unutmayın: İnsan mekanik değildir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış",
+      "body": "Ruhsal iyileşme, davranışları kontrol etmekten değil, içsel dünyayı anlamaktan geçer.",
+      "highlight_box": "Derinlemesine düşünmek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Sadece ne yaptığınıza bakan ama ne hissettiğinizi asla umursamayan bir yaklaşım, insanı robotlaştırmaktan başka ne işe yarar?",
+    "konusma_metni": "Psikoloji tarihine damga vuran davranışçılık akımı, insanı tamamen dış uyarıcılara tepki veren bir makine olarak görür. İçsel düşüncelerimiz, acılarımız, karmaşık duygularımız bu teoride tamamen yok sayılır. Oysa insan, sadece uyarıcılara tepki veren bir canlı değildir. Sizi sadece dışarıdan görünen davranışlarınızla yargılayan sistemlerin ardındaki gerçeği konuşuyoruz."
+  },
+  "caption": "Davranışçılık teorisi, psikoloji tarihinin en önemli dönüm noktalarından biri olsa da insanı anlamakta fazlasıyla eksik kalır. Sadece gözlenebilir davranışlara odaklanan ve içsel dünyayı reddeden bu yaklaşım, modern psikolojinin derinliği karşısında yetersizdir. İnsan deneyimi mekanik kurallara sığdırılamayacak kadar karmaşıktır.\n\nPsikoloji\nDavranışçılık\nZihinYönetimi\nİçselDünya\nBütüncülTerapi\nİnsanPsikolojisi",
+  "processed_at": "2026-09-26 02:41:42"
+}

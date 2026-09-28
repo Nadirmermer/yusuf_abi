@@ -1,0 +1,145 @@
+{
+  "id": "steps_for_conducting_a_scoping_review_ht_40bfde8c",
+  "original_title": "Doing a Scoping Review: A Practical, Step-by-Step Guide",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/steps-for-conducting-a-scoping-review.html",
+  "published_date": "2024-07-30T20:04:36+00:00",
+  "read_time_minutes": 51,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/scoping-review.jpg",
+      "alt": "Doing a Scoping Review: A Practical, Step-by-Step Guide",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Validity-Reliability-300x217.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Qualitative-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confirmability-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-construction-reality-300x157.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Reflexivity-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/IPA.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/scoping-review-results-table.png",
+      "alt": "scoping review results table",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/PRISMA-ScR-diagram.png",
+      "alt": "PRISMA ScR diagram",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/writing-scoping-review.jpg",
+      "alt": "writing scoping review",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 10251,
+  "turkce_baslik": "Akademik Araştırma Metodolojisinde Kapsam İncelemesi Rehberi",
+  "kanca_sorusu": "Bilimsel bir araştırmanın temellerini atarken hangi metodolojik adımları izliyorsunuz?",
+  "score": 45,
+  "puan_nedeni": "Metin, doğrudan ilişkisel dinamikler, bağlanma stilleri veya bireyin içsel dünyasını ele alan psikolojik bir içerik sunmamaktadır. Tamamen akademik araştırma metodolojisi ve kapsam incelemesi (scoping review) kılavuzu olduğu için kuru akademik kategoriye girmektedir.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Akademik literatürde kapsam incelemesi, mevcut araştırmaların haritasını çıkarmak ve bilgi boşluklarını belirlemek için kritik bir metodolojik adımdır. Doğrudan klinik bir pratik veya ilişkisel bir dinamik sunmasa da, bilimsel bilginin üretilmesinde ve sistematik incelemelerin ön hazırlığında temel bir rol oynar. Araştırma sorularının belirlenmesinden veri sentezine kadar uzanan bu süreç, bilimsel tarafsızlığın ve metodolojik tutarlılığın korunmasını sağlar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Kapsam İncelemesi Nedir?",
+      "body": "Mevcut literatürü haritalandıran ve araştırma boşluklarını belirleyen keşif niteliğinde bir araştırma sentezidir.",
+      "highlight_box": "Keşifsel ve sistematik bir yaklaşım.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Ne Zaman Tercih Edilir?",
+      "body": "Belirsiz kavramları netleştirmek, gelecekteki araştırmalara zemin hazırlamak ve sistematik incelemenin fizibilitesini ölçmek için kullanılır.",
+      "highlight_box": "Geniş bir literatür haritası çıkarır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Adım: Hedef ve Sorular",
+      "body": "Araştırma amacının ve net soruların geliştirilmesi, incelemenin sınırlarını çizer.",
+      "highlight_box": "Doğru soru, doğru veriyi getirir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Adım: Protokol ve Kriterler",
+      "body": "Araştırma protokolünün yazılması ve uygunluk kriterlerinin belirlenmesi metodolojik tutarlılığı sağlar.",
+      "highlight_box": "Şeffaflık ve tutarlılık esastır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Veri Sentezi ve Sunum",
+      "body": "Kanıtların aranması, seçilmesi, verilerin çıkarılması ve sonuçların şeffaf bir şekilde sunulması sürecidir.",
+      "highlight_box": "Bilimsel verinin yapılandırılması.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış",
+      "body": "Akademik çalışmalarda doğru metodoloji, güvenilir sonuçların temelidir.",
+      "highlight_box": "Tekrar incelemek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Akademik bir literatür taraması yaparken nerede hata yapıyorsunuz?",
+    "konusma_metni": "Bir kapsam incelemesi tasarlarken sadece makale okumak yetmez. Hedeflenen araştırma sorularının netleştirilmesi, uygun bilgi kaynaklarının seçilmesi ve veri haritalandırma sürecinin sistematik bir şekilde yürütülmesi gerekir. Bu videoda akademik metodolojinin temel adımlarını ele alıyoruz."
+  },
+  "caption": "Akademik araştırmalarda kapsam incelemesi (scoping review) süreci, literatürdeki boşlukları görmek ve doğru soruları sormak için kritik bir metodolojidir. Bilimsel çalışmalarda izlenen bu adım adım kılavuz, araştırmacıların daha şeffaf ve tutarlı sonuçlar elde etmesini sağlar. #akademikaraştırma #metodoloji #bilimselaraştırma #literatürtaraması #psikolojibilimi #araştırmayöntemleri",
+  "processed_at": "2026-09-26 03:17:55"
+}

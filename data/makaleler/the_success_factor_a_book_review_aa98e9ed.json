@@ -1,0 +1,50 @@
+{
+  "id": "the_success_factor_a_book_review_aa98e9ed",
+  "url": "https://www.psychologytoday.com/us/blog/shouldstorm/202201/the-success-factor-a-book-review",
+  "source": "Psychology Today",
+  "blog_name": "shouldstorm",
+  "title": "The Success Factor: A Book Review",
+  "subtitle": null,
+  "author": "Alison Escalante M.D.",
+  "author_title": "M.D.",
+  "reviewer": "Reviewed by Davia Sills",
+  "published_date": "2022-01-21T09:27:25-05:00",
+  "date_modified": "2022-01-21T09:27:25-05:00",
+  "read_time_minutes": 1,
+  "word_count": 35,
+  "summary": "Have you ever wondered how astronauts, Olympians, and Nobel Prize winners really do it? A new book breaks it down into four key approaches any of us can learn.",
+  "topics": [
+    "Motivation"
+  ],
+  "key_points": [],
+  "sections": [],
+  "images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-01/benjamin-wedemeyer-_0sw8lb5gvu-unsplash.jpg?itok=VQ-vmtuu",
+      "alt": "The Success Factor: A Book Review",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/alison_escalante.jpg?itok=m5q32a68",
+      "alt": "Alison Escalante M.D.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/difficult_things.png.jpg?itok=Zh8AFiVi",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-08/woman-with-golden-cup.jpg?itok=nzaS0YFB",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# The Success Factor: A Book Review\n\n> Have you ever wondered how astronauts, Olympians, and Nobel Prize winners really do it? A new book breaks it down into four key approaches any of us can learn.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-21T22:13:16.940426"
+}

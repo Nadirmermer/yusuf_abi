@@ -1,0 +1,133 @@
+{
+  "id": "conformity_html_c62964c0",
+  "original_title": "Conformity",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/conformity.html",
+  "published_date": "2026-09-17T10:58:50+00:00",
+  "read_time_minutes": 24,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/conformity.jpeg",
+      "alt": "Conformity",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/conformity-1024x706.jpeg",
+      "alt": "conformity",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/normative-social-influence-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hofstede-cultural-dimensions-300x144.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/groupthink-300x285.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-identity-theory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Deindividuation-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-impact-300x205.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4718,
+  "turkce_baslik": "Kendi Kararlarınız mı, Yoksa Kalabalığın Gizli Baskısı mı?",
+  "kanca_sorusu": "Bir ortamda çoğunluğun arkasından gittiğinizde, bunun gerçekten sizin fikriniz olduğuna ne kadar eminsiniz?",
+  "score": 82,
+  "puan_nedeni": "Sosyal uyum, aidiyet ihtiyacı ve bireyin kalabalık içinde kendi benliğini kaybetmesi temaları takipçilerin günlük ilişkilerinde ve toplumsal rollerinde sıklıkla deneyimlediği güçlü bir ayna etkisi yarattığı için yüksek puan almıştır.",
+  "category": "Sınırlar & Özsaygı",
+  "editoryal_genis_metin": "İnsan sosyal bir varlıktır ve bu doğası gereği gruplara uyum sağlama, kabul görme eğilimi taşır. Ancak uyum dediğimiz olgu, her zaman içsel bir kabul anlamına gelmez. Kimi zaman sadece dışlanmamak, cezalandırılmamak veya sevilmek için gruba ayak uydururuz. Herbert Kelman'ın sınıflandırmasına göre uyum; sadece yüzeysel bir onaylama, gruba ait hissetmek için benimsenen geçici bir kimlik ya da değerlerimizin tamamen değiştiği derin bir içselleştirme olabilir. Çoğu zaman kendi doğrularımızdan vazgeçtiğimizi fark etmeyiz bile. Kalabalığın sessiz baskısı, bireyin kendi iç sesini bastırmasına ve başkalarının doğrularını kendi hayatının pusulası haline getirmesine neden olur. Asıl mesele, uyum sağladığınız o anlarda kendi benliğinizden ne kadar ödün verdiğinizi görebilmektir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Kalabalığın Gizli Baskısı",
+      "body": "Çoğunluğa uyum sağlamak, insan doğasının en eski reflekslerinden biridir. Peki bu uyum nerede başlar, nerede kendinizden vazgeçişe dönüşür?",
+      "highlight_box": "Ait olma ihtiyacı bazen kendi sesimizi kısmamıza neden olur.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Uyumun Üç Yüzü",
+      "body": "Her uyum aynı derinlikte değildir. Kimisi sadece dışlanmamak için yapılır, kimisi ise kimliğimizin bir parçası haline gelir.",
+      "highlight_box": "Davranışınızın arkasındaki asıl motivasyon nedir?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Yüzeysel Uyum",
+      "body": "İçten içe yanlış olduğunu bildiğiniz halde, sırf uyum sağlamak veya tepki almamak için kalabalığı onayladığınız anlardır. Grup baskısı kalktığı an biter.",
+      "highlight_box": "Aslında bildiğiniz doğruyu sırf sevilmek için saklamak.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Kimliklenme ve Rol",
+      "body": "Birey, o gruba ait hissetmek ve statü kazanmak için grubun normlarını benimser. Değişim, sadece o grup içindeyken geçerlidir.",
+      "highlight_box": "Grubun kimliği sizin kimliğinizin önüne geçer.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "3. İçselleştirme",
+      "body": "En derin uyum seviyesidir. Grubun fikirleri artık sizin değer sisteminizin bir parçası haline gelmiştir. Kalıcı ve gerçektir.",
+      "highlight_box": "Değerleriniz gerçekten size mi ait?",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kendi Yolunuzu Bulmak",
+      "body": "Uyum sağlamak insani bir ihtiyaçtır ancak bu süreçte kendi öz benliğinizi kaybetmediğinizden emin olun.",
+      "highlight_box": "Farkındalık, başkalarının sesini kendi sesinizden ayırt etmekle başlar.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Etrafınızdaki insanlara hak vermediğiniz halde sırf yalnız kalmamak için onayladığınızı fark ettiniz mi?",
+    "konusma_metni": "Sosyal uyum, insan psikolojisinin en güçlü hayatta kalma mekanizmalarından biridir. Ancak bu uyum bazen o kadar sinsi çalışır ki; kendi fikirlerimiz zannederek savunduğumuz şeylerin aslında sadece gruba ait hissetme çabamız olduğunu fark edemeyiz. Yüzeysel uyumdan kalıcı içselleştirmeye kadar, kalabalığın içinde kaybolma halimizi inceliyoruz."
+  },
+  "caption": "Sosyal uyum, bireyin yalnız kalma korkusuyla kendi doğrularından vazgeçme sürecidir. Çoğu zaman toplum içinde kabul görmek, sevilmek ya da dışlanmamak için kendi inançlarımızı sessizce rafa kaldırırız. Herbert Kelman'ın çalışmaları, uyumun farklı derinlikleri olduğunu gösterir: Bazen sadece cezadan kaçınmak için boyun eğeriz, bazen gruba ait hissedebilmek için o rolü üstleniriz, bazen de o fikirleri tamamen içselleştiririz. Asıl sormamız gereken soru şudur: Savunduğunuz şeyler gerçekten sizin mi, yoksa içinde bulunduğunuz kalabalığın size ödettiği bedeller mi?\n\nSosyal Psikoloji, Sosyal Uyum, Birey ve Toplum, Aidiyet, Özsaygı, Psikoloji, Sınırlar",
+  "processed_at": "2026-09-26 02:43:48"
+}

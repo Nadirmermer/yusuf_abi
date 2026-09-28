@@ -1,0 +1,133 @@
+{
+  "id": "long_term_memory_html_62a72e84",
+  "original_title": "Long-Term Memory",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/long-term-memory.html",
+  "published_date": "2026-09-17T11:33:42+00:00",
+  "read_time_minutes": 15,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/long-term-memory.jpg",
+      "alt": "Long-Term Memory",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/long-term-memory.jpg",
+      "alt": "There are two components of long-term memory: explicit and implicit. Explicit memory includes episodic\n and semantic memory. Implicit memory includes procedural memory and things learned through conditioning.\n ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--300x97.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Declarative-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/episodic-memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-memory-300x111.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/State-Dependent-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2937,
+  "turkce_baslik": "Zihnimizin Gizli Arşivi: Geçmişi Hatırladığımızı Sanırken Aslında Ne Yapıyoruz?",
+  "kanca_sorusu": "Yıllar önce kapattığınızı sandığınız bir yaranın, en umulmadık anda bugünkü ilişkilerinizi yönetmeye devam ettiğini hiç fark ettiniz mi?",
+  "score": 45,
+  "puan_nedeni": "Metin genel olarak bilişsel psikolojinin klasik bellek türlerini (anlamsal, anısal, işlemsel) ve nörolojik altyapısını inceleyen akademik bir makaledir. Doğrudan ilişkisel dinamikler, bağlanma yaraları veya duygusal tetikleyiciler yerine bilişsel süreçlere odaklandığı için editoryal olarak orta-düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, yaşananları sadece kaydetmekle kalmaz; onları anlamlandırır, dönüştürür ve hatta her hatırlandığında yeniden yazar. Uzun süreli bellek, sadece geçmişin soluk fotoğraflarını saklayan pasif bir sabit disk değildir; aksine bugünkü kararlarımızı, korkularımızı ve yakınlık kurma biçimlerimizi sessizce yöneten dinamik bir sistemdir. Anılarımız sabit gibi görünse de, her hatırlama anında yeniden yapılandırılır. Bu da demektir ki geçmiş, sadece orada kalmamış; bugünkü tepkilerimizin içine yerleşmiştir.\n\nBelleğimiz iki farklı koldan ilerler: Bilinçli olarak hatırladığımız olaylar ve gerçekler ile hiç farkında olmadan davranışlarımızı yönlendiren örtük kalıplar. Bisiklete binmek ya da yüzmek gibi kas hafızasında saklanan bilgiler, travmalar veya derin ilişkisel alışkanlıklar karşısında da benzer şekilde çalışır. Bir ilişki bittiğinde mantıksal olarak 'bitti' deyişimiz anlamsaldır, ancak bedenimizin ve istemsiz tepkilerimizin o kişiyi aramaya devam etmesi işlemsel belleğin işidir.\n\nBu durum, neden bazı toksik döngülerden mantıken kurtulmak isterken duygusal olarak aynı yerde takılıp kaldığımızı açıklar. Unutmak çoğu zaman bir bilgi kaybı değil, doğru ipucuna ulaşamama veya o anıyı bugünkü güvenli alandan çağıramama meselesidir. Zihnimizin bu derin katmanlarını anlamak, geçmişin hayaletleriyle savaşmak yerine onları bugünün gerçekliğiyle yeniden konsolide etmenin ilk adımıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihnin Gizli Arşivi",
+      "body": "Hatırladığımızı sandığımız anılar, aslında geçmişin gerçeği değil, bugünkü zihnimizin onları boyama biçimidir.",
+      "highlight_box": "Bellek sabit değil, dinamiktir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "İki Farklı Gerçeklik",
+      "body": "Zihnimiz hem mantığı saklar hem de farkında olmadan bedenimize eski alışkanlıkları tekrar ettirir.",
+      "highlight_box": "Bilinçli bildiklerimiz ile istemsiz yaptığımız şeyler çatışır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Anısal Bellek Yanılsaması",
+      "body": "Geçmişteki olayları bugünkü duygusal süzgecimizden geçirerek hatırlar, olayı değil hissettirdiği acıyı tazeleriz.",
+      "highlight_box": "Geçmiş bugünün lensinden görünür.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "İşlemsel Belleğin Gücü",
+      "body": "Mantıken bitti dediğimiz ilişkiler, bedenimizin ve alışkanlıklarımızın ezberlediği tepkiler yüzünden devam eder.",
+      "highlight_box": "Beden unutmaz, sadece saklar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Yeniden Konsolidasyon",
+      "body": "Bir anı her hatırlandığında kısa süreliğine savunmasız hale gelir. Onu bugünün güvenli alanından yeniden çerçeveleyebilirsiniz.",
+      "highlight_box": "Geçmişin anlamını değiştirmek sizin elinizdedir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizin eski kayıtlarına körü körüne inanmak yerine, onların bugün size hizmet edip etmediğini sorgulayın.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Beyniniz geçmişi saklamaz, her hatırladığınızda onu yeniden yazar.",
+    "konusma_metni": "Geçmişte yaşadığınız bir acıyı ya da ilişkiyi düşündüğünüzde, aslında olayın kendisini değil, o anı en son hatırladığınız şeklini çağırırsınız. Uzun süreli bellek sabit değildir, dinamiktir. Bu yüzden eski bir partneri unutamadığınızda ya da aynı toksik döngüye tekrar girdiğinizde sorun hafızanızın zayıf olması değil; zihninizin o anıyı bugünkü korkularınızla yeniden mühürlemesidir. Geçmiş bugünü yönetmeyi bıraktığında, zihninizi yeniden programlamaya başlayabilirsiniz."
+  },
+  "caption": "Bellek, geçmişin soluk bir müzesi değil, bugünün kararlarını yöneten aktif bir sistemdir. Çoğu zaman unuttuğumuzu sandığımız şeyler kaybolmaz; sadece doğru ipucunu bekler veya bedenimizin derinliklerinde yaşamaya devam eder.\n\nİlişkilerde, kararlarda ve içsel döngülerimizde tekrarladığımız kalıpların kökeni genellikle bu dinamik hafıza ağında saklıdır. Geçmişin bugünü sessizce yönetmesine izin vermemek için önce zihnin bu arşiv odasını fark etmek gerekir.\n\n#zihin #bellek #psikoloji #bilişselpsikoloji #kişiselgelişim #farkındalık #yaşam",
+  "processed_at": "2026-09-26 17:02:25"
+}

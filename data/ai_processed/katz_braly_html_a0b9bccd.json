@@ -1,0 +1,127 @@
+{
+  "id": "katz_braly_html_a0b9bccd",
+  "original_title": "Stereotypes In Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/katz-braly.html",
+  "published_date": "2026-09-17T11:32:33+00:00",
+  "read_time_minutes": 22,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/stereotype1.jpeg",
+      "alt": "Stereotypes In Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-identity-theory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/stereotype-threat-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hofstede-cultural-dimensions-300x144.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-cognitive-theory-300x145.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cultural-relativism-300x168.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/normative-social-influence-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4325,
+  "turkce_baslik": "Zihinsel Kestirmeler ve Önyargılar: Kafamızdaki Kalıplar Gerçekliği Nasıl Çarpıtıyor?",
+  "kanca_sorusu": "Tanımadığınız biri hakkında saniyeler içinde hüküm verirken, aslında kendi zihninizin yarattığı bir yanılsamayı mı onaylıyorsunuz?",
+  "score": 75,
+  "puan_nedeni": "Konu her ne kadar sosyal psikolojinin temel akademik kavramları (Bilişsel Cimri, Sosyal Kimlik, Yanılsamalı Korelasyon) üzerine kurulu olsa da; bireylerin günlük ilişkilerinde, önyargılarında ve karşısındakini etiketleme eğilimlerinde doğrudan bir ayna etkisi yarattığı için yüksek puanı hak ediyor.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, dış dünyadan gelen devasa bilgi bombardımanıyla başa çıkabilmek için sürekli bir enerji tasarrufu modunda çalışır. Sosyal psikolojide bilişsel cimrilik olarak adlandırılan bu durum, beynimizin en az çabayla en hızlı kararı almasını sağlayan zihinsel kestirmeleri, yani kalıp yargıları devreye sokar. Walter Lippmann'ın kafamızdaki resimler olarak tanımladığı bu kalıplar, yeni bir insanla karşılaştığımızda tüm bireysel farklılıkları siler ve bizi tek tip bir algıya mahkum eder. Biz ve ötekiler ayrımı, sosyal kimliğimizi koruma çabasıyla birleştiğinde, karşımızdakini anlamak yerine kendi önyargılarımızı doğrulamaya çalışırız.\n\nBu mekanizma sadece toplumsal gruplar arasında değil, en yakın ilişkilerimizde bile aktif olarak çalışır. Partnerimizin, aile bireylerimizin veya iş arkadaşlarımızın davranışlarını gözlemlerken, istatistiksel gerçekleri veya bireysel bağlamı göz ardı edip zihnimizdeki şemalara sığınırız. Yanılsamalı korelasyonlar kurarak, iki bağımsız olayı birbirine bağlar ve kendi inandığımız hikayenin başrolü yaparız. Oysa gerçeklik, etiketlerin ve kalıpların bittiği yerde başlar. Karşımızdaki insanın karmaşık, çok boyutlu bireysel varlığını görebilmek, zihnimizin bu tembellik eğilimine karşı bilinçli bir duruş sergilemesini gerektirir.\n\nKalıp yargıların hayatımızı nasıl yönettiğini fark etmek, ilk bakışta sarsıcı bir deneyim olabilir çünkü hepimiz zihinsel kestirmeleri kullanırız. Ancak farkındalık, bu otomatik pilotu durdurmanın tek yoludur. Bir insanı tanımaya çalışırken, ona kendi kalıplarımızın penceresinden değil, olduğu kişinin gözünden bakabilmek; hem ilişkilerimizi derinleştirir hem de önyargılarımızın bizi hapsettiği o dar alandan özgürleşmemizi sağlar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Kafamızdaki Resimler",
+      "body": "Zihnimiz, karmaşık dünyayı anlamlandırmak için sürekli etiketler ve kalıplar üretir.",
+      "highlight_box": "Bireysel farklılıkları görmezden gelmemize neden olan zihinsel kestirmeler.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Bilişsel Cimrilik Yasası",
+      "body": "Beyin, enerji tasarrufu yapmak için en az çaba kuralıyla çalışır ve önyargılı şemalar üretir.",
+      "highlight_box": "Her yeni insanı tanımak yerine, eski şemalarla etiketleriz.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Biz ve Ötekiler",
+      "body": "Sosyal kimlik teorisi, kendi grubumuzu kayırıp dış grupları tek tip görmemize yol açar.",
+      "highlight_box": "Biz çeşitliyiz, onlar birbirinin aynısı algısı.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Yanılsamalı Korelasyon",
+      "body": "İki bağımsız durumu zihnimizde birbirine bağlayarak gerçeği çarptırırız.",
+      "highlight_box": "Var olmayan bir nedensellik bağı kurma eğilimi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Otomatik Pilottan Çıkmak",
+      "body": "Önyargıları fark etmek, onları durdurmanın ilk ve en önemli adımıdır.",
+      "highlight_box": "Zihnin kestirmelerini sorgulamak cesaret ister.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Gerçekle Yüzleşmek",
+      "body": "İnsanları etiketleriyle değil, bireysel varlıklarıyla görebildiğimiz kadar özgürüz.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Tanımadığınız bir insan hakkında ilk saniyede karar vermenizi sağlayan şeyin sezgileriniz değil, zihninizin tembelliği olduğunu biliyor muydunuz?",
+    "konusma_metni": "Beynimiz her gün milyonlarca uyaranla başa çıkmak zorunda. Bilgi yüklenmesinden kaçınmak için de sürekli kestirmeler kullanıyor. Sosyal psikolojide buna bilişsel cimrilik deniyor. Karşımızdaki insanı anlamak yerine, kafamızdaki kalıplara uyduruyoruz. Ötekileştirme dediğimiz şey tam olarak bu zihinsel tembellikten besleniyor. Peki siz, birine önyargıyla yaklaşırken aslında kendi zihninizin hangi tuzağına düşüyorsunuz?"
+  },
+  "caption": "Zihnimiz, dış dünyadaki karmaşayla başa çıkabilmek için sürekli kestirmeler kullanır. Sosyal psikolojide bilişsel cimrilik olarak adlandırılan bu durum, en az çabayla en hızlı kararı almamızı sağlar. Ancak bu zihinsel tasarruf, karşımızdaki insanları gerçekte kim olduklarından bağımsız olarak kafamızdaki kalıplara hapsetmemize neden olur. \n\nBir insanı tanımaya çalışırken kendi şemalarımızı mi baz alıyoruz, yoksa onun bireysel gerçekliğini mi görüyoruz? Bu soru, önyargılarımızla yüzleşmenin ilk adımıdır. \n\n#sosyalpsikoloji #onyargi #bilisseldurum #zihninyonetimi #kalipyargilar #iliskiler #farkindalik",
+  "processed_at": "2026-09-26 02:43:14"
+}

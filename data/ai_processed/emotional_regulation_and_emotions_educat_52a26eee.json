@@ -1,0 +1,91 @@
+{
+  "id": "emotional_regulation_and_emotions_educat_52a26eee",
+  "original_title": "Emotional Regulation and Emotions Education",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/emotion-as-information/202608/emotional-regulation-and-emotions-education",
+  "published_date": "2026-09-10T10:10:13-04:00",
+  "read_time_minutes": 1,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/google-deepmind-6y4ezfsp5tc-unsplash.jpg?itok=cAelicZ6",
+      "alt": "Emotional Regulation and Emotions Education",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/h_j_hendel.jpg?itok=_e32kWyu",
+      "alt": "Hilary Jacobs Hendel LCSW",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-09/screen_shot_2023-06-08_at_9.35.35_am.png.jpg?itok=nhpgGiwJ",
+      "alt": "The Change Triangle for regulating the nervous system by moving from defenses to processing core emotions. ",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 32,
+  "turkce_baslik": "Duygusal Eğitimsizlik: Sinir Sisteminin Sessiz Çığlığı",
+  "kanca_sorusu": "İçinizdeki o fırtınayı dindirememenizin nedeni, aslında kimsenin size bu duyguların ne anlama geldiğini hiç öğretmemiş olması olabilir mi?",
+  "score": 88,
+  "puan_nedeni": "Duygu düzenleme, sinir sistemi regülasyonu ve içsel farkındalık eksikliği, doğrudan takipçilerin ilişkilerinde ve bireysel hayatlarında yaşadığı kronik kaygı, tükenmişlik ve aşırı düşünme döngülerinin temelini oluşturduğu için çok yüksek puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Çocukluk çağında bize matematik çözmeyi, kurallara uymayı ve başarılı olmayı öğrettiler; ancak öfkenin bedenimizde nereye yerleştiğini, üzüntünün sinir sistemimizi nasıl bloke ettiğini ya da kaygıyla nasıl nefes alarak kalacağımızı asla anlatmadılar. Duygusal eğitimin eksik olduğu bir dünyada büyüyen yetişkinler olarak, içsel dünyamızda bir kriz patlak verdiğinde elimizde sadece iki seçenek kalıyor: Ya duyguyu bastırmak ya da onun altında ezilmek. \n\nSinir sistemimiz, kendisine rehberlik edilecek bir harita bulamadığında hayatta kalma refleksleriyle tepki verir. Öfkelendiğimizde suçluluk duyarız, kaygılandığımızda kendimizi zayıf hissederiz. Oysa duygular düşman değil, içeriden gelen birer habercidir. Bu habercileri okumayı öğrenmediğimiz sürece, en yakın ilişkilerimizde bile kendi içsel fırtınalarımızın kurbanı oluruz.\n\nİyileşme, duyguları kontrol etmeye çalışmakla değil, onları tanımakla başlar. Bedenin sinyallerini dinlemek, öfkenin altındaki kırılganlığı görmek ve korkunun bizi yönetmesine izin vermemek bilinçli bir çaba gerektirir. Duygusal okuryazarlık, sadece kendimizle kurduğumuz bağı değil, başkalarıyla olan sınırlarımızı da belirleyen en temel yaşam becerisidir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Duygusal Eğitimsizlik",
+      "body": "Hayatımız boyunca her şeyi öğrendik ama içimizdeki öfkeyle, korkuyla ve kaygıyla nasıl baş edeceğimiz bize hiç öğretilmedi.",
+      "highlight_box": "Bilmediğimiz bir dili konuşmaya çalışıyoruz.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Sinir Sisteminin Çıkmazı",
+      "body": "Duygular düzenlenemediğinde beden tehlikede hisseder. Bu durum kronik tetikte olma haline ve tükenmişliğe yol açar.",
+      "highlight_box": "Beden susmaz, sadece sesini değiştirir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Duyguyu Bastırmak",
+      "body": "Öfkeyi, kırgınlığı veya korkuyu yok saymak onları yok etmez; sadece bedende biriktirerek daha büyük patlamalara zemin hazırlar.",
+      "highlight_box": "Bastırılan duygu, en umulmadık anda geri döner.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Aşırı Zihinselleştirme",
+      "body": "Ne hissettiğini bedende hissetmek yerine sürekli mantık aramak ve her şeyi kafada çözmeye çalışmak sinir sistemini yorar.",
+      "highlight_box": "Her şeyi düşünebilirsiniz ama her şeyi zihinle çözemezsiniz.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Regülasyonu Öğrenmek",
+      "body": "İlk adım, duyguyu eleştirmek değil kabul etmektir. 'Şu an sinir sistemim alarm veriyor ve güvendeyim' diyebilmek.",
+      "highlight_box": "Önce durmayı ve nefes almayı hatırlayın.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Duygularınızla savaşmayı bırakın. Onlar birer düşman değil, anlaşılmayı bekleyen kayıp parçalarınızdır.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden her kriz anında ya tamamen kapanıyorsunuz ya da patlıyorsunuz biliyor musunuz?",
+    "konusma_metni": "Çünkü kimse bize duygularımızın sinir sistemimizi nasıl etkilediğini öğretmedi. Duygusal eğitimi almamış bir yetişkin, elinde harita olmadan karanlıkta yürüyen bir çocuk gibidir. İçerideki fırtınayı dindirememenizin sebebi irade zayıflığı değil, araçsız bırakılmış olmanızdır."
+  },
+  "caption": "Duygusal eğitim, hayatın en temel ama en çok ihmal edilen alanıdır. Çocuklukta bize dünyayla nasıl baş edeceğimiz öğretilirken, kendi iç dünyamızla nasıl bağ kuracağımız genellikle öğretilmedi. Bu yüzden bugün birçoğumuz öfkemizle, kaygımızla ya da yalnızlığımızla baş ederken sinir sistemimizi nasıl regüle edeceğimizi bilemiyoruz.\n\nDuygularınızı bastırmak ya da onlardan kaçmak bir çözüm değildir. Aksine, her bastırılan duygu bedende bir iz bırakır ve sonraki ilişkilerinizde karşınıza çıkar. İyileşme, bu içsel dili yeniden öğrenmekle başlar.\n\nBu konuyu kiminle paylaşmak istersiniz? Yorumlarda buluşalım.\n\n#duygusalyonetim #sinirsistemi #psikoloji #icseleyilesme #farkindalik #kaygiyonetimi #yadayapsikoloji",
+  "processed_at": "2026-09-28 02:29:06"
+}

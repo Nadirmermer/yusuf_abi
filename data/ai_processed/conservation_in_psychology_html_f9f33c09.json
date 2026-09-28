@@ -1,0 +1,145 @@
+{
+  "id": "conservation_in_psychology_html_f9f33c09",
+  "original_title": "Conservation In Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/conservation-in-psychology.html",
+  "published_date": "2025-06-05T15:34:17+00:00",
+  "read_time_minutes": 27,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Piaget-Conservation-1.jpg",
+      "alt": "Conservation In Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Piaget-Conservation-1-1024x999.jpg",
+      "alt": "Piaget Conservation 1",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/piaget-stages-300x163.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/formal-operational-stage-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/kohlberg-moral-development-300x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/moral-choice-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/child-development-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Vygotsky-vs-Piaget-300x174.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/conservation-of-number.jpg",
+      "alt": "conservation of number",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/conservation-of-liquid.png",
+      "alt": "conservation of liquid",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 5399,
+  "turkce_baslik": "Görünenin Aldatmacası: Çocukluk Travmalarımızın ve İlişkisel Algımızın Temeli",
+  "kanca_sorusu": "Hayatınızdaki bir olay şekil değiştirdiğinde, özünün de değiştiğine mi inanıyorsunuz, yoksa arkasındaki gerçeği görebiliyor musunuz?",
+  "score": 45,
+  "puan_nedeni": "Makale Piaget'nin klasik gelişim psikolojisi deneyleri, korunum kavramı ve bilişsel evreler üzerine akademik ve teorik bir temele sahip. Doğrudan yetişkin ilişkisel dinamiklerine veya travmalara hitap etmediği ve hafif kuru akademik bir yapısı olduğu için katı kural gereği düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Çocukluk gelişiminin en temel taşlarından biri olan korunum kavramı, aslında insan zihninin dış dünyayı ve olayları nasıl anlamlandırdığının ilk sinyallerini verir. Piaget'nin deneylerinde çocuklara uzun ve kısa bardaklardaki suyun aslında aynı miktar olduğu sorulduğunda, küçük zihinler sadece görünen boyuta odaklanır. Görünüşün aldatıcılığına kapılmak, yetişkinlik dünyasında da sıkça karşılaştığımız bir durumdur. İlişkilerde yaşanan bir krizin veya ani bir tavır değişikliğinin, durumun özünü değiştirdiğini sanmak, çocukluk dönemindeki o bilişsel tuzağın bugüne yansımasıdır. Zihnimiz geliştikçe, olayları tersine çevirebilme ve bütünsel bakabilme yeteneği kazanır. Ancak travmatik anlarda veya yüksek kaygı anlarında, yetişkin bireyler bile tıpkı erken çocukluk evresindeki gibi tek bir detaya odaklanıp genel resmi kaçırabilirler.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Görünenin Aldatmacası",
+      "body": "Zihnimiz, olayların sadece şekline odaklanıp özünü kaçırmaya neden kadar meyilli?",
+      "highlight_box": "Göz yanılsaması sadece fiziksel dünyada olmaz.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Çocukluktan Yetişkinliğe Bilişsel Tuzaklar",
+      "body": "Küçükken uzun bardaktaki suyun daha fazla olduğunu sanırdık. Şimdi ise ilişkilerde biçim değiştiğinde özün de bittiğini sanıyoruz.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Odaklanma Hatası",
+      "body": "Tek bir detaya takılıp kalmak ve bütün resmi tamamen göz ardı etmek.",
+      "highlight_box": "Ayrıntıya takılıp kalmak.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Geriye Çevirememe",
+      "body": "Yaşanan bir tartışmanın veya krizin geçici olduğunu zihinsel olarak tersine çevrememek.",
+      "highlight_box": "Her şey bitti sanısı.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Gerçeği Görebilmek",
+      "body": "Olayların biçimi değişse bile özünün aynı kalabileceğini anlamak olgun bir zihnin eseridir.",
+      "highlight_box": "Unutmayın: Bu bir süreçtir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Görünenin ötesine bakabilmek, zihinsel esneklik ve olgunlaşma gerektirir.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Gözünüzün önündeki bir şey şekil değiştirdiğinde onun yok olduğunu ya da bittiğini mi sanıyorsunuz?",
+    "konusma_metni": "Çocuklukta Piaget'nin su bardağı deneyini hatırlayın. Uzun bardağa dökülen su daha fazla sanılır çünkü zihin sadece yüksekliğe odaklanır. Yetişkinlikte de aynı hatayı yapıyoruz. Partnerimizin ses tonu değiştiğinde ya da ortam gerildiğinde, ilişkinin özünün bittiğini zannediyoruz. Görünüşün aldaticiliğine kanmak, sadece çocuklara mahsus bir durum değildir. Olayların arkasındaki kalıcı gerçekliği görmek, olgun bir zihnin en büyük gereksinimidir."
+  },
+  "caption": "Görünenin aldatıcı gücü, sadece çocukluk dönemindeki bilişsel deneylerle sınırlı kalmaz; yetişkinlikteki ilişkisel algılarımızı da derinden etkiler. Olayların şekli veya kabı değiştiğinde, özünün de yok olduğunu sanmak zihnimizin en yaygın yanılgılarından biridir. Bilişsel esneklik kazandıkça, detayların ötesini görebilir ve olayları bütünsel olarak değerlendirmeye başlayabiliriz. Bu konuyu kendi hayatınızda nasıl deneyimlediğinizi düşünün. Psikoloji, zihinsel tuzakları fark etmekle başlar.\n\n#psikoloji #bilişselgelişim #zihin #farkındalık #ilişkiler #kişiselgelişim #ya_da_psikoloji",
+  "processed_at": "2026-09-26 03:10:56"
+}

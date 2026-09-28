@@ -1,0 +1,157 @@
+{
+  "id": "psychology_essay_html_52ce75a5",
+  "original_title": "How to Write a Psychology Essay",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/psychology-essay.html",
+  "published_date": "2025-12-09T11:49:29+00:00",
+  "read_time_minutes": 27,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/essay-structure.jpg",
+      "alt": "How to Write a Psychology Essay",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/research-evidence-pyramid.jpg",
+      "alt": "research evidence pyramid",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/how-to-synthesize-information-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/how-to-write-a-lab-report-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Personal-Statment-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/gibbs-reflective-cycle-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mental-health-journal-writing-300x239.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/apa-abstract-example-300x209.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/causation-correlation.jpg",
+      "alt": "causation correlation",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/essay-structure2.jpg",
+      "alt": "essay structure example",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/scholar.jpg",
+      "alt": "scholar",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/apa-reference.jpg",
+      "alt": "apa reference",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 5491,
+  "turkce_baslik": "Korelasyon Nedeni Kanıtlamaz: Zihnimizin Düştüğü En Yaygın Mantık Yanılgısı",
+  "kanca_sorusu": "İki olayın aynı anda yaşanması, birinin diğerine sebep olduğu anlamına gerçekten gelir mi?",
+  "score": 42,
+  "puan_nedeni": "Metin temel olarak akademik bir makale yazma rehberi ve araştırma teknikleri (korelasyon vs. nedensellik) üzerine kuruludur. Doğrudan ilişkisel dinamikler, bağlanma stilleri veya toksik döngüler içermediği, daha çok akademik metodolojiye dayandığı için klinik olarak düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Günlük hayatta zihnimiz sürekli bir neden-sonuç ilişkisi arama eğilimindedir. Bir şey olduğunda hemen ardından gelen başka bir olayı onun sebebi ilan ederiz. Ancak psikolojide ve bilimsel metodolojide korelasyon ile nedensellik arasında çok keskin bir çizgi vardır. İki değişkenin birlikte hareket etmesi, birinin diğerini tetiklediği anlamına gelmez. Bu bilişsel tuzak, sadece akademik makalelerde değil, günlük ilişkilerimizde de bizi yanıltır. Partnerimizin yüzünün asık olması ile bizim yaptığımız bir şey arasında anında kurduğumuz bağ, çoğunlukla bu yanılgının bir ürünüdür. Gerçeği varsayımlardan ayırmak için veriye ve eleştirel düşünceye ihtiyacımız vardır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Korelasyon ve Nedensellik Tuzağı",
+      "body": "Zihnimiz her eşzamanlı durumu bir sebep-sonuç ilişkisi olarak okumaya eğilimlidir.",
+      "highlight_box": "Birlikte görünmek, neden olmak demek değildir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Günlük Hayattaki Yansıması",
+      "body": "İlişkilerde karşı tarafın sessizliğini hemen kendi hatamız olarak yorumlamak bu yanılgının bir parçasıdır.",
+      "highlight_box": "Her bağlantı gerçek bir sebep içermez.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Varsayım Hatası",
+      "body": "Yetersiz kanıtla büyük sonuçlara ulaşma ve durumu kişiselleştirme eğilimi.",
+      "highlight_box": "Görünen her ilişki doğrusal değildir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Eleştirel Düşünce Eksikliği",
+      "body": "Durumun ardındaki diğer potansiyel etkenleri göz ardı edip tek bir nedene odaklanmak.",
+      "highlight_box": "Tek bir açıklamaya hapsolmayın.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kanıta Dayalı Bakış Açısı",
+      "body": "Olayları değerlendirirken hızlı yargılara varmak yerine veriyi ve gerçekleri inceleyin.",
+      "highlight_box": "Varsayımlarınızı sorgulayın.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizin kurduğu her nedensellik bağı gerçek olmayabilir.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "İki şeyin aynı anda oluyor olması, birbirlerinin sebebi oldukları anlamına gelmez.",
+    "konusma_metni": "Zihnimiz sürekli olaylar arasında bağlantı kurmaya çalışır. Bir şey olur ve hemen ardından başka bir şey yaşandığında, ilkinin ikincisine neden olduğunu varsayarız. Buna korelasyon ve nedensellik yanılgısı denir. İlişkilerimizde de sıkça bu hataya düşeriz. Karşımızdakinin ruh halindeki değişimi hemen üzerimize alırız. Oysa her birliktelik bir nedensellik içermez. Gerçeği görmek istiyorsanız, varsayımlarınızı durdurup kanıta bakmalısınız."
+  },
+  "caption": "Zihnimiz dünyayı anlamlandırmak için sürekli kısayollar kullanır. Bu kısayolların en tehlikelilerinden biri, korelasyonu nedensellik sanmaktır. İki olayın aynı anda gerçekleşmesi, birinin diğerini yarattığı anlamına gelmez. Bu durum sadece akademik araştırmalarda değil, insan ilişkilerinde de büyük yanılgılara yol açar. Karşımızdaki insanın en ufak bir tepkisini kendi üzerimize alınarak yanlış sonuçlar çıkarırız. Gerçeği görmek, aceleci varsayımlardan vazgeçip veriye ve eleştirel düşünceye odaklanmaktan geçer. \n\n#psikoloji #bilişselyanılgı #eleştireldüşünce #ilişkiler #zihinyönetimi #farkındalık",
+  "processed_at": "2026-09-26 15:49:27"
+}

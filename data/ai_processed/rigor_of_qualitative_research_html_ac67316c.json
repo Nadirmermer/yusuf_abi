@@ -1,0 +1,121 @@
+{
+  "id": "rigor_of_qualitative_research_html_ac67316c",
+  "original_title": "Rigor of Qualitative Research",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/rigor-of-qualitative-research.html",
+  "published_date": "2024-12-09T12:48:50+00:00",
+  "read_time_minutes": 7,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/SIMPLY-PSYCHOLOGY-FINAL-LOGO-1.jpg",
+      "alt": "Rigor of Qualitative Research",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Qualitative-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-construction-reality-300x157.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/autism-research-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-relationships-classroom-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confirmability-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1397,
+  "turkce_baslik": "Neden Bilimsel Araştırmalarda Bile Bilgi Kirliliği Var?",
+  "kanca_sorusu": "Okuduğunuz bir araştırmanın gerçekten güvenilir mi yoksa sadece süslü bir teoriden mi ibaret olduğunu nasıl anlarsınız?",
+  "score": 40,
+  "puan_nedeni": "Metin tamamen akademik araştırma metodolojisi, nitel araştırma teknikleri ve veri toplama süreçleri gibi kuramsal ve akademik kavramları ele almaktadır. Takipçinin günlük ilişkisel dünyasına, bağlanma stillerine veya içsel travmalarına doğrudan dokunmadığı için düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Günümüzde psikoloji ve bilim adı altında paylaşılan pek çok bilginin arkasında aslında ne kadar sağlam bir temel var? Nitel araştırmalarda titizlik ve güvenilirlik kavramları, sadece akademik birer zorunluluk değil, aynı zamanda gerçeğe ulaşma çabasının en temel yapı taşlarıdır. Bir araştırmanın yöntemsel bütünlüğü, verilerin nasıl toplandığı ve araştırmacının kendi önyargılarıyla yüzleşebilmesi, o çalışmanın değerini belirler. Günlük hayatta da maruz kaldığımız bilgileri süzgeçten geçirmek, tıpkı bilimsel bir çalışmada olduğu gibi metodolojik bir şüphecilik ve derinlemesine bir bakış açısı gerektirir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Bilginin Güvenilirliği",
+      "body": "Okuduğumuz her bilginin arkasında nasıl bir akademik süreç olduğunu hiç düşündünüz mü?",
+      "highlight_box": "Bilimsel titizlik ve güvenilirlik",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Titizlik ve Güvenilirlik",
+      "body": "Araştırmalarda titizlik, sürecin şeffaf ve önyargılardan uzak yürütülmesini sağlar.",
+      "highlight_box": "Yöntem ile bulguların uyumu",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Yöntemsel Bütünlük",
+      "body": "Seçilen yöntemlerin araştırma sorusuyla ve teorik çerçeveyle kusursuz bir uyum içinde olması gerekir.",
+      "highlight_box": "Şablonları körü körüne takip etmemek",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Derinlemesine Örnekleme",
+      "body": "Amaç genelleme yapmak değil, olguyu en derinden ve zengin verilerle anlamaktır.",
+      "highlight_box": "Veri doygunluğuna ulaşmak",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Önyargıların Farkında Olmak",
+      "body": "Araştırmacının kendi rolünü ve olası önyargılarını sürekli sorgulaması gerekir.",
+      "highlight_box": "Şeffaf raporlama",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Anlamlı Katkı",
+      "body": "Gerçek bilgi, ancak titiz ve sorgulayan bir zihinsel sürecin süzgecinden geçtiğinde değer kazanır.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Okuduğunuz her psikoloji makalesinin veya bilginin gerçekten güvenilir olduğunu mu sanıyorsunuz?",
+    "konusma_metni": "Bugün biraz bilimin mutfağına gireceğiz. Nitel araştırmalarda rigor yani titizlik dediğimiz kavram, bir çalışmanın sadece süslü sözlerden ibaret olmadığını, aksine derinlemesine bir temele dayandığını gösterir. Veri toplamadan analize kadar her aşamada şeffaflık, bilginin manipüle edilmesini önler. Tıpkı ilişkilerimizde olduğu gibi, sağlam temeller üzerine kurulmayan hiçbir yapı uzun ömürlü olamaz."
+  },
+  "caption": "Bilimsel araştırmalarda titizlik ve güvenilirlik kavramları, bilginin manipülasyondan uzak kalmasını sağlayan en kritik unsurlardır. Bir çalışmanın yöntemsel bütünlüğü, verilerin derinliği ve araştırmacının önyargılarından arınmış olması, sunulan sonuçların geçerliliğini belirler. Günlük hayatta karşılaştığımız bilgilere yaklaşırken de aynı analitik süzgeci kullanmak zihinsel hijyenimiz için elzemdir. \n\n#bilimselaraştırma #metodoloji #eleştireldüşünce #nitelaraştırma #bilgiguvenilirligi #psikolojibilimi #zihinselsüzgeç",
+  "processed_at": "2026-09-26 03:17:25"
+}

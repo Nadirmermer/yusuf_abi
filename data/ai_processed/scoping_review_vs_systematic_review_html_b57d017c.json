@@ -1,0 +1,127 @@
+{
+  "id": "scoping_review_vs_systematic_review_html_b57d017c",
+  "original_title": "Scoping Review vs Systematic Review",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/scoping-review-vs-systematic-review.html",
+  "published_date": "2024-08-01T14:11:50+00:00",
+  "read_time_minutes": 9,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/scoping-vs-systematic-review.png",
+      "alt": "Scoping Review vs Systematic Review",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Validity-Reliability-300x217.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confirmability-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Qualitative-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Reflexivity-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-construction-reality-300x157.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/audit-trail-300x200.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1738,
+  "turkce_baslik": "Akademik Araştırma Metodolojisinin İlişkisel Anatomisi",
+  "kanca_sorusu": "Zihninizdeki karmaşık soruları netleştirmeye çalışırken hangi yöntemi seçeceğinizi hiç bildiniz mi?",
+  "score": 40,
+  "puan_nedeni": "Makale tamamen akademik araştırma metodolojileri ve literatür taraması türleri üzerine kuruludur. İnsan psikolojisi, ilişkisel dinamikler veya duygusal süreçler içermediği için kuru akademik kategoriye girmektedir ve takipçide ayna etkisi yaratmaktan uzaktır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Bilimsel bilgiye ulaşma çabamız, aslında zihnimizdeki dağınıklığı toplama biçimimizin bir yansımasıdır. Kapsam incelemeleri geniş ve keşif odaklı bir bakış sunarken, sistematik incelemeler dar ve keskin sorulara yanıt arar. Günlük hayatta da benzer bir ikilem yaşarız; ya hayatımızın genel manzarasını anlamaya çalışırız ya da tek bir krizin kök nedenine odaklanırız. Bu metodolojik fark, sadece akademik bir detay değil, aynı zamanda zihinsel kaynaklarımızı nasıl yönlendirdiğimizin bir göstergesidir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Büyük Resim ile Detay Arasındaki Çizgi",
+      "body": "Zihnimizdeki soruları yapılandırırken iki farklı yoldan ilerleriz.",
+      "highlight_box": "Doğru soru, doğru yöntemi doğurur.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Keşif mi, Kesinlik mi?",
+      "body": "Bazen sadece alanı görmek isteriz, bazen de net bir sonuca ulaşmak.",
+      "highlight_box": "Hangisini aradığınızı biliyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Geniş Açı: Kapsam İncelemesi",
+      "body": "Mevcut literatürü haritalandırır, eksikleri ve kavramları belirler.",
+      "highlight_box": "Büyük resmi görmek için gereklidir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Dar Açı: Sistematik İnceleme",
+      "body": "Belirli ve dar bir soruya kanıta dayalı, keskin yanıtlar arar.",
+      "highlight_box": "Derinlemesine analiz ve netlik sağlar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Zihinsel Netlik İçin Doğru Yaklaşım",
+      "body": "Probleminizin niteliğine göre bakış açınızı esnetmeyi öğrenin.",
+      "highlight_box": "Unutmayın: Bu bir süreçtir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Doğru soruları sormak, zihinsel yükünüzü yarı yarıya azaltır.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Zihninizdeki karmaşayı çözmek için doğru soruyu sormadığınızı biliyor musunuz?",
+    "konusma_metni": "Bilimde iki tür arama yöntemi vardır. Kapsam incelemeleri büyük resmi gösterirken, sistematik incelemeler nokta atışı yanıtlar arar. Tıpkı ilişkilerde olduğu gibi; ya genel tabloya bakıp kaybolursunuz ya da tek bir probleme odaklanıp çözüm ararsınız. Doğru yöntemi seçmek, zihinsel yükünüzü hafifletmenin ilk adımıdır."
+  },
+  "caption": "Bilimsel araştırmalarda yöntem seçimi, tıpkı insan zihninin problemleri ele alış biçimine benzer. Kapsam incelemeleri geniş bir haritalandırma sunarken, sistematik incelemeler belirli bir hipotezi test etmek için dar ve keskin bir odak gerektirir. Zihinsel süreçlerinizi yapılandırırken hangi yöntemi kullandığınızın farkında olmak, karmaşayı azaltır. Psikoloji, metodoloji, araştırma yöntemleri, zihin yönetimi, akademik analiz, farkındalık, bilişsel süreçler.",
+  "processed_at": "2026-09-26 17:37:15"
+}

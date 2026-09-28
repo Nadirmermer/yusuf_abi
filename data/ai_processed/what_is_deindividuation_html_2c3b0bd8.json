@@ -1,0 +1,127 @@
+{
+  "id": "what_is_deindividuation_html_2c3b0bd8",
+  "original_title": "Deindividuation in Psychology: Definition & Examples",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/what-is-deindividuation.html",
+  "published_date": "2026-09-17T14:56:41+00:00",
+  "read_time_minutes": 17,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Deindividuation.jpeg",
+      "alt": "Deindividuation in Psychology: Definition & Examples",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-identity-theory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/normative-social-influence-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/groupthink-300x285.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-cognitive-theory-300x145.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hofstede-cultural-dimensions-300x144.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/resolution-cognitive-dissonance-300x231.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/headshot.webp",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3420,
+  "turkce_baslik": "Grup İçinde Kaybolmak: Kalabalıklar Neden Bireysel Vicdanı Susturur?",
+  "kanca_sorusu": "Tek başınıza asla yapmayacağınız şeyleri, bir kalabalık içindeyken ya da internetin anonimliğinde neden çok rahat yaparsınız?",
+  "score": 60,
+  "puan_nedeni": "Makale sosyal psikoloji ve deindividüasyon kavramını ele alıyor. Teorik temelleri (Le Bon, Zimbardo) güçlü olsa da, doğrudan bireysel ilişkisel dinamiklerden ziyade toplumsal psikolojiye odaklandığı için puanı orta-üst seviyede tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan sosyal bir varlıktır ancak bir grubun ya da kalabalığın parçası haline geldiğinde kendi benlik algısını yitirme riskiyle karşı karşıya kalır. Psikolojide deindividüasyon olarak adlandırılan bu durum, bireyin kendi kimliğini ve kişisel sorumluluğunu kalabalığın anonimliği içinde eritmesini ifade eder. Normal şartlarda suçluluk, utanç veya yargılanma korkusuyla frenlenen davranışlar, sorumluluğun gruba yayılmasıyla birlikte serbest kalır. Sokaktaki bir öfkeli kalabalığın yıkıcı eylemlerinden internet forumlarındaki acımasız yorumlara kadar pek çok alanda bu mekanizma işler. Birey, kendi ahlaki pusulasını bir kenara bırakarak grubun ortak dalgasına teslim olur ve asıl tehlike tam da bu noktada başlar; çünkü kişi kendi eylemlerinin sorumluluğunu taşımadığını hisseder.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Benlikten Vazgeçiş",
+      "body": "Kalabalıklar sadece insanları bir araya getirmez; aynı zamanda bireysel kimliği ve vicdanı sessizce ortadan kaldırır.",
+      "highlight_box": "Birey kalabalığın içinde eridiğinde ne olur?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Sorumluluğun Dağılması",
+      "body": "Tek başına asla göze alamayacağın davranışlar, sorumluluk gruba yayıldığında aniden cazip hale gelebilir.",
+      "highlight_box": "Suçluluk hissi neden bu kadar çabuk buharlaşır?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Anonimliğin Gücü",
+      "body": "Göz önünde olmamak, bireyin içsel fren mekanizmalarını devre dışı bırakır ve utanç duygusunu zayıflatır.",
+      "highlight_box": "Gorunmez oldugunuzda kim oluyorsunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Grup Normlarına Teslimiyet",
+      "body": "Kendi kararlarınızı almak yerine, grubun baskın ve irrasyonel dalgasına kapılarak hareket etmeye başlarsınız.",
+      "highlight_box": "Kendi sesiniz kalabalıkta boğuluyor mu?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Farkındalığı Geri Kazanmak",
+      "body": "Kalabalığın rüzgarından çıkıp kendi iç sesinize ve bireysel sorumluluğunuza yeniden bağlanın.",
+      "highlight_box": "Unutmayın: Grup haklı olsa bile vicdan size aittir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kendi Pusulanız",
+      "body": "Bir grubun parçası olsanız bile, eylemlerinizin sorumluluğu size aittir. Kendi kimliğinizi koruyun.",
+      "highlight_box": "Bu derinlemesine analizi kaydetmeyi unutmayın.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Tek başına asla yapmayacağın o şeyi, kalabalıkta neden yaptığını biliyor musun?",
+    "konusma_metni": "Sosyal psikolojide deindividüasyon dediğimiz bir durum var. Bir kalabalığın parçası olduğunda ya da internetin arkasına saklandığında, kendi kimliğini ve kişisel sorumluluğunu yitirirsin. Normalde seni durduran suçluluk hissi ve utanç, sorumluluğun gruba dağılmasıyla birlikte buharlaşır. Birey olmaktan çıkıp kalabalığın bir parçası haline geldiğinde, aslında kendi vicdanını da susturmuş olursun. Kendine şu soruyu sor: Tek başına kaldığında da arkasında durabileceğin kararlar veriyor musun, yoksa sadece bir grubun rüzgarına mı kapılıyorsun?"
+  },
+  "caption": "İnsan kalabalıklar içinde neden kendi benliğini kaybeder? Sosyal psikolojide deindividüasyon olarak bilinen bu durum, bireyin kendi ahlaki pusulasını bir kenara bırakıp grubun ortak dalgasına teslim olmasını açıklar. Normal şartlarda bizi durduran suçluluk ve utanç, sorumluluğun gruba yayılmasıyla ortadan kalkar. Tek başına asla yapmayacağımız şeyleri bir grup içinde veya internetin anonimliğinde yapmamızın ardındaki bu psikolojik mekanizmayı anlamak, kendi bireysel sınırlarımızı korumanın ilk adımıdır. Bu konuyu kendi hayatınızda nasıl deneyimlediğinizi düşünün ve düşüncelerinizi bizimle paylaşın.\n\n#sosyalpsikoloji #bireyvekalabalık #psikolojianalizi #grupdinamiği #bilinçaltı #kişiselgelişim #ya_da_psikoloji",
+  "processed_at": "2026-09-26 16:56:59"
+}

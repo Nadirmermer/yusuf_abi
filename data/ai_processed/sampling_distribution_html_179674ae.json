@@ -1,0 +1,133 @@
+{
+  "id": "sampling_distribution_html_179674ae",
+  "original_title": "Sampling Distribution In Statistics",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/sampling-distribution.html",
+  "published_date": "2026-09-17T11:42:26+00:00",
+  "read_time_minutes": 4,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sampling-distribution.jpg",
+      "alt": "Sampling Distribution In Statistics",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/sampling-distribution.jpg",
+      "alt": "sampling distributions",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bell-curve-300x250.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Standard-error-formula-300x88.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sampling-distribution-300x166.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 865,
+  "turkce_baslik": "İstatistikte Örneklem Dağılımı ve Merkezi Limit Teoremi",
+  "kanca_sorusu": "Elimizdeki tek bir veriyle, tüm insanlığın veya bir topluluğun gerçeğini ne kadar doğru tahmin edebiliriz?",
+  "score": 45,
+  "puan_nedeni": "Metin tamamen akademik istatistik kuramlarına, Merkezi Limit Teoremi'ne ve örneklem dağılımlarına odaklandığı için, doğrudan ilişkisel dinamikler veya bireysel iç dünyayı irdeleyen bir Ayna Etkisi yaratmamaktadır. Bu nedenle katı akademik içerik protokolü gereği düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İstatistik ve araştırma yöntemleri dünyasında, elimizdeki sınırlı verilerle büyük resim hakkında fikir yürütmek temel bir çabadır. Gerçek hayatta tüm popülasyonu incelemek imkansız olduğundan, örneklem dağılımları ve merkezi limit teoremi gibi teorik araçlar devreye girer. Bu süreç, belirsizlik ortamında dahi mantıksal tahminler yapabilmemizi sağlayan istatistiksel bir köprü işlevi görür. Bilimsel araştırmalar, tekil örneklerin ötesine geçerek genel eğilimleri yakalamaya çalışır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Büyük Resmi Görmek",
+      "body": "Sınırlı verilerle tüm popülasyon hakkında nasıl tahmin yürütürüz?",
+      "highlight_box": "İstatistikte örneklem dağılımının gücü",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Örneklem ve Popülasyon",
+      "body": "Gerçek hayattaki zaman kısıtları, tüm popülasyonu incelememizi engeller.",
+      "highlight_box": "Örneklem ortalaması ile popülasyon ortalaması arasındaki fark",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Örneklem Dağılımının Amacı",
+      "body": "Örnekleme hatasını doğrudan bilemeyiz ancak istatistiksel olarak tahmin edebiliriz.",
+      "highlight_box": "Tahmin edilebilir hata payı",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Merkezi Limit Teoremi",
+      "body": "Örneklem boyutu arttıkça, dağılım normale yaklaşır ve veriler kümelenir.",
+      "highlight_box": "Normallik varsayımı ve büyük örneklemler",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Uygulama Adımları",
+      "body": "Teorik dağılımları anlamak, veriye dayalı kararlar almamızı kolaylaştırır.",
+      "highlight_box": "Bilimsel verinin gücü",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "İstatistiki yöntemler, belirsizliği yönetilebilir modellere dönüştürür.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Elimizdeki küçük bir parçayla, bütünün ne kadarını doğru tahmin edebiliriz?",
+    "konusma_metni": "İstatistikte örneklem dağılımı ve merkezi limit teoremi, tam olarak bu belirsizliği yönetmemizi sağlar. Bütün bir popülasyona ulaşamadığımız durumlarda, rastgele örneklemler alarak gerçeğe en yakın tahmini yapmaya çalışırız. Bilim, sınırlı veriden büyük resmi görme sanatıdır."
+  },
+  "caption": "İstatistikte örneklem dağılımı, popülasyon parametrelerini tahmin etmede kritik bir rol oynar. Merkezi limit teoremi sayesinde büyük örneklemlerin normallik eğilimi göstermesi, araştırmalara güvenilirlik kazandırır. Bilimsel verilerin ardındaki mantığı anlamak için bu yayını kaydedebilirsiniz.\n\n#istatistik #bilimselaraştırma #verianalizi #psikoloji #akademik #yöntem",
+  "processed_at": "2026-09-26 17:01:24"
+}

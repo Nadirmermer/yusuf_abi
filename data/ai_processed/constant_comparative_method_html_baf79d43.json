@@ -1,0 +1,127 @@
+{
+  "id": "constant_comparative_method_html_baf79d43",
+  "original_title": "Constant Comparative Method In Grounded Theory",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/constant-comparative-method.html",
+  "published_date": "2024-10-29T17:38:39+00:00",
+  "read_time_minutes": 8,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/constant-comparison.jpg",
+      "alt": "Constant Comparative Method In Grounded Theory",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Sample-Target-Population-300x160.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/axial-coding-300x154.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/qualitative-coding-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/thematic-grounded-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/coding-saturation-300x129.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/triangulation-1-286x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1532,
+  "turkce_baslik": "Sürekli Karşılaştırma Yöntemi ve Zihinsel Kodlarımız",
+  "kanca_sorusu": "Hayatınızda yaşadığınız her yeni hayal kırıklığını, geçmişteki eski yaralarınızla sürekli kıyaslayıp durmaktan ne zaman vazgeçeceksiniz?",
+  "score": 45,
+  "puan_nedeni": "Metin temel olarak nitel araştırma metodolojisini ve veri analizi yöntemlerini anlatmaktadır. Doğrudan ilişkisel bir dinamik veya klinik bir patoloji içermediği, saf akademik araştırma tekniği olduğu için puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Sosyal bilimlerde veri analizi için geliştirilen sürekli karşılaştırma yöntemi, aslında zihnimizin günlük yaşamda ve ilişkilerde istemsizce yaptığı mekanizmanın çok benzeridir. Yeni bir deneyimle karşılaştığımızda, beynimiz hemen eski arşivleri açar, benzerlikleri ve farkları tarar. Ancak bu yöntem araştırmalarda teorik doygunluğa ulaşmak için harika bir araçken, insan ilişkilerinde sürekli bir kıyaslama ve tetikte olma haline dönüşebilir. Geçmişteki reddedilmeleri bugünkü partnerimizin davranışlarıyla sürekli karşılaştırmak, yeni verileri tarafsız görmemizi engeller. Tıpkı araştırmacıların verileri kodlarken önyargılardan arınmaya çalışması gibi, bizim de zihnimizin kurduğu bu otomatik kategorizasyonları fark etmemiz gerekir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihnimizin Kıyaslama Döngüsü",
+      "body": "Yaşadığımız her yeni deneyimi, hafızamızdaki eski dosyalarla sürekli kıyaslama eğilimindeyiz.",
+      "highlight_box": "Yeni olanı değil, eskinin tekrarını arıyoruz.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Kodlama ve Etiketleme",
+      "body": "Araştırmacıların verileri kategorize etmesi gibi, biz de insanları ve durumları hızla etiketliyoruz.",
+      "highlight_box": "Bunu her gün otomatik olarak yapıyorsunuz.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Geçmişi Bugüne Taşımak",
+      "body": "Yeni bir durumu, geçmişteki benzer bir travma veya hayal kırıklığı ile birebir örtüştürme çabası.",
+      "highlight_box": "Her yeni olay eski bir hatanın kanıtı değildir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Önyargılı Kategoriler",
+      "body": "Zihin, belirsizliğe tahammül edemediği için verileri eskiye uydurmak adına yeniden şekillendirir.",
+      "highlight_box": "Uymayan verileri yok sayma eğilimi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Döngüyü Kırmak",
+      "body": "Sürekli karşılaştırma yapmayı bırakıp, karşıdaki insanı ve anı olduğu gibi kabul etme zamanı.",
+      "highlight_box": "Geçmişin verisi bugünün geleceğini belirleyemez.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış ve Hatırlatma",
+      "body": "Zihninizin kurduğu etiketleri fark edin ve insanları geçmişin kodlarıyla yargılamaktan vazgeçin.",
+      "highlight_box": "Bu farkındalığı korumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Yeni ilişkilerinizde sürekli eski acılarınızı arıyor ve bulduğunuzda şaşırmıyorsunuz, çünkü beyniniz sürekli karşılaştırma yapıyor.",
+    "konusma_metni": "Bilimde verileri anlamlandırmak için kullanılan sürekli karşılaştırma yöntemi, bizim iç dünyamızda zehirli bir döngüye dönüşebilir. Her yeni insanı, her yeni durumu eski travmalarımızla kıyaslar, zihnimizde etiketler ve kategorize ederiz. Sonra da neden aynı kısır döngüyü yaşadığımızı sorarız. Kıyaslamayı bıraktığınız an, gerçek insanı görmeye başlarsınız."
+  },
+  "caption": "Bilimsel araştırmalarda veri analizi için kullanılan sürekli karşılaştırma yöntemi, insan zihninin anlam arayışındaki en temel mekanizmalarından biridir. Ancak bu mekanizma farkında olunmadığında, geçmişin hayal kırıklıklarını bugüne taşımaktan başka bir işe yaramaz. Her yeni deneyimi eski yaralarınızla kıyaslamayı bıraktığınızda, gerçeklikle yüzleşmeye başlarsınız.\n\nPsikoloji, ZihinYönetimi, Farkındalık, DüşünceYapısı, İçselİyileşme, AraştırmaMetodolojisi",
+  "processed_at": "2026-09-26 17:36:44"
+}

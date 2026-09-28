@@ -1,0 +1,850 @@
+# Biopsychology (A-level Psychology)
+
+- **Kaynak Platform**: Simply Psychology
+- **Orijinal URL**: https://www.simplypsychology.org/biopsychology-a-level-psychology.html
+- **Yayın Tarihi**: 2026-06-09T12:32:52+00:00
+- **Okuma Süresi / Kelime**: ~52 dk (10334 kelime)
+- **Çekilme Zamanı**: 2026-09-21T22:37:12.935732
+
+---
+
+## 📌 Giriş / Özet
+Psychology»A-Level Psychology
+
+
+## 🎯 Ana Maddeler & Odak Noktaları (Carousel / Post Çekirdeği)
+1. 1. Perception of a Stressor and Activation of the Nervous System:
+2. 2. Role of the Endocrine System and Adrenaline Release:
+3. 3. Physiological Changes Caused by Adrenaline:
+4. 4. Return to Homeostasis:
+
+
+## 🖼️ Konuyla İlgili Görseller (Arka Plan & Tasarım İçin)
+- ![Biopsychology (A-level Psychology)](https://www.simplypsychology.org/wp-content/uploads/nervous-system-1.jpeg) - *Header Image*
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/issues-and-debates-in-psychology-1-1-300x169.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/approaches3-300x228.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/Freud-Therapy-300x228.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/Chemical-synapse-300x240.png)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/brain-memory-300x258.jpeg)
+- ![Central nervous system2](https://www.simplypsychology.org/wp-content/uploads/Central-nervous-system2.jpg)
+- ![peripheral nervous system 1](https://www.simplypsychology.org/wp-content/uploads/peripheral-nervous-system-1.jpeg)
+- ![sympathetic vs parasympathetic](https://www.simplypsychology.org/wp-content/uploads/sympathetic-vs-parasympathetic.jpg)
+- ![Three main types of neurons: sensory, interneuron and motor](https://www.simplypsychology.org/wp-content/uploads/sensory-motor-relay-neurons.png)
+- ![Neuron](https://www.simplypsychology.org/wp-content/uploads/Neuron.jpg)
+- ![Transmission of the nerve signal between two neurons with axon and synapse. Close-up of a chemical synapse](https://www.simplypsychology.org/wp-content/uploads/chemical-synapse.jpg)
+- ![The Synaptic Transmission Between Neurons](https://www.simplypsychology.org/wp-content/uploads/Chemical-synapse.png)
+- ![an infographic with diagram of neurons and descriptions of how action potential works on the neurons](https://www.simplypsychology.org/wp-content/uploads/Action-Membrane-Potential.jpeg)
+- ![endocrine system](https://www.simplypsychology.org/wp-content/uploads/endocrine-system.jpg)
+- ![stress response](https://www.simplypsychology.org/wp-content/uploads/stress_response.jpg)
+- ![fight or flight](https://www.simplypsychology.org/wp-content/uploads/fight-or-flight.jpg)
+- ![CerebralHemispheres](https://www.simplypsychology.org/wp-content/uploads/CerebralHemispheres.png)
+- ![Broca Wernicke](https://www.simplypsychology.org/wp-content/uploads/Broca_Wernicke.jpg)
+- ![fMRI](https://www.simplypsychology.org/wp-content/uploads/fMRI.jpg)
+- ![brain scan image](https://www.simplypsychology.org/wp-content/uploads/brain-scan-image.jpg)
+- ![encephalography electrode.](https://www.simplypsychology.org/wp-content/uploads/encephalography-electrode..jpeg)
+- ![EEG](https://www.simplypsychology.org/wp-content/uploads/EEG.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg)
+
+
+## 📝 Makale Bölümleri ve Detaylı İçerik
+
+### Giriş
+
+Psychology»A-Level Psychology
+
+Use up and down arrow keys to resize the meta box pane.
+
+### Biopsychology Exam
+
+Test your knowledge of AQA A-level Psychology: Biopsychology. Covers the nervous system, neurons, synaptic transmission, the endocrine system, fight or flight, localisation of function, lateralisation, brain plasticity, brain scanning, and biological rhythms.
+
+1.Which division of the nervous system consists of the brain and spinal cord?[1 mark]
+
+2.Which type of neuron carries signals from receptors (e.g., eyes, ears) to the central nervous system?[1 mark]
+
+3.During synaptic transmission, neurotransmitters are released from which structure?[1 mark]
+
+4.Which gland in the endocrine system is often referred to as the "master gland" because it controls the release of hormones from other glands?[1 mark]
+
+5.During the fight or flight response, which hormone is released by the adrenal medulla to prepare the body for action?[1 mark]
+
+6.Which area of the brain is responsible for speech production and is located in the left frontal lobe?[1 mark]
+
+7.Sperry's split-brain research involved patients who had undergone which surgical procedure?[1 mark]
+
+8.Brain plasticity refers to the brain's ability to:[1 mark]
+
+9.Which brain scanning technique measures changes in blood flow and oxygen levels to produce detailed images of brain activity?[1 mark]
+
+10.The sleep-wake cycle is an example of which type of biological rhythm?[1 mark]
+
+11.The suprachiasmatic nucleus (SCN) is an example of:[1 mark]
+
+12.Which of the following describes the role of the parasympathetic nervous system?[1 mark]
+
+13.Which two of the following are functions of the autonomic nervous system?[2 marks]
+
+(Select all that apply)
+
+14.Which two of the following are physiological changes that occur during the fight or flight response?[2 marks]
+
+15.Which two of the following are findings from Sperry's split-brain research?[2 marks]
+
+16.Which two of the following are advantages of using fMRI to study the brain?[2 marks]
+
+17.Describe the process of synaptic transmission. Include reference to the role of neurotransmitters.[4 marks]
+
+Synaptic transmission is the process by which a nerve impulse is passed from one neuron to the next across a small gap called the synaptic cleft. Neurons do not physically touch; instead, they communicate chemically at synapses.
+
+When an electrical impulse (action potential) arrives at the pre-synaptic terminal at the end of the axon, it triggers synaptic vesicles containing neurotransmitters to move towards and fuse with the pre-synaptic membrane. The neurotransmitters are then released by exocytosis into the synaptic cleft.
+
+The neurotransmitter molecules diffuse across the synaptic cleft and bind to specific receptor sites on the post-synaptic membrane of the next neuron. This binding can have one of two effects: excitation (making the post-synaptic neuron more likely to fire an action potential) or inhibition (making it less likely to fire). Whether a neuron fires depends on the summation of excitatory and inhibitory signals it receives.
+
+After binding, the neurotransmitter is either broken down by enzymes in the synaptic cleft or reabsorbed (reuptake) by the pre-synaptic neuron, terminating the signal and allowing the synapse to be ready for the next impulse.
+
+AO1 (4 marks): Accurate description of the stages of synaptic transmission. Award marks for: (1) electrical impulse arrives at pre-synaptic terminal; (2) neurotransmitter released from vesicles into the synaptic cleft; (3) neurotransmitter binds to receptors on the post-synaptic membrane; (4) effect on the post-synaptic neuron (excitation/inhibition) and/or removal of neurotransmitter (reuptake/enzyme breakdown). Full marks require clear sequential description with appropriate terminology.
+
+18.Outline the fight or flight response, including the roles of the sympathetic nervous system and the adrenal gland.[4 marks]
+
+The fight or flight response is an acute stress response that prepares the body to either confront or flee from a perceived threat. It is an adaptive, evolutionary mechanism that increases chances of survival.
+
+When a threat is perceived, the hypothalamus activates the sympathomedullary pathway (SAM). The sympathetic branch of the autonomic nervous system is activated, sending signals via the spinal cord to the adrenal medulla (the inner part of the adrenal glands). The adrenal medulla releases adrenaline and noradrenaline into the bloodstream.
+
+These hormones produce a range of physiological changes: heart rate and blood pressure increase to deliver more oxygenated blood to the muscles; breathing rate increases to take in more oxygen; blood is diverted away from non-essential functions such as digestion and directed towards the skeletal muscles; the liver releases stored glucose to provide energy; the pupils dilate to improve visual awareness; and sweating increases to cool the body.
+
+Once the threat has passed, the parasympathetic branch of the autonomic nervous system takes over (the rest and digest response), returning the body to its normal resting state — heart rate slows, blood pressure drops, and digestion resumes.
+
+AO1 (4 marks): Clear outline of the fight or flight response. Award marks for: (1) threat detection and activation by the hypothalamus; (2) role of the sympathetic nervous system in triggering the response; (3) role of the adrenal gland (adrenal medulla releasing adrenaline); (4) physiological changes (e.g., increased heart rate, blood pressure, breathing, pupil dilation, blood diversion to muscles). Credit reference to the parasympathetic system returning the body to rest.
+
+19.Outline and evaluate localisation of function in the brain. Refer to at least two brain areas in your answer.[6 marks]
+
+Localisation of function is the theory that different areas of the brain are responsible for different physical and psychological functions. This contrasts with the holistic view that the brain operates as a unified whole.
+
+The motor cortex, located at the back of the frontal lobe, is responsible for generating voluntary movements. Different parts of the motor cortex control different body parts, with areas requiring fine motor control (such as the hands and face) having disproportionately large cortical representation. The somatosensory cortex, located at the front of the parietal lobe, processes sensory information from the body, such as touch, pressure, and temperature.
+
+Broca\’s area, located in the left frontal lobe, is responsible for speech production. Paul Broca (1861) identified this area after studying a patient known as “Tan” who could understand speech but could only produce the syllable “tan”. Damage to this area produces Broca\’s aphasia — slow, laboured, non-fluent speech with intact comprehension. Wernicke\’s area, located in the left temporal lobe, is responsible for language comprehension. Damage to this area produces Wernicke\’s aphasia — fluent but meaningless speech, with impaired understanding of language.
+
+One strength of localisation is strong supporting evidence from case studies and brain scanning research. Broca\’s patient “Tan” and Wernicke\’s patients provided early clinical evidence, and modern neuroimaging (fMRI, PET) has confirmed that specific tasks (such as speaking or listening) produce increased activity in the predicted brain regions. This convergent evidence from different methods strengthens the theory.
+
+However, a limitation is that localisation may oversimplify brain function. Lashley\’s (1930) research on rats found that the severity of learning deficits depended on the amount of cortex removed, not its location (the law of mass action), suggesting some functions are distributed across the brain rather than localised. Similarly, modern research on brain plasticity has shown that the brain can reorganise itself after damage — for example, functions from a damaged area may be taken over by healthy areas — which challenges strict localisation.
+
+A further issue is that many complex psychological processes (such as memory, attention, and decision-making) involve multiple interconnected brain areas working together, not a single localised region. The fact that language, for instance, requires both Broca\’s area and Wernicke\’s area (connected by the arcuate fasciculus) shows that even apparently localised functions involve networks rather than isolated centres.
+
+AO1 (3 marks): Outline of localisation of function with reference to at least two brain areas. May include: motor cortex, somatosensory cortex, visual cortex, auditory cortex, Broca\’s area (speech production), Wernicke\’s area (language comprehension). Award marks for accurate identification and description of function.AO3 (3 marks): Evaluation of localisation. May include: supporting evidence from case studies (Broca, Wernicke) and brain scanning; challenges from Lashley\’s equipotentiality/mass action; evidence from brain plasticity and functional recovery; complex processes involving networks not single areas; clinical applications. Each evaluative point must be elaborated.
+
+20.Discuss the role of endogenous pacemakers and exogenous zeitgebers in the regulation of the sleep-wake cycle.[6 marks]
+
+Biological rhythms such as the sleep-wake cycle are regulated by an interaction between endogenous pacemakers (internal biological clocks) and exogenous zeitgebers (external environmental cues).
+
+The primary endogenous pacemaker for the circadian sleep-wake cycle is the suprachiasmatic nucleus (SCN), a tiny cluster of neurons located in the hypothalamus, directly above the optic chiasm. The SCN generates a roughly 24-hour rhythm that controls sleep and wakefulness. It receives information about light levels directly from the retina via the retinohypothalamic tract. When light levels decrease, the SCN signals the pineal gland to increase production of melatonin, a hormone that induces sleepiness. When light increases, melatonin production is suppressed, promoting wakefulness.
+
+The most important exogenous zeitgeber is light. Light resets (entrains) the internal clock each day, keeping the circadian rhythm synchronised with the 24-hour day-night cycle. Other exogenous zeitgebers include social cues (meal times, work schedules, social interactions) and temperature.
+
+Evidence for the role of endogenous pacemakers comes from Michel Siffre\’s cave studies (1975), where he spent extended periods underground without access to natural light or clocks. His sleep-wake cycle persisted but extended to approximately 25 hours, demonstrating that the body has an internal clock that runs close to (but not exactly) 24 hours without external cues. This shows that the internal clock can maintain a rhythm independently but needs light to keep it precisely at 24 hours.
+
+A strength of this explanation is supporting research evidence. Studies involving the removal of the SCN in hamsters (Ralph et al., 1990) abolished circadian rhythms, and transplanting SCN tissue from one hamster to another transferred the donor\’s rhythm. This strongly supports the role of the SCN as the primary pacemaker.
+
+However, a limitation is that most research on endogenous pacemakers has been conducted on animals, raising questions about how well findings generalise to humans. Human circadian rhythms are influenced by complex social and cognitive factors (such as alarm clocks, shift work, and motivation) that are not present in animal studies.
+
+Additionally, the relative importance of endogenous and exogenous factors may vary between individuals. Shift workers and people experiencing jet lag demonstrate that when external cues conflict with the internal clock, disruption to the sleep-wake cycle, mood, and cognitive performance can result. This highlights the interaction between the two systems — the internal clock needs external cues to function optimally, and neither operates in isolation.
+
+AO1 (3 marks): Description of endogenous pacemakers (SCN, pineal gland, melatonin) and exogenous zeitgebers (light as primary zeitgeber, social cues). Clear explanation of how they interact to regulate the sleep-wake cycle.AO3 (3 marks): Discussion and evaluation. May include: research evidence (Siffre\’s cave study, Ralph et al.\’s SCN transplant study); limitations of animal research; practical applications (shift work, jet lag); the interaction between endogenous and exogenous factors; individual differences. Each evaluative point should be elaborated.
+
+Scoring your answers…
+
+These revision notes cover the Biopsychology subtopic (3.2.2) from the AQA A-level Psychology syllabus: Paper 2: Psychology in Context.
+
+They are structured to distinguish betweenAO1(demonstrate knowledge and understanding) andAO3(analyse, interpret, and evaluate).
+
+Note: A-level students need to understand all these topics.AS studentsonly need to understand the first 4 – i.e. they do not need to learn about the brain’s physiology or biological rhythms.
+
+- Nervous System
+
+- Neurons & Synaptic Transmission
+
+- Endocrine System
+
+- Fight or Flight Response
+
+- Brain Hemispheric Lateralisation
+
+- Plasticity & Functional Recovery
+
+- Ways of Studying the Brain
+
+### Nervous System
+
+The divisions of the nervous system: central and peripheral (somatic and autonomic).
+
+### AO1: Knowledge & Understanding
+
+The nervous system coordinates actions by transmitting signals to and from different parts of the body.
+
+### Central Nervous System (CNS):
+
+Thecentral nervous system(CNS) which consists of the brain and the spinal cord.  This where all the complex processing of information is done and decisions are made.
+
+The brain is the centre of awareness. It is divided in two hemispheres. The cortex is more developed in humans than in all other animals.
+
+The spinal cord is an extension of the brain. It transports messages to and from the brain to the peripheral nervous system.
+
+It also plays a role in basic motor reflexes.
+
+### Peripheral Nervous System (PNS):
+
+Theperipheral nervous system(PNS) is critical for connecting the central nervous system (CNS) to the rest of the body.
+
+The PNS brings information from the senses to the CNS and transmit information from the CNS to the muscles and glands.
+
+It is essential for bodily functions such as movement, sensation, and autonomic processes.
+
+The Peripheral Nervous System is further subdivided into two parts: the Somatic Nervous System and the Autonomic Nervous System.
+
+### Somatic Nervous System (SNS):
+
+Thesomatic nervous system(SNS) is part of the peripheral nervous system (PNS) and is associated with activities traditionally thought of as conscious or voluntary, such as walking.
+
+The somatic nervous system consists ofmotor neuronsand sensory neurons, which respectively transmit motor and sensory signals to and from the central nervous system (CNS).
+
+The somatic nervous system controls voluntary movements, transmits and receives sensory information (e.g., sight, taste, touch), and is involved in reflex actions without the involvement of the CNS so that the reflex can occur very quickly.
+
+Theautonomic nervous system(ANS) is a nervous system component responsible for regulating involuntary (automatic) bodily functions, such as heart rate, digestion, respiratory rate, and pupillary response.
+
+Unlike the SNS, the ANS primarily consists of motor neurons to bring about actions, and does not have sensory neurons.
+
+The ANS consists of two main divisions: the sympathetic and parasympathetic systems, which often work in opposition to maintaining the body’s internal balance or homeostasis.
+
+- Sympathetic: Involved in responses that help us deal with emergencies. Activatesfight or flight, increases heart rate/blood pressure. It slows bodily processes that are less important in emergencies, such as digestion.
+
+- Parasympathetic: Also called the “rest and digest” system, it conserves energy and promotes relaxation of the body after undergoing stress. It returns the body to its normal resting state by decreasing heart rate and breathing rates, constricting pupils, and activating digestion and saliva production.
+
+### AO3: Analysis & Evaluation
+
+- Adaptive Value: Quick reflexes in the SNS for responding to threats (fight or flight). ANS homeostasis ensures physiological balance. Without proper PSNS function, the body would struggle to maintain homeostasis, potentially remaining in a constant state of heightened arousal.
+
+- Real-life Applications: Understanding ANS function helps in anxiety treatments. For example, in anxiety treatments where beta-blockers can be used to reduce sympathetic arousal. This demonstrates how psychological knowledge can be used to help individuals manage their physiological responses to stress.
+
+- Reductionism Critique: While dividing the NS helps clarity, real responses involve interplay of many systems (e.g., hormonal and neural) helps in clarifying its functions, it is important to acknowledge a potential critique related to reductionism. Real-world responses often involve a complex interplay of many systems, including both hormonal and neural influences. For example, the fight or flight response is not solely a nervous system function but also heavily involves the endocrine system and the release of hormones like adrenaline.
+
+Exam-Style:Short Question Example
+
+Question: Outline one difference between the somatic and autonomic nervous systems.
+
+Answer: The somatic system controls voluntary muscle movements (e.g. picking up objects), whereas the autonomic system controls involuntary internal processes (e.g. heart rate).
+
+### Neurons & Synaptic Transmission
+
+The structure and function of sensory, relay and motor neurons. The process of synaptictransmission, including reference to neurotransmitters, excitation and inhibition.
+
+### AO1: Knowledge & Understanding
+
+The nervous system, a complex network of nerve cells, coordinates actions by transmitting signals throughout the body.
+
+At its core, the nervous system relies onneurons, which are the fundamental building blocks responsible for processing and transmitting messages.
+
+The human nervous system contains over 100 billion neurons, with approximately 80% residing in the brain.
+
+These messages are transmitted through both electrical and chemical means, forming the primary mode of communication within the nervous system.
+
+### Neuronal Types:
+
+You need to know the structure and function:
+
+- Sensory Neurons: These neurons carry messages from your peripheral nervous system to your central nervous system (CNS). They pick up information from sensory receptors, such as those in your skin or eyes, detecting changes in the environment or from a stimulus.Structure: Typically, sensory neurons have long dendrites and short axons.
+
+- Relay (Interneuron) Neurons: Found mostly in the CNS; connect sensory to motor neurons, or connect to other relay neurons. Their role is to carry nerve impulses between these different types of neurons. Short dendrites and short or long anxon.Structure: Relay neurons generally have short dendrites and either short or long axons.
+
+- Motor Neurons: These neurons carry nerve impulses from the central nervous system to effectors, which are typically muscles and glands. Their ultimate purpose is to bring about a response to a stimulus. When stimulated, a motor neuron releases neurotransmitters that bind to receptors on a muscle, triggering a response that leads to muscle movement.Structure: Motor neurons possess short dendrites and long axons.
+
+### Structure of aTypical Neuron:
+
+- Cell Body (Soma): This central part of the neuron contains the nucleus, which houses the genetic material of the cell.
+
+- Dendrites: These are branch-like structures that extend from the cell body. Their primary role is to receive electrical impulses or information from neighboring neurons and send these signals towards the cell body.
+
+- Axon: A long projection that carries electrical impulses (known asaction potentials) away from the cell body, down the length of the neuron, towards the axon terminals. Axons can vary significantly in length, from a few millimeters to over a meter in the spinal cord.
+
+- Myelin Sheath: Many axons are covered in a fatty layer called the myelin sheath. This sheath insulates the axon, protecting it and significantly speeding up the electrical transmission of the impulse.
+
+- Nodes of Ranvier: The myelin sheath is not continuous; it has small gaps called Nodes of Ranvier. These gaps are crucial for speeding up transmission by forcing the electrical impulse to “jump” from node to node, a process known as saltatory conduction.
+
+- Terminal Buttons (Axon Terminals): Located at the very end of the axon, these structures are responsible for communicating with the next neuron in the chain across a tiny gap called the synapse. These terminal buttons contain small sacs, or vesicles, that hold chemical messengers called neurotransmitters.
+
+The cell body contains the nucleus (chromosomes), from the cell body . The dendrites extend from the cell body.
+
+They carry  electrical impulses from other neurons towards the cell body. The axon is an extension of the neuron, it carries the impulses away from the cell  body. It is covered by a sheath of myelin,  a fatty substance.
+
+The main purpose of the myelin sheath is to increase the speed at which impulses propagate.  There are  breaks of  between 0.2 and 2 mm. in themyelin sheath, these are called nodes of Ranvier.
+
+Action potentials  (nerve impulses) travelling down the axon “jump” from node to node. This speeds up the transmission.
+
+### Synaptic Transmission:
+
+Neurons do not make direct contact. There is a very small gap between neurons called asynapse.
+
+Synaptic transmission is the essential process by which neighboring neurons communicate, sending chemical messages across this gap.
+
+The communication process involves both electrical and chemical signals:
+
+- When a neuron is at rest, its inside is negatively charged compared to the outside.
+
+- Upon activation by a stimulus, the inside of the cell rapidly becomes positively charged for a brief moment, generating anaction potential(or “firing” of the neuron).
+
+- This electrical impulse then travels along the axon towards the terminal buttons at the end of the neuron.
+
+- Once the electrical impulse (action potential) arrives at thepresynaptic terminal(the end of the transmitting neuron).
+
+- This triggers the release ofneurotransmittersfrom the synaptic vesicles within the presynaptic terminal.
+
+- These chemical messengers then diffuse across the synaptic cleft.
+
+- They bind to specificreceptor siteslocated on the membrane of thepostsynaptic neuron(the dendrite of the receiving neuron).
+
+- Crucially, information can only travel in one direction across a synapse – from the presynaptic to the postsynaptic neuron. This is because neurotransmitter vesicles are only found in the presynaptic terminal, and receptors are only present on the postsynaptic membrane.
+
+- After binding, the chemical message is converted back into an electrical signal within the postsynaptic neuron, allowing the message to continue along the next neuron’s axon.
+
+- Once the neurotransmitters have completed their function and the message has been passed, they are either broken down by enzymes within the synapse or reabsorbed back into the presynaptic neuron through a process calledreuptake.
+
+- This process clears the synapse, making it ready for the next impulse.
+
+When a neuron is not sending a signal, it is “at rest.” When a neuron is at rest, the inside of the neuron is negative relative to the outside.
+
+When a neuron is activated by a stimulus, the inside of the cell becomes positively charged for a short time, this is the action potential/ it creates the electrical impulse that travels through the axon to the end of the neuron.
+
+Some neurotransmitters act by making the neuron more negatively charged so less likely to fire. This is an inhibitory effect.  This is the case forserotonin.
+
+Other neurotransmitters  increase the positive charge  so make the neuron more likely to fire. This is the excitatory effect. Adrenalin is which is both a neurotransmitter and a hormone has an excitatory effect.
+
+### Neurotransmitters: Excitation and Inhibition
+
+Neurotransmittersare the chemical messengers that allow neurons to communicate across the synapse.
+
+Each type of neurotransmitter is highly specific, fitting perfectly into particular receptor sites and performing a specific function.
+
+Their effect on the postsynaptic neuron can be one of two types: excitation or inhibition.
+
+### Excitation:
+
+- An excitatory neurotransmitter increases the positive charge inside the postsynaptic neuron. This process is known asdepolarization, occurring because the receptors allow positively charged ions, such as sodium ions, to enter the cell.
+
+- By making the postsynaptic neuron more positively charged, excitation increases the likelihood that the neuron will reach its threshold and “fire,” thereby passing on the electrical impulse. An example of an excitatory neurotransmitter is adrenaline, which makes neighboring neurons more positively charged, preparing the body for a “fight-or-flight” response.
+
+### Inhibition:
+
+- Conversely, an inhibitory neurotransmitter increases the negative charge inside the postsynaptic neuron. This effect is calledhyperpolarization, often by releasing potassium from the cell.
+
+- By making the postsynaptic neuron more negatively charged, inhibition decreases the likelihood that the neuron will fire. Serotonin is often cited as an inhibitory neurotransmitter, making a neuron less likely to fire. GABA is another example of a purely inhibitory neurotransmitter.
+
+### Summation:
+
+The decision of whether a postsynaptic neuron will fire depends on the combined effect of all the excitatory and inhibitory influences it receives at any given moment.
+
+This process is called summation. If the total effect on the postsynaptic neuron is inhibitory (i.e., the net charge is more negative), the neuron is less likely to fire.
+
+If the total effect is excitatory (i.e., the net charge is more positive and reaches the threshold), the neuron will be more likely to fire.
+
+This delicate balance between excitation and inhibition is crucial for normal brain function.
+
+### AO3: Analysis & Evaluation
+
+- Research & Support: The study of neurons and synaptic transmission relies heavily on scientific research methods, including advanced scanning techniques like fMRI and PET scans. These methods are highly controlled and produce objective data, which enhances the reliability of the findings. Researchers can directly observe brain activity and structures, providing strong empirical evidence.
+
+- Biological Reductionism: This approach reduces complex human experience to the outcome of genes and biological processes, potentially neglecting the influence of environmental, cognitive, and social factors. For example, while SSRIs are effective for some, they don’t work for all patients, and the symptoms can reappear if medication is stopped, suggesting that neurochemical imbalances may be a consequence rather than the sole cause of a disorder.
+
+- Therapeutic Applications: A significant strength of understanding neurotransmitters and synaptic transmission is its direct application in developing effective drug therapies for mental disorders. For instance, knowing that low levels of serotonin are associated with conditions like OCD and depression has led to the development of Selective Serotonin Reuptake Inhibitors (SSRIs). These drugs work by preventing the reabsorption of serotonin in the synapse, increasing its concentration and alleviating symptoms. This demonstrates the real-life value and practical utility of this knowledge, enabling many sufferers to lead more normal lives.
+
+- Issues of Causation: While drug therapies provide supporting evidence, it’s difficult to definitively establish a cause-and-effect relationship. For instance, a neurotransmitter imbalance might be a symptom of a disorder, rather than its primary cause. The improvement seen with drugs doesn’t automatically confirm that a lack of that neurotransmitter was the sole cause.
+
+- Complexity and Inconsistency: The brain’s functions are highly intricate, and neural correlates are not always consistent across all sufferers of a particular disorder. While specific brain areas and neurotransmitters are implicated, the full complexity of how they interact to produce behavior is still being understood. The idea that consciousness or complex human experiences can be fully explained by the simple processes of individual neurons is questioned, suggesting that these might be “emergent properties” arising from the interaction of many factors.
+
+Question: Explain what is meant by ‘inference’ in relation to cognitive measures of reaction time.Answer: Inference involves drawing conclusions about internal mental processes from observable evidence (e.g. reaction times), since mental processes themselves cannot be directly observed.
+
+### Endocrine System
+
+The function of the endocrine system: glands and hormones.
+
+### Endocrine System:
+
+The endocrine system is a chemical communication system within the body that works alongside the nervous system to control vital functions.
+
+Instead of using nerve impulses for transmission, it instructs a network of glands throughout the body to manufacture and secrete chemical messengers called hormones directly into the bloodstream.
+
+Here’s a breakdown of its function and some key glands and their hormones:
+
+### Function of the Endocrine System:
+
+- It provides a chemical system of communication via the bloodstream.
+
+- It secretes hormones which are required to regulate many bodily functions. These hormones affect any cell in the body that has a receptor for that hormone.
+
+- While it acts much more slowly than the nervous system, its effects are very widespread and powerful.
+
+- The timing and levels of hormone release are critical for normal functioning; imbalances can lead to dysfunction of bodily systems, such as high levels of cortisol potentially causing Cushing’s syndrome.
+
+### Key Glands and Their Hormones:
+
+- Pituitary Gland: Often called the “master gland” of the endocrine system. It is a small, pea-sized gland located at the base of your brain, below your hypothalamus, and it controls the functions of many other glands.It producesadrenocorticotrophic hormone (ACTH)in response to stress, which then stimulates the adrenal glands to produce cortisol.It also makesoxytocin, a hormone involved in childbirth by sending signals to the uterus to contract. Oxytocin also influences bonding between a mother and her baby during breastfeeding and is thought to reduce the stress hormone cortisol, promoting a ‘tend and befriend’ response.
+
+- It producesadrenocorticotrophic hormone (ACTH)in response to stress, which then stimulates the adrenal glands to produce cortisol.
+
+- It also makesoxytocin, a hormone involved in childbirth by sending signals to the uterus to contract. Oxytocin also influences bonding between a mother and her baby during breastfeeding and is thought to reduce the stress hormone cortisol, promoting a ‘tend and befriend’ response.
+
+- Adrenal Glands: Located near the kidneys, these glands play a vital role in the body’s stress response.Theadrenal medulla(part of the adrenal gland) releasesadrenaline(and noradrenaline). Adrenaline stimulates the sympathetic nervous system and is crucial in bringing about thefight-or-flight response. Its effects include increasing heart rate, blood pressure, and breathing rate, diverting blood to muscles, and generally preparing the body for rapid action in response to a threat.Theadrenal cortex(another part of the adrenal gland) producescorticosteroidslikecortisol. Cortisol helps provide energy for prolonged stress by mobilizing glucose and fat reserves from the liver. However, continuously high levels of cortisol can suppress the immune system and lead to health issues like hypertension.
+
+- Theadrenal medulla(part of the adrenal gland) releasesadrenaline(and noradrenaline). Adrenaline stimulates the sympathetic nervous system and is crucial in bringing about thefight-or-flight response. Its effects include increasing heart rate, blood pressure, and breathing rate, diverting blood to muscles, and generally preparing the body for rapid action in response to a threat.
+
+- Theadrenal cortex(another part of the adrenal gland) producescorticosteroidslikecortisol. Cortisol helps provide energy for prolonged stress by mobilizing glucose and fat reserves from the liver. However, continuously high levels of cortisol can suppress the immune system and lead to health issues like hypertension.
+
+- Thyroid Gland: Produces the hormonethyroxine. Thyroxine controls the body’s metabolic rate (how much energy your body uses) and is involved in digestion, heart function, and brain development.
+
+- Testes: These are two male reproductive glands that produce sperm and the hormonetestosterone. Testosterone causes the development of male characteristics such as growth of facial hair, deepening of the voice, and larger muscles. Higher levels of testosterone are also associated with aggression.
+
+- Ovaries: These glands produceoestrogen. Oestrogen is the female sex hormone, involved in the development of female physical features like breast development and regulating the menstrual cycle. It’s also been linked to emotional behavior and nurturing.
+
+- Pineal Gland: Found in the brain, it produces the hormonemelatonin. Melatonin helps regulate our sleep patterns and synchronizes our sleep-wake cycle with night and day; as melatonin levels increase, body temperature and blood pressure drop, preparing the body for sleep.
+
+- Pancreas: This gland producesinsulin, which helps maintain normal blood glucose levels by allowing cells to absorb glucose from the blood.
+
+- It producesadrenocorticotrophic hormone (ACTH)in response to stress, which then stimulates the adrenal glands to produce cortisol.
+
+- It also makesoxytocin, a hormone involved in childbirth by sending signals to the uterus to contract. Oxytocin also influences bonding between a mother and her baby during breastfeeding and is thought to reduce the stress hormone cortisol, promoting a ‘tend and befriend’ response.
+
+- Theadrenal medulla(part of the adrenal gland) releasesadrenaline(and noradrenaline). Adrenaline stimulates the sympathetic nervous system and is crucial in bringing about thefight-or-flight response. Its effects include increasing heart rate, blood pressure, and breathing rate, diverting blood to muscles, and generally preparing the body for rapid action in response to a threat.
+
+- Theadrenal cortex(another part of the adrenal gland) producescorticosteroidslikecortisol. Cortisol helps provide energy for prolonged stress by mobilizing glucose and fat reserves from the liver. However, continuously high levels of cortisol can suppress the immune system and lead to health issues like hypertension.
+
+### AO3: Analysis & Evaluation
+
+- Speed & Duration: Hormonal communication is slower but longer-lasting than neural impulses.
+
+- Real-Life Relevance: Hormones help explain stress, aggression, sexual development, etc.
+
+- Interactive System: Nervous & endocrine systems often work together (e.g. hypothalamus → pituitary → cortisol release).
+
+Exam-Style:Short Question Example
+
+Question: Briefly outline the role of adrenaline in the fight-or-flight response.
+
+Answer: Adrenaline, released by the adrenal medulla, increases heart rate, redirects blood to muscles, and readies the body for rapid action in response to threat.
+
+### Fight or Flight Response
+
+The fight or flight response including the role of adrenaline.
+
+### AO1: Knowledge & Understanding
+
+Thefight or flight responseis a physiological reaction that occurs when a person perceives a harmful event, attack, or threat to their survival.
+
+It is anacute stress response, and its primary purpose is to prepare your body to either confront (fight) or flee from the perceived danger.
+
+This mechanism is regulated by two key systems working together: the sympathetic branch of theautonomic nervous system (ANS)and theendocrine system, specifically involving the adrenal glands and the hormone adrenaline.
+
+Here’s a breakdown of how it works and adrenaline’s role:
+
+### 1. Perception of a Stressor and Activation of the Nervous System:
+
+- When a stressor (a situation or stimulus imposing demands) is perceived, information is sent via sensory neurons to thehypothalamusin the brain.
+
+- The hypothalamus acts like a command centre, coordinating the response and triggering increased activity in thesympathetic branch of the ANS.
+
+- The sympathetic nervous system (SNS) is responsible for preparing the body for action, also known as the “fight or flight” response. It increases bodily activities needed for immediate survival. Conversely, the parasympathetic nervous system (PNS) is the “rest and digest” system, which conserves energy and promotes relaxation, working in opposition to the SNS to maintain the body’s internal balance (homeostasis).
+
+### 2. Role of the Endocrine System and Adrenaline Release:
+
+- Simultaneously with the nervous system activation, the hypothalamus also triggers theendocrine system. The endocrine system is a slower-acting chemical communication system that regulates the circulation of hormones released by glands into the bloodstream.
+
+- Theadrenal glands, located near the kidneys, are crucial here. Specifically, theadrenal medulla(part of the adrenal gland) is stimulated to releaseadrenaline(and noradrenaline) into the bloodstream.
+
+- Adrenaline is a key hormone that facilitates the fight or flight response. It is both a neurotransmitter and a hormone, with an excitatory effect.
+
+- In a more sustained stress situation, the hypothalamic-pituitary-adrenal (HPA) axis is activated, leading to the release of ACTH from the pituitary gland, which then stimulates the adrenal cortex to produce corticosteroids like cortisol. This provides longer-term energy for the fight or flight response.
+
+### 3. Physiological Changes Caused by Adrenaline:
+
+Adrenaline causes a number of immediate changes in the body, preparing it for intense physical activity:
+
+- Increased heart rate and blood pressure: To rapidly pump oxygenated blood to muscles and the brain.
+
+- Increased breathing rate: To maximise oxygen intake.
+
+- Dilation of pupils: To improve vision and light intake.
+
+- Redirection of blood flow: Blood is diverted away from less critical bodily processes like the skin, kidneys, and digestive system (which includes inhibiting saliva production and digestion, explaining a dry mouth or feeling sick) to skeletal muscles and the brain. This ensures all resources are available for immediate survival.
+
+- Glucose release: Glycogen stored in the liver is converted to glucose, providing more muscle fuel and energy.
+
+- Increased sweating: To cool the body down from anticipated intense physical exertion.
+
+- Increased muscle tension: Which can cause limbs to shake.
+
+- Heightened alertness and attention: There are also psychological changes like a feeling of panic and high alertness, as attention narrows to the threat.
+
+### 4. Return to Homeostasis:
+
+- Once the stressor or threat has passed, theparasympathetic nervous systemacts to dampen the stress response and return the body to its normal resting state, known as “rest and digest”.
+
+- This slows down heart rate and breathing, and reactivates digestion and saliva production.
+
+- The PNS works antagonistically to the SNS.
+
+### AO3: Analysis & Evaluation
+
+The fight or flight response is anevolutionary adaptationcrucial for dealing with real physical threats in the short-term, such as encountering predators.
+
+However, in modern life, many stressors are psychological (e.g., exams, bills, meetings).
+
+Repeatedly activating this energetic response for non-physical threats can bemaladaptive, leading to chronic stress and health issues like hypertension, heart disease, immunosuppression, and other stress-related illnesses.
+
+Early research on the fight or flight response often used male animals or focused on men, leading to abeta biasby assuming the response is universal for both sexes and minimizing potential differences.
+
+More modern research suggests that women might have an alternative response to stress called“tend and befriend”.
+
+This involves protecting offspring and seeking social networks for emotional support, rather than fighting or fleeing, which might be less advantageous for women with young dependents from an evolutionary perspective.
+
+This “tend and befriend” response is linked to the hormoneoxytocin, which is found in higher levels in females and whose effects are enhanced by oestrogen but suppressed by testosterone.
+
+- Maladaptive in Modern Life: Chronic activation can damage health (hypertension).
+
+- Reductionist: Ignores freeze response or social influences.
+
+### Brain Hemispheric Lateralisation
+
+Localisation of function in the brain and hemispheric lateralisation: motor, somatosensory,visual, auditory and language centres; Broca’s and Wernicke’s areas, split brain research.
+
+### Hemispheric Lateralisation:
+
+The brain is divided into two symmetrical halves.
+
+Theright and left hemispheresof the brain are joined by a bundle of fibers called the corpus callosum that delivers messages from one side to the other.
+
+Each hemisphere controls the opposite side of the body. Some of our physical and psychological functions are controlled or dominated by a particular hemisphere – this is calledlaterisation.
+
+- Left hemisphere often dominates language, right hemisphere handles visual-spatial tasks.
+
+- Split Brain Research(Sperry): In patients with severed corpus callosum, info to one hemisphere not shared to the other. Demonstrated lateralised functions (e.g., naming objects presented to right visual field processed by left hemisphere).
+
+### Localisation of Function:
+
+The idea that specific areas of the brain are responsible for specific functions (versus a more holistic view).
+
+- Motor Cortex(frontal lobe): Regulates voluntary movement.
+
+- Somatosensory Cortex(parietal lobe): Processes sensory info (touch, pressure, pain) from skin.
+
+- Visual Cortex(occipital lobe): Each visual field projects to the opposite visual cortex.
+
+- Auditory Cortex(temporal lobe): Processes sound info.
+
+- Language Centres: Typically in the left hemisphere:Broca’s Area(left frontal): Speech production. Damage → Broca’s aphasia (slow, laborious speech).Wernicke’s Area(left temporal): Language comprehension. Damage → nonsense words.
+
+- Broca’s Area(left frontal): Speech production. Damage → Broca’s aphasia (slow, laborious speech).
+
+- Wernicke’s Area(left temporal): Language comprehension. Damage → nonsense words.
+
+- Broca’s Area(left frontal): Speech production. Damage → Broca’s aphasia (slow, laborious speech).
+
+- Wernicke’s Area(left temporal): Language comprehension. Damage → nonsense words.
+
+### AO3: Analysis & Evaluation
+
+- Support for Localisation: Phineas Gage’s frontal lobe injury → personality changes; Petersen’s scanning.Phineas Gage(1848) was an America railway construction foreman. During an accident a large iron rod was driven completely through his head, destroying much of his brain’s left frontal lobe. He survived the accident but his personality changed, he became unstable and is reported not to have been able to hold down a job.This supports the localisation of functions theory as it shows that control of social behaviour is located in the frontal cortex.However, we are uncertain of the extent and nature of his injuries and the reports concerning his subsequent change in behaviour are anecdotal so this lacks validity.
+
+- Support for Localisation: Brocca found that damage of a small area in the frontal part of the left hemisphere of the brain lead to difficulties in the generation of articulate speech.
+
+- Critiques: Lashley found learning is holistic in rats. Brain plasticity can reassign functions.Lashley (1950), removed sections of rat brains after teaching them to run a maze. None of the brain injuries impaired their ability to perform the task although he tried removing tissue in almost every area that allowed the rat to remain alive.Lashley concluded that memories had to be spread all over the brain, throughout the tissue. This suggests that learning requires the involvement of the whole brain.This challenges the brain localisation theory but running a maze is a complex behaviour which requires many different areas so it could be that just disrupting a few is not enough to disrupt the whole behaviour.Furthermore, this study was carried out on rats so we cannot extrapolate to human whose brain might be organised differently.
+
+- Critiques: Not all psychologists agree with hemispheric lateralisation.Some psychologists argue that the two hemispheres form a highly integrated system rather than functioning in isolation as most everyday tasks involve a mixture of left and right skills, (e.g. when listening to speech we analyse both the words and the pattern of intonation) this involves  the two hemispheres working together.
+
+- Split Brain: Key in showing lateralised functions, but sample sizes small, epileptic brains atypical.Split-brain  surgery, is used to alleviate epileptic seizures. It involves severing the corpus callosum.After a split-brain surgery the two hemispheres cannot exchange information. This allows researchers to study the extent to which brain function is lateralised.
+
+- Split BrainResearch: Sperry (1968)  investigated the effects of hemisphere disconnection and to show that each hemisphere has different functions.The participants were 11 ‘split-brain’ patients, they were patients who had undergone disconnection of the cerebral hemispheres because of severe epilepsy which did not respond to other treatments.One eye was blindfolded and the Ps were asked to fixate with the other eye on a point in the middle of a screen.The researchers would then project a stimulus on either the left or right hand side of the fixation point for less than 1/10 of a second.The presentation time is so brief to ensure that the Ps did not have time for eye movement as this would ‘spread’ the information across both sides of the visual field and therefore across both sides of the brain.
+
+Another argument against brain localisation is brain plasticity: see next section
+
+### Plasticity & Functional Recovery
+
+Plasticity and functional recovery of the brain after trauma.
+
+### Plasticity
+
+Brain plasticity, also known asneuroplasticityor cortical remapping, refers to the brain’s remarkable ability to change and adapt functionally and physically as a result of experience or learning.
+
+Until the 1960s, researchers largely believed that significant changes in the brain’s physical structure only occurred during infancy and childhood, becoming permanent by early adulthood.
+
+However, more recent research has shown that the brain can continue to adapt and reorganize throughout our entire lives, even into older age, by creating new pathways.
+
+Crucially, life experiences drive these changes. When we experience something new, nerve pathways in the brain develop, and repeated experiences strengthen these connections.
+
+Conversely, nerve pathways that are used less frequently are pruned away, increasing the efficiency of neuronal transmissions.
+
+Neural plasticity exemplifies the intricate interaction between nature and nurture; the brain’s structure (nature) changes as a result of life experiences (nurture).
+
+### AO3: Evidence for Brain Plasticity
+
+- Maguire et al. (2000/2006):A well-known study investigated the hippocampi volume of London taxi drivers, who undergo rigorous training to learn all city streets (“The Knowledge”). Maguire et al. (2000) found that this region of the brain, heavily involved in spatial skills, was larger in taxi drivers compared to non-taxi drivers. They also found a positive correlation: the longer a participant had been a taxi driver, the larger the size of their posterior hippocampus. This suggests that the intense spatial processing demands placed on their brains caused structural changes, demonstrating brain plasticity and the interaction of nature and nurture.
+
+- Kiernan et al. (1997):This research on rats showed that those living in a stimulating environment developed more new neurons in their hippocampus compared to control groups. This indicated that life experience could literally change the physical structure of the brain. However, it’s important to note the limitations of extrapolating from animal studies to human brains due to significant differences in complexity.
+
+- Kuhn et al. (2014):In a study involving video games, participants who trained on “Super Mario” for two months showed a significant increase in gray matter in the prefrontal cortex, hippocampus, and cerebellum, which was not observed in a control group. Researchers concluded that playing video games resulted in new synaptic connections in brain areas related to spatial navigation, strategic planning, working memory, and motor performance.
+
+- Mechelli et al. (2004):Research demonstrated that learning a second language increases the density of gray matter in the left inferior parietal cortex, and the degree of this structural reorganization is influenced by the fluency attained and the age at which the language was learned.
+
+- Bezzola et al. (2012):This study, involving middle to older-aged participants learning golf, found reduced activity in the motor cortex after practice. This reduction suggests that the brain became more efficient in its neural pathways for the golf swing, providing evidence of plasticity even in older adults.
+
+- Hyde et al. (2019):This research showed that brain differences can change over time, indicating that they are not ‘hardwired’.
+
+### Functional Recovery
+
+Functional recovery refers to the brain’s ability to regain lost functions following an injury by rerouting activity to undamaged areas.
+
+When a brain area is damaged, such as from an accident or a stroke, it can lead to a loss of function (e.g., speech or movement) depending on the location of the damage.
+
+Researchers have observed that over time, the brain can rewire and reorganize itself, forming new synaptic connections to bypass damaged areas.
+
+Existing neural pathways that were inactive or used for other purposes can take over the functions that were lost due to the injury.
+
+### AO3: Mechanisms of Functional Recovery
+
+- Axonal Sprouting:When an axon (the part of a neuron that transmits information) is damaged and its connection with other neurons is lost, undamaged axons can “sprout” or grow new nerve endings. These new nerve endings then reconnect to other neurons, effectively bridging the connection and allowing communication in the brain to continue.
+
+- Neuronal Unmasking:The brain contains dormant (inactive) synapses—connections between neurons that are not currently in use. When brain damage occurs, these dormant synapses can become activated and take on the function that was lost due to the damage. This process essentially “unmasks” their potential to contribute to recovery.
+
+- Recruitment of Homologous Areas:This mechanism involves similar areas, sometimes in the opposite hemisphere of the brain, taking over the functions of a damaged area. For example, if Broca’s area (typically in the left hemisphere and responsible for speech production) is damaged, its right-sided equivalent might assume its functions.
+
+- Reformation of Blood Vessels:As part of the brain’s response to injury, new blood vessels can form, improving blood flow to active areas and supporting recovery.
+
+- Denervation Super-sensitivity:To compensate for the loss of axons in a pathway, the remaining axons can become more sensitive, making them more likely to fire. While this can aid function, it can also lead to side effects like chronic pain.
+
+The speed of recovery can vary, often being rapid in the initial weeks (known as the “phase of spontaneous recovery”) before slowing down.
+
+Rehabilitation programs, which can include retraining movements or speech therapy, play a crucial role in aiding and enhancing this recovery.
+
+### AO3: Evidence for Functional Recovery
+
+- Jodie Miller Case Study:At age three, Jodie underwent the removal of her entire right hemisphere due to severe seizures. Remarkably, her left hemisphere compensated by rewiring and reorganizing itself, taking over many of the lost functions. This case demonstrates the extraordinary plasticity of the developing brain.
+
+- Danelli et al. (2013) (EB Case Study):This study focused on an Italian boy named EB, who had most of his left hemisphere removed at 2.5 years due to a tumor. Despite initial language problems (the left hemisphere is typically dominant for language), he recovered most of his language skills within two years. An fMRI scan at age 14 showed brain patterns for language tasks in his remaining right hemisphere that are typically found in the left, illustrating the brain’s ability to recruit homologous areas for functional recovery.
+
+- Ramachandran (2005):His research into phantom limb syndrome provides an example of “negative plasticity.” He explained this phenomenon as sensory input from facial skin “invading” and activating areas in the cortex and thalamus that were previously associated with the missing limb. This highlights the brain’s “tremendous latent plasticity” even in adulthood, though it results in painful or maladaptive consequences.
+
+- Lieperta et al. (1998):This research showed that constraint-induced movement therapy (CIT) significantly improved the motor performance of stroke patients. This indicates that functional recovery can be enhanced through focused therapeutic interventions.
+
+### AO3: Factors Affecting Functional Recovery
+
+While the brain’s capacity for recovery is impressive, several factors can influence the extent and success of functional recovery after trauma:
+
+- Age:Younger brains tend to be more plastic and resilient, making them more likely to recover lost functions compared to older brains. For example, Teubar (1975) found that 60% of individuals under 20 showed significant improvement after brain trauma, compared to only 20% of those over 26. Hart (2014) also noted that recovery slows with increasing age and severity of impairment.
+
+- Education/Cognitive Reserve:Research suggests that a higher level of education, or “cognitive reserve,” is associated with better recovery outcomes from brain injury. Schneider et al. (2014) found that patients with the equivalent of a college education were seven times more likely to achieve a disability-free recovery than those who did not finish high school.
+
+- Gender:Ratcliffe et al. (2007) examined 325 patients one year after traumatic brain injury and found some gender differences in cognitive recovery. Females performed better on tasks involving attention and working memory, while males performed better on visual analytical skills. This suggests that recovery can depend on the patient’s gender and the specific cognitive abilities affected by the trauma.
+
+- Extent and Location of Damage:The degree and specific location of brain damage are critical determinants of recovery. Full recovery is not passive; it depends heavily on the initial damage and subsequent care, such as physiotherapy.
+
+- Environmental Factors:External factors like substance abuse and stress levels can also have a damaging influence on brain tissue, potentially impacting recovery.
+
+### AO3: Limitations of Functional Recovery
+
+In conditions likeschizophrenia, observed brain damage (e.g., enlarged ventricles) might be an effect of suffering from the disorder over a long period, rather than the initial cause.
+
+Brain damage in schizophrenics can even worsen over time, correlating with increased symptom severity.
+
+This highlights the complex interplay of factors, including environmental ones like substance abuse and stress, which can also influence brain tissue.
+
+While the brain can activate secondary neural circuits to compensate, there are limits to spontaneous and functional recovery.
+
+Beyond a certain point, motor therapy or electrical stimulation may be necessary to further increase recovery rates.
+
+Not all plasticity is beneficial;negative plasticitycan occur, such as the development of phantom limb pain or maladaptive brain reorganization due to drug misuse.
+
+### Ways of Studying the Brain
+
+Ways of studying the brain: scanning techniques, including functional magnetic resonanceimaging (fMRI); electroencephalogram (EEGs) and event-related potentials (ERPs); postmortem examinations.
+
+### AO1: Knowledge & Understanding
+
+The biological approach to psychology investigates the genetic and biological basis of behaviour, making use of precise and highly scientific methods, including various scanning techniques.
+
+Advancements in technology allow for accurate measurement of biological and neural processes, reducing bias and leading to reliable data.
+
+### Functional magnetic resonance imaging (fMRI)
+
+It is a technique for measuring brain activity. It works by detecting the changes in blood oxygenation and  blood flow that occur in response to neural activity.
+
+It is based on the assumption that when a brain area is more active it consumes more oxygen and to meet this increased demand blood flow increases to the active area.
+
+fMRI can be used to produce activation maps showing which parts of the brain are involved in a particular mental process. This allows us to study localisation of mental processes.
+
+fMRI: Tracks blood flow changes (active regions use more oxygen).
+
+### AO3: Analysis & Evaluation
+
+- Non-invasive and Safe:fMRI is non-invasive and does not involve radiation, making it a safe technique for participants. This makes it suitable for experiments on humans where radiation would be too risky.
+
+- High Spatial Resolution:fMRI machines have high spatial resolution, typically around 1 to 2 millimetres. This allows for precise identification of active brain regions and patterns of activation. It provides more accurate insight into brain activity compared to other techniques like EEGs and ERPs.
+
+- Imaging Brain in Action:It can be used while a patient is carrying out a task, helping researchers make inferences about brain function and localisation. This “functional” aspect means it can show how the brain is working and changing over time.
+
+- Objective:The use of fMRI provides an objective way of understanding psychological phenomena, avoiding the biases sometimes found in self-reports. It can even be used in situations where self-reporting isn’t possible, such as with patients in a vegetative state.
+
+### Disadvantages of fMRI
+
+- Expensive:fMRI is a costly technique compared to others.
+
+- Poor Temporal Resolution:fMRI scans have low temporal resolution, typically with a delay of 1 to 4 seconds, or approximately a 5-second lag, between neural activity and the produced image. This delay makes it harder for psychologists to accurately pinpoint when brain activity started, limiting its ability to study fast mental processes like vision.
+
+- Indirect Measure:It is an indirect way of studying the brain, as it focuses on changes in blood flow and oxygenation rather than directly measuring neural activity.
+
+- Requires Stillness:The patient needs to remain very still during the scan, which limits the types of experiments that can be conducted, especially those requiring body movement.
+
+- Data Interpretation:The data from fMRI can be complex and its interpretation can be affected by the baseline task used.
+
+### Applications and Context:
+
+fMRI has enabled cognitive neuroscience to emerge by bringing together biology and cognitive psychology, establishing a credible scientific basis for studying the mind. It has been used in:
+
+- Schizophrenia Research:To compare brain functioning of sufferers and non-sufferers, identifying brain areas linked to the disorder and its symptoms, such as reduced activity in the superior temporal gyrus and anterior cingulate gyrus in hallucination groups.
+
+- Memory Research:To identify specific brain areas linked to different types of memory, such as distinct areas of the prefrontal cortex for episodic and semantic memories.
+
+- Forensic Psychology:To examine impulse control in violent criminals, showing damage in areas like the frontal lobe. However, the cost and time involved can limit its generalisability in this field, and it’s correlational, making it difficult to establish causation (e.g., whether brain abnormalities are caused by biological factors or early abuse).
+
+- Emotion Research:To measure activity in brain pathways (dopamine, serotonin, oxytocin) linked to emotions like love.
+
+### EEG:
+
+An electroencephalogram (EEG) is a recording of electrical brain activity via scalp electrodes.
+
+During the test, small sensors are attached to the scalp to pick up the electrical signals produced when brain cells send messages to each other. These signals are recorded by a machine.
+
+The electrodes cannot pick up signals for individual neurons. The recording shows the electrical activity from small areas of the brain.
+
+EEG is used to show the presence or absence of specific brain activity in specific areas of the brain.
+
+### Strengths:
+
+- Excellent Temporal Resolution:EEGs have very high temporal resolution, taking readings of electrical activity every millisecond. This allows them to record brain activity in real-time.
+
+- Diagnostic Tool:EEGs are effective tools for diagnosing certain brain disorders, such as monitoring stages of sleep and diagnosing epilepsy, where seizures are reflected in abnormal brain wave patterns.
+
+- Cost-Effective and Accessible:They are significantly cheaper and more accessible than fMRIs, which means larger sample sizes can be used in studies.
+
+- Non-invasive:EEG is a non-invasive procedure.
+
+- Direct Evidence:Unlike fMRI, EEGs provide a direct measure of neural activity rather than an indirect measure of blood flow.
+
+- Mobility:It is portable and can be used outside the lab, even with subjects moving.
+
+### Weaknesses:
+
+- Poor Spatial Resolution:EEGs have low spatial resolution, as they only detect the general activity of the cerebral cortex (the outer part of the brain) and not specific, deeper areas like the hippocampus. This makes the technique limited compared to fMRI.
+
+- Limited Anatomical Specificity:It is difficult to pinpoint the exact source of activity, as several electrodes may pick up the same electrical activity.
+
+- Influenced by External Factors:EEG readings can be influenced by the subject’s state of alertness and drugs.
+
+- Deep Lesions Undetected:Small or deep lesions might not produce an EEG abnormality, as it only picks up neural activity in the cortex.
+
+- Background Noise:The EEG picks up all neurological activity, so background noise and extraneous variables need to be eliminated, which can be difficult and time-consuming.
+
+### Applications and Context:
+
+EEGs have been commonly used in sleep studies to identify the different stages of sleep, showing distinct brain wave patterns during sleep cycles.
+
+### ERPs:
+
+Event-Related Potentials (ERPs) use the same equipment as EEGs (electrodes attached to the scalp), but they measure very small voltage changes within the brain that are specifically triggered by particular events or stimuli.
+
+To isolate a specific response to an event, the stimulus is presented many times, and the brain responses are then averaged together.
+
+This statistical averaging technique filters out all background brain activity from the original EEG recording, leaving only the “event-related potential” – the brain’s response to the specific event.
+
+### AO3: Analysis & Evaluation
+
+- High Temporal Resolution:ERPs, like EEGs, have high temporal resolution, capable of detecting brain activity to within one millisecond. This makes them useful in the study of cognitive functions.
+
+- Isolation of Cognitive Processes:ERPs allow researchers to isolate and study individual neuro-cognitive processes in the brain, unlike EEGs which give general brain activity.
+
+- Widely Used:They are widely used in the measurement of cognitive deficits and functions.
+
+- Poor Spatial Resolution:Similar to EEGs, ERPs have very poor spatial resolution.
+
+- Multiple Trials Required:Multiple trials are needed to average out background noise, and extraneous material can be an obstacle.
+
+- Lack of Standardisation:A lack of standardisation in ERP methodology across different research studies can make it difficult to compare results.
+
+- Limited Applicability:Some cognitive processes cannot be studied with ERPs if they cannot be presented a large number of times with the same response.
+
+### Context:
+
+ERPs are often used by cognitive neuroscientists to study how sensory and cognitive information processing is linked to the physiological activity of the brain, bridging the gap between biological and cognitive psychologists.
+
+### Post-Mortem Examinations:
+
+This is the study of people’s brain after their death.
+
+This method is widely used to study the link between function and structure of the brain, linking structural abnormalities to behavior.
+
+For example Brocca found that damage of a small area in the frontal part of the left hemisphere of the brain lead to difficulties in the generation of articulate speech.
+
+It is still used today to study the anomalies associated with disorders such as Alzheimer’s disease and motor neurone disease.
+
+The structure of the brain of people who present with these types of disorders are examined and compared with “normal” brains and a correlation is made between the differences found and the disorder.
+
+### AO3: Analysis & Evaluation
+
+- High Level of Detail (Anatomical Analysis):Post-mortems allow for incredibly detailed examination of the brain’s structure, even beyond the cerebral cortex into deeper regions like the hippocampus. This level of microscopic detail, down to the neuronal level, is not possible with non-invasive scanning techniques like EEGs.
+
+- Understanding Rare Disorders:They are particularly useful for gaining information about the processes involved in specific or rare neurological disorders, which can lead to improvements in treatment or prevention.
+
+- Basis for Further Research:Post-mortem findings can serve as the basis for generating hypotheses that can then be tested with other experimental techniques.
+
+- Cannot Observe Active Brain (Retrospective):By nature, post-mortem studies are conducted after death, meaning they cannot observe the brain in action. This makes it difficult to link dynamic brain activity directly to behaviour.
+
+- Cause-and-Effect Issues:Post-mortems establish correlations between observed behaviour in life and brain damage, but they cannot definitively prove causation. The observed damage could have been caused by other factors, such as head injury, illness, or prolonged drug use, rather than the disorder being studied.
+
+- Ethical Concerns (Informed Consent):Obtaining informed consent for post-mortem examinations can be difficult, especially from the family of the deceased or from patients who had severe cognitive deficits (e.g., Patient HM, who suffered from severe amnesia).
+
+- Confounding Variables:The state of the brain can be influenced by the cause of death and the method of storage after death, acting as confounding variables.
+
+- Small Sample Sizes:Permission for post-mortems is often difficult to obtain, leading to small sample sizes which can limit the generalisability of findings.
+
+### Applications and Context:
+
+Post-mortem examinations have historically been crucial for understanding brain function.
+
+A prime example is Paul Broca’s work, where he conducted a post-mortem on his patient “Tan” (who could only say the word “tan”) and discovered a large lesion in the left frontal lobe, linking this area to speech production.
+
+They are still used today to study anomalies associated with disorders like Alzheimer’s disease and motor neurone disease.
+
+### Final Tips
+
+- ForAO1, present accurate, concise definitions, structures, and processes.
+
+- ForAO3, evaluate with clear arguments, referencing research and applying to real-life or other viewpoints.
+
+- When asked to apply knowledge, explicitly link psychological terms/theories to the scenario.
+
+These notes combine definitions, deeper analysis, and an exam-question style to help structure your revision.
+
+McLeod, S. (2026). Biopsychology (A-level Psychology). Simply Psychology. https://www.simplypsychology.org/biopsychology-a-level-psychology.html
+
+McLeod, Saul. "Biopsychology (A-level Psychology)." Simply Psychology, 9 June 2026, https://www.simplypsychology.org/biopsychology-a-level-psychology.html.
+
+McLeod, S. (2026) Biopsychology (A-level Psychology). Simply Psychology. Available at: https://www.simplypsychology.org/biopsychology-a-level-psychology.html (Accessed: 21 September 2026).
+
+Olivia Guy-Evans, MSc
+
+BSc (Hons) Psychology, MSc Psychology of Education
+
+Associate Editor for Simply Psychology
+
+Olivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.
+
+Chartered Psychologist (CPsychol)
+
+BSc (Hons) Psychology, MRes, PhD, University of Manchester
+
+Saul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.

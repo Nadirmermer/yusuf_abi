@@ -1,0 +1,319 @@
+{
+  "id": "boxplots_html_582d30eb",
+  "url": "https://www.simplypsychology.org/boxplots.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Reading a Box and Whisker Plot",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2025-03-12T11:46:30+00:00",
+  "date_modified": null,
+  "read_time_minutes": 22,
+  "word_count": 4475,
+  "summary": "Psychology»Statistics",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Statistics\n\nIn descriptive statistics, a box plot or boxplot (also known as a box and whisker plot) is a type of chart often used in explanatory data analysis.\n\nBox plots visually show the distribution of numerical data and skewness by displaying the data quartiles (or percentiles) and averages.\n\nBox plots show the five-number summary of a set of data: including the minimum score, first (lower) quartile, median, third (upper) quartile, and maximum score.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "How to read a boxplot",
+      "content": "- Interquartile Range (IQR): The box plot shows the middle 50% of scores (i.e., the range between the 25th and 75th percentile).\n\n- Whiskers: The upper and lower whiskers represent scores outside the middle 50% (i.e., the lower 25% of scores and the upper 25% of scores).\n\n- Minimum Score: The lowest score, excluding outliers (shown at the end of the left whisker).\n\n- Lower Quartile: Twenty-five percent of scores fall below the lower quartile value (also known as the first quartile).\n\n- Median: The median marks the mid-point of the data and is shown by the line that divides the box into two parts (sometimes known as the second quartile). Half the scores are greater than or equal to this value, and half are less.\n\n- Upper Quartile: Seventy-five percent of the scores fall below the upper quartile value (also known as the third quartile). Thus, 25% of data are above this value.\n\n- Maximum Score: The highest score, excluding outliers (shown at the end of the right whisker).\n\n- Outliers:Points beyond the whiskers, indicating potential extreme values.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Quick summary of key statistics",
+      "content": "By displaying the median, interquartile range, and outliers at a glance, boxplots provide a concise snapshot of a dataset’s center and spread.\n\nBox plots divide the data into sections containing approximately 25% of the data in that set.\n\nBox plots are useful as they provide a visual summary of the data enabling researchers to quickly identify mean values, the dispersion of the data set, and signs of skewness.\n\nNote that the image above represents data that has a perfectnormal distribution, and most box plots will not conform to this symmetry (where each quartile is the same length).",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Average score of a data set",
+      "content": "The median is the average value from a set of data and is shown by the line that divides the box into two parts. Half the scores are greater than or equal to this value, and half are less.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Skewness of a data set",
+      "content": "The box plot shape will show if a statistical data set is normally distributed or skewed.\n\nWhen the median is in the middle of the box, and the whiskers are about the same on both sides of the box, then the distribution is symmetric.\n\nWhen the median is closer to the bottom of the box, and if the whisker is shorter on the lower end of the box, then the distribution is positively skewed (skewed right).\n\nWhen the median is closer to the top of the box, and if the whisker is shorter on the upper end of the box, then the distribution is negatively skewed (skewed left).",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Dispersion of a data set",
+      "content": "In statistics, dispersion (also called variability, scatter, or spread) is the extent to which a distribution is stretched or squeezed.\n\nThe smallest and largest values are found at the end of the ‘whiskers’ and are useful for providing a visual indicator regarding the spread of scores (e.g., the range).\n\nThe interquartile range (IQR) is the box plot showing the middle 50% of scores and can be calculated by subtracting the lower quartile from the upper quartile (e.g., Q3−Q1).",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Show outliers within a data set",
+      "content": "An outlier is an observation that is numerically distant from the rest of the data.\n\nWhen reviewing a box plot, an outlier is defined as a data point that is located outside the whiskers of the box plot.\n\nOutliers can be genuine rare events (e.g., a patient who recovers extraordinarily quickly) or the result of data-entry mistakes, faulty instruments, or other errors.\n\nSource: https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51\n\nFor example, outside 1.5 times the interquartile range above the upper quartile and below the lower quartile (Q1 – 1.5 * IQR or Q3 + 1.5 * IQR).",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Box plots are useful as they show simple, side-by-side comparisons",
+      "content": "Boxplots make it easy to compare multiple data groups (e.g., different populations or experimental conditions) by aligning the “boxes” next to each other, highlighting differences in medians, overall spread, or outlier prevalence.\n\nHow to compare box plotsBox plots are a useful way to visualize differences among different samples or groups. They manage to provide a lot of statistical information, including — medians, ranges, and outliers.Note although box plots have been presented horizontally in this article, it is more common to view them vertically in research papers.Step 1: Compare the medians of box plotsCompare the respective medians of each box plot. If the median line of a box plot lies outside of the box of a comparison box plot, then there is likely to be a difference between the two groups.Source: https://blog.bioturing.com/2018/05/22/how-to-compare-box-plots/Step 2: Compare the interquartile ranges and whiskers of box plotsCompare the interquartile ranges (that is, the box lengths) to examine how the data is dispersed between each sample. The longer the box, the more dispersed the data. The smaller, the less dispersed the data.Next, look at the overall spread as shown by the extreme values at the end of two whiskers.This shows the range of scores (another type of dispersion). Larger ranges indicate wider distribution, that is, more scattered data.Step 3: Look for potential outliers(see the above image)When reviewing a box plot, an outlier is defined as a data point that is located outside the whiskers of the box plot.Because the mean is sensitive to extreme values, a single outlier can substantially shift the average, potentially giving a misleading picture of the dataset.Recognizing this effect is essential for accurate data interpretation.Step 4: Look for signs of skewnessIf the data do not appear to be symmetric, does each sample show the same kind of asymmetry?tep-by-Step ConstructionGather and Sort Your Data:Start by listing all the numbers in your dataset.Example: 3, 5, 7, 10, 12, 14, 18Now, put those numbers in order from smallest to largest. This makes it much easier to find the important values.Find the Minimum and Maximum:Theminimumis the smallest number in your list.Themaximumis the largest number.In our example(3, 5, 7, 10, 12, 14, 18):Minimum = 3Maximum = 18Calculate the Median (The Middle Value):Themedianis the middle number when your data is sorted.If you have an odd number of values, it’s the one right in the center.If you have an even number, you average the two middle numbers.In our example(3, 5, 7, 10, 12, 14, 18):There are 7 numbers, so the middle one is the 4th one.Median = 10Find the First Quartile (Q1) and Third Quartile (Q3):Q1is the median of the lower half of your data (the numbers below the overall median).Q3is the median of the upper half of your data (the numbers above the overall median).Important: when finding Q1 and Q3, if there is an even amount of numbers in the upper or lower half, you must average the two center numbers.From our example:Lower half: 3, 5, 7 (below the median 10)Q1 is the middle of (3, 5, 7). That’s 5. So Q1 = 5.Upper half: 12, 14, 18 (above the median 10)Q3 is the middle of (12, 14, 18). That’s 14. So Q3 = 14.Calculate the Interquartile Range (IQR):TheIQRtells you how spread out the middle 50% of your data is.IQR = Q3 – Q1For our example:Q3 = 14Q1 = 5IQR = 14 – 5 = 9Identify Outliers (Using the 1.5 × IQR Rule):Outliersare numbers that are very different from the rest.Lower Outlier Cutoff = Q1 – (1.5 × IQR)Upper Outlier Cutoff = Q3 + (1.5 × IQR)Any numbers below the Lower Cutoff or above the Upper Cutoff are outliers.Using our example:Lower Cutoff = 5 – (1.5 × 9) = 5 – 13.5 = –8.5Upper Cutoff = 14 + (1.5 × 9) = 14 + 13.5 = 27.5Since our minimum is 3 and our maximum is 18, we have no outliers.Draw the Boxplot:Draw a number line that covers the range of your data (from minimum to maximum).Mark Q1, the median, and Q3 above the number line to create the “box.”Draw the “whiskers.”The left whisker goes from Q1 to the smallest valuewithinthe lower outlier cutoff.The right whisker goes from Q3 to the largest valuewithinthe upper outlier cutoff.If you have outliers, plot them as individual points beyond the whiskers.Remember to use visual aids along with these steps.Practice QuestionsTips for SuccessAlwayssort your data before finding quartiles.Use(Q3 − Q1)for the IQR, then multiply by 1.5 to find the outlier “cut-off.”If an outlier exists,plotit as a separate point outside the whiskers.Labelyour axes carefully and include a title for clarityQuestion 1: Memory Test ScoresA researcher measuresshort-term memory test scoresfor 15 participants. Each participant completes a recall test scored out of 30 points. The data are:23, 16, 19, 27, 14, 29, 22, 18, 12, 30, 25, 20, 15, 28, 17Sortthe data.Findthe minimum, Q1, median, Q3, and maximum.Calculatethe interquartile range (IQR).Determineif there are any outliers using the 1.5 × IQR rule.Drawa boxplot of the data.Interpretyour findings.Are the scores clustered, spread out, or skewed?Question 2: Stress Scale ScoresA psychologist uses astress scaleranging from 0 (no stress) to 40 (extreme stress). Fifteen patients reported the following scores:6, 9, 15, 15, 18, 22, 5, 27, 32, 33, 10, 14, 16, 8, 40Orderthe scores and calculate themedian.FindQ1 and Q3, then compute theIQR.Determinelowerandupper outlier boundaries(Q1 − 1.5 × IQR, Q3 + 1.5 × IQR).Drawa boxplot, labeling any outliers as individual points.Discussany potential reasons for outliers on a stress scale (e.g., unique personal situations).Question 3 Anxiety Scores Before and After TherapyA clinical psychologist measuresanxietyin a group of clientsbeforeandaftera short therapy program. Anxiety is scored from 0 to 50. The data are:Before: 10, 12, 15, 15, 24, 20, 28, 31, 35, 15After: 7, 10, 10, 17, 20, 15, 21, 30, 28, 10Constructa boxplot for the “Before” scores.Constructa separate boxplot for the “After” scores (on the same scale).Comparethe distributions:Which group has a higher median?Which group has a wider spread (IQR)?Are there any outliers in either group?Interpretthe difference in anxiety levels. Based on the boxplots, does therapy appear to have an effect?LimitationsLack of Detail About Distribution Shape: Although boxplots can show skewness to some extent (through asymmetry in the box or whiskers), they do not reveal whether a distribution is unimodal, bimodal, or has other distinct peaks.Limited Information on Data Density: A boxplot will not show you how many data points lie at different values within each quartile. Two datasets with the same boxplot could still have very different internal distributions.Context for Outliers: While outliers are marked, boxplots alone do not explainwhythose points are far from the bulk of the data—further context or other visualizations might be necessary to understand anomalies.StrengthsA boxplot visually summarizes the central tendency and spread of a dataset, much like a distribution curve. The center line of the box represents the median, while the box edges mark the first and third quartiles. The whiskers capture the extremes within 1.5 times the interquartile range, and any points beyond are outliers. This complements the smooth shape of a distribution curve, which shows a continuous view of how the data’s values are spread.Quick Summary of Key Statistics: By displaying the median, interquartile range, and outliers at a glance, boxplots provide a concise snapshot of a dataset’s center and spread.Simple, Side-by-Side Comparisons: Boxplots make it easy to compare multiple data groups (e.g., different populations or experimental conditions) by aligning the “boxes” next to each other, highlighting differences in medians, overall spread, or outlier prevalence.Outlier Detection: Because boxplots explicitly plot values beyond 1.5 × IQR (or another chosen threshold) as separate points, unusual or extreme values are immediately visible.Updated 12 Mar 2025APA 7MLA 9HarvardMcLeod, S. (2025). Reading a Box and Whisker Plot. Simply Psychology. https://www.simplypsychology.org/boxplots.htmlMcLeod, Saul. \"Reading a Box and Whisker Plot.\" Simply Psychology, 12 March 2025, https://www.simplypsychology.org/boxplots.html.McLeod, S. (2025) Reading a Box and Whisker Plot. Simply Psychology. Available at: https://www.simplypsychology.org/boxplots.html (Accessed: 22 September 2026).Copy citationDownload .risDownload .bibYou Might Also LikeZ-Score [standard Score]Introduction to the Normal Distribution (Bell Curve)Confidence IntervalsHow to Use the Z-Score Table (Standard Normal Table)Kurtosis in StatisticsEffect Size",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "How to compare box plots",
+      "content": "Box plots are a useful way to visualize differences among different samples or groups. They manage to provide a lot of statistical information, including — medians, ranges, and outliers.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Step 1: Compare the medians of box plots",
+      "content": "Compare the respective medians of each box plot. If the median line of a box plot lies outside of the box of a comparison box plot, then there is likely to be a difference between the two groups.\n\nSource: https://blog.bioturing.com/2018/05/22/how-to-compare-box-plots/",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Step 2: Compare the interquartile ranges and whiskers of box plots",
+      "content": "Compare the interquartile ranges (that is, the box lengths) to examine how the data is dispersed between each sample. The longer the box, the more dispersed the data. The smaller, the less dispersed the data.\n\nNext, look at the overall spread as shown by the extreme values at the end of two whiskers.\n\nThis shows the range of scores (another type of dispersion). Larger ranges indicate wider distribution, that is, more scattered data.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Step 3: Look for potential outliers(see the above image)",
+      "content": "When reviewing a box plot, an outlier is defined as a data point that is located outside the whiskers of the box plot.\n\nBecause the mean is sensitive to extreme values, a single outlier can substantially shift the average, potentially giving a misleading picture of the dataset.\n\nRecognizing this effect is essential for accurate data interpretation.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Step 4: Look for signs of skewness",
+      "content": "If the data do not appear to be symmetric, does each sample show the same kind of asymmetry?",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "tep-by-Step Construction",
+      "content": "- Gather and Sort Your Data:Start by listing all the numbers in your dataset.Example: 3, 5, 7, 10, 12, 14, 18Now, put those numbers in order from smallest to largest. This makes it much easier to find the important values.\n\n- Start by listing all the numbers in your dataset.\n\n- Example: 3, 5, 7, 10, 12, 14, 18\n\n- Now, put those numbers in order from smallest to largest. This makes it much easier to find the important values.\n\n- Find the Minimum and Maximum:Theminimumis the smallest number in your list.Themaximumis the largest number.In our example(3, 5, 7, 10, 12, 14, 18):Minimum = 3Maximum = 18\n\n- Theminimumis the smallest number in your list.\n\n- Themaximumis the largest number.\n\n- In our example(3, 5, 7, 10, 12, 14, 18):\n\n- Minimum = 3\n\n- Maximum = 18\n\n- Calculate the Median (The Middle Value):Themedianis the middle number when your data is sorted.If you have an odd number of values, it’s the one right in the center.If you have an even number, you average the two middle numbers.In our example(3, 5, 7, 10, 12, 14, 18):There are 7 numbers, so the middle one is the 4th one.Median = 10\n\n- Themedianis the middle number when your data is sorted.\n\n- If you have an odd number of values, it’s the one right in the center.\n\n- If you have an even number, you average the two middle numbers.\n\n- In our example(3, 5, 7, 10, 12, 14, 18):\n\n- There are 7 numbers, so the middle one is the 4th one.\n\n- Median = 10\n\n- Find the First Quartile (Q1) and Third Quartile (Q3):Q1is the median of the lower half of your data (the numbers below the overall median).Q3is the median of the upper half of your data (the numbers above the overall median).Important: when finding Q1 and Q3, if there is an even amount of numbers in the upper or lower half, you must average the two center numbers.From our example:Lower half: 3, 5, 7 (below the median 10)Q1 is the middle of (3, 5, 7). That’s 5. So Q1 = 5.Upper half: 12, 14, 18 (above the median 10)Q3 is the middle of (12, 14, 18). That’s 14. So Q3 = 14.\n\n- Q1is the median of the lower half of your data (the numbers below the overall median).\n\n- Q3is the median of the upper half of your data (the numbers above the overall median).\n\n- Important: when finding Q1 and Q3, if there is an even amount of numbers in the upper or lower half, you must average the two center numbers.\n\n- From our example:\n\n- Lower half: 3, 5, 7 (below the median 10)\n\n- Q1 is the middle of (3, 5, 7). That’s 5. So Q1 = 5.\n\n- Upper half: 12, 14, 18 (above the median 10)\n\n- Q3 is the middle of (12, 14, 18). That’s 14. So Q3 = 14.\n\n- Calculate the Interquartile Range (IQR):TheIQRtells you how spread out the middle 50% of your data is.IQR = Q3 – Q1For our example:Q3 = 14Q1 = 5IQR = 14 – 5 = 9\n\n- TheIQRtells you how spread out the middle 50% of your data is.\n\n- IQR = Q3 – Q1\n\n- For our example:\n\n- IQR = 14 – 5 = 9\n\n- Identify Outliers (Using the 1.5 × IQR Rule):Outliersare numbers that are very different from the rest.Lower Outlier Cutoff = Q1 – (1.5 × IQR)Upper Outlier Cutoff = Q3 + (1.5 × IQR)Any numbers below the Lower Cutoff or above the Upper Cutoff are outliers.Using our example:Lower Cutoff = 5 – (1.5 × 9) = 5 – 13.5 = –8.5Upper Cutoff = 14 + (1.5 × 9) = 14 + 13.5 = 27.5Since our minimum is 3 and our maximum is 18, we have no outliers.\n\n- Outliersare numbers that are very different from the rest.\n\n- Lower Outlier Cutoff = Q1 – (1.5 × IQR)\n\n- Upper Outlier Cutoff = Q3 + (1.5 × IQR)\n\n- Any numbers below the Lower Cutoff or above the Upper Cutoff are outliers.\n\n- Using our example:\n\n- Lower Cutoff = 5 – (1.5 × 9) = 5 – 13.5 = –8.5\n\n- Upper Cutoff = 14 + (1.5 × 9) = 14 + 13.5 = 27.5\n\n- Since our minimum is 3 and our maximum is 18, we have no outliers.\n\n- Draw the Boxplot:Draw a number line that covers the range of your data (from minimum to maximum).Mark Q1, the median, and Q3 above the number line to create the “box.”Draw the “whiskers.”The left whisker goes from Q1 to the smallest valuewithinthe lower outlier cutoff.The right whisker goes from Q3 to the largest valuewithinthe upper outlier cutoff.If you have outliers, plot them as individual points beyond the whiskers.Remember to use visual aids along with these steps.\n\n- Draw a number line that covers the range of your data (from minimum to maximum).\n\n- Mark Q1, the median, and Q3 above the number line to create the “box.”\n\n- Draw the “whiskers.”The left whisker goes from Q1 to the smallest valuewithinthe lower outlier cutoff.The right whisker goes from Q3 to the largest valuewithinthe upper outlier cutoff.\n\n- The left whisker goes from Q1 to the smallest valuewithinthe lower outlier cutoff.\n\n- The right whisker goes from Q3 to the largest valuewithinthe upper outlier cutoff.\n\n- If you have outliers, plot them as individual points beyond the whiskers.\n\n- Remember to use visual aids along with these steps.",
+      "order": 14,
+      "items": []
+    },
+    {
+      "heading": "Gather and Sort Your Data:",
+      "content": "- Start by listing all the numbers in your dataset.\n\n- Example: 3, 5, 7, 10, 12, 14, 18\n\n- Now, put those numbers in order from smallest to largest. This makes it much easier to find the important values.",
+      "order": 15,
+      "items": []
+    },
+    {
+      "heading": "Find the Minimum and Maximum:",
+      "content": "- Theminimumis the smallest number in your list.\n\n- Themaximumis the largest number.\n\n- In our example(3, 5, 7, 10, 12, 14, 18):\n\n- Minimum = 3\n\n- Maximum = 18",
+      "order": 16,
+      "items": []
+    },
+    {
+      "heading": "Calculate the Median (The Middle Value):",
+      "content": "- Themedianis the middle number when your data is sorted.\n\n- If you have an odd number of values, it’s the one right in the center.\n\n- If you have an even number, you average the two middle numbers.\n\n- In our example(3, 5, 7, 10, 12, 14, 18):\n\n- There are 7 numbers, so the middle one is the 4th one.\n\n- Median = 10",
+      "order": 17,
+      "items": []
+    },
+    {
+      "heading": "Find the First Quartile (Q1) and Third Quartile (Q3):",
+      "content": "- Q1is the median of the lower half of your data (the numbers below the overall median).\n\n- Q3is the median of the upper half of your data (the numbers above the overall median).\n\n- Important: when finding Q1 and Q3, if there is an even amount of numbers in the upper or lower half, you must average the two center numbers.\n\n- From our example:\n\n- Lower half: 3, 5, 7 (below the median 10)\n\n- Q1 is the middle of (3, 5, 7). That’s 5. So Q1 = 5.\n\n- Upper half: 12, 14, 18 (above the median 10)\n\n- Q3 is the middle of (12, 14, 18). That’s 14. So Q3 = 14.",
+      "order": 18,
+      "items": []
+    },
+    {
+      "heading": "Calculate the Interquartile Range (IQR):",
+      "content": "- TheIQRtells you how spread out the middle 50% of your data is.\n\n- IQR = Q3 – Q1\n\n- For our example:\n\n- IQR = 14 – 5 = 9",
+      "order": 19,
+      "items": []
+    },
+    {
+      "heading": "Identify Outliers (Using the 1.5 × IQR Rule):",
+      "content": "- Outliersare numbers that are very different from the rest.\n\n- Lower Outlier Cutoff = Q1 – (1.5 × IQR)\n\n- Upper Outlier Cutoff = Q3 + (1.5 × IQR)\n\n- Any numbers below the Lower Cutoff or above the Upper Cutoff are outliers.\n\n- Using our example:\n\n- Lower Cutoff = 5 – (1.5 × 9) = 5 – 13.5 = –8.5\n\n- Upper Cutoff = 14 + (1.5 × 9) = 14 + 13.5 = 27.5\n\n- Since our minimum is 3 and our maximum is 18, we have no outliers.",
+      "order": 20,
+      "items": []
+    },
+    {
+      "heading": "Draw the Boxplot:",
+      "content": "- Draw a number line that covers the range of your data (from minimum to maximum).\n\n- Mark Q1, the median, and Q3 above the number line to create the “box.”\n\n- Draw the “whiskers.”The left whisker goes from Q1 to the smallest valuewithinthe lower outlier cutoff.The right whisker goes from Q3 to the largest valuewithinthe upper outlier cutoff.\n\n- The left whisker goes from Q1 to the smallest valuewithinthe lower outlier cutoff.\n\n- The right whisker goes from Q3 to the largest valuewithinthe upper outlier cutoff.\n\n- If you have outliers, plot them as individual points beyond the whiskers.\n\n- Remember to use visual aids along with these steps.\n\n- The left whisker goes from Q1 to the smallest valuewithinthe lower outlier cutoff.\n\n- The right whisker goes from Q3 to the largest valuewithinthe upper outlier cutoff.",
+      "order": 21,
+      "items": []
+    },
+    {
+      "heading": "Tips for Success",
+      "content": "- Alwayssort your data before finding quartiles.\n\n- Use(Q3 − Q1)for the IQR, then multiply by 1.5 to find the outlier “cut-off.”\n\n- If an outlier exists,plotit as a separate point outside the whiskers.\n\n- Labelyour axes carefully and include a title for clarity",
+      "order": 22,
+      "items": []
+    },
+    {
+      "heading": "Question 1: Memory Test Scores",
+      "content": "A researcher measuresshort-term memory test scoresfor 15 participants. Each participant completes a recall test scored out of 30 points. The data are:\n\n- Sortthe data.\n\n- Findthe minimum, Q1, median, Q3, and maximum.\n\n- Calculatethe interquartile range (IQR).\n\n- Determineif there are any outliers using the 1.5 × IQR rule.\n\n- Drawa boxplot of the data.\n\n- Interpretyour findings.\n\n- Are the scores clustered, spread out, or skewed?",
+      "order": 23,
+      "items": []
+    },
+    {
+      "heading": "Question 2: Stress Scale Scores",
+      "content": "A psychologist uses astress scaleranging from 0 (no stress) to 40 (extreme stress). Fifteen patients reported the following scores:\n\n- Orderthe scores and calculate themedian.\n\n- FindQ1 and Q3, then compute theIQR.\n\n- Determinelowerandupper outlier boundaries(Q1 − 1.5 × IQR, Q3 + 1.5 × IQR).\n\n- Drawa boxplot, labeling any outliers as individual points.\n\n- Discussany potential reasons for outliers on a stress scale (e.g., unique personal situations).",
+      "order": 24,
+      "items": []
+    },
+    {
+      "heading": "Question 3 Anxiety Scores Before and After Therapy",
+      "content": "A clinical psychologist measuresanxietyin a group of clientsbeforeandaftera short therapy program. Anxiety is scored from 0 to 50. The data are:\n\n- Constructa boxplot for the “Before” scores.\n\n- Constructa separate boxplot for the “After” scores (on the same scale).\n\n- Comparethe distributions:Which group has a higher median?Which group has a wider spread (IQR)?Are there any outliers in either group?\n\n- Which group has a higher median?\n\n- Which group has a wider spread (IQR)?\n\n- Are there any outliers in either group?\n\n- Interpretthe difference in anxiety levels. Based on the boxplots, does therapy appear to have an effect?\n\n- Which group has a higher median?\n\n- Which group has a wider spread (IQR)?\n\n- Are there any outliers in either group?",
+      "order": 25,
+      "items": []
+    },
+    {
+      "heading": "Limitations",
+      "content": "- Lack of Detail About Distribution Shape: Although boxplots can show skewness to some extent (through asymmetry in the box or whiskers), they do not reveal whether a distribution is unimodal, bimodal, or has other distinct peaks.\n\n- Limited Information on Data Density: A boxplot will not show you how many data points lie at different values within each quartile. Two datasets with the same boxplot could still have very different internal distributions.\n\n- Context for Outliers: While outliers are marked, boxplots alone do not explainwhythose points are far from the bulk of the data—further context or other visualizations might be necessary to understand anomalies.",
+      "order": 26,
+      "items": []
+    },
+    {
+      "heading": "Strengths",
+      "content": "- Quick Summary of Key Statistics: By displaying the median, interquartile range, and outliers at a glance, boxplots provide a concise snapshot of a dataset’s center and spread.\n\n- Simple, Side-by-Side Comparisons: Boxplots make it easy to compare multiple data groups (e.g., different populations or experimental conditions) by aligning the “boxes” next to each other, highlighting differences in medians, overall spread, or outlier prevalence.\n\n- Outlier Detection: Because boxplots explicitly plot values beyond 1.5 × IQR (or another chosen threshold) as separate points, unusual or extreme values are immediately visible.\n\nMcLeod, S. (2025). Reading a Box and Whisker Plot. Simply Psychology. https://www.simplypsychology.org/boxplots.html\n\nMcLeod, Saul. \"Reading a Box and Whisker Plot.\" Simply Psychology, 12 March 2025, https://www.simplypsychology.org/boxplots.html.\n\nMcLeod, S. (2025) Reading a Box and Whisker Plot. Simply Psychology. Available at: https://www.simplypsychology.org/boxplots.html (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 27,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-whisker-plot.jpg",
+      "alt": "Reading a Box and Whisker Plot",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/image-3.jpeg",
+      "alt": "Box and whisker plot showing five-number summary",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/boxplot-quartiles.jpg",
+      "alt": "boxplot quartiles",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/bloxplots-skewed.jpg",
+      "alt": "Box Plots Showing Skewness of a Data Set",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/IQR.jpg",
+      "alt": "box plot showing the interquartile range ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bell-curve-300x250.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-table-287x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Kurtosis-300x114.gif",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cohen-d-300x142.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/boxplot-outliers.png",
+      "alt": "box plot outliers ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-plots-comparisons.jpg",
+      "alt": "box plots comparisons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/overlapping-box.jpg",
+      "alt": "compare box plot medians",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/compare-boxplots.jpg",
+      "alt": "compare box plot range and IQR",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/box-plots-distribution.jpg",
+      "alt": "box plots showing skewness of a data set compared with distribution curves",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/boxplot.jpg",
+      "alt": "Features of a Box Plot (also called a box and whisker plot)",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/boxplot-1.jpg",
+      "alt": "boxplot 1",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-and-whisker-plot-for-the-standard-normal-distribution.jpg",
+      "alt": "box and whisker plot for the standard normal distribution",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-plot.png",
+      "alt": "box plot",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Reading a Box and Whisker Plot\n\n> Psychology»Statistics\n\n## Giriş\n\nPsychology»Statistics\n\nIn descriptive statistics, a box plot or boxplot (also known as a box and whisker plot) is a type of chart often used in explanatory data analysis.\n\nBox plots visually show the distribution of numerical data and skewness by displaying the data quartiles (or percentiles) and averages.\n\nBox plots show the five-number summary of a set of data: including the minimum score, first (lower) quartile, median, third (upper) quartile, and maximum score.\n\n## How to read a boxplot\n\n- Interquartile Range (IQR): The box plot shows the middle 50% of scores (i.e., the range between the 25th and 75th percentile).\n\n- Whiskers: The upper and lower whiskers represent scores outside the middle 50% (i.e., the lower 25% of scores and the upper 25% of scores).\n\n- Minimum Score: The lowest score, excluding outliers (shown at the end of the left whisker).\n\n- Lower Quartile: Twenty-five percent of scores fall below the lower quartile value (also known as the first quartile).\n\n- Median: The median marks the mid-point of the data and is shown by the line that divides the box into two parts (sometimes known as the second quartile). Half the scores are greater than or equal to this value, and half are less.\n\n- Upper Quartile: Seventy-five percent of the scores fall below the upper quartile value (also known as the third quartile). Thus, 25% of data are above this value.\n\n- Maximum Score: The highest score, excluding outliers (shown at the end of the right whisker).\n\n- Outliers:Points beyond the whiskers, indicating potential extreme values.\n\n## Quick summary of key statistics\n\nBy displaying the median, interquartile range, and outliers at a glance, boxplots provide a concise snapshot of a dataset’s center and spread.\n\nBox plots divide the data into sections containing approximately 25% of the data in that set.\n\nBox plots are useful as they provide a visual summary of the data enabling researchers to quickly identify mean values, the dispersion of the data set, and signs of skewness.\n\nNote that the image above represents data that has a perfectnormal distribution, and most box plots will not conform to this symmetry (where each quartile is the same length).\n\n## Average score of a data set\n\nThe median is the average value from a set of data and is shown by the line that divides the box into two parts. Half the scores are greater than or equal to this value, and half are less.\n\n## Skewness of a data set\n\nThe box plot shape will show if a statistical data set is normally distributed or skewed.\n\nWhen the median is in the middle of the box, and the whiskers are about the same on both sides of the box, then the distribution is symmetric.\n\nWhen the median is closer to the bottom of the box, and if the whisker is shorter on the lower end of the box, then the distribution is positively skewed (skewed right).\n\nWhen the median is closer to the top of the box, and if the whisker is shorter on the upper end of the box, then the distribution is negatively skewed (skewed left).\n\n## Dispersion of a data set\n\nIn statistics, dispersion (also called variability, scatter, or spread) is the extent to which a distribution is stretched or squeezed.\n\nThe smallest and largest values are found at the end of the ‘whiskers’ and are useful for providing a visual indicator regarding the spread of scores (e.g., the range).\n\nThe interquartile range (IQR) is the box plot showing the middle 50% of scores and can be calculated by subtracting the lower quartile from the upper quartile (e.g., Q3−Q1).\n\n## Show outliers within a data set\n\nAn outlier is an observation that is numerically distant from the rest of the data.\n\nWhen reviewing a box plot, an outlier is defined as a data point that is located outside the whiskers of the box plot.\n\nOutliers can be genuine rare events (e.g., a patient who recovers extraordinarily quickly) or the result of data-entry mistakes, faulty instruments, or other errors.\n\nSource: https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51\n\nFor example, outside 1.5 times the interquartile range above the upper quartile and below the lower quartile (Q1 – 1.5 * IQR or Q3 + 1.5 * IQR).\n\n## Box plots are useful as they show simple, side-by-side comparisons\n\nBoxplots make it easy to compare multiple data groups (e.g., different populations or experimental conditions) by aligning the “boxes” next to each other, highlighting differences in medians, overall spread, or outlier prevalence.\n\nHow to compare box plotsBox plots are a useful way to visualize differences among different samples or groups. They manage to provide a lot of statistical information, including — medians, ranges, and outliers.Note although box plots have been presented horizontally in this article, it is more common to view them vertically in research papers.Step 1: Compare the medians of box plotsCompare the respective medians of each box plot. If the median line of a box plot lies outside of the box of a comparison box plot, then there is likely to be a difference between the two groups.Source: https://blog.bioturing.com/2018/05/22/how-to-compare-box-plots/Step 2: Compare the interquartile ranges and whiskers of box plotsCompare the interquartile ranges (that is, the box lengths) to examine how the data is dispersed between each sample. The longer the box, the more dispersed the data. The smaller, the less dispersed the data.Next, look at the overall spread as shown by the extreme values at the end of two whiskers.This shows the range of scores (another type of dispersion). Larger ranges indicate wider distribution, that is, more scattered data.Step 3: Look for potential outliers(see the above image)When reviewing a box plot, an outlier is defined as a data point that is located outside the whiskers of the box plot.Because the mean is sensitive to extreme values, a single outlier can substantially shift the average, potentially giving a misleading picture of the dataset.Recognizing this effect is essential for accurate data interpretation.Step 4: Look for signs of skewnessIf the data do not appear to be symmetric, does each sample show the same kind of asymmetry?tep-by-Step ConstructionGather and Sort Your Data:Start by listing all the numbers in your dataset.Example: 3, 5, 7, 10, 12, 14, 18Now, put those numbers in order from smallest to largest. This makes it much easier to find the important values.Find the Minimum and Maximum:Theminimumis the smallest number in your list.Themaximumis the largest number.In our example(3, 5, 7, 10, 12, 14, 18):Minimum = 3Maximum = 18Calculate the Median (The Middle Value):Themedianis the middle number when your data is sorted.If you have an odd number of values, it’s the one right in the center.If you have an even number, you average the two middle numbers.In our example(3, 5, 7, 10, 12, 14, 18):There are 7 numbers, so the middle one is the 4th one.Median = 10Find the First Quartile (Q1) and Third Quartile (Q3):Q1is the median of the lower half of your data (the numbers below the overall median).Q3is the median of the upper half of your data (the numbers above the overall median).Important: when finding Q1 and Q3, if there is an even amount of numbers in the upper or lower half, you must average the two center numbers.From our example:Lower half: 3, 5, 7 (below the median 10)Q1 is the middle of (3, 5, 7). That’s 5. So Q1 = 5.Upper half: 12, 14, 18 (above the median 10)Q3 is the middle of (12, 14, 18). That’s 14. So Q3 = 14.Calculate the Interquartile Range (IQR):TheIQRtells you how spread out the middle 50% of your data is.IQR = Q3 – Q1For our example:Q3 = 14Q1 = 5IQR = 14 – 5 = 9Identify Outliers (Using the 1.5 × IQR Rule):Outliersare numbers that are very different from the rest.Lower Outlier Cutoff = Q1 – (1.5 × IQR)Upper Outlier Cutoff = Q3 + (1.5 × IQR)Any numbers below the Lower Cutoff or above the Upper Cutoff are outliers.Using our example:Lower Cutoff = 5 – (1.5 × 9) = 5 – 13.5 = –8.5Upper Cutoff = 14 + (1.5 × 9) = 14 + 13.5 = 27.5Since our minimum is 3 and our maximum is 18, we have no outliers.Draw the Boxplot:Draw a number line that covers the range of your data (from minimum to maximum).Mark Q1, the median, and Q3 above the number line to create the “box.”Draw the “whiskers.”The left whisker goes from Q1 to the smallest valuewithinthe lower outlier cutoff.The right whisker goes from Q3 to the largest valuewithinthe upper outlier cutoff.If you have outliers, plot them as individual points beyond the whiskers.Remember to use visual aids along with these steps.Practice QuestionsTips for SuccessAlwayssort your data before finding quartiles.Use(Q3 − Q1)for the IQR, then multiply by 1.5 to find the outlier “cut-off.”If an outlier exists,plotit as a separate point outside the whiskers.Labelyour axes carefully and include a title for clarityQuestion 1: Memory Test ScoresA researcher measuresshort-term memory test scoresfor 15 participants. Each participant completes a recall test scored out of 30 points. The data are:23, 16, 19, 27, 14, 29, 22, 18, 12, 30, 25, 20, 15, 28, 17Sortthe data.Findthe minimum, Q1, median, Q3, and maximum.Calculatethe interquartile range (IQR).Determineif there are any outliers using the 1.5 × IQR rule.Drawa boxplot of the data.Interpretyour findings.Are the scores clustered, spread out, or skewed?Question 2: Stress Scale ScoresA psychologist uses astress scaleranging from 0 (no stress) to 40 (extreme stress). Fifteen patients reported the following scores:6, 9, 15, 15, 18, 22, 5, 27, 32, 33, 10, 14, 16, 8, 40Orderthe scores and calculate themedian.FindQ1 and Q3, then compute theIQR.Determinelowerandupper outlier boundaries(Q1 − 1.5 × IQR, Q3 + 1.5 × IQR).Drawa boxplot, labeling any outliers as individual points.Discussany potential reasons for outliers on a stress scale (e.g., unique personal situations).Question 3 Anxiety Scores Before and After TherapyA clinical psychologist measuresanxietyin a group of clientsbeforeandaftera short therapy program. Anxiety is scored from 0 to 50. The data are:Before: 10, 12, 15, 15, 24, 20, 28, 31, 35, 15After: 7, 10, 10, 17, 20, 15, 21, 30, 28, 10Constructa boxplot for the “Before” scores.Constructa separate boxplot for the “After” scores (on the same scale).Comparethe distributions:Which group has a higher median?Which group has a wider spread (IQR)?Are there any outliers in either group?Interpretthe difference in anxiety levels. Based on the boxplots, does therapy appear to have an effect?LimitationsLack of Detail About Distribution Shape: Although boxplots can show skewness to some extent (through asymmetry in the box or whiskers), they do not reveal whether a distribution is unimodal, bimodal, or has other distinct peaks.Limited Information on Data Density: A boxplot will not show you how many data points lie at different values within each quartile. Two datasets with the same boxplot could still have very different internal distributions.Context for Outliers: While outliers are marked, boxplots alone do not explainwhythose points are far from the bulk of the data—further context or other visualizations might be necessary to understand anomalies.StrengthsA boxplot visually summarizes the central tendency and spread of a dataset, much like a distribution curve. The center line of the box represents the median, while the box edges mark the first and third quartiles. The whiskers capture the extremes within 1.5 times the interquartile range, and any points beyond are outliers. This complements the smooth shape of a distribution curve, which shows a continuous view of how the data’s values are spread.Quick Summary of Key Statistics: By displaying the median, interquartile range, and outliers at a glance, boxplots provide a concise snapshot of a dataset’s center and spread.Simple, Side-by-Side Comparisons: Boxplots make it easy to compare multiple data groups (e.g., different populations or experimental conditions) by aligning the “boxes” next to each other, highlighting differences in medians, overall spread, or outlier prevalence.Outlier Detection: Because boxplots explicitly plot values beyond 1.5 × IQR (or another chosen threshold) as separate points, unusual or extreme values are immediately visible.Updated 12 Mar 2025APA 7MLA 9HarvardMcLeod, S. (2025). Reading a Box and Whisker Plot. Simply Psychology. https://www.simplypsychology.org/boxplots.htmlMcLeod, Saul. \"Reading a Box and Whisker Plot.\" Simply Psychology, 12 March 2025, https://www.simplypsychology.org/boxplots.html.McLeod, S. (2025) Reading a Box and Whisker Plot. Simply Psychology. Available at: https://www.simplypsychology.org/boxplots.html (Accessed: 22 September 2026).Copy citationDownload .risDownload .bibYou Might Also LikeZ-Score [standard Score]Introduction to the Normal Distribution (Bell Curve)Confidence IntervalsHow to Use the Z-Score Table (Standard Normal Table)Kurtosis in StatisticsEffect Size\n\n## How to compare box plots\n\nBox plots are a useful way to visualize differences among different samples or groups. They manage to provide a lot of statistical information, including — medians, ranges, and outliers.\n\n## Step 1: Compare the medians of box plots\n\nCompare the respective medians of each box plot. If the median line of a box plot lies outside of the box of a comparison box plot, then there is likely to be a difference between the two groups.\n\nSource: https://blog.bioturing.com/2018/05/22/how-to-compare-box-plots/\n\n## Step 2: Compare the interquartile ranges and whiskers of box plots\n\nCompare the interquartile ranges (that is, the box lengths) to examine how the data is dispersed between each sample. The longer the box, the more dispersed the data. The smaller, the less dispersed the data.\n\nNext, look at the overall spread as shown by the extreme values at the end of two whiskers.\n\nThis shows the range of scores (another type of dispersion). Larger ranges indicate wider distribution, that is, more scattered data.\n\n## Step 3: Look for potential outliers(see the above image)\n\nWhen reviewing a box plot, an outlier is defined as a data point that is located outside the whiskers of the box plot.\n\nBecause the mean is sensitive to extreme values, a single outlier can substantially shift the average, potentially giving a misleading picture of the dataset.\n\nRecognizing this effect is essential for accurate data interpretation.\n\n## Step 4: Look for signs of skewness\n\nIf the data do not appear to be symmetric, does each sample show the same kind of asymmetry?\n\n## tep-by-Step Construction\n\n- Gather and Sort Your Data:Start by listing all the numbers in your dataset.Example: 3, 5, 7, 10, 12, 14, 18Now, put those numbers in order from smallest to largest. This makes it much easier to find the important values.\n\n- Start by listing all the numbers in your dataset.\n\n- Example: 3, 5, 7, 10, 12, 14, 18\n\n- Now, put those numbers in order from smallest to largest. This makes it much easier to find the important values.\n\n- Find the Minimum and Maximum:Theminimumis the smallest number in your list.Themaximumis the largest number.In our example(3, 5, 7, 10, 12, 14, 18):Minimum = 3Maximum = 18\n\n- Theminimumis the smallest number in your list.\n\n- Themaximumis the largest number.\n\n- In our example(3, 5, 7, 10, 12, 14, 18):\n\n- Minimum = 3\n\n- Maximum = 18\n\n- Calculate the Median (The Middle Value):Themedianis the middle number when your data is sorted.If you have an odd number of values, it’s the one right in the center.If you have an even number, you average the two middle numbers.In our example(3, 5, 7, 10, 12, 14, 18):There are 7 numbers, so the middle one is the 4th one.Median = 10\n\n- Themedianis the middle number when your data is sorted.\n\n- If you have an odd number of values, it’s the one right in the center.\n\n- If you have an even number, you average the two middle numbers.\n\n- In our example(3, 5, 7, 10, 12, 14, 18):\n\n- There are 7 numbers, so the middle one is the 4th one.\n\n- Median = 10\n\n- Find the First Quartile (Q1) and Third Quartile (Q3):Q1is the median of the lower half of your data (the numbers below the overall median).Q3is the median of the upper half of your data (the numbers above the overall median).Important: when finding Q1 and Q3, if there is an even amount of numbers in the upper or lower half, you must average the two center numbers.From our example:Lower half: 3, 5, 7 (below the median 10)Q1 is the middle of (3, 5, 7). That’s 5. So Q1 = 5.Upper half: 12, 14, 18 (above the median 10)Q3 is the middle of (12, 14, 18). That’s 14. So Q3 = 14.\n\n- Q1is the median of the lower half of your data (the numbers below the overall median).\n\n- Q3is the median of the upper half of your data (the numbers above the overall median).\n\n- Important: when finding Q1 and Q3, if there is an even amount of numbers in the upper or lower half, you must average the two center numbers.\n\n- From our example:\n\n- Lower half: 3, 5, 7 (below the median 10)\n\n- Q1 is the middle of (3, 5, 7). That’s 5. So Q1 = 5.\n\n- Upper half: 12, 14, 18 (above the median 10)\n\n- Q3 is the middle of (12, 14, 18). That’s 14. So Q3 = 14.\n\n- Calculate the Interquartile Range (IQR):TheIQRtells you how spread out the middle 50% of your data is.IQR = Q3 – Q1For our example:Q3 = 14Q1 = 5IQR = 14 – 5 = 9\n\n- TheIQRtells you how spread out the middle 50% of your data is.\n\n- IQR = Q3 – Q1\n\n- For our example:\n\n- IQR = 14 – 5 = 9\n\n- Identify Outliers (Using the 1.5 × IQR Rule):Outliersare numbers that are very different from the rest.Lower Outlier Cutoff = Q1 – (1.5 × IQR)Upper Outlier Cutoff = Q3 + (1.5 × IQR)Any numbers below the Lower Cutoff or above the Upper Cutoff are outliers.Using our example:Lower Cutoff = 5 – (1.5 × 9) = 5 – 13.5 = –8.5Upper Cutoff = 14 + (1.5 × 9) = 14 + 13.5 = 27.5Since our minimum is 3 and our maximum is 18, we have no outliers.\n\n- Outliersare numbers that are very different from the rest.\n\n- Lower Outlier Cutoff = Q1 – (1.5 × IQR)\n\n- Upper Outlier Cutoff = Q3 + (1.5 × IQR)\n\n- Any numbers below the Lower Cutoff or above the Upper Cutoff are outliers.\n\n- Using our example:\n\n- Lower Cutoff = 5 – (1.5 × 9) = 5 – 13.5 = –8.5\n\n- Upper Cutoff = 14 + (1.5 × 9) = 14 + 13.5 = 27.5\n\n- Since our minimum is 3 and our maximum is 18, we have no outliers.\n\n- Draw the Boxplot:Draw a number line that covers the range of your data (from minimum to maximum).Mark Q1, the median, and Q3 above the number line to create the “box.”Draw the “whiskers.”The left whisker goes from Q1 to the smallest valuewithinthe lower outlier cutoff.The right whisker goes from Q3 to the largest valuewithinthe upper outlier cutoff.If you have outliers, plot them as individual points beyond the whiskers.Remember to use visual aids along with these steps.\n\n- Draw a number line that covers the range of your data (from minimum to maximum).\n\n- Mark Q1, the median, and Q3 above the number line to create the “box.”\n\n- Draw the “whiskers.”The left whisker goes from Q1 to the smallest valuewithinthe lower outlier cutoff.The right whisker goes from Q3 to the largest valuewithinthe upper outlier cutoff.\n\n- The left whisker goes from Q1 to the smallest valuewithinthe lower outlier cutoff.\n\n- The right whisker goes from Q3 to the largest valuewithinthe upper outlier cutoff.\n\n- If you have outliers, plot them as individual points beyond the whiskers.\n\n- Remember to use visual aids along with these steps.\n\n## Gather and Sort Your Data:\n\n- Start by listing all the numbers in your dataset.\n\n- Example: 3, 5, 7, 10, 12, 14, 18\n\n- Now, put those numbers in order from smallest to largest. This makes it much easier to find the important values.\n\n## Find the Minimum and Maximum:\n\n- Theminimumis the smallest number in your list.\n\n- Themaximumis the largest number.\n\n- In our example(3, 5, 7, 10, 12, 14, 18):\n\n- Minimum = 3\n\n- Maximum = 18\n\n## Calculate the Median (The Middle Value):\n\n- Themedianis the middle number when your data is sorted.\n\n- If you have an odd number of values, it’s the one right in the center.\n\n- If you have an even number, you average the two middle numbers.\n\n- In our example(3, 5, 7, 10, 12, 14, 18):\n\n- There are 7 numbers, so the middle one is the 4th one.\n\n- Median = 10\n\n## Find the First Quartile (Q1) and Third Quartile (Q3):\n\n- Q1is the median of the lower half of your data (the numbers below the overall median).\n\n- Q3is the median of the upper half of your data (the numbers above the overall median).\n\n- Important: when finding Q1 and Q3, if there is an even amount of numbers in the upper or lower half, you must average the two center numbers.\n\n- From our example:\n\n- Lower half: 3, 5, 7 (below the median 10)\n\n- Q1 is the middle of (3, 5, 7). That’s 5. So Q1 = 5.\n\n- Upper half: 12, 14, 18 (above the median 10)\n\n- Q3 is the middle of (12, 14, 18). That’s 14. So Q3 = 14.\n\n## Calculate the Interquartile Range (IQR):\n\n- TheIQRtells you how spread out the middle 50% of your data is.\n\n- IQR = Q3 – Q1\n\n- For our example:\n\n- IQR = 14 – 5 = 9\n\n## Identify Outliers (Using the 1.5 × IQR Rule):\n\n- Outliersare numbers that are very different from the rest.\n\n- Lower Outlier Cutoff = Q1 – (1.5 × IQR)\n\n- Upper Outlier Cutoff = Q3 + (1.5 × IQR)\n\n- Any numbers below the Lower Cutoff or above the Upper Cutoff are outliers.\n\n- Using our example:\n\n- Lower Cutoff = 5 – (1.5 × 9) = 5 – 13.5 = –8.5\n\n- Upper Cutoff = 14 + (1.5 × 9) = 14 + 13.5 = 27.5\n\n- Since our minimum is 3 and our maximum is 18, we have no outliers.\n\n## Draw the Boxplot:\n\n- Draw a number line that covers the range of your data (from minimum to maximum).\n\n- Mark Q1, the median, and Q3 above the number line to create the “box.”\n\n- Draw the “whiskers.”The left whisker goes from Q1 to the smallest valuewithinthe lower outlier cutoff.The right whisker goes from Q3 to the largest valuewithinthe upper outlier cutoff.\n\n- The left whisker goes from Q1 to the smallest valuewithinthe lower outlier cutoff.\n\n- The right whisker goes from Q3 to the largest valuewithinthe upper outlier cutoff.\n\n- If you have outliers, plot them as individual points beyond the whiskers.\n\n- Remember to use visual aids along with these steps.\n\n- The left whisker goes from Q1 to the smallest valuewithinthe lower outlier cutoff.\n\n- The right whisker goes from Q3 to the largest valuewithinthe upper outlier cutoff.\n\n## Tips for Success\n\n- Alwayssort your data before finding quartiles.\n\n- Use(Q3 − Q1)for the IQR, then multiply by 1.5 to find the outlier “cut-off.”\n\n- If an outlier exists,plotit as a separate point outside the whiskers.\n\n- Labelyour axes carefully and include a title for clarity\n\n## Question 1: Memory Test Scores\n\nA researcher measuresshort-term memory test scoresfor 15 participants. Each participant completes a recall test scored out of 30 points. The data are:\n\n- Sortthe data.\n\n- Findthe minimum, Q1, median, Q3, and maximum.\n\n- Calculatethe interquartile range (IQR).\n\n- Determineif there are any outliers using the 1.5 × IQR rule.\n\n- Drawa boxplot of the data.\n\n- Interpretyour findings.\n\n- Are the scores clustered, spread out, or skewed?\n\n## Question 2: Stress Scale Scores\n\nA psychologist uses astress scaleranging from 0 (no stress) to 40 (extreme stress). Fifteen patients reported the following scores:\n\n- Orderthe scores and calculate themedian.\n\n- FindQ1 and Q3, then compute theIQR.\n\n- Determinelowerandupper outlier boundaries(Q1 − 1.5 × IQR, Q3 + 1.5 × IQR).\n\n- Drawa boxplot, labeling any outliers as individual points.\n\n- Discussany potential reasons for outliers on a stress scale (e.g., unique personal situations).\n\n## Question 3 Anxiety Scores Before and After Therapy\n\nA clinical psychologist measuresanxietyin a group of clientsbeforeandaftera short therapy program. Anxiety is scored from 0 to 50. The data are:\n\n- Constructa boxplot for the “Before” scores.\n\n- Constructa separate boxplot for the “After” scores (on the same scale).\n\n- Comparethe distributions:Which group has a higher median?Which group has a wider spread (IQR)?Are there any outliers in either group?\n\n- Which group has a higher median?\n\n- Which group has a wider spread (IQR)?\n\n- Are there any outliers in either group?\n\n- Interpretthe difference in anxiety levels. Based on the boxplots, does therapy appear to have an effect?\n\n- Which group has a higher median?\n\n- Which group has a wider spread (IQR)?\n\n- Are there any outliers in either group?\n\n## Limitations\n\n- Lack of Detail About Distribution Shape: Although boxplots can show skewness to some extent (through asymmetry in the box or whiskers), they do not reveal whether a distribution is unimodal, bimodal, or has other distinct peaks.\n\n- Limited Information on Data Density: A boxplot will not show you how many data points lie at different values within each quartile. Two datasets with the same boxplot could still have very different internal distributions.\n\n- Context for Outliers: While outliers are marked, boxplots alone do not explainwhythose points are far from the bulk of the data—further context or other visualizations might be necessary to understand anomalies.\n\n## Strengths\n\n- Quick Summary of Key Statistics: By displaying the median, interquartile range, and outliers at a glance, boxplots provide a concise snapshot of a dataset’s center and spread.\n\n- Simple, Side-by-Side Comparisons: Boxplots make it easy to compare multiple data groups (e.g., different populations or experimental conditions) by aligning the “boxes” next to each other, highlighting differences in medians, overall spread, or outlier prevalence.\n\n- Outlier Detection: Because boxplots explicitly plot values beyond 1.5 × IQR (or another chosen threshold) as separate points, unusual or extreme values are immediately visible.\n\nMcLeod, S. (2025). Reading a Box and Whisker Plot. Simply Psychology. https://www.simplypsychology.org/boxplots.html\n\nMcLeod, Saul. \"Reading a Box and Whisker Plot.\" Simply Psychology, 12 March 2025, https://www.simplypsychology.org/boxplots.html.\n\nMcLeod, S. (2025) Reading a Box and Whisker Plot. Simply Psychology. Available at: https://www.simplypsychology.org/boxplots.html (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:32:11.236370"
+}

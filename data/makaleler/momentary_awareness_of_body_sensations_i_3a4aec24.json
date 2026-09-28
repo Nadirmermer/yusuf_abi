@@ -1,0 +1,163 @@
+{
+  "id": "momentary_awareness_of_body_sensations_i_3a4aec24",
+  "url": "https://www.simplypsychology.org/momentary-awareness-of-body-sensations-is-associated-with-concurrent-affective-experience.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Momentary Awareness of Body Sensations Is Associated With Concurrent Affective Experience",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": null,
+  "date_modified": null,
+  "read_time_minutes": 6,
+  "word_count": 1148,
+  "summary": "News»Clinical Psychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "News»Clinical Psychology\n\nMacVittie, A., Kochanowska, E., Kam, J. W. Y., Allen, L., Mills, C., & Wormwood, J. B. (2025). Momentary awareness of body sensations is associated with concurrent affective experience.Emotion, 25(3), 571–587.https://doi.org/10.1037/emo0001428",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Takeaways",
+      "content": "- Focus:This study explores the relationship between momentary subjective body awareness and affective experience in daily life.\n\n- Aims:To investigate how fluctuations in subjective awareness of bodily sensations relate to momentary affective experiences and to differentiate these associations from established findings on interoceptive accuracy.\n\n- Findings:Participants consistently reported greater awareness of body sensations during moments of heightened affective arousal and more negatively valenced affect.\n\n- Implications:These findings highlight the importance of subjective bodily awareness in emotional experience, potentially informing therapeutic practices aimed at improving emotional regulation and awareness.\n\nA post shared by ClinPsy (@clinpsy)",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Rationale",
+      "content": "Current theories of emotion emphasize thebody’s role in shaping emotional experience, proposing that affect represents the conscious awareness of internal bodily states (Barrett, 2017b; Craig, 2002).\n\nExisting research primarily focuses on interoceptive accuracy—the objective detection of bodily signals—and its link with emotional intensity and arousal (Critchley et al., 2004; Pollatos et al., 2007).\n\nHowever, subjective awareness, or interoceptive sensibility, remains underexplored despite its theoretical significance in emotion theories (Garfinkel et al., 2015; Suksasilp & Garfinkel, 2022).\n\nAddressing this gap, the present study uses ecological momentary assessment (EMA) to dynamically measure how subjective awareness of body sensations correlates with real-time affective states in natural settings.\n\nThis approach captures variability in both constructs within individuals, extending beyond the trait-focused laboratory studies dominant in prior research.\n\nNext steps include experimental manipulations of body awareness to examine causality and interventions enhancing interoceptive sensibility (Murphy et al., 2020).",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Method",
+      "content": "EMAwas utilized over extended periods (Study 1: 4 weeks; Study 2: 7 days) with participants prompted randomly throughout the day to assess their current body awareness and affective states.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Procedure:",
+      "content": "- Initial survey for baseline demographics and trait body awareness.\n\n- Participants downloaded an EMA app and completed random daily prompts assessing momentary awareness of body sensations and affective experiences.\n\n- Text-based descriptions of current thoughts (Study 2) analyzed via natural language processing (NLP) to derive affective valence.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Sample:",
+      "content": "- Study 1: 109 adults (Mage=28.47, 45% female, 54.1% White).\n\n- Study 2: 116 adults (Mage=24.6, 43.1% female, 85.3% White).",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Measures:",
+      "content": "- Body Awareness Questionnaire (BAQ): Self-report of general bodily awareness.\n\n- Body Vigilance Scale(Study 2): Attentional monitoring of body sensations.\n\n- EMA Measures: Momentary ratings of body sensations and affect (valence, arousal).",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Statistical Measures:",
+      "content": "Mixed-effects regression models assessed within-person associations between momentary body awareness and affective experiences.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Results",
+      "content": "- Hypothesis 1 (Body awareness correlates positively with arousal): Supported—momentary body awareness positively correlated with higher affective arousal.\n\n- Hypothesis 2 (Body awareness correlates negatively with valence): Supported—greater body awareness was associated with more negatively valenced affect.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Insight",
+      "content": "This study highlights subjective body awareness as a dynamic emotional regulator, suggesting that greater awareness may be maladaptive in contexts of negative affect.\n\nIt challenges and extends previous research that primarily emphasized interoceptive accuracy (Critchley et al., 2004; Pollatos et al., 2007) by showing similar emotional associations with subjective bodily awareness.\n\nThis finding indicates that subjective perceptions of body sensations could significantly influence emotional wellbeing and responses.\n\nThe study underscores the importance of considering subjective interoceptive sensibility in understanding emotional experiences and developing therapeutic interventions.\n\nFuture research should examine how manipulative interventions targeting subjective awareness impact emotional regulation, potentially revealing strategies to enhance emotional resilience or reduce vulnerability to negative emotional states.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Clinical Implications",
+      "content": "Practitioners might develop interventions focusing on enhancing adaptive aspects of body awareness, reducing maladaptive vigilance, and improving emotional regulation strategies.\n\nFor example,mindfulness-based interventionsemphasizing non-judgmental attention to bodily sensations could be adapted to ensure they foster positive emotional outcomes without increasing anxiety or negative affect.\n\nPolicymakers and health providers might also incorporate awareness training into educational programs or mental health resources, carefully considering the context to avoid inadvertently enhancing distress associated with bodily sensations.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Strengths",
+      "content": "- Real-world assessment through EMA.\n\n- Inclusion of both self-report and text-based NLP affect measures.\n\n- Consideration of multiple body sensations.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Limitations",
+      "content": "- Correlational design limits causal conclusions.\n\n- Lack of physiological measures alongside subjective reports.\n\n- Homogenous participant sample limiting generalizability.",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "Socratic Questions",
+      "content": "- What alternative explanations might account for increased body awareness during negative affective states?\n\n- How might cultural differences influence the relationship between subjective body awareness and affective experience?\n\n- Can interventions aimed at increasing body awareness inadvertently increase negative emotional experiences?\n\n- How might subjective body awareness interact with physiological states to produce distinct affective outcomes?\n\n- In what ways might increasing body awareness benefit emotional regulation and wellbeing?\n\nMcLeod, S. (2025). Momentary Awareness of Body Sensations Is Associated With Concurrent Affective Experience. Simply Psychology. https://www.simplypsychology.org/news/momentary-awareness-of-body-sensations-is-associated-with-concurrent-affective-experience/\n\nMcLeod, Saul. \"Momentary Awareness of Body Sensations Is Associated With Concurrent Affective Experience.\" Simply Psychology, 24 April 2025, https://www.simplypsychology.org/news/momentary-awareness-of-body-sensations-is-associated-with-concurrent-affective-experience/.\n\nMcLeod, S. (2025) Momentary Awareness of Body Sensations Is Associated With Concurrent Affective Experience. Simply Psychology. Available at: https://www.simplypsychology.org/news/momentary-awareness-of-body-sensations-is-associated-with-concurrent-affective-experience/ (Accessed: 22 September 2026).",
+      "order": 14,
+      "items": []
+    },
+    {
+      "heading": "References",
+      "content": "MacVittie, A., Kochanowska, E., Kam, J. W. Y., Allen, L., Mills, C., & Wormwood, J. B. (2025). Momentary awareness of body sensations is associated with concurrent affective experience.Emotion, 25(3), 571–587.https://doi.org/10.1037/emo0001428\n\nBarrett, L. F. (2017b).How emotions are made: The secret life of the brain.Houghton Mifflin Harcourt.\n\nBarrett, L. F., & Simmons, W. K. (2015).Nature Reviews Neuroscience, 16(7), 419–429.\n\nCraig, A. D. (2002).Nature Reviews Neuroscience, 3(8), 655–666.\n\nCritchley, H. D., Wiens, S., Rotshtein, P., Ohman, A., & Dolan, R. J. (2004).Nature Neuroscience, 7(2), 189–195.\n\nGarfinkel, S. N., Seth, A. K., Barrett, A. B., Suzuki, K., & Critchley, H. D. (2015).Biological Psychology, 104,65–74.\n\nMehling, W. E., et al. (2009).PLOS ONE, 4(5), e5614.\n\nMurphy, J., et al. (2020).Quarterly Journal of Experimental Psychology, 73(1), 115–133.\n\nPollatos, O., et al. (2007).International Journal of Psychophysiology, 63(1), 117–124.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 15,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/meditation.jpg",
+      "alt": "Momentary Awareness of Body Sensations Is Associated With Concurrent Affective Experience",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mindfulness-yogi-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-anxiety-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/ptsd-300x243.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/future-anxiety-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotion-wheel-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Momentary Awareness of Body Sensations Is Associated With Concurrent Affective Experience\n\n> News»Clinical Psychology\n\n## Giriş\n\nNews»Clinical Psychology\n\nMacVittie, A., Kochanowska, E., Kam, J. W. Y., Allen, L., Mills, C., & Wormwood, J. B. (2025). Momentary awareness of body sensations is associated with concurrent affective experience.Emotion, 25(3), 571–587.https://doi.org/10.1037/emo0001428\n\n## Key Takeaways\n\n- Focus:This study explores the relationship between momentary subjective body awareness and affective experience in daily life.\n\n- Aims:To investigate how fluctuations in subjective awareness of bodily sensations relate to momentary affective experiences and to differentiate these associations from established findings on interoceptive accuracy.\n\n- Findings:Participants consistently reported greater awareness of body sensations during moments of heightened affective arousal and more negatively valenced affect.\n\n- Implications:These findings highlight the importance of subjective bodily awareness in emotional experience, potentially informing therapeutic practices aimed at improving emotional regulation and awareness.\n\nA post shared by ClinPsy (@clinpsy)\n\n## Rationale\n\nCurrent theories of emotion emphasize thebody’s role in shaping emotional experience, proposing that affect represents the conscious awareness of internal bodily states (Barrett, 2017b; Craig, 2002).\n\nExisting research primarily focuses on interoceptive accuracy—the objective detection of bodily signals—and its link with emotional intensity and arousal (Critchley et al., 2004; Pollatos et al., 2007).\n\nHowever, subjective awareness, or interoceptive sensibility, remains underexplored despite its theoretical significance in emotion theories (Garfinkel et al., 2015; Suksasilp & Garfinkel, 2022).\n\nAddressing this gap, the present study uses ecological momentary assessment (EMA) to dynamically measure how subjective awareness of body sensations correlates with real-time affective states in natural settings.\n\nThis approach captures variability in both constructs within individuals, extending beyond the trait-focused laboratory studies dominant in prior research.\n\nNext steps include experimental manipulations of body awareness to examine causality and interventions enhancing interoceptive sensibility (Murphy et al., 2020).\n\n## Method\n\nEMAwas utilized over extended periods (Study 1: 4 weeks; Study 2: 7 days) with participants prompted randomly throughout the day to assess their current body awareness and affective states.\n\n## Procedure:\n\n- Initial survey for baseline demographics and trait body awareness.\n\n- Participants downloaded an EMA app and completed random daily prompts assessing momentary awareness of body sensations and affective experiences.\n\n- Text-based descriptions of current thoughts (Study 2) analyzed via natural language processing (NLP) to derive affective valence.\n\n## Sample:\n\n- Study 1: 109 adults (Mage=28.47, 45% female, 54.1% White).\n\n- Study 2: 116 adults (Mage=24.6, 43.1% female, 85.3% White).\n\n## Measures:\n\n- Body Awareness Questionnaire (BAQ): Self-report of general bodily awareness.\n\n- Body Vigilance Scale(Study 2): Attentional monitoring of body sensations.\n\n- EMA Measures: Momentary ratings of body sensations and affect (valence, arousal).\n\n## Statistical Measures:\n\nMixed-effects regression models assessed within-person associations between momentary body awareness and affective experiences.\n\n## Results\n\n- Hypothesis 1 (Body awareness correlates positively with arousal): Supported—momentary body awareness positively correlated with higher affective arousal.\n\n- Hypothesis 2 (Body awareness correlates negatively with valence): Supported—greater body awareness was associated with more negatively valenced affect.\n\n## Insight\n\nThis study highlights subjective body awareness as a dynamic emotional regulator, suggesting that greater awareness may be maladaptive in contexts of negative affect.\n\nIt challenges and extends previous research that primarily emphasized interoceptive accuracy (Critchley et al., 2004; Pollatos et al., 2007) by showing similar emotional associations with subjective bodily awareness.\n\nThis finding indicates that subjective perceptions of body sensations could significantly influence emotional wellbeing and responses.\n\nThe study underscores the importance of considering subjective interoceptive sensibility in understanding emotional experiences and developing therapeutic interventions.\n\nFuture research should examine how manipulative interventions targeting subjective awareness impact emotional regulation, potentially revealing strategies to enhance emotional resilience or reduce vulnerability to negative emotional states.\n\n## Clinical Implications\n\nPractitioners might develop interventions focusing on enhancing adaptive aspects of body awareness, reducing maladaptive vigilance, and improving emotional regulation strategies.\n\nFor example,mindfulness-based interventionsemphasizing non-judgmental attention to bodily sensations could be adapted to ensure they foster positive emotional outcomes without increasing anxiety or negative affect.\n\nPolicymakers and health providers might also incorporate awareness training into educational programs or mental health resources, carefully considering the context to avoid inadvertently enhancing distress associated with bodily sensations.\n\n## Strengths\n\n- Real-world assessment through EMA.\n\n- Inclusion of both self-report and text-based NLP affect measures.\n\n- Consideration of multiple body sensations.\n\n## Limitations\n\n- Correlational design limits causal conclusions.\n\n- Lack of physiological measures alongside subjective reports.\n\n- Homogenous participant sample limiting generalizability.\n\n## Socratic Questions\n\n- What alternative explanations might account for increased body awareness during negative affective states?\n\n- How might cultural differences influence the relationship between subjective body awareness and affective experience?\n\n- Can interventions aimed at increasing body awareness inadvertently increase negative emotional experiences?\n\n- How might subjective body awareness interact with physiological states to produce distinct affective outcomes?\n\n- In what ways might increasing body awareness benefit emotional regulation and wellbeing?\n\nMcLeod, S. (2025). Momentary Awareness of Body Sensations Is Associated With Concurrent Affective Experience. Simply Psychology. https://www.simplypsychology.org/news/momentary-awareness-of-body-sensations-is-associated-with-concurrent-affective-experience/\n\nMcLeod, Saul. \"Momentary Awareness of Body Sensations Is Associated With Concurrent Affective Experience.\" Simply Psychology, 24 April 2025, https://www.simplypsychology.org/news/momentary-awareness-of-body-sensations-is-associated-with-concurrent-affective-experience/.\n\nMcLeod, S. (2025) Momentary Awareness of Body Sensations Is Associated With Concurrent Affective Experience. Simply Psychology. Available at: https://www.simplypsychology.org/news/momentary-awareness-of-body-sensations-is-associated-with-concurrent-affective-experience/ (Accessed: 22 September 2026).\n\n## References\n\nMacVittie, A., Kochanowska, E., Kam, J. W. Y., Allen, L., Mills, C., & Wormwood, J. B. (2025). Momentary awareness of body sensations is associated with concurrent affective experience.Emotion, 25(3), 571–587.https://doi.org/10.1037/emo0001428\n\nBarrett, L. F. (2017b).How emotions are made: The secret life of the brain.Houghton Mifflin Harcourt.\n\nBarrett, L. F., & Simmons, W. K. (2015).Nature Reviews Neuroscience, 16(7), 419–429.\n\nCraig, A. D. (2002).Nature Reviews Neuroscience, 3(8), 655–666.\n\nCritchley, H. D., Wiens, S., Rotshtein, P., Ohman, A., & Dolan, R. J. (2004).Nature Neuroscience, 7(2), 189–195.\n\nGarfinkel, S. N., Seth, A. K., Barrett, A. B., Suzuki, K., & Critchley, H. D. (2015).Biological Psychology, 104,65–74.\n\nMehling, W. E., et al. (2009).PLOS ONE, 4(5), e5614.\n\nMurphy, J., et al. (2020).Quarterly Journal of Experimental Psychology, 73(1), 115–133.\n\nPollatos, O., et al. (2007).International Journal of Psychophysiology, 63(1), 117–124.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:31:11.317097"
+}

@@ -1,0 +1,157 @@
+{
+  "id": "confidence_interval_html_7c25f1be",
+  "original_title": "Confidence Intervals",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/confidence-interval.html",
+  "published_date": "2026-09-17T10:58:43+00:00",
+  "read_time_minutes": 13,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval.jpg",
+      "alt": "Confidence Intervals",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/confidence-interval.jpg",
+      "alt": "95% Confidence Interval Explained",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/NormalDist1.96.png",
+      "alt": "Why is Z 1.96 at 95 confidence?",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cohen-d-300x142.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bell-curve-300x250.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/type-1-and-2-errors-300x222.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-whisker-plot-300x165.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/ci-for-the-mean-formula.png",
+      "alt": "Confidence Interval Formula",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/confidence-interval2.gif",
+      "alt": "Confidence Intervals Presented Graphically as High-Low-Close Charts",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/apa-table.png",
+      "alt": "apa style table",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-1-1024x666.jpeg",
+      "alt": "Statistical significance in ab testing. Where the confidence interval is 95%, the p-value is 0.05",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2596,
+  "turkce_baslik": "Güven Aralığı Yanılgısı: İstatistiki Kesinlik mi, Belirsizlikle Yaşamak mı?",
+  "kanca_sorusu": "Elinizdeki tek bir verinin, aslında kocaman bir belirsizlik denizindeki küçük bir sandal olduğunu ne zaman fark edeceksiniz?",
+  "score": 45,
+  "puan_nedeni": "Metin tamamen istatistik bilimi, güven aralıkları ve akademik raporlama kuralları üzerine kuruludur. İnsan ilişkileri, bağlanma stilleri veya duygusal dinamikler barındırmadığı için klinik açıdan düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Akademik ve istatistiksel bir kavram olan güven aralığı, zihnimizin kesinlik arayışına çarpıcı bir ayna tutar. İnsan psikolojisi de tıpkı istatistik gibi belirsizlikle baş etmeye çalışır; tek bir gözleme dayanarak mutlak sonuçlara varmak isteriz. Oysa bilim bize her ölçümün bir aralık barındırdığını, hiçbir veri noktasının tek başına tüm gerçeği yansıtmadığını söyler. Günlük hayatta da insanları veya durumları etiketlerken tıpkı dar bir örneklem gibi davranırız. Kesinlik arzumuz, hayatın doğasındaki değişkenliği kabullenmemizi engeller.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Kesinlik Arayışı",
+      "body": "Zihnimiz belirsizliğe tahammül edemez ve her şeyde mutlak bir kesinlik arar.",
+      "highlight_box": "Tek bir veri, tüm gerçeği gizleyebilir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Güven Aralığı Nedir?",
+      "body": "İstatistikte güven aralığı, tek bir rakama hapsolmak yerine olasılıkların sınırlarını çizmektir.",
+      "highlight_box": "Hayat da kesinliklerden değil, aralıklardan oluşur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Örneklem Yanılgısı",
+      "body": "Küçük bir ipucundan yola çıkarak devasa genellemeler yapmak zihinsel bir kısa devredir.",
+      "highlight_box": "Tek bir olay, genel bir kural değildir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Yanlış Okumalar",
+      "body": "İstatistiksel veriler gibi insan davranışları da mutlak olasılıklar sunmaz, sadece eğilimleri gösterir.",
+      "highlight_box": "Her şey siyah ya da beyaz değildir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Belirsizlikle Yaşamak",
+      "body": "Her şeyi kontrol etme ve kesinleştirme çabasından vazgeçerek gri alanlara yer açın.",
+      "highlight_box": "Gerçek olgunluk, belirsizliğe tahammül edebilmektir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizin kurduğu keskin sınırları esnetin ve ihtimallere alan bırakın.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Hayatta her şeyin kesin olmasını beklemek, zihinsel bir yanılgıdır.",
+    "konusma_metni": "Bugün istatistikteki güven aralığından bahsedeceğiz ama aslında konu zihnimizin kesinlik ihtiyacı. İstatistik bize tek bir verinin tek başına hiçbir şey ifade etmediğini, arkasında bir aralık ve belirsizlik barındırdığını söyler. Tıpkı insan ilişkilerinde olduğu gibi. Bir tek davranışa bakıp mutlak bir anlam yüklediğinizde, aslında kendi belirsizlik kaygınızı yatıştırmaya çalışıyorsunuz."
+  },
+  "caption": "Kesinlik arzusu, insan zihninin en konforlu ama en yanıltıcı sığınaklarından biridir. İstatistikteki güven aralığı kavramı, bize tek bir veri noktasına takılıp kalmanın ötesini görmeyi öğretir. Hayatta da benzer şekilde, tek bir olaydan yola çıkarak mutlak sonuçlara varmak zihinsel bir kestirmedir. Gri alanlara tahammül etmek ve belirsizlikle kalabilmek olgunlaşmanın ta kendisidir. #psikoloji #zihinyönetimi #belirsizlik #bilişselfarkındalık #kararverme #yaşadapsikoloji",
+  "processed_at": "2026-09-26 15:45:09"
+}

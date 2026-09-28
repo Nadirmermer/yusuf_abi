@@ -1,0 +1,127 @@
+{
+  "id": "informed_consent_in_psychology_html_31291563",
+  "original_title": "Informed Consent in Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/informed-consent-in-psychology.html",
+  "published_date": "2026-09-17T11:30:59+00:00",
+  "read_time_minutes": 13,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/informed-consent.jpg",
+      "alt": "Informed Consent in Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/psychology-research-ethics-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Validity-Reliability-300x217.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/IPA.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confirmability-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Reflexivity-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-construction-reality-300x157.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2545,
+  "turkce_baslik": "Rızanın Görünmeyen Anatomisi: İlişkilerde ve Hayatta Sınır Koymak",
+  "kanca_sorusu": "Hayatınızda neye 'evet' derken aslında sessizce 'hayır' diyorsunuz?",
+  "score": 42,
+  "puan_nedeni": "Metin temel olarak psikolojik araştırmalarda bilgilendirilmiş onam (informed consent) gibi akademik ve metodolojik bir süreci ele almaktadır. Kuru akademik kurallar, insan ilişkilerindeki pratik dinamiklere doğrudan dokunmadığı için takipçilerde derin bir ayna etkisi yaratmakta zayıf kalmaktadır.",
+  "category": "Sınırlar & Özsaygı",
+  "editoryal_genis_metin": "Psikolojide ve araştırmalarda 'bilgilendirilmiş onam', bireyin neye rıza gösterdiğini tam olarak bilmesini, baskı altında olmamasını ve istediği an bu rızayı geri çekebilmesini şart koşar. Bu kavramı laboratuvar dışına taşıdığımızda, günlük ilişkilerimizin ne kadar tehlikeli bir rıza ihlalleri zinciri olduğunu fark ederiz. Çoğumuz, karşımızdaki insanın duygusal yükü altında ezilmemek için kendi sınırlarımızı ihlal etmesine rıza gösteririz. Oysa gerçek bir 'evet', ancak alternatif bir 'hayır' şansının var olduğu ve hiçbir örtülü baskının bulunmadığı durumlarda anlam kazanır. İlişkilerde kendi alanınızı koruyabilmek, her adımda neye rıza gösterdiğinizi ve bu rızanın hangi koşullar altında verildiğini net bir şekilde bilmekten geçer.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Rızanın Görünmeyen Anatomisi",
+      "body": "Bilimde etik bir kural olan bilgilendirilmiş onam, aslında insan ilişkilerinin en temel ve en çok ihlal edilen kuralıdır.",
+      "highlight_box": "Gerçek bir onay baskıdan uzaktır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Zoraki Kabul",
+      "body": "Karşınızdaki kişinin tepkisinden korktuğunuz için verdiğiniz her evet, kendi sınırlarınıza attığınız bir çiziktir.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Tam Bilgi Sahibi Olmamak",
+      "body": "İlişkilerde neye adım attığınızı bilmeden, sadece karşı tarafın beklentilerini karşılamak için rıza göstermek tükenmişlik yaratır.",
+      "highlight_box": "Gelecek riskleri göremediğiniz ilişkiler.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Geri Çekilememe Korkusu",
+      "body": "Bir duruma 'evet' dedikten sonra koşullar değiştiğinde dahi 'hayır' diyememek, sizi o durumun tutsağı haline getirir.",
+      "highlight_box": "Vazgeçmek her zaman sizin hakkınızdır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Sınır Koyma ve Onam",
+      "body": "Kendi hayatınızın protokollerini yazın. Neyi kabul edip neyi reddettiğinizi net bir şekilde bilmek ve karşı tarafa bildirmek sizin sorumluluğunuzdur.",
+      "highlight_box": "Unutmayın: Bu bir süreçtir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Hiçbir ilişki, kendi sınırlarınızdan ve öz saygınızdan daha değerli değildir. Rızanız sizin en güvenli kalenizdir.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "İlişkilerde en büyük ihlal, aslında hayır demek isterken kurduğunuz o zoraki evet cümleleridir.",
+    "konusma_metni": "Bugün laboratuvarlarda kullanılan etik kurallardan biri olan bilgilendirilmiş onam kavramını konuşacağız. Bilimsel araştırmalarda bir kişinin rızası alınmadan veri toplanamaz, baskı yapılamaz ve riskler gizlenemez. Peki kendi hayatınızda durum ne? Her gün sınırlarınızın ihlal edilmesine izin verirken, aslında kime ve neye rıza gösteriyorsunuz? Gerçek bir evet, ancak hayır diyebilme özgürlüğünüz olduğunda gerçektir. Kendi hayatınızın etik sınırlarını çizmeyi ne zaman öğreneceksiniz?"
+  },
+  "caption": "Bilimsel araştırmalarda etik kuralların en temel taşı olan bilgilendirilmiş onam, aslında insan ilişkilerindeki sınır yönetiminin de temelini oluşturur. Bir bireyin araştırmaya katılırken sahip olduğu haklar, günlük hayatta da kendi sınırlarını koruması için birer rehberdir. Baskı altında verilen evetlerin, gizlenen risklerin ve geri çekilme hakkının elden alınmasının ruhsal dünyamızda yarattığı tahribatı göz ardı edemeyiz. Kendi hayatınızın başrolünde kalabilmek ve rızanızı bilinçli verebilmek için bu analizi dikkatle inceleyin. #psikoloji #sınırlar #özsaygı #ilişkiler #kişiselgelişimdegilbilim #ya_da_psikoloji #etik",
+  "processed_at": "2026-09-26 15:44:08"
+}

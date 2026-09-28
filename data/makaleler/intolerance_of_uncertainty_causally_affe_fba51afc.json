@@ -1,0 +1,163 @@
+{
+  "id": "intolerance_of_uncertainty_causally_affe_fba51afc",
+  "url": "https://www.simplypsychology.org/intolerance-of-uncertainty-causally-affects-indecisiveness.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Intolerance of uncertainty causally affects indecisiveness",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2025-03-13T15:57:37+00:00",
+  "date_modified": null,
+  "read_time_minutes": 6,
+  "word_count": 1150,
+  "summary": "News»Clinical Psychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "News»Clinical Psychology\n\nIntolerance of Uncertainty(IU) is a tendency to react negatively to uncertain situations, leading to anxiety, stress, and avoidance behaviors.\n\nHigh IU is linked to mental health disorders, includinganxiety, depression, andOCD, as it amplifies perceived threats, impairs decision-making, and reinforces maladaptive coping strategies.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Points",
+      "content": "- Intolerance of Uncertainty (IU) causally affects indecisiveness—this is the first experimental study demonstrating this relationship.\n\n- Increasing IU leads to greater indecisivenessin personally relevant decisions, while decreasing IU reduces indecisiveness.\n\n- Situational IU mediates the effect of IU on indecisiveness, confirming the psychological mechanism behind the relationship.\n\n- Indecisiveness is linked to various mental disorderssuch as anxiety, depression, and obsessive-compulsive disorder.\n\n- Targeting IU in therapeutic interventionscould improve decision-making difficulties in both clinical and non-clinical populations.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Rationale",
+      "content": "Indecisiveness is a persistent difficulty in making decisions and is associated with anxiety, depression, and obsessive-compulsive disorder.\n\nIU is a key transdiagnostic factor in mental disorders, leading to negative emotional responses to uncertainty.\n\nResearch suggests that IU increases avoidance behavior and impairs decision-making. However, a direct causal link between IU and indecisiveness had not been established.\n\nThis study addresses this gap by experimentally manipulating IU and measuring its impact on decision-making.\n\nGiven that IU can be modified through cognitive-behavioral interventions, understanding its role in indecisiveness is crucial for improving therapeutic approaches.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Method",
+      "content": "Arandomized controlled experimentwas conducted with 301 participants. IU was manipulated by having participants read a fictional case and provide advice designed to either increase or decrease IU.\n\nIndecisiveness was assessed through personal and lottery-based decision-making tasks.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Procedure",
+      "content": "Participants completed demographic questionnaires.\n\n- They were randomly assigned to one of three groups:Increase IU, Decrease IU, or Control.\n\n- They read a fictional scenario and provided advice (manipulating IU).\n\n- IU levels were measured immediately after the manipulation.\n\n- Participants described a personal unresolved decision and rated their indecisiveness.\n\n- They then completed a lottery decision task with controlled probabilities and stakes.\n\n- Indecisiveness and perceptions of the decisions were measured.\n\n- Participants were debriefed and compensated.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Sample",
+      "content": "- N = 301(Increase IU: 101, Decrease IU: 101, Control: 99).\n\n- Mean age:31.3 years (SD = 10.9).\n\n- Gender:54.5% female, 43.9% male, 1.3% diverse, 0.3% not specified.\n\n- Education:91.0% had a university degree or were eligible for university.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Measures",
+      "content": "- IU Manipulation: Participants read about a fictional woman struggling with uncertainty and provided advice.\n\n- IU Assessment: Three items from the Intolerance of Uncertainty Scale (Freeston et al., 1994).\n\n- Indecisiveness Measurement: Adapted 11-item Indecisiveness Scale (Frost & Shows, 1993) applied to personal and lottery decisions.\n\n- Lottery Decision Task: Participants chose between four lotteries with equal expected values but varying probabilities and rewards.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Statistical Measures",
+      "content": "- One-way ANOVA tested the IU manipulation effect.\n\n- MANOVA tested the effect of IU manipulation on indecisiveness.\n\n- Mediation analysis examined whether situational IU explained the relationship between experimental manipulation and indecisiveness.\n\n- Sensitivity analyses tested robustness by excluding outliers and non-compliant participants.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Results",
+      "content": "- Hypothesis 1 (H1):Increased IU led to greater indecisiveness than decreased IU (supported).\n\n- Hypothesis 2 (H2):Increased IU led to greater indecisiveness than the control condition (not supported).\n\n- Hypothesis 3 (H3):Decreased IU led to lower indecisiveness than the control condition (supported).\n\n- Mediation Analysis:Situational IU mediated the effect of the manipulation on indecisiveness.\n\n- Lottery Task vs. Personal Decisions:The IU effect was stronger in the lottery decision task, likely due to the structured nature of the choices.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Insight",
+      "content": "This study is the first to experimentally establish IU as a causal factor in indecisiveness. It extends previous research by showing that IU influences not just general decision-making tendencies but also situational indecisiveness.\n\nThe findings highlight the importance of uncertainty tolerance in therapeutic approaches, suggesting that reducing IU can help individuals struggling with decision paralysis.\n\nFuture research should explore long-term interventions and their impact on decision-making in clinical populations.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Implications",
+      "content": "- For Clinicians:IU-targeted interventions (e.g., cognitive-behavioral strategies) could help individuals struggling with indecisiveness in anxiety and mood disorders.\n\n- For Policymakers:Training programs aimed at improving decision-making under uncertainty could be beneficial in education, business, and healthcare settings.\n\n- For Research:Future studies should examine the impact of IU interventions in clinical populations and explore how reducing IU affects decision-making in high-stakes environments.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Strengths",
+      "content": "This study has several methodological strengths, including:\n\n- Causal evidence:Experimental manipulation provides strong support for IU’s role in indecisiveness.\n\n- Ecological validity:Used real-life decision-making scenarios.\n\n- Robust methodology:Pre-registered hypotheses, large sample, and sensitivity analyses.\n\n- Innovative mediation analysis:Confirms situational IU as the key explanatory variable.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Limitations",
+      "content": "This study also had several limitations, including:\n\n- Sample limitations:Highly educated participants; findings may not generalize to diverse populations.\n\n- Short-term intervention:The IU manipulation was temporary; long-term effects are unknown.\n\n- No clinical sample:The study did not specifically target individuals with high IU or clinical indecisiveness.\n\n- Task variability:Personal decisions varied widely, introducing possible noise in the data.",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "Socratic Questions",
+      "content": "- Could alternative explanations account for the observed relationship between IU and indecisiveness?\n\n- How might cultural differences influence the role of IU in decision-making?\n\n- Would a longer-term intervention to reduce IU lead to sustained improvements in decision-making?\n\n- Could IU reduction strategies be applied to high-stakes decision-making (e.g., medicine, finance)?\n\n- How do different types of uncertainty (e.g., social vs. financial) impact indecisiveness?\n\n- If IU is a transdiagnostic factor, should treatments be generalized across disorders or tailored to specific conditions?\n\n- Are there contexts in which a high IU might be beneficial rather than detrimental?\n\n- How does IU interact with other personality traits, such as risk aversion or perfectionism, in decision-making?\n\n- Would different methods of IU manipulation (e.g., real-life exposure vs. fictional scenarios) yield stronger effects?\n\n- Can interventions targeting IU be incorporated into educational systems to enhance decision-making skills in students?\n\nGuy-Evans, O. (2025). Intolerance of uncertainty causally affects indecisiveness. Simply Psychology. https://www.simplypsychology.org/news/intolerance-of-uncertainty-causally-affects-indecisiveness/\n\nGuy-Evans, Olivia. \"Intolerance of uncertainty causally affects indecisiveness.\" Simply Psychology, 13 March 2025, https://www.simplypsychology.org/news/intolerance-of-uncertainty-causally-affects-indecisiveness/.\n\nGuy-Evans, O. (2025) Intolerance of uncertainty causally affects indecisiveness. Simply Psychology. Available at: https://www.simplypsychology.org/news/intolerance-of-uncertainty-causally-affects-indecisiveness/ (Accessed: 22 September 2026).\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.",
+      "order": 14,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/indecisive.jpg",
+      "alt": "Intolerance of uncertainty causally affects indecisiveness",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/future-anxiety-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/disclosing-diagnosis-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-anxiety-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/ptsd-300x129.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mindfulness-yogi-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-media-harm-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Intolerance of uncertainty causally affects indecisiveness\n\n> News»Clinical Psychology\n\n## Giriş\n\nNews»Clinical Psychology\n\nIntolerance of Uncertainty(IU) is a tendency to react negatively to uncertain situations, leading to anxiety, stress, and avoidance behaviors.\n\nHigh IU is linked to mental health disorders, includinganxiety, depression, andOCD, as it amplifies perceived threats, impairs decision-making, and reinforces maladaptive coping strategies.\n\n## Key Points\n\n- Intolerance of Uncertainty (IU) causally affects indecisiveness—this is the first experimental study demonstrating this relationship.\n\n- Increasing IU leads to greater indecisivenessin personally relevant decisions, while decreasing IU reduces indecisiveness.\n\n- Situational IU mediates the effect of IU on indecisiveness, confirming the psychological mechanism behind the relationship.\n\n- Indecisiveness is linked to various mental disorderssuch as anxiety, depression, and obsessive-compulsive disorder.\n\n- Targeting IU in therapeutic interventionscould improve decision-making difficulties in both clinical and non-clinical populations.\n\n## Rationale\n\nIndecisiveness is a persistent difficulty in making decisions and is associated with anxiety, depression, and obsessive-compulsive disorder.\n\nIU is a key transdiagnostic factor in mental disorders, leading to negative emotional responses to uncertainty.\n\nResearch suggests that IU increases avoidance behavior and impairs decision-making. However, a direct causal link between IU and indecisiveness had not been established.\n\nThis study addresses this gap by experimentally manipulating IU and measuring its impact on decision-making.\n\nGiven that IU can be modified through cognitive-behavioral interventions, understanding its role in indecisiveness is crucial for improving therapeutic approaches.\n\n## Method\n\nArandomized controlled experimentwas conducted with 301 participants. IU was manipulated by having participants read a fictional case and provide advice designed to either increase or decrease IU.\n\nIndecisiveness was assessed through personal and lottery-based decision-making tasks.\n\n## Procedure\n\nParticipants completed demographic questionnaires.\n\n- They were randomly assigned to one of three groups:Increase IU, Decrease IU, or Control.\n\n- They read a fictional scenario and provided advice (manipulating IU).\n\n- IU levels were measured immediately after the manipulation.\n\n- Participants described a personal unresolved decision and rated their indecisiveness.\n\n- They then completed a lottery decision task with controlled probabilities and stakes.\n\n- Indecisiveness and perceptions of the decisions were measured.\n\n- Participants were debriefed and compensated.\n\n## Sample\n\n- N = 301(Increase IU: 101, Decrease IU: 101, Control: 99).\n\n- Mean age:31.3 years (SD = 10.9).\n\n- Gender:54.5% female, 43.9% male, 1.3% diverse, 0.3% not specified.\n\n- Education:91.0% had a university degree or were eligible for university.\n\n## Measures\n\n- IU Manipulation: Participants read about a fictional woman struggling with uncertainty and provided advice.\n\n- IU Assessment: Three items from the Intolerance of Uncertainty Scale (Freeston et al., 1994).\n\n- Indecisiveness Measurement: Adapted 11-item Indecisiveness Scale (Frost & Shows, 1993) applied to personal and lottery decisions.\n\n- Lottery Decision Task: Participants chose between four lotteries with equal expected values but varying probabilities and rewards.\n\n## Statistical Measures\n\n- One-way ANOVA tested the IU manipulation effect.\n\n- MANOVA tested the effect of IU manipulation on indecisiveness.\n\n- Mediation analysis examined whether situational IU explained the relationship between experimental manipulation and indecisiveness.\n\n- Sensitivity analyses tested robustness by excluding outliers and non-compliant participants.\n\n## Results\n\n- Hypothesis 1 (H1):Increased IU led to greater indecisiveness than decreased IU (supported).\n\n- Hypothesis 2 (H2):Increased IU led to greater indecisiveness than the control condition (not supported).\n\n- Hypothesis 3 (H3):Decreased IU led to lower indecisiveness than the control condition (supported).\n\n- Mediation Analysis:Situational IU mediated the effect of the manipulation on indecisiveness.\n\n- Lottery Task vs. Personal Decisions:The IU effect was stronger in the lottery decision task, likely due to the structured nature of the choices.\n\n## Insight\n\nThis study is the first to experimentally establish IU as a causal factor in indecisiveness. It extends previous research by showing that IU influences not just general decision-making tendencies but also situational indecisiveness.\n\nThe findings highlight the importance of uncertainty tolerance in therapeutic approaches, suggesting that reducing IU can help individuals struggling with decision paralysis.\n\nFuture research should explore long-term interventions and their impact on decision-making in clinical populations.\n\n## Implications\n\n- For Clinicians:IU-targeted interventions (e.g., cognitive-behavioral strategies) could help individuals struggling with indecisiveness in anxiety and mood disorders.\n\n- For Policymakers:Training programs aimed at improving decision-making under uncertainty could be beneficial in education, business, and healthcare settings.\n\n- For Research:Future studies should examine the impact of IU interventions in clinical populations and explore how reducing IU affects decision-making in high-stakes environments.\n\n## Strengths\n\nThis study has several methodological strengths, including:\n\n- Causal evidence:Experimental manipulation provides strong support for IU’s role in indecisiveness.\n\n- Ecological validity:Used real-life decision-making scenarios.\n\n- Robust methodology:Pre-registered hypotheses, large sample, and sensitivity analyses.\n\n- Innovative mediation analysis:Confirms situational IU as the key explanatory variable.\n\n## Limitations\n\nThis study also had several limitations, including:\n\n- Sample limitations:Highly educated participants; findings may not generalize to diverse populations.\n\n- Short-term intervention:The IU manipulation was temporary; long-term effects are unknown.\n\n- No clinical sample:The study did not specifically target individuals with high IU or clinical indecisiveness.\n\n- Task variability:Personal decisions varied widely, introducing possible noise in the data.\n\n## Socratic Questions\n\n- Could alternative explanations account for the observed relationship between IU and indecisiveness?\n\n- How might cultural differences influence the role of IU in decision-making?\n\n- Would a longer-term intervention to reduce IU lead to sustained improvements in decision-making?\n\n- Could IU reduction strategies be applied to high-stakes decision-making (e.g., medicine, finance)?\n\n- How do different types of uncertainty (e.g., social vs. financial) impact indecisiveness?\n\n- If IU is a transdiagnostic factor, should treatments be generalized across disorders or tailored to specific conditions?\n\n- Are there contexts in which a high IU might be beneficial rather than detrimental?\n\n- How does IU interact with other personality traits, such as risk aversion or perfectionism, in decision-making?\n\n- Would different methods of IU manipulation (e.g., real-life exposure vs. fictional scenarios) yield stronger effects?\n\n- Can interventions targeting IU be incorporated into educational systems to enhance decision-making skills in students?\n\nGuy-Evans, O. (2025). Intolerance of uncertainty causally affects indecisiveness. Simply Psychology. https://www.simplypsychology.org/news/intolerance-of-uncertainty-causally-affects-indecisiveness/\n\nGuy-Evans, Olivia. \"Intolerance of uncertainty causally affects indecisiveness.\" Simply Psychology, 13 March 2025, https://www.simplypsychology.org/news/intolerance-of-uncertainty-causally-affects-indecisiveness/.\n\nGuy-Evans, O. (2025) Intolerance of uncertainty causally affects indecisiveness. Simply Psychology. Available at: https://www.simplypsychology.org/news/intolerance-of-uncertainty-causally-affects-indecisiveness/ (Accessed: 22 September 2026).\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:32:09.689752"
+}

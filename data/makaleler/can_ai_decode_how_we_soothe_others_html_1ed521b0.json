@@ -1,0 +1,123 @@
+{
+  "id": "can_ai_decode_how_we_soothe_others_html_1ed521b0",
+  "url": "https://www.simplypsychology.org/can-ai-decode-how-we-soothe-others.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Can AI Decode How We Soothe Others?",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2025-10-02T09:32:44+00:00",
+  "date_modified": null,
+  "read_time_minutes": 4,
+  "word_count": 775,
+  "summary": "News»Clinical Psychology",
+  "topics": [],
+  "key_points": [
+    "The Cracks in the System"
+  ],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "News»Clinical Psychology\n\nImagine your friend is stressed about an exam. Do you crack a joke to lighten the mood, reassure them it will be fine, or distract them with a walk?\n\nWe make these choices constantly, often without thinking.\n\nPsychologists call thisinterpersonal emotion regulation– the ways we try to change how others feel.\n\nStudying these subtle acts is tricky, especially when relying on surveys that may miss the richness of real interactions.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Points",
+      "content": "- Researchers tested whether AI models (ChatGPT, Claude) can identify how people try to comfort or calm others from short personal stories.\n\n- With carefully designed instructions, AI matched human coders in spotting emotion regulation strategies about 80–90% of the time.\n\n- Some strategies, like humor or distraction, were harder for AI to detect consistently.\n\n- Findings highlight both the promise and limits of using AI in psychology and digital mental health tools.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Turning Narratives Into Data",
+      "content": "Instead ofcheckboxes, researchers asked students to write how they would help someone manage sadness, anger, or fear.\n\nThese open-ended stories better capture real behavior but are labor-intensive to analyze.\n\nNormally, psychologists spend hours combing through such material,labeling strategieslike:\n\n- Affective engagement(listening, showing empathy)\n\n- Cognitive engagement(helping reframe the problem)\n\n- Attention(spending time together)\n\n- Distraction(pulling focus away)\n\n- Humor(making them laugh)\n\nThis is slow, subjective work. Enter large language models.\n\nCould AI read these short stories and classify the strategies as well as human experts?",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Teaching ChatGPT the Rules",
+      "content": "In the first study, researchers gave ChatGPT thousands of these narratives.\n\nAt first, its accuracy was shaky.\n\nIt sometimes mistook casual talk for deep empathy, or confused “cheering someone up” with “changing the subject.”\n\nBut when scientists refined the instructions – offering clearer definitions, sharper contrasts between categories, and bite-sized batches of stories – ChatGPT improved dramatically.\n\nAgreement with human coders rose above 90% in some cases.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Study 2: Putting AI to the Test Again",
+      "content": "To see if this success generalized, the team used the refined prompts on a fresh set of 2,090 stories, comparing ChatGPT and Claude.\n\nBoth models performed impressively, with accuracy levels similar to Study 1.\n\nThey were especially strong at spotting strategies in anger and sadness scenarios, but less reliable for fear-related situations and subtle distinctions between humor and supportive talk.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "The Cracks in the System",
+      "content": "The machines still stumbled. Fear scenarios were trickier than sadness or anger.\n\nHumor, being subtle and context-heavy, often slipped through the cracks.\n\nAnd when narratives grew longer, AI sometimes “over-read” them – seeing strategies that weren’t really there.\n\nMost importantly, the process required a human in the loop.\n\nWithout careful oversight and prompt engineering, AI’s classifications drifted into error.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Why It Matters",
+      "content": "This research shows that with the right guidance, AI can help psychologists sift through thousands of rich,narrative-based responses– work that would otherwise take human coders weeks.\n\nThat could accelerate studies of how people support each other, and even inform digital mental health tools that offer real-time feedback on communication strategies.\n\nStill, the models aren’t perfect.\n\nThey sometimes over-interpret friendly conversation as “deep emotional support,” or miss nuances in fearful contexts.\n\nFor now, AI is best seen as a partner to human judgment, not a replacement.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Reference",
+      "content": "López-Pérez, B., Chen, Y., Li, X., Cheng, S., & Razavi, P. (2025). Exploring the potential of large language models to understand interpersonal emotion regulation strategies from narratives.Emotion, 25(7), 1653–1667.https://doi.org/10.1037/emo0001528\n\nSupplemental Material\n\nMcLeod, S. (2025). Can AI Decode How We Soothe Others?. Simply Psychology. https://www.simplypsychology.org/news/can-ai-decode-how-we-soothe-others/\n\nMcLeod, Saul. \"Can AI Decode How We Soothe Others?.\" Simply Psychology, 2 October 2025, https://www.simplypsychology.org/news/can-ai-decode-how-we-soothe-others/.\n\nMcLeod, S. (2025) Can AI Decode How We Soothe Others?. Simply Psychology. Available at: https://www.simplypsychology.org/news/can-ai-decode-how-we-soothe-others/ (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 8,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/AI.jpg",
+      "alt": "Can AI Decode How We Soothe Others?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/AI-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adult-friendships-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotion-wheel-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/interpersonal-emotion-regulation-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mindfulness-yogi-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Can AI Decode How We Soothe Others?\n\n> News»Clinical Psychology\n\n### Önemli Noktalar / Metotlar\n- The Cracks in the System\n\n## Giriş\n\nNews»Clinical Psychology\n\nImagine your friend is stressed about an exam. Do you crack a joke to lighten the mood, reassure them it will be fine, or distract them with a walk?\n\nWe make these choices constantly, often without thinking.\n\nPsychologists call thisinterpersonal emotion regulation– the ways we try to change how others feel.\n\nStudying these subtle acts is tricky, especially when relying on surveys that may miss the richness of real interactions.\n\n## Key Points\n\n- Researchers tested whether AI models (ChatGPT, Claude) can identify how people try to comfort or calm others from short personal stories.\n\n- With carefully designed instructions, AI matched human coders in spotting emotion regulation strategies about 80–90% of the time.\n\n- Some strategies, like humor or distraction, were harder for AI to detect consistently.\n\n- Findings highlight both the promise and limits of using AI in psychology and digital mental health tools.\n\n## Turning Narratives Into Data\n\nInstead ofcheckboxes, researchers asked students to write how they would help someone manage sadness, anger, or fear.\n\nThese open-ended stories better capture real behavior but are labor-intensive to analyze.\n\nNormally, psychologists spend hours combing through such material,labeling strategieslike:\n\n- Affective engagement(listening, showing empathy)\n\n- Cognitive engagement(helping reframe the problem)\n\n- Attention(spending time together)\n\n- Distraction(pulling focus away)\n\n- Humor(making them laugh)\n\nThis is slow, subjective work. Enter large language models.\n\nCould AI read these short stories and classify the strategies as well as human experts?\n\n## Teaching ChatGPT the Rules\n\nIn the first study, researchers gave ChatGPT thousands of these narratives.\n\nAt first, its accuracy was shaky.\n\nIt sometimes mistook casual talk for deep empathy, or confused “cheering someone up” with “changing the subject.”\n\nBut when scientists refined the instructions – offering clearer definitions, sharper contrasts between categories, and bite-sized batches of stories – ChatGPT improved dramatically.\n\nAgreement with human coders rose above 90% in some cases.\n\n## Study 2: Putting AI to the Test Again\n\nTo see if this success generalized, the team used the refined prompts on a fresh set of 2,090 stories, comparing ChatGPT and Claude.\n\nBoth models performed impressively, with accuracy levels similar to Study 1.\n\nThey were especially strong at spotting strategies in anger and sadness scenarios, but less reliable for fear-related situations and subtle distinctions between humor and supportive talk.\n\n## The Cracks in the System\n\nThe machines still stumbled. Fear scenarios were trickier than sadness or anger.\n\nHumor, being subtle and context-heavy, often slipped through the cracks.\n\nAnd when narratives grew longer, AI sometimes “over-read” them – seeing strategies that weren’t really there.\n\nMost importantly, the process required a human in the loop.\n\nWithout careful oversight and prompt engineering, AI’s classifications drifted into error.\n\n## Why It Matters\n\nThis research shows that with the right guidance, AI can help psychologists sift through thousands of rich,narrative-based responses– work that would otherwise take human coders weeks.\n\nThat could accelerate studies of how people support each other, and even inform digital mental health tools that offer real-time feedback on communication strategies.\n\nStill, the models aren’t perfect.\n\nThey sometimes over-interpret friendly conversation as “deep emotional support,” or miss nuances in fearful contexts.\n\nFor now, AI is best seen as a partner to human judgment, not a replacement.\n\n## Reference\n\nLópez-Pérez, B., Chen, Y., Li, X., Cheng, S., & Razavi, P. (2025). Exploring the potential of large language models to understand interpersonal emotion regulation strategies from narratives.Emotion, 25(7), 1653–1667.https://doi.org/10.1037/emo0001528\n\nSupplemental Material\n\nMcLeod, S. (2025). Can AI Decode How We Soothe Others?. Simply Psychology. https://www.simplypsychology.org/news/can-ai-decode-how-we-soothe-others/\n\nMcLeod, Saul. \"Can AI Decode How We Soothe Others?.\" Simply Psychology, 2 October 2025, https://www.simplypsychology.org/news/can-ai-decode-how-we-soothe-others/.\n\nMcLeod, S. (2025) Can AI Decode How We Soothe Others?. Simply Psychology. Available at: https://www.simplypsychology.org/news/can-ai-decode-how-we-soothe-others/ (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:24:24.220743"
+}

@@ -1,0 +1,181 @@
+{
+  "id": "fidgeting_in_adhd_analysis_html_1dc483bd",
+  "url": "https://www.simplypsychology.org/fidgeting-in-adhd-analysis.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Fidgeting In ADHD And Its Relation To Performance And Sustained Attention On A Cognitive Task",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2024-08-16T12:53:45+00:00",
+  "date_modified": null,
+  "read_time_minutes": 10,
+  "word_count": 2042,
+  "summary": "News»Clinical Psychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "News»Clinical Psychology\n\nIndividuals with ADHD often exhibit fidgeting behaviors, such as tapping feet, drumming fingers, or shifting in their seats.\n\nThese movements are thought to be a self-regulatory mechanism that helps maintain arousal and attention, especially during cognitively demanding tasks. Fidgeting may serve as a compensatory strategy to enhance focus and performance.\n\nStudying this phenomenon is crucial because it can lead to better understanding ofADHD symptoms, improved interventions, and more accommodating environments for individuals with ADHD.\n\nFurthermore, insights into the relationship between movement and cognition could have broader implications for learning, attention, and performance optimization in various settings.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Points",
+      "content": "- Fidgeting in adults with ADHD may serve as a compensatory mechanism to aid sustained attention during cognitively demanding tasks.\n\n- Participants exhibited more frequent, variable, and intense fidgeting during correct trials compared to incorrect trials on a Flanker task.\n\n- Increased fidgeting was observed in later trials, particularly among participants with lower reaction time variability, suggesting fidgeting may help maintain arousal and attention over time.\n\n- Newly defined fidget variables (Number of Fidgets, Fidget Variability, Fidget Intensity) showed significant correlations with ADHD symptom rating scales.\n\n- The study provides quantitative evidence supporting the theory that fidgeting varies under different conditions and may be a self-regulating mechanism for attention and alertness.\n\n- While informative, the study has limitations such as gender imbalance and potential confounds from the use of a fidget ball in some participants.\n\n- Understanding fidgeting behaviors in ADHD has important implications for accommodations and interventions in work and educational settings.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Rationale",
+      "content": "Attention-Deficit/Hyperactivity Disorder (ADHD) is a neurodevelopmental disorder characterized by inattention, hyperactivity, and impulsivity (American Psychiatric Association, 2022).\n\nIn adults with ADHD, hyperactivity often manifests as fidgeting – repetitive, non-goal-directed movements.\n\nWhile early theories suggested fidgeting was a ubiquitous trait unaffected by environmental factors (Porrino, 1983; Teicher et al., 1996), more recent research proposes that fidgeting varies under different conditions and may serve as a self-regulating mechanism for attention and alertness (Zentall & Meyer, 1987; Zentall & Zentall, 1976).\n\nPrevious studies have observed increased fidgeting in children with ADHD during cognitively demanding tasks (Dekkers et al., 2020; Hartanto et al., 2015).\n\nHowever, there is a lack of standardized variables to quantify fidgeting, leading to discrepancies in data interpretation across studies. Additionally, little is known about fidgeting in adults with ADHD compared to youth.\n\nThis study aims to address these gaps by designing a framework to quantify meaningful fidgeting variables and applying them to test the relationship between fidgeting and performance on a cognitive task (the Flanker) in adults with ADHD.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Method",
+      "content": "The study employed a quantitative analysis of fidgeting behaviors in adults with ADHD during a cognitive task, using actigraphy devices to measure movement.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Procedure",
+      "content": "Participants completed a Flanker task while wearing actigraphy devices on their left wrist and right ankle.\n\nThe Flanker task consisted of 120 trials (40 each of congruent, incongruent, and neutral conditions). Participants responded to the direction of a central arrow using a button box.\n\nActigraphy data were synchronized with task events for trial-by-trial analysis.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Sample",
+      "content": "The study included 70 adult participants (36% male) aged 18-50 years (mean age 30.5 years), all diagnosed with ADHD.\n\nParticipants were recruited through social media, local clinics, and research registries.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Measures",
+      "content": "- Flanker Task:Measures response inhibition and attention.\n\n- Actigraphy:Measures movement during the task.\n\n- Barkley Adult ADHD Rating Scale-IV (BAARS-IV):Assesses ADHD symptoms.\n\n- Barkley Deficits in Executive Functioning Scale (BDEFS):Measuresexecutive functioning deficits.\n\n- Affective Reactivity Index (ARI):Measures irritability.\n\n- Stroop Color and Word Test:Assesses response inhibition.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Statistical measures",
+      "content": "The study used t-tests to compare fidgeting variables between correct and incorrect trials, and between early (Q1) and late (Q4) trials.\n\nLinear regression models were used to assess correlations between fidget variables and ADHD symptom rating scales. The ex-Gaussian distribution was used to analyze reaction time data.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Results",
+      "content": "Hypothesis 1:Fidgeting will be more pronounced during correct trials compared to incorrect trials.\n\nResult:Confirmed. Significant increases in all fidget variables (Number of Fidgets, Fidget Variability, Fidget Intensity) were observed during correct trials (p < 0.05).\n\nHypothesis 2:Fidgeting will increase over time as the task progresses.\n\nResult:Partially confirmed. Significant increases in Number of Fidgets and Fidget Variability were observed in Q4 compared to Q1 (p < 0.05), but not for Fidget Intensity.\n\nHypothesis 3:Participants with lower reaction time variability will show increased fidgeting in later trials.\n\nResult:Confirmed. Participants with low reaction time variability (low Sigma and Tau) showed significant increases in Number of Fidgets in Q4 compared to Q1 (p < 0.05).\n\nHypothesis 4:Fidget variables will correlate with ADHD symptom severity as measured by rating scales.\n\nResult:Confirmed. Fidget variables showed moderate correlations with BAARS-IV, BDEFS, and ARI scores (R values ranging from 0.37 to 0.52, p < 0.01).",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Insight",
+      "content": "This study provides quantitative evidence supporting the theory that fidgeting in adults with ADHD may serve as a compensatory mechanism to aid sustained attention during cognitively demanding tasks.\n\nThe observation of increased fidgeting during correct trials and among participants with lower reaction time variability suggests that fidgeting may help maintain arousal and improve task performance.\n\nThe study extends previous research by focusing on adults with ADHD and developing standardized variables to quantify fidgeting.\n\nThe newly defined fidget variables (Number of Fidgets, Fidget Variability, Fidget Intensity) showed significant correlations with ADHD symptom rating scales, validating their relevance to ADHD symptomatology.\n\nFuture research could explore the impact of different types of fidgeting (e.g., leg bouncing vs. finger tapping) on cognitive performance, or investigate the effectiveness of fidget-friendly interventions in work or educational settings for adults with ADHD.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Strengths",
+      "content": "This study had several methodological strengths, including:\n\n- Development of standardized, quantifiable fidget variables.\n\n- Focus on adult ADHD population, addressing a gap in the literature.\n\n- Use of objective actigraphy measures combined with standardized cognitive tasks.\n\n- Comprehensive analysis of fidgeting in relation to task performance, reaction time, and ADHD symptom scales.\n\n- Public sharing of analysis algorithms to promote reproducibility and further research.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Limitations",
+      "content": "This study also had several limitations, including:\n\n- Gender imbalance in the sample (only 36% male).\n\n- Potential confounding effect of fidget ball use in 70% of participants.\n\n- Lack of a non-ADHD control group for comparison.\n\n- Limited generalizability due to the controlled laboratory setting.\n\n- Inability to differentiate between different types of fidgeting movements.\n\nThese limitations may affect the generalizability of the results and the ability to draw causal conclusions about the relationship between fidgeting and cognitive performance in ADHD.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Implications",
+      "content": "The findings of this study have significant implications for understanding and managing ADHD in adults.\n\nIf fidgeting indeed serves as a compensatory mechanism for sustained attention, it may be counterproductive to discourage adults with ADHD from fidgeting during cognitively demanding tasks.\n\nInstead, providing accommodations that allow for non-disruptive fidgeting in work or educational settings could potentially improve performance and attention in adults with ADHD.\n\nThe development of standardized fidget variables could lead to more consistent and comparable research in the field of ADHD and movement.\n\nThis could facilitate better assessment and monitoring of ADHD symptoms, potentially leading to improved diagnosis andtreatment strategies.\n\nThe observed relationship between fidgeting and reaction time variability suggests that fidgeting behaviors might be an observable indicator of attention regulation.\n\nThis could have implications for real-time monitoring of attention in various settings, potentially leading to the development of adaptive interventions or support systems for individuals with ADHD.\n\nHowever, it’s important to note that individual differences in ADHD presentation and the specific nature of fidgeting behaviors may influence the effectiveness of any interventions based on these findings.\n\nFurther research is needed to explore how these findings translate to real-world settings and how they might be applied in clinical practice.\n\nGuy-Evans, O. (2024). Fidgeting In ADHD And Its Relation To Performance And Sustained Attention On A Cognitive Task. Simply Psychology. https://www.simplypsychology.org/news/fidgeting-in-adhd-analysis/\n\nGuy-Evans, Olivia. \"Fidgeting In ADHD And Its Relation To Performance And Sustained Attention On A Cognitive Task.\" Simply Psychology, 16 August 2024, https://www.simplypsychology.org/news/fidgeting-in-adhd-analysis/.\n\nGuy-Evans, O. (2024) Fidgeting In ADHD And Its Relation To Performance And Sustained Attention On A Cognitive Task. Simply Psychology. Available at: https://www.simplypsychology.org/news/fidgeting-in-adhd-analysis/ (Accessed: 22 September 2026).",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "Primary reference",
+      "content": "Son, H. M., Calub, C. A., Fan, B., Dixon, J. F., Rezaei, S., Borden, J., Schweitzer, J. B., & Liu, X. (2024). A quantitative analysis of fidgeting in ADHD and its relation to performance and sustained attention on a cognitive task.Frontiers in Psychiatry,15, 1394096.https://doi.org/10.3389/fpsyt.2024.1394096",
+      "order": 14,
+      "items": []
+    },
+    {
+      "heading": "Other references",
+      "content": "American Psychiatric Association. (2022).Diagnostic and statistical manual of mental disorders (5th ed., text rev.).Arlington, VA: American Psychiatric Association.\n\nDekkers, T. J., Rapport, M. D., Calub, C. A., Eckrich, S. J., & Irurita, C. (2021). ADHD and hyperactivity: The influence of cognitive processing demands on gross motor activity level in children.Child Neuropsychology,27(1), 63-82.https://doi.org/10.1080/09297049.2020.1793924\n\nHartanto, T. A., Krafft, C. E., Iosif, A. M., & Schweitzer, J. B. (2016). A trial-by-trial analysis reveals more intense physical activity is associated with better cognitive control performance in attention-deficit/hyperactivity disorder.Child Neuropsychology,22(5), 618-626.https://doi.org/10.1080/09297049.2015.1044511\n\nPorrino, L. J., Rapoport, J. L., Behar, D., Sceery, W., Ismond, D. R., & Bunney, W. E. (1983). A naturalistic assessment of the motor activity of hyperactive boys: I. Comparison with normal controls.Archives of General Psychiatry,40(6), 681-687.\n\nTeicher, M. H., Ito, Y., Glod, C. A., & Barber, N. I. (1996). Objective measurement of hyperactivity and attentional problems in ADHD.Journal of the American Academy of Child & Adolescent Psychiatry,35(3), 334-342.https://doi.org/10.1097/00004583-199603000-00015\n\nZentall, S. S., & Meyer, M. J. (1987). Self-regulation of stimulation for ADD-H children during reading and vigilance task performance.Journal of Abnormal Child Psychology,15, 519-536.https://doi.org/10.1007/BF00917238\n\nZentall, S. S., & Zentall, T. R. (1976). Activity and task performance of hyperactive children as a function of environmental stimulation.Journal of Consulting and Clinical Psychology,44(5), 693.https://doi.org/10.1037/0022-006X.44.5.693",
+      "order": 15,
+      "items": []
+    },
+    {
+      "heading": "Keep Learning",
+      "content": "Socratic questions for a college class to discuss this paper:\n\n- How might the findings of this study change our understanding of fidgeting in ADHD, and what implications could this have for managing ADHD symptoms in educational or work environments?\n\n- What are the potential ethical considerations in encouraging or accommodating fidgeting behaviors in professional or academic settings?\n\n- How might the relationship between fidgeting and attention in ADHD differ across various age groups or in different cultural contexts?\n\n- In what ways could the quantification of fidgeting through standardized variables impact ADHD diagnosis and treatment in the future?\n\n- How might the findings of this study be applied to develop new interventions or assistive technologies for individuals with ADHD?\n\n- What are some potential drawbacks or unintended consequences of viewing fidgeting as a potentially beneficial behavior for individuals with ADHD?\n\n- How might the results of this study be different if conducted in a more naturalistic setting rather than a controlled laboratory environment?\n\n- In what ways could the fidget variables developed in this study be applied to research in other areas of psychology or neuroscience?\n\n- How might societal perceptions of ADHD and fidgeting behaviors change if this compensatory mechanism theory becomes widely accepted?\n\n- What further research questions does this study raise about the relationship between physical movement and cognitive performance in both ADHD and neurotypical populations?\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.",
+      "order": 16,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adhd-fidgeting.jpg",
+      "alt": "Fidgeting In ADHD And Its Relation To Performance And Sustained Attention On A Cognitive Task",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/disclosing-diagnosis-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/future-anxiety-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-media-harm-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/ptsd-300x129.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/autism-burnout-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mindfulness-yogi-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/fidgeting-adhd.jpg",
+      "alt": "An image of a woman fidgeting with a piece of stationary with the title: Research shows fidgeting in adults with ADHD may actually improve focus and performance on cognitive tasks.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Fidgeting In ADHD And Its Relation To Performance And Sustained Attention On A Cognitive Task\n\n> News»Clinical Psychology\n\n## Giriş\n\nNews»Clinical Psychology\n\nIndividuals with ADHD often exhibit fidgeting behaviors, such as tapping feet, drumming fingers, or shifting in their seats.\n\nThese movements are thought to be a self-regulatory mechanism that helps maintain arousal and attention, especially during cognitively demanding tasks. Fidgeting may serve as a compensatory strategy to enhance focus and performance.\n\nStudying this phenomenon is crucial because it can lead to better understanding ofADHD symptoms, improved interventions, and more accommodating environments for individuals with ADHD.\n\nFurthermore, insights into the relationship between movement and cognition could have broader implications for learning, attention, and performance optimization in various settings.\n\n## Key Points\n\n- Fidgeting in adults with ADHD may serve as a compensatory mechanism to aid sustained attention during cognitively demanding tasks.\n\n- Participants exhibited more frequent, variable, and intense fidgeting during correct trials compared to incorrect trials on a Flanker task.\n\n- Increased fidgeting was observed in later trials, particularly among participants with lower reaction time variability, suggesting fidgeting may help maintain arousal and attention over time.\n\n- Newly defined fidget variables (Number of Fidgets, Fidget Variability, Fidget Intensity) showed significant correlations with ADHD symptom rating scales.\n\n- The study provides quantitative evidence supporting the theory that fidgeting varies under different conditions and may be a self-regulating mechanism for attention and alertness.\n\n- While informative, the study has limitations such as gender imbalance and potential confounds from the use of a fidget ball in some participants.\n\n- Understanding fidgeting behaviors in ADHD has important implications for accommodations and interventions in work and educational settings.\n\n## Rationale\n\nAttention-Deficit/Hyperactivity Disorder (ADHD) is a neurodevelopmental disorder characterized by inattention, hyperactivity, and impulsivity (American Psychiatric Association, 2022).\n\nIn adults with ADHD, hyperactivity often manifests as fidgeting – repetitive, non-goal-directed movements.\n\nWhile early theories suggested fidgeting was a ubiquitous trait unaffected by environmental factors (Porrino, 1983; Teicher et al., 1996), more recent research proposes that fidgeting varies under different conditions and may serve as a self-regulating mechanism for attention and alertness (Zentall & Meyer, 1987; Zentall & Zentall, 1976).\n\nPrevious studies have observed increased fidgeting in children with ADHD during cognitively demanding tasks (Dekkers et al., 2020; Hartanto et al., 2015).\n\nHowever, there is a lack of standardized variables to quantify fidgeting, leading to discrepancies in data interpretation across studies. Additionally, little is known about fidgeting in adults with ADHD compared to youth.\n\nThis study aims to address these gaps by designing a framework to quantify meaningful fidgeting variables and applying them to test the relationship between fidgeting and performance on a cognitive task (the Flanker) in adults with ADHD.\n\n## Method\n\nThe study employed a quantitative analysis of fidgeting behaviors in adults with ADHD during a cognitive task, using actigraphy devices to measure movement.\n\n## Procedure\n\nParticipants completed a Flanker task while wearing actigraphy devices on their left wrist and right ankle.\n\nThe Flanker task consisted of 120 trials (40 each of congruent, incongruent, and neutral conditions). Participants responded to the direction of a central arrow using a button box.\n\nActigraphy data were synchronized with task events for trial-by-trial analysis.\n\n## Sample\n\nThe study included 70 adult participants (36% male) aged 18-50 years (mean age 30.5 years), all diagnosed with ADHD.\n\nParticipants were recruited through social media, local clinics, and research registries.\n\n## Measures\n\n- Flanker Task:Measures response inhibition and attention.\n\n- Actigraphy:Measures movement during the task.\n\n- Barkley Adult ADHD Rating Scale-IV (BAARS-IV):Assesses ADHD symptoms.\n\n- Barkley Deficits in Executive Functioning Scale (BDEFS):Measuresexecutive functioning deficits.\n\n- Affective Reactivity Index (ARI):Measures irritability.\n\n- Stroop Color and Word Test:Assesses response inhibition.\n\n## Statistical measures\n\nThe study used t-tests to compare fidgeting variables between correct and incorrect trials, and between early (Q1) and late (Q4) trials.\n\nLinear regression models were used to assess correlations between fidget variables and ADHD symptom rating scales. The ex-Gaussian distribution was used to analyze reaction time data.\n\n## Results\n\nHypothesis 1:Fidgeting will be more pronounced during correct trials compared to incorrect trials.\n\nResult:Confirmed. Significant increases in all fidget variables (Number of Fidgets, Fidget Variability, Fidget Intensity) were observed during correct trials (p < 0.05).\n\nHypothesis 2:Fidgeting will increase over time as the task progresses.\n\nResult:Partially confirmed. Significant increases in Number of Fidgets and Fidget Variability were observed in Q4 compared to Q1 (p < 0.05), but not for Fidget Intensity.\n\nHypothesis 3:Participants with lower reaction time variability will show increased fidgeting in later trials.\n\nResult:Confirmed. Participants with low reaction time variability (low Sigma and Tau) showed significant increases in Number of Fidgets in Q4 compared to Q1 (p < 0.05).\n\nHypothesis 4:Fidget variables will correlate with ADHD symptom severity as measured by rating scales.\n\nResult:Confirmed. Fidget variables showed moderate correlations with BAARS-IV, BDEFS, and ARI scores (R values ranging from 0.37 to 0.52, p < 0.01).\n\n## Insight\n\nThis study provides quantitative evidence supporting the theory that fidgeting in adults with ADHD may serve as a compensatory mechanism to aid sustained attention during cognitively demanding tasks.\n\nThe observation of increased fidgeting during correct trials and among participants with lower reaction time variability suggests that fidgeting may help maintain arousal and improve task performance.\n\nThe study extends previous research by focusing on adults with ADHD and developing standardized variables to quantify fidgeting.\n\nThe newly defined fidget variables (Number of Fidgets, Fidget Variability, Fidget Intensity) showed significant correlations with ADHD symptom rating scales, validating their relevance to ADHD symptomatology.\n\nFuture research could explore the impact of different types of fidgeting (e.g., leg bouncing vs. finger tapping) on cognitive performance, or investigate the effectiveness of fidget-friendly interventions in work or educational settings for adults with ADHD.\n\n## Strengths\n\nThis study had several methodological strengths, including:\n\n- Development of standardized, quantifiable fidget variables.\n\n- Focus on adult ADHD population, addressing a gap in the literature.\n\n- Use of objective actigraphy measures combined with standardized cognitive tasks.\n\n- Comprehensive analysis of fidgeting in relation to task performance, reaction time, and ADHD symptom scales.\n\n- Public sharing of analysis algorithms to promote reproducibility and further research.\n\n## Limitations\n\nThis study also had several limitations, including:\n\n- Gender imbalance in the sample (only 36% male).\n\n- Potential confounding effect of fidget ball use in 70% of participants.\n\n- Lack of a non-ADHD control group for comparison.\n\n- Limited generalizability due to the controlled laboratory setting.\n\n- Inability to differentiate between different types of fidgeting movements.\n\nThese limitations may affect the generalizability of the results and the ability to draw causal conclusions about the relationship between fidgeting and cognitive performance in ADHD.\n\n## Implications\n\nThe findings of this study have significant implications for understanding and managing ADHD in adults.\n\nIf fidgeting indeed serves as a compensatory mechanism for sustained attention, it may be counterproductive to discourage adults with ADHD from fidgeting during cognitively demanding tasks.\n\nInstead, providing accommodations that allow for non-disruptive fidgeting in work or educational settings could potentially improve performance and attention in adults with ADHD.\n\nThe development of standardized fidget variables could lead to more consistent and comparable research in the field of ADHD and movement.\n\nThis could facilitate better assessment and monitoring of ADHD symptoms, potentially leading to improved diagnosis andtreatment strategies.\n\nThe observed relationship between fidgeting and reaction time variability suggests that fidgeting behaviors might be an observable indicator of attention regulation.\n\nThis could have implications for real-time monitoring of attention in various settings, potentially leading to the development of adaptive interventions or support systems for individuals with ADHD.\n\nHowever, it’s important to note that individual differences in ADHD presentation and the specific nature of fidgeting behaviors may influence the effectiveness of any interventions based on these findings.\n\nFurther research is needed to explore how these findings translate to real-world settings and how they might be applied in clinical practice.\n\nGuy-Evans, O. (2024). Fidgeting In ADHD And Its Relation To Performance And Sustained Attention On A Cognitive Task. Simply Psychology. https://www.simplypsychology.org/news/fidgeting-in-adhd-analysis/\n\nGuy-Evans, Olivia. \"Fidgeting In ADHD And Its Relation To Performance And Sustained Attention On A Cognitive Task.\" Simply Psychology, 16 August 2024, https://www.simplypsychology.org/news/fidgeting-in-adhd-analysis/.\n\nGuy-Evans, O. (2024) Fidgeting In ADHD And Its Relation To Performance And Sustained Attention On A Cognitive Task. Simply Psychology. Available at: https://www.simplypsychology.org/news/fidgeting-in-adhd-analysis/ (Accessed: 22 September 2026).\n\n## Primary reference\n\nSon, H. M., Calub, C. A., Fan, B., Dixon, J. F., Rezaei, S., Borden, J., Schweitzer, J. B., & Liu, X. (2024). A quantitative analysis of fidgeting in ADHD and its relation to performance and sustained attention on a cognitive task.Frontiers in Psychiatry,15, 1394096.https://doi.org/10.3389/fpsyt.2024.1394096\n\n## Other references\n\nAmerican Psychiatric Association. (2022).Diagnostic and statistical manual of mental disorders (5th ed., text rev.).Arlington, VA: American Psychiatric Association.\n\nDekkers, T. J., Rapport, M. D., Calub, C. A., Eckrich, S. J., & Irurita, C. (2021). ADHD and hyperactivity: The influence of cognitive processing demands on gross motor activity level in children.Child Neuropsychology,27(1), 63-82.https://doi.org/10.1080/09297049.2020.1793924\n\nHartanto, T. A., Krafft, C. E., Iosif, A. M., & Schweitzer, J. B. (2016). A trial-by-trial analysis reveals more intense physical activity is associated with better cognitive control performance in attention-deficit/hyperactivity disorder.Child Neuropsychology,22(5), 618-626.https://doi.org/10.1080/09297049.2015.1044511\n\nPorrino, L. J., Rapoport, J. L., Behar, D., Sceery, W., Ismond, D. R., & Bunney, W. E. (1983). A naturalistic assessment of the motor activity of hyperactive boys: I. Comparison with normal controls.Archives of General Psychiatry,40(6), 681-687.\n\nTeicher, M. H., Ito, Y., Glod, C. A., & Barber, N. I. (1996). Objective measurement of hyperactivity and attentional problems in ADHD.Journal of the American Academy of Child & Adolescent Psychiatry,35(3), 334-342.https://doi.org/10.1097/00004583-199603000-00015\n\nZentall, S. S., & Meyer, M. J. (1987). Self-regulation of stimulation for ADD-H children during reading and vigilance task performance.Journal of Abnormal Child Psychology,15, 519-536.https://doi.org/10.1007/BF00917238\n\nZentall, S. S., & Zentall, T. R. (1976). Activity and task performance of hyperactive children as a function of environmental stimulation.Journal of Consulting and Clinical Psychology,44(5), 693.https://doi.org/10.1037/0022-006X.44.5.693\n\n## Keep Learning\n\nSocratic questions for a college class to discuss this paper:\n\n- How might the findings of this study change our understanding of fidgeting in ADHD, and what implications could this have for managing ADHD symptoms in educational or work environments?\n\n- What are the potential ethical considerations in encouraging or accommodating fidgeting behaviors in professional or academic settings?\n\n- How might the relationship between fidgeting and attention in ADHD differ across various age groups or in different cultural contexts?\n\n- In what ways could the quantification of fidgeting through standardized variables impact ADHD diagnosis and treatment in the future?\n\n- How might the findings of this study be applied to develop new interventions or assistive technologies for individuals with ADHD?\n\n- What are some potential drawbacks or unintended consequences of viewing fidgeting as a potentially beneficial behavior for individuals with ADHD?\n\n- How might the results of this study be different if conducted in a more naturalistic setting rather than a controlled laboratory environment?\n\n- In what ways could the fidget variables developed in this study be applied to research in other areas of psychology or neuroscience?\n\n- How might societal perceptions of ADHD and fidgeting behaviors change if this compensatory mechanism theory becomes widely accepted?\n\n- What further research questions does this study raise about the relationship between physical movement and cognitive performance in both ADHD and neurotypical populations?\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:34:57.226090"
+}

@@ -1,0 +1,139 @@
+{
+  "id": "primacy_recency_html_e5a52b49",
+  "original_title": "Serial Position Effect (Glanzer & Cunitz, 1966)",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/primacy-recency.html",
+  "published_date": "2026-09-17T11:39:32+00:00",
+  "read_time_minutes": 18,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/serial-position-effect.jpg",
+      "alt": "Serial Position Effect (Glanzer & Cunitz, 1966)",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/serialposition-300x180.jpg",
+      "alt": "serialposition",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/loftus-300x235.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/patient-hm-brain-300x243.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/marshmallow-test-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/doodling.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/eeg-sleep-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Western-Electric-Hawthorne-Plant-300x233.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/serial-position-effect.jpg",
+      "alt": "serial position effect",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3556,
+  "turkce_baslik": "İlişkilerde Neden Hep İlk Anlar ve Son Tartışmalar Akılda Kalır?",
+  "kanca_sorusu": "Bir ilişkinin başı ve sonu hafızanıza kazınırken, ortadaki o uzun aylar neden silinip gider?",
+  "score": 45,
+  "puan_nedeni": "Makale her ne kadar klasik bir bellek psikolojisi deneyi (Seri Konum Etkisi) üzerine kurulu ve nörolojik/akademik ağırlıklı olsa da, bu teoriyi ilişkilerdeki ilk izlenimler ve ayrılık anlarındaki son sözler perspektifine uyarladığımız için takipçide güçlü bir ayna etkisi yaratacaktır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, maruz kaldığı her bilgiyi eşit ağırlıkta depolamaz. Psikolojide seri konum etkisi olarak bilinen olgu, bir listenin başındakilerin ve sonundakilerin hatırlandığını, ortadakilerin ise unutulduğunu söyler. Bu durum, hafızamızın kısa süreli ve uzun süreli bellek olarak iki farklı sistemle çalışmasının bir sonucudur. İlk kelimeler uzun süreli zihinsel kütüphanemize aktarılırken, son kelimeler kısa süreli belleğin o anki yankısında tutulur. \n\nAynı mekanizma insan ilişkilerinde de kusursuz bir şekilde işler. Bir partnerle kurulan ilişkinin ilk aylarındaki o büyüleyici başlangıç (öncelik etkisi) ve ayrılık anına yakın yaşanan son büyük kavga ya da son sözler (en sonluk etkisi), hafızanın demirbaşları haline gelir. Ortada geçen yıllar, aylar, sıradan ama huzurlu anlar ise o zihinsel listenin orta kısmında erir gider. İnsan, ilişkileri hatırlarında canlandırırken ya en başın umuduna ya da en sonun acısına tutunur.\n\nBu bilişsel eğilim, toksik ilişkilerde de karşımıza çıkar. Yıllarca süren ihmaller ve mutsuzluklar, sırf son dönemde yaşanan birkaç tatlı an veya tam tersi, yılların emeğini silip süpüren son bir ihanet yüzünden yanlış değerlendirilir. Zihnimiz bize oyun oynar; ortadaki gerçeği değil, uçlardaki keskin durakları mutlak gerçeklik olarak sunar. İlişkilerinizin veya geçmişinizin muhasebesini yaparken hafızanızın bu tuzağına düşüp düşmediğinizi fark etmek, duygusal kararlarınızı manipülasyondan korumanın ilk adımıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Hafızanın Seçici Yanılgısı",
+      "body": "Zihnimiz yaşanan her şeyi kaydetmez; sadece başlangıçlara ve bitişlere sadık kalır.",
+      "highlight_box": "Ortadaki o koca zaman dilimi nereye kaybolur?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Seri Konum Etkisi Nedir?",
+      "body": "Psikolojide bir listenin ya en başı ya da en sonu hatırlanır. Ortası ise unutulmaya mahkûmdur.",
+      "highlight_box": "Bu yasa insan ilişkilerinde de birebir çalışır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Öncelik Etkisi",
+      "body": "İlişkinin ya da tanıdığınızın ilk aylarındaki o kusursuz imaj, uzun süreli belleğe mühürlenir.",
+      "highlight_box": "İlk izlenim neden bu kadar kalıcıdır?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "En Sonluk Etkisi",
+      "body": "Ayrılık anında söylenen son söz veya yaşanan son kriz, kısa süreli belleği esir alır.",
+      "highlight_box": "Geçmişin tamamı o son olayla yargılanır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Zihinsel Tuzağı Bozmak",
+      "body": "Geçmişi değerlendirirken uçlara değil, bütünlüğe odaklanmak bilinçli bir çaba gerektirir.",
+      "highlight_box": "Hafızanızın size oyun oynamasına izin vermeyin.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Bir ilişkinin ya da kişinin değerini sadece başı ve sonu değil, ortada bıraktığı izler belirler.",
+      "highlight_box": "Daha derin bir farkındalık için bu içeriği kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Yıllar süren bir ilişkinin neden sadece başını ve sonunu hatırlarsınız biliyor musunuz?",
+    "konusma_metni": "Beynimiz her bilgiyi ya da anıyı eşit kaydetmez. Bilimde seri konum etkisi denilen bir yasa vardır. Buna göre bir listenin ya en başını ya da en sonunu hatırlarsınız. İlişkilerde de tam olarak bu olur. İlişkinin başındaki o büyüleyici aylar uzun süreli belleğe kazınır. Ayrılığa giderken yaşanan son büyük kavga ise kısa süreli belleğin en taze yerinde kalır. Peki ortadaki o koca yıllar nereye gider? Zihnimiz ortadaki huzurlu ya da gri anları adeta siler süpürür. Bu yüzden eski partnerinizi hatırlararken ya ilk günkü umuda ya da son gündeki acıya takılıp kalırsınız. Hafızanızın bu manipülasyonuna ne kadar güveniyorsunuz?"
+  },
+  "caption": "İlişkilerin, yaşanan olayların veya hayatımızdaki insanların muhasebesini yaparken zihnimiz bize sık sık oyun oynar. Bilimde seri konum etkisi olarak bilinen bu durum, beynimizin sadece uç noktaları kayda geçirdiğini gösterir.\n\nİlk tanışma anındaki o büyüleyici uyum ya da ayrılık yolundaki o keskin hayal kırıklığı hafızanın zirvesine yerleşirken, arada geçen yüzlerce sıradan gün ve emek sessizce silinir gider. Toksik ilişkilerde kişinin yıllarca çektiği çileyi unutup sadece son gündeki tatlı bir söze aldanması ya da tam tersi, güzel geçen yılları son bir kavgayla çöpe atması hep bu bilişsel mekanizmanın eseridir.\n\nZihninizin size sunduğu bu keskin uçlara değil, yaşananların bütününe odaklanabilmek olgun bir zihinsel dönüşüm gerektirir. Bu yaklaşım size ne ifade ediyor? Yorumlarda buluşalım.\n\npsikoloji, hafıza, ilişkiler, zihinakyolu, bilişselpsikoloji, farkındalık, insanDAVRANIŞI",
+  "processed_at": "2026-09-26 17:01:34"
+}

@@ -1,0 +1,151 @@
+{
+  "id": "what_is_an_eeg_html_728914e7",
+  "original_title": "EEG Test (Electroencephalogram): Purpose, Procedure, and Risks",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/what-is-an-eeg.html",
+  "published_date": "2026-01-28T11:56:36+00:00",
+  "read_time_minutes": 7,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Electroencephalography-EEG.jpeg",
+      "alt": "EEG Test (Electroencephalogram): Purpose, Procedure, and Risks",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Electroencephalography-EEG-1024x683.jpeg",
+      "alt": "Electroencephalography EEG",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brain-waves-1024x956.jpeg",
+      "alt": "brain waves",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitter-formulas-300x152.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cingulate-cortex-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/phineas-gage1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/white-vs-grey-matter-2_med-300x182.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/encephalography-electrode..jpeg",
+      "alt": "encephalography electrode.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Electroencephalogram.jpg",
+      "alt": "Electroencephalogram",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1375,
+  "turkce_baslik": "Beynin Elektriksel Dili: EEG ve Zihinsel Durumlarımız",
+  "kanca_sorusu": "Zihninizin arka planında sürekli çalışan o dalgalar, aslında neyi saklıyor?",
+  "score": 45,
+  "puan_nedeni": "Metin, doğrudan nörolojik ölçüm yöntemlerini ve beyin dalgalarını inceleyen klinik bir biyopsikoloji makalesidir. İlişkisel dinamiklerden ziyade tıbbi ve teknik süreçlere odaklandığı için editoryal olarak düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, dışarıdan sakin görünse bile, derinlerde sürekli bir elektrik akımı ve nöronal senkronizasyon barındırır. Elektroensefalogram yani bilinen adıyla EEG, bu karmaşık akışın kâğıda dökülmüş halidir. Hans Berger'in 1924 yılında insan beyin elektriğini kaydetmesiyle başlayan bu serüven, bugün sadece epilepsi veya uyku bozukluklarını teşhis etmekle kalmıyor; aynı zamanda bilişsel süreçlerimizin ve zihinsel durumlarımızın arka planını anlamamıza da aracı oluyor. Delta, theta, alfa, beta ve gama dalgaları; uyanıklık, dinlenme, odaklanma veya kaygı anlarında zihnimizin hangi frekansta çalıştığını ele veriyor. Kuru bir tıbbi test gibi görünse de, beyin dalgalarımızın analizi, aslında ne kadar yorgun, kaygılı veya tükenmiş olduğumuzun fiziksel kanıtını sunuyor.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Beynin Elektriksel Dili",
+      "body": "Zihniniz dışarıdan sessiz görünse de, derinde sürekli bir elektrik akımı çalışır.",
+      "highlight_box": "Beyniniz şu an hangi frekansta çalışıyor?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "EEG Nedir ve Ne Ölçer?",
+      "body": "Nöronların iletişim kurarken yarattığı elektrik dalgaları, yüzeydeki elektrotlar aracılığıyla kaydedilir.",
+      "highlight_box": "Gerçek zamanlı beyin aktivitesi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Beyin Dalgalarının Dili",
+      "body": "Uyanıklık, uyku, rahatlama ve odaklanma durumlarına göre beyin farklı dalga boyları üretir.",
+      "highlight_box": "Delta, Theta, Alfa, Beta ve Gama.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Klinik ve Zihinsel Karşılıklar",
+      "body": "Araştırmalar, zihinsel zorlanma ve stres durumlarının beyin dalgalarında doğrudan değişim yarattığını gösteriyor.",
+      "highlight_box": "Beden ve zihin bir bütündür.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Zihinsel Durumu Okumak",
+      "body": "Nörolojik ölçümler, modern psikolojinin zihnin işleyişini anlamasında kritik bir rol oynar.",
+      "highlight_box": "Farkındalık, fizyolojik temellere dayanır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizin yorgunluğunu sadece hissetmezsiniz, beyniniz bu sinyalleri fiziksel olarak üretir.",
+      "highlight_box": "Bu bilimsel perspektifi kaydet ve hatırla.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Beyninizin içinde her saniye patlayan o elektrik sinyallerinin aslında ne anlama geldiğini biliyor musunuz?",
+    "konusma_metni": "EEG yani elektroensefalogram, kafanıza yerleştirilen küçük sensörlerle beyninizin elektriksel aktivitesini kaydeder. Delta'dan Gama'ya kadar her beyin dalgası; uykunuzu, odaklanmanızı ve hatta ne kadar kaygılı olduğunuzu ele verir. Tıbbi bir test gibi görünse de, bu dalgalar zihninizin o an hangi yükü taşıdığının en net aynasıdır."
+  },
+  "caption": "Beynin elektriksel aktivitesi, düşüncelerimizin ve zihinsel durumlarımızın fiziksel yansımasıdır. EEG gibi nörolojik araçlar, zihnimizin karmaşık yapısını anlamamızda bize rehberlik eder. Zihinsel yorgunluk, kaygı ve odaklanma sorunları sadece soyut kavramlar değil, beynin dalga boylarında karşılığı olan gerçeklerdir. Bu konuyu derinlemesine incelemek ve kaydetmek isteyebilirsiniz.\n\n#beyindalgalari #noroloji #psikoloji #zihinselyorgunluk #bilisselbilim #farkindalik #saglik",
+  "processed_at": "2026-09-26 17:20:45"
+}

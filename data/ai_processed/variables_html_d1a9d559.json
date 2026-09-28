@@ -1,0 +1,139 @@
+{
+  "id": "variables_html_d1a9d559",
+  "original_title": "Independent and Dependent Variables",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/variables.html",
+  "published_date": "2026-09-17T14:55:16+00:00",
+  "read_time_minutes": 23,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/variables.jpg",
+      "alt": "Independent and Dependent Variables",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/variables2.jpg",
+      "alt": "variables2",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Validity-Reliability-300x217.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-construction-reality-300x157.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Qualitative-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/autism-research-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confirmability-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/informed-consent-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/variables-examples.jpg",
+      "alt": "Independent and Dependent Variables Examples",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4609,
+  "turkce_baslik": "Sebep ve Sonuç Yanılgısı: Hayatımızın Bağımsız Değişkenleri Kim?",
+  "kanca_sorusu": "İlişkilerinizde sürekli aynı sonucu yaşamanızın sebebi, sürekli aynı etkeni değiştirmeye çalışmanız olabilir mi?",
+  "score": 45,
+  "puan_nedeni": "Metin tamamen akademik araştırma metodolojisi, bağımlı ve bağımsız değişkenler üzerine kuruludur. Doğrudan ilişkisel bir dinamik veya klinik bir içgörü barındırmadığı için katı puanlama ilkemiz gereği düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Bilimsel araştırmalarda bağımsız değişken manipüle edilen, bağımlı değişken ise ölçülen sonuçtur. Bu mekanizma insan zihninin karmaşık dünyasına uyarlandığında, hayatımızdaki olayların neden-sonuç ilişkisini kurma biçimimizi de açıklar. Çoğu zaman değiştiremeyeceğimiz unsurları bağımsız değişken sanarak enerjimizi tüketiriz. Oysa gerçek dönüşüm, kendi içsel labirentimizde hangi etkenin hangi sonucu doğurduğunu nesnetleştirebildiğimizde başlar. Zihnimiz sürekli bir neden arayışındadır; ancak bu arayış, çoğu zaman dış faktörleri kontrol etme çabasına dönüşerek bizi tükenmişliğe sürükler.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Sebep ve Sonuç",
+      "body": "Hayatımızdaki her sonucun ardında, farkında olmadan manipüle ettiğimiz bir sebep yatar.",
+      "highlight_box": "Neyi değiştirmeye çalışıyorsunuz?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Değişkenlerin Rolü",
+      "body": "Bağımsız değişken tetikleyicidir, bağımlı değişken ise sizin verdiğiniz tepkidir.",
+      "highlight_box": "Etki ve tepki döngüsü",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Dışsal Etkenler",
+      "body": "Kontrol edemediğiniz koşulları değiştirmeye çalışmak enerjinizi tüketir.",
+      "highlight_box": "Yanlış odaklanma",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Öznel Tepkiler",
+      "body": "Aynı uyarıcıya verdiğiniz farklı tepkiler, içsel durumunuzun birer sonucudur.",
+      "highlight_box": "Kişisel farkındalık",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Sınırları Belirlemek",
+      "body": "Gerçek değişim, manipüle edebileceğiniz alanı doğru tanımlamakla başlar.",
+      "highlight_box": "Kontrol alanınızı tanıyın",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Sonucu değiştirmek istiyorsanız, başlangıç noktanızı gözden geçirin.",
+      "highlight_box": "Tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Hayatınızda sürekli aynı kısır döngüyü yaşamanızın matematiksel bir sebebi var.",
+    "konusma_metni": "Psikolojide bağımsız ve bağımlı değişkenler vardır. Yani bir şeyin sebebi ve sonucu. İlişkilerinizde ya da zihninizde sürekli aynı sonucu alıyorsanız, muhtemelen yanlış değişkeni değiştirmeye çalışıyorsunuzdur. Kontrol edebileceğiniz tek şey kendi müdahalenizdir. Sonucu değiştirmek istiyorsanız, kaynağa bakmalısınız."
+  },
+  "caption": "Bilimsel araştırmaların temelini oluşturan bağımsız ve bağımlı değişkenler, aslında insan psikolojisinin de temel işleyiş mekanizmasını özetler. Hayatımızda sürekli aynı sonuçlarla karşılaşıyorsak, müdahale ettiğimiz noktayı sorgulamamız gerekir. \n\n#psikoloji #bilimselpsikoloji #zihinyönetimi #farkındalık #ilişkiler #yaadapsikoloji #kişiselgelişimdegilbilim",
+  "processed_at": "2026-09-26 16:57:14"
+}

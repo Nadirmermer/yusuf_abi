@@ -1,0 +1,91 @@
+{
+  "id": "cancer_can_be_emotionally_as_well_as_phy_4c9e36cb",
+  "original_title": "Cancer Can Be Emotionally as Well as Physically Devastating",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/resolution-not-conflict/202607/cancer-can-be-emotionally-as-well-as-physically-devastating",
+  "published_date": "2026-07-31T11:06:49-04:00",
+  "read_time_minutes": 1,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-07/adrian-swancar-rocfgvkblvy-unsplash.jpg?h=80a8f810&itok=_BhWVPnP",
+      "alt": "Cancer Can Be Emotionally as Well as Physically Devastating",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-07/Susan-Heitler_0.jpg?itok=ZN81c0VX",
+      "alt": "Susan Heitler Ph.D.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/adrian-swancar-rocfgvkblvy-unsplash.jpg?itok=YisIc7kQ",
+      "alt": "Facing a serious, painful, and potentially fatal illness? ",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 34,
+  "turkce_baslik": "Bedeni saran hastalık ruhu da yıktığında: İyileşmeyi durdıran o döngü",
+  "kanca_sorusu": "Fiziksel bir hastalık zihni ele geçirdiğinde, umut etmek neden bu kadar imkansız hissettirir?",
+  "score": 45,
+  "puan_nedeni": "Metin genel tıbbi bir konuyu ve hastalık psikolojisini ele alıyor. Doğrudan ilişkisel dinamikler, bağlanma stilleri veya günlük romantik çatışmalar içermediği, daha çok klinik onkoloji ve genel tıp sınırına girdiği için editoryal puanımız düşüktür.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "Kanser gibi yıkıcı bir teşhis, yalnızca bedeni değil, kişinin varoluş zeminini de sarsar. Bu süreçte ortaya çıkan yoğun depresyon ve çaresizlik hissi, sıklıkla hastanın iyileşme direncini kırar ve fiziksel süreci daha da zorlaştıran kısır bir döngü yaratır. Zihin ve beden arasındaki bu kaçınılmaz bağ, psikolojik desteğin yalnızca bir lüks değil, tıbbi tedavinin hayati bir parçası olduğunu gösterir. \n\nKişinin yaşadığı derin yas ve korku, duygusal olarak yalnızlaşmasına neden olur. Çevreden gelen iyi niyetli ama yüzeysel 'güçlü ol' tavsiyeleri, hastanın iç dünyasındaki bu yıkımı daha da derinleştirir. Oysa yapılması gereken, bu karanlık duyguları bastırmak değil, onların varlığını kabul ederek zihinsel tükenişin bedensel iyileşmeyi engellemesinin önüne geçmektir.\n\nBu süreçte en büyük kırılma noktası, kişinin kontrolü tamamen kaybettiği inancından sıyrılıp, kendi içsel direncine yeniden bağlanmasıdır. Profesyonel destek, bu aşağı yönlü sarmalı durdurmanın ve hastaya yeniden kendi hikayesinin öznesi olma gücünü kazandırmanın en temel yoludur.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Yıkımın İki Yüzü",
+      "body": "Bazı hastalıklar yalnızca bedeni değil, insanın varoluş zeminini ve zihinsel direncini de hedef alır.",
+      "highlight_box": "Beden iyileşirken zihnimiz neden pes eder?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Aşağı Yönlü Sarmal",
+      "body": "Yoğun depresyon ve çaresizlik hissi, bağışıklık sistemini ve iyileşme iradesini sessizce baskılar.",
+      "highlight_box": "Duygusal çöküş fiziksel iyileşmeyi durdurabilir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Yalnızlaşma ve Yük",
+      "body": "Çevrenin 'güçlü ol' baskısı, kişinin yaşadığı gerçek acıyı ve korkuyu içselleştirmesine yol açar.",
+      "highlight_box": "Anlaşılmamak, hastalığın kendisi kadar yorucudur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Kontrol Kaybı Hissi",
+      "body": "Geleceğe dair belirsizlik, zihnin sürekli bir tehlike alarmı vermesine ve tükenmişliğe neden olur.",
+      "highlight_box": "Zihin, kontrol edemediği bu yük altında ezilir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Sarmalı Durdurmak",
+      "body": "Duyguları bastırmak yerine kabul etmek, bu yıkıcı döngüyü kırmanın ilk ve en önemli adımıdır.",
+      "highlight_box": "İyileşme, kırılganlığı kabul etmekle başlar.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihin ve beden bir bütündür. Fiziksel iyileşme kadar ruhsal alan açmak da hayati bir gerekliliktir.",
+      "highlight_box": "Bu zorlu süreci yakınında yaşayanlar için kaydet.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Fiziksel bir hastalık ruhu ele geçirdiğinde, asıl savaş bedende değil zihinde başlar.",
+    "konusma_metni": "Ağır bir teşhis veya yıkıcı bir yaşam olayı, sadece bedeni sarsmaz. Ortaya çıkan derin depresyon ve çaresizlik, iyileşme direncini kırarak insanı karanlık bir sarmalın içine çeker. Çoğu zaman çevreden gelen güçlü ol telkinleri bu yükü hafifletmez, aksine yalnızlaştırır. Bu noktada önemli olan, duyguları bastırmak değil, zihnin bedene uyguladığı bu baskıyı fark edip profesyonel bir alan açmaktır."
+  },
+  "caption": "Ağır bir yaşam krizi veya yıkıcı bir hastalık, insanın zihninde derin bir enkaz bırakabilir. Fiziksel tedavi kadar ruhsal dayanıklılığın da bu süreçteki yeri büyüktür. Bu konuyu yakınında yaşayan ya da bu sarmalı hisseden herkes için paylaşıyoruz.\n\n#klinikpsikoloji #iyileşmesüreci #zihinbedenbütünlüğü #depresyon #travma #yaşamkrizi #psikolojidestek",
+  "processed_at": "2026-09-28 02:29:58"
+}

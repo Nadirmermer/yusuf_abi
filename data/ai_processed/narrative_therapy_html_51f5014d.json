@@ -1,0 +1,145 @@
+{
+  "id": "narrative_therapy_html_51f5014d",
+  "original_title": "Narrative Therapy",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/narrative-therapy.html",
+  "published_date": "2026-09-17T11:36:20+00:00",
+  "read_time_minutes": 17,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Narrative-Therapy.jpg",
+      "alt": "Narrative Therapy",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/narrative-therapy.jpeg",
+      "alt": "narrative therapy",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Techniques-of-Narrative-Therapy.jpg",
+      "alt": "Techniques of Narrative Therapy",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/gestalt-therapy-300x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/psychodynamic-therapy-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Psychotherapy-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Transactional-Analysis-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/rational-emotive-behavior-therapy-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mindfulness-practices-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/narrative-therapy-techniques.jpg",
+      "alt": "4 panel infographic outlining the 4 techniques of narrative therapy.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3406,
+  "turkce_baslik": "Kendi Hayatınızın Hikâyesinde Mahkum mu Yoksa Yazar mısınız?",
+  "kanca_sorusu": "Kendiniz hakkında kurduğunuz hangi cümleler, aslında başkalarının size yazdığı birer senaryo?",
+  "score": 88,
+  "puan_nedeni": "Bireyin kendi içsel anlatısını, kimliğini ve ilişkisel pratiklerini sorgulamasını sağlayan, okuyucuda güçlü bir 'Ayna Etkisi' yaratan yüksek potansiyelli bir terapi ve öz-farkındalık konusudur.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "Çoğu zaman hayatımızda yaşadığımız çıkmazları, tükenmişlikleri ya da ilişkisel tekrarları doğrudan kendi kişiliğimizin bir kusuru olarak görürüz. 'Ben zaten beceriksizim', 'Yine aynı hatayı yapan tarafım' veya 'Sevilmeye değer değilim' gibi cümleler, zamanla ruhumuzun ana akım plotu haline gelir. Narrative terapi yaklaşımı, tam da bu noktada devrimci bir perspektif sunar: Sorun siz değilsiniz, sorun hakkındaki hikâyenizdir. İnsanlar, geçmişteki olayları belli bir sıraya dizerek ve onlara anlam yükleyerek kendi hayat hikâyelerini yazarlar. Ancak bu hikâye bazen zehirli bir merceğe dönüşebilir ve kişi bu hikâyenin mahkumu olur. Kendimizi problemden ayırmayı başardığımızda, yani 'Ben yetersizim' yerine 'Yetersizlik hissi şu an beni baskılıyor' diyebildiğimizde, kendi hayatımızın yazarı olma gücünü yeniden elimize alırız.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Kendi Hikayenizin Mahkumu mu, Yazarı mısınız?",
+      "body": "Hayatınızda tekrar edip duran o kısır döngüler, aslında kendinize anlattığınız eski ve yaralayıcı hikayelerden beslenir.",
+      "highlight_box": "Kimliğiniz, hakkında kurduğunuz hikayelerden ibarettir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Sorun Siz Değilsiniz, Sorun Hakkındaki Hikayeniz",
+      "body": "Zihnimiz yaşanan olayları belli bir sıraya dizer ve zamanla bunu baskın bir plot haline getirir. Yanlış yorumlanan bu hikayeler ruhsal acı yaratır.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Problemi Dışsallaştırmak",
+      "body": "Kendinizi 'Yetersiz bir insanım' diye etiketlemek yerine, 'Yetersizlik hissi şu an üzerimde baskı kuruyor' demeyi denediniz mi?",
+      "highlight_box": "Problem ile kimliğinizi birbirine karıştırmayın.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Baskın Anlatılara Meydan Okumak",
+      "body": "Geçmişin size biçtiği rolleri kabul etmek zorunda değilsiniz. Sizi özetleyen o baskın ve acı veren hikayeye karşı çıkabilirsiniz.",
+      "highlight_box": "Size dayatılan rolleri reddetmek sizin hakkınızdır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kendi Hayatınızın Uzmanı Olmak",
+      "body": "Terapist ya da dış dünya size ne söylerse söylesin, kendi hayatınızın en büyük otoritesi yine kendinizsiniz. Yeni bir hikaye yazmak sizin elinizde.",
+      "highlight_box": "Unutmayın: Bu bir içsel farkındalık ve dönüşüm sürecidir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış ve İçsel Hatırlatma",
+      "body": "Bugün kendiniz hakkında kurduğunuz cümleleri değiştirmek, geleceğinizi özgürleştirmenin ilk adımıdır.",
+      "highlight_box": "Gerektiğinde bu farkındalığa dönmek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Sürekli aynı ilişkisel döngüleri yaşamanızın sebebi bozuk bir karakteriniz olması değil, benimsediğiniz o yanlış hikaye.",
+    "konusma_metni": "Bugünlerde kendiniz hakkında en çok hangi cümleyi kuruyorsunuz? 'Ben zaten hep terk edilirim' mi, yoksa 'Hiçbir zaman başaramayacağım' mı? Hayatınızda yaşadığınız krizlerin sebebi siz değilsiniz. Çoğumuz, geçmişte maruz kaldığımız olayları birleştirip kendimize ağır bir mahkumiyet senaryosu yazıyoruz ve kimliğimizi bu senaryoyla karıştırıyoruz. Narrative terapi der ki; sorun sizden ayrı bir şeydir. Problemi kendinizden ayırdığınız anda, o hikayeyi yeniden yazma gücüne sahip olursunuz. Kimliğinizi bu zehirli anlatılardan kurtarmanın vakti gelmedi mi?"
+  },
+  "caption": "Hayatımız boyunca kendimiz hakkında pek çok hikaye kurarız. Kimi hikayeler bizi besler, güçlendirir; kimi hikayeler ise bizi sessiz bir mahkumiyete sürükler. 'Ben zaten böyleyim', 'Kimse beni anlamıyor' ya da 'Yine başaramayacağım' dediğimiz anlar, aslında zehirli bir anlatının hapsinde olduğumuz anlardır.\n\nNarrative terapi yaklaşımı, sorunu kimliğimizden ayırmamızı söyler. Siz problemin kendisi değilsiniz. O problem, sadece şu an maruz kaldığınız dışsal bir hikayedir.\n\nBu metin size neyi çağrıştırdı? Hayatınızda hangi hikayeyi artık yeniden yazma vaktiniz geldi?\n\n#psikoloji #narrativeterapi #icseliyilesme #kisiselgelisimdegilbilim #sinirlarveozsaygi #zihinyonetimi #farkindalik",
+  "processed_at": "2026-09-26 17:01:58"
+}

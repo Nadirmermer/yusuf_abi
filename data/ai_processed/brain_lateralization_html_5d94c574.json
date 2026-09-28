@@ -1,0 +1,139 @@
+{
+  "id": "brain_lateralization_html_5d94c574",
+  "original_title": "Lateralization of Brain Function & Hemispheric Specialization",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/brain-lateralization.html",
+  "published_date": "2026-09-17T10:55:53+00:00",
+  "read_time_minutes": 12,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brain-lateralization-left-right-hemispheres.jpg",
+      "alt": "Lateralization of Brain Function & Hemispheric Specialization",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brain-lateralization.jpeg",
+      "alt": "brain lateralization",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brocas-area.jpeg",
+      "alt": "brocas area",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Broca_Wernicke-300x185.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotions-brain-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brodmanns-areas-300x169.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Motor-Cortex-300x174.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2354,
+  "turkce_baslik": "Beynin İki Yarısı ve Sizin İç İçe Geçmiş Çelişkileriniz",
+  "kanca_sorusu": "Mantığınızla hareket etmek istediğinizde sizi sürekli duygusal kararlar almaya iten o içsel bölünmüşlüğü daha önce fark ettiniz mi?",
+  "score": 45,
+  "puan_nedeni": "Metin temel olarak nörolojik biyopsikolojiye, beyin yarım kürelerinin lateralizasyonuna ve beyin hasarı vakalarına dayanmaktadır. Doğrudan ilişkisel çatışmalar veya bağlanma stilleri yerine kuru akademik nöroloji teorileri içerdiği için puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, dışarıdan bakıldığında tek bir bütün gibi görünse de, derinde sürekli bir müzakere halinde olan iki farklı merkezin ortak çalışmasıdır. Sol yarım küre kelimeleri, mantığı ve analitik düzeni seçerken; sağ yarım küre tonu, duygusal bağlamı ve sezgileri kucaklar. Günlük hayatta mantığımızla verdiğimiz kararların aniden duygusal dalgalanmalarla bozulması, bu iki alanın arasındaki sürekli etkileşimin bir yansımasıdır. Corpus callosum adı verilen sinir köprüsü bu iki dünyayı birbirine bağlasa da, içsel dünyamızdaki çatışmalar genellikle bu yarım kürelerin farklı önceliklerinden beslenir. Kendinizi hem son derece mantıklı açıklamalar yaparken hem de içten içe yoğun bir duygusal fırtınanın içinde buluyorsanız, bu durum beyninizin yapısal bölünmüşlüğünün ruhsal dünyanızdaki yankısıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Mantık ve Duygu Arasındaki Görünmez Çizgi",
+      "body": "Zihnimiz, her biri farklı bir dünyaya odaklanan iki ayrı merkezin ortak alanıdır.",
+      "highlight_box": "Bütün görünsek de içeride sürekli bir müzakere var.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Sol Beyin ve Sağ Beyin Gerçekliği",
+      "body": "Sol taraf kelimeleri ve mantığı seçerken, sağ taraf duygusal tonu ve sezgileri işler.",
+      "highlight_box": "Hangisi şu an hayatınızı daha çok yönetiyor?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Analitik Sınırlar",
+      "body": "Sol yarım küre dili, grameri ve analitik çözümleri kontrol eder ancak duygusal derinliği kaçırabilir.",
+      "highlight_box": "Sadece mantıkla açıklanamayan durumlar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Duygusal Rezonans",
+      "body": "Sağ yarım küre yüzleri, mekânsal farkındalığı ve en önemlisi gizli duygusal tonları algılar.",
+      "highlight_box": "Söylenenlerden ziyade nasıl söylendiğine odaklanan taraf.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "İki Dünyanın İşbirliği",
+      "body": "Sağlıklı bir zihin kararı, tek bir tarafın baskısıyla değil, bu iki merkezin uzlaşmasıyla alınır.",
+      "highlight_box": "Unutmayın: ÇatışmaDeğil, Bütünleşme Esastır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Bütünlük",
+      "body": "İçinizdeki seslerin neden bu kadar farklı konuştuğunu anlamak, kendinize şefkat duymanın ilk adımıdır.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden mantığınızla hareket etmek isterken kalbinizin sesine yenik düşersiniz?",
+    "konusma_metni": "Beynimiz iki ayrı yarım küreden oluşur ve bu iki parça sürekli bir çatışma halindedir. Sol tarafınız mantığı, analizi ve kelimeleri ararken; sağ tarafınız duyguları, tonu ve sezgileri yönetir. Aradaki köprü ne kadar güçlü olursa olsun, hayatta yaşadığımız kararsızlıkların ve içsel bölünmelerin temelinde bu nörolojik ayrışma yatar. Kendinizi mantıksız hissettiğiniz o anlar aslında beyninizin diğer yarısının konuşma çabasıdır."
+  },
+  "caption": "İnsan zihni, dışarıdan bakıldığında tek bir bütün gibi görünse de, derinde sürekli bir müzakere halinde olan iki farklı merkezin ortak çalışmasıdır. Sol yarım küre kelimeleri ve mantığı seçerken; sağ yarım küre tonu, duygusal bağlamı ve sezgileri kucaklar. Günlük hayatta mantığımızla verdiğimiz kararların aniden duygusal dalgalanmalarla bozulması, bu iki alanın arasındaki sürekli etkileşimin bir yansımasıdır. Kendinizi iki farklı düşünce arasında sıkışmış hissediyorsanız, bu durum zihninizin doğasından kaynaklanmaktadır. \n\n#psikoloji #nöropsikoloji #zihinyönetimi #beyin #mantıkveduygu #içselbüyüme #ya_da_psikoloji",
+  "processed_at": "2026-09-26 17:09:01"
+}

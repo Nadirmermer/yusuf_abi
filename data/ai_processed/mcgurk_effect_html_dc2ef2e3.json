@@ -1,0 +1,133 @@
+{
+  "id": "mcgurk_effect_html_dc2ef2e3",
+  "original_title": "What is the McGurk Effect?",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/mcgurk-effect.html",
+  "published_date": "2026-09-17T11:34:25+00:00",
+  "read_time_minutes": 12,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mcgurk-effect.jpeg",
+      "alt": "What is the McGurk Effect?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--300x97.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sapir-whorf-hypothesis-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bottom-up-processing-300x131.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-memory-300x111.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/inattentional-blindness-300x180.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Ayesh-Perera.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2448,
+  "turkce_baslik": "Gördüklerimiz Duyduklarımızı Nasıl Manipüle Eder: McGurk Etkisi ve Algısal Yanılsamalar",
+  "kanca_sorusu": "Karşınızdaki insan size hakikat olduğunu iddia ettiği bir şey söylerken, aslında kendi görmek istediğiniz şeyi mi duyuyorsunuz?",
+  "score": 45,
+  "puan_nedeni": "Metin, bilişsel psikolojinin klasik bir duyusal algı ve nörolojik yanılsama deneyini (McGurk Etkisi) ele almaktadır. Doğrudan ilişkisel çatışmalar veya bağlanma dinamikleri yerine temel algı süreçlerine odaklandığı ve akademik bir fenomeni incelediği için puanı katı bir şekilde düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, dış dünyadan gelen uyaranları pasif bir şekilde kaydetmez; onları sürekli olarak kendi süzgecinden geçirerek yeniden inşa eder. McGurk etkisi, gözlerimizle kulaklarımız çeliştiğinde beynimizin hangisini seçeceğine dair büyüleyici bir yanılsamayı gözler önüne serer. Ses başka bir şey söylerken, dudak hareketleri bambaşka bir hikaye anlatıyorsa, zihnimiz bu iki çelişkili gerçekliği uzlaştırmak için üçüncü bir gerçeklik yaratır. Bu durum, günlük hayatta insan ilişkilerine de Fisher-Price sadeliğinde yansımaz. Partnerimizin bize söylediği sözler ile beden dilinin yaydığı sinyaller uyuşmadığında, aslında neyi duyduğumuz değil, zihnimizin neyi duymayı seçtiği kritik hale gelir. Algı, gerçeğin kendisi değil, bizim o gerçeğe yüklediğimiz anlamdır. Çoğu zaman karşımızdakinin ne dediğini değil, görmek istediğimiz yüzü duyarız. Zihnimizin bu otomatik uzlaştırma çabası, ilişkilerdeki yanlış anlaşılmaların ve kaçırılan sinyallerin de temelini oluşturur.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Gördüklerimiz Duyduklarımızı Nasıl Yutar?",
+      "body": "Zihnimiz, algıladığımız çelişkili dünyayı anlamlandırmak için sürekli bir yanılsama üretir.",
+      "highlight_box": "Algı, gerçeğin kendisi değil, zihnin uzlaşma çabasıdır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "McGurk Etkisi ve Zihinsel Kurgu",
+      "body": "1976 yılında keşfedilen bu bilişsel fenomen, ses ve görsel uyaranlar çeliştiğinde beynin üçüncü bir gerçeklik yarattığını kanıtlar.",
+      "highlight_box": "Gözler kulakları yendiğinde ne olur?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Dikkat Dağılımı ve Yanılsama",
+      "body": "Çevresel faktörler ve odak kaymaları, beynin bu algısal oyunları oynama kapasitesini doğrudan etkiler.",
+      "highlight_box": "Odaklandığımız yer, gerçeği algılayış biçimimizi belirler.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "İlişkilerde Algısal Çelişkiler",
+      "body": "Partnerinizin kelimeleri ile beden dili uyuşmadığında, zihniniz boşluğu kendi korkuları veya arzularıyla doldurur.",
+      "highlight_box": "Duyduğunuz mu gerçek, yoksa görmek istediğiniz mi?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Gerçeği Filtrelemek",
+      "body": "Otomatik varsayımlardan sıyrılmak için zihnin yarattığı illüzyonları fark etmeyi öğrenmek gerekir.",
+      "highlight_box": "Her duyduğunuza ve gördüğünüze hemen inanmayın.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizin kurduğu senaryolarla gerçekte olanlar arasındaki farkı ayırt edebilmek olgunlaşmanın ta kendisidir.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Kulaklarınızın size yalan söylediğini biliyor musunuz?",
+    "konusma_metni": "McGurk etkisi tam olarak bunu kanıtlıyor. Bazen karşımızdaki insanın dudak hareketleriyle çıkardığı ses birbirini tutmaz ve zihnimiz bu iki çelişkiyi çözmek için tamamen uydurma bir üçüncü gerçeklik yaratır. Aynen ilişkilerde olduğu gibi. Partnerinizin sözlerine değil, beden diline odaklandığınızda, aslında duymak istediğiniz şeyi duyarsınız. Gerçek mi, yoksa zihninizin yarattığı bir yanılsama mı?"
+  },
+  "caption": "Zihnimiz dış dünyadan gelen uyaranları kaydetmekle kalmaz; onları kendi süzgecinden geçirerek yeniden yazar. Ses ile görüntü, kelimeler ile beden dili uyuşmadığında beynimiz bu çelişkiyi çözmek için bir illüzyon üretir. İlişkilerde de durum farklı değildir. Karşımızdakinin ne söylediğinden ziyade, bizim neyi duymaya programlandığımız gerçeği şekillendirir. Algı yanılmaları ve zihin yönetimi üzerine derinlemesine bir bakış.\n\n#bilişselpsikoloji #algıyanılsaması #zihinyönetimi #nöropsikoloji #ilişkipsikolojisi #farkındalık",
+  "processed_at": "2026-09-26 17:02:21"
+}

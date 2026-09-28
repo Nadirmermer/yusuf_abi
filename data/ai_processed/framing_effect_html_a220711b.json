@@ -1,0 +1,133 @@
+{
+  "id": "framing_effect_html_a220711b",
+  "original_title": "Framing Effect In Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/framing-effect.html",
+  "published_date": "2026-09-17T11:05:39+00:00",
+  "read_time_minutes": 15,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/framing-effect.jpeg",
+      "alt": "Framing Effect In Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/availability-heuristic-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/heuristics-cognitive-bias-300x239.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/anchoring-effect-bias-300x240.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Prospect-Theory-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/halo-effect-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mere-exposure-effect-300x240.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Ayesh-Perera.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2993,
+  "turkce_baslik": "Çerçeveleme Yanılgısı: İlişkilerde Kelimelerin Gizli Manipülasyonu",
+  "kanca_sorusu": "Size sunulan kelimeler gerçekliği mi yansıtıyor, yoksa görmenizi istedikleri pencereyi mi?",
+  "score": 45,
+  "puan_nedeni": "Makale bilişsel psikoloji, Kahneman ve Tversky'nin karar teorileri ile klasik çerçeveleme deneylerini ele almaktadır. Doğrudan ilişkisel dinamikler ve duygusal bağlar yerine genel bir bilişsel yanlıklığı incelediği için akademik kategoriye daha yakındır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, nesnel gerçeklikle nadiren doğrudan temas kurar. Çoğu zaman bize sunulan ambalajla, yani kelimelerin yarattığı çerçeveyle karar veririz. Aynı bilgi, bir kazanç ya da kayıp olarak sunulduğunda verdiğimiz tepkiler kökten değişir. İlişkilerde de durum farklı değildir. Partnerinizin size hissettirdikleri veya olayları aktarış biçimi, olayların özünden ziyade sizin hangi çerçeveden baktığınızı belirler. Kayıp korkusu, kazanç umudundan her zaman daha ağır basar ve bu asimetri, bizi manipülasyona veya yanlış kararlara açık hale getirir. Zihinsel tuzaklardan kurtulmanın yolu, kelimelerin arkasındaki asıl veriyi nesnel bir süzgeçten geçirmektir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Çerçeveleme Yanılgısı",
+      "body": "Gerçekler değil, o gerçeklerin size nasıl sunulduğu kararlarınızı belirler.",
+      "highlight_box": "Kelimeler sadece bilgi aktarmaz, zihni yönlendirir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Aynı Gerçek, Farklı Tepki",
+      "body": "Yüzde doksan başarı oranı ile yüzde on başarısızlık ihtimali matematiksel olarak aynıdır ancak zihnimizde uyandırdıkları his tamamen zıttır.",
+      "highlight_box": "Hangisi daha güvenli hissettiriyor?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Kayıp Korkusu Baskınlığı",
+      "body": "İnsan psikolojisi kaybetme korkusuyla hareket etmeye, kazanma ihtimalinden çok daha fazla meyillidir. Olumsuz çerçeveler risk alma eğilimini artırır.",
+      "highlight_box": "Kayıplar, kazanımlardan iki kat daha fazla acı verir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "İlişkilerde Çerçeveleme",
+      "body": "Partnerinizin tartışmalarda geçmişi hangi odakla ele aldığı, sizin suçluluk veya savunma psikolojisine girmenizi belirleyen ana etkendir.",
+      "highlight_box": "Cümlelerin arkasındaki referans noktasına bakın.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kısırdöngüyü Kırmak",
+      "body": "Bir karar verirken veya bir eleştiri alırken sunulan ambalajı bir kenara bırakın ve ham veriyi incelemeyi alışkanlık haline getirin.",
+      "highlight_box": "Perspektifinizi bilinçli olarak değiştirin.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizin hangi çerçeveye hapsedildiğini fark ettiğiniz an, kendi kararlarınızın kontrolünü yeniden elinize alırsınız.",
+      "highlight_box": "Farkındalık için bu içeriği kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Aynı gerçeklik, iki farklı kelime ve tamamen değişen kararlar.",
+    "konusma_metni": "Biri size yüzde doksan başarılı bir ameliyat dediğinde içiniz rahat eder. Ama aynı ameliyata yüzde on başarısızlık ihtimali denildiğinde korkarsınız. Oysa matematik aynıdır. Zihnimiz kelimelerin yarattığı çerçevelere mahkûmdur. İlişkilerde de partnerinizin cümleleri sizi korkutarak mı, yoksa umut vererek mi yönlendiriyor? Gerçek veriye mi bakıyorsunuz, yoksa size sunulan ambalaja mı?"
+  },
+  "caption": "Zihnimiz, olayların özünden çok bize sunuluş biçimine tepki verir. Buna psikolojide çerçeveleme yanılgısı denir. Aynı durum, kayıp odaklı ya da kazanç odaklı sunulduğunda verdiğimiz kararlar kökten değişir. İlişkilerde ve günlük hayatta maruz kaldığımız bu yönlendirmeleri fark etmek, kendi irademizi geri almanın ilk adımıdır. #bilişselpsikoloji #kararverme #zihinfaaliyeti #psikolojikfarkındalık #bilişselyanılgı #ilişkipsikolojisi",
+  "processed_at": "2026-09-26 17:06:26"
+}

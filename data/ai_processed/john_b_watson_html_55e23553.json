@@ -1,0 +1,133 @@
+{
+  "id": "john_b_watson_html_55e23553",
+  "original_title": "John B. Watson",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/john-b-watson.html",
+  "published_date": "2026-09-17T11:32:18+00:00",
+  "read_time_minutes": 25,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/john-watson-1.jpg",
+      "alt": "John B. Watson",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/behaviorist-approach-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/thorndike-300x121.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Pavlovs-Dogs-Experiment-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/John-Dewey-300x240.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-cognitive-theory-300x145.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Pavlov-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/little-albert2.jpg",
+      "alt": "little albert2",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4961,
+  "turkce_baslik": "Davranışçılığın Kökeni ve John B. Watson: Zihni Yok Sayan Bir Bilim Anlayışı",
+  "kanca_sorusu": "İç dünyanızın, duygularınızın ve korkularınızın sadece çevresel uyarıcılara verilen otomatik tepkilerden ibaret olabileceğini hiç düşündünüz mü?",
+  "score": 45,
+  "puan_nedeni": "Metin tamamen tarihsel bir psikoloji ekolü, John B. Watson'ın akademik teorileri ve davranışçılık tarihi üzerine kuruludur. Günlük ilişkisel çatışmalar, bağlanma stilleri veya bireysel içgörüler barındırmadığı, kuru akademik ve tarihi bilgi ağırlıklı olduğu için düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "John B. Watson, 20. yüzyılın başlarında psikoloji dünyasını kökten sarsarak iç gözlem yöntemini bir kenara itmiş ve davranışçılık akımını kurmuştur. Ona göre psikoloji, zihnin karmaşık ve ölçülemez derinlikleriyle değil, yalnızca dışarıdan gözlemlenebilir eylemlerle ilgilenmelidir. Çevrenin insan davranışı üzerindeki mutlak gücünü savunan Watson, genetik faktörleri ve içsel süreçleri büyük ölçüde reddetmiştir. Küçük Albert deneyiyle korkunun bile sonradan koşullanmayla öğrenilebileceğini kanıtlaması, hem psikoloji tarihine damga vurmuş hem de etik tartışmaların fitilini ateşlemiştir. Bugün modern psikoloji Watson'ın dogmatik ve katı yaklaşımını aşmış olsa da, davranışçı terapilerin temelleri hala onun attığı bu sert bilimsel zeminde yükselmektedir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "TARİHSEL KÖK",
+      "title": "Zihni Reddeden Bir Bilim",
+      "body": "John B. Watson, psikolojinin içsel düşüncelerle değil, yalnızca gözlemlenebilir davranışlarla ilgilenmesi gerektiğini savundu.",
+      "highlight_box": "Davranışçılığın doğuşu.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "İÇGÖRÜ",
+      "title": "Çevre Her Şey Midir?",
+      "body": "Watson, doğuştan gelen özelliklerin yerine çevresel koşullandırmanın insan davranışını tamamen şekillendirdiğini öne sürdü.",
+      "highlight_box": "Doğa mı, çevre mi?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "DENEY",
+      "title": "Küçük Albert Vakası",
+      "body": "İnsanlardaki korku tepkilerinin doğuştan değil, tıpkı Pavlov'un köpekleri gibi sonradan koşullanmayla öğrenildiğini kanıtladı.",
+      "highlight_box": "Öğrenilmiş korkular.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "YÖNTEM",
+      "title": "İç Gözleme Savaş",
+      "body": "Öznel değerlendirmeleri bilim dışı bulan Watson, psikolojinin tamamen nesnel ölçümlere dayanması gerektiğini savundu.",
+      "highlight_box": "Sıkı bilimsel yöntemler.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "ETKİ",
+      "title": "Akademiden Reklamcılığa",
+      "body": "Davranışçı teoriler sadece terapiyi değil, aynı zamanda kitlelerin yönlendirilmesi ve reklamcılık stratejilerini de dönüştürdü.",
+      "highlight_box": "Kontrol ve tahmin.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Geçmişin Aynası",
+      "body": "Watson'ın radikal görüşleri bugün tartışılsa da, modern davranışçı terapilerin temelinde onun attığı adımlar yer almaktadır.",
+      "highlight_box": "Daha fazlası için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Korkularınızın aslında size ait olmayıp dışarıdan programlandığını biliyor musunuz?",
+    "konusma_metni": "John B. Watson 20. yüzyılın başında psikolojiyi tamamen değiştirdi. Ona göre insan zihni görünmez düşüncelerle değil, sadece çevresel uyarıcılara verilen tepkilerle yönetiliyordu. İç dünyayı yok sayan bu radikal yaklaşım, korkularımızın bile nasıl dışarıdan koşullandırılabileceğini gösterdi. Davranışçılığın kökenine iniyoruz."
+  },
+  "caption": "John B. Watson ve davranışçılık akımı, psikoloji tarihinin en keskin dönüm noktalarından biridir. Zihinsel süreçleri tamamen dışarıda bırakarak sadece gözlemlenebilir eylemlere odaklanan bu yaklaşım, modern terapilerin ve öğrenme teorilerinin temelini oluşturmuştur. Psikoloji tarihine ve insan davranışının kökenlerine dair bu analizi okuduktan sonra kendi reflekslerinizi hangi çevresel etkenlerle şekillendirdiğinizi sorguladınız mı?\n\n#psikolojitarihi #davranışçılık #johnbwatson #öğrenmetevorileri #bilimselpsikoloji #zihinyönetimi",
+  "processed_at": "2026-09-26 02:43:13"
+}

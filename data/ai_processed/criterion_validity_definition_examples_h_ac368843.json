@@ -1,0 +1,133 @@
+{
+  "id": "criterion_validity_definition_examples_h_ac368843",
+  "original_title": "Criterion Validity: Definition & Examples",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/criterion-validity-definition-examples.html",
+  "published_date": "2026-09-17T10:59:44+00:00",
+  "read_time_minutes": 14,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/criterion-validity.jpeg",
+      "alt": "Criterion Validity: Definition & Examples",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Validity-Reliability-300x217.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/exam.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/content-validity-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confirmability-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-construction-reality-300x157.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/zimbardo-guards-300x158.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/headshot.webp",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2837,
+  "turkce_baslik": "Gerçekleri Ne Kadar Ölçebiliyoruz: İlişkilerde ve Testlerde Kriter Geçerliliği",
+  "kanca_sorusu": "Hayatınızda güvendiğiniz o insan veya test, aslında ne kadar gerçek bir temele dayanıyor?",
+  "score": 42,
+  "puan_nedeni": "Metin tamamen araştırma metodolojisi, psikometri ve istatistiksel geçerlilik kurallarını ele almaktadır. Doğrudan ilişkisel bir içgörü veya duygusal bir ayna etkisi barındırmadığı, kuru bir akademik metodoloji tanımı olduğu için düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Psikolojide ve günlük hayatta bir şeyin doğruluğunu kanıtlamak, elimizdeki ölçüm aracının ne kadar güvenilir olduğuyla doğrudan ilişkilidir. Kriter geçerliliği, yeni bir testin veya değerlendirmenin, halihazırda kabul görmüş altın standartlarla ne kadar örtüştüğünü inceler. Eş zamanlı veya geleceğe dönük yapılan bu kıyaslamalar, bilimsel dünyada kritik kararların alınmasını sağlar. Ancak bu süreç, seçilen kriterin kendisinde bir hata olduğunda tamamen çöker. Tıpkı insan ilişkilerinde karşımızdaki kişinin bize sunduğu imajın, zamanla ortaya çıkan gerçek davranış kriterleriyle uyuşmaması gibi, ölçüm araçları da ancak gerçeklikle bağ kurabildikleri sürece anlamlıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Gerçekleri Ne Kadar Doğru Ölçüyoruz?",
+      "body": "Bir testin veya ifadenin geçerliliği, ancak kabul edilmiş standartlarla kıyaslandığında anlaşıla bilinir.",
+      "highlight_box": "Kriter geçerliliği nedir?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Altın Standart Problemi",
+      "body": "Seçilen kriterin kusurlu olması, tüm değerlendirme sürecini tehlikeye atar.",
+      "highlight_box": "Ölçtüğümüz şey gerçekten o mu?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Eş Zamanlı Geçerlilik",
+      "body": "Yeni bir testin skorunun, aynı anda ölçülen ve kabul görmüş mevcut bir testle olan korelasyonudur.",
+      "highlight_box": "Aynı anda yapılan kıyaslama",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Geleceğe Dönük Tahmin",
+      "body": "Mevcut test skorlarının, ileride ortaya çıkacak sonuçları ne kadar doğru öngördüğünün incelenmesidir.",
+      "highlight_box": "Geleceği tahmin etmek",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Bilimsel Doğruluk Adımları",
+      "body": "Yüksek bahisli kararlarda güvenilir sonuçlar elde etmek için güçlü korelasyonlar ve sağlam kriterler şarttır.",
+      "highlight_box": "Temel sağlam olmalıdır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış ve Hatırlatma",
+      "body": "Ölçüm araçlarının güvenilirliği, kararlarımızın isabet oranını belirler.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Bir testin veya bir insanın söylediklerinin ne kadar gerçeği yansıttığını nasıl anlarsınız?",
+    "konusma_metni": "Bugün psikolojide ve araştırmalarda sıklıkla kullanılan kriter geçerliliğine bakıyoruz. Kriter geçerliliği, yeni bir ölçümün veya testin, elimizdeki güvenilir bir standartla ne kadar uyuştuğunu inceler. İki türü vardır: Eş zamanlı ve geleceğe dönük. Ancak en kritik nokta şudur: Kriterin kendisi hatalıysa, yaptığınız tüm ölçüm yanıltıcı olur."
+  },
+  "caption": "Psikolojide ve araştırmalarda bir testin ya da ölçümün geçerliliğinden bahsetmek için kriter geçerliliği hayati bir rol oynar. Yeni bir ölçüm aracının, halihazırda güvenilir kabul edilen bir dış standartla ne kadar uyumlu olduğu, elde edilen sonuçların doğruluğunu belirler. Eş zamanlı ve geleceğe dönük olmak üzere iki temel türü bulunan bu süreç, özellikle kritik kararların alındığı alanlarda büyük önem taşır. Ancak temel kural değişmez: Kriterin kendisi kusurluysa, yapılan tüm değerlendirme yanıltıcıdır. Psikoloji, Araştırma Yöntemleri, Kriter Geçerliliği, Psikometri, Bilimsel Araştırma, Test Güvenilirliği",
+  "processed_at": "2026-09-26 02:43:46"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "p_value_calculator_from_f_ratio_anova_ht_0ad37e5e",
+  "url": "https://www.simplypsychology.org/p-value-calculator-from-f-ratio-anova.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "P Value Calculator From F Ratio (ANOVA)",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2024-07-02T09:09:19+00:00",
+  "date_modified": null,
+  "read_time_minutes": 2,
+  "word_count": 353,
+  "summary": "Psychology»Statistics",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Statistics",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Which post hoc test to use for one-way ANOVA?",
+      "content": "If a one-way ANOVA is significant, you can determine which group has the most effect on the dependent variable through post-hoc tests. Common methods include:\n\n- Tukey’s HSD: Use when you want to compare all possible pairs of group means with good balance between Type I error control and statistical power.\n\n- Bonferroni: Choose this when you need a simple, conservative approach that strongly controls the family-wise error rate, especially useful for a small number of planned comparisons.\n\n- Scheffe’s: Opt for this method when you need flexibility to test all possible contrasts among group means, not just pairwise comparisons.\n\n- Dunnett’s: Select this test when you specifically want to compare multiple treatment groups to a single control group.\n\n- Games-Howell: Employ this test when your groups have unequal variances or unequal sample sizes, as it doesn’t assume homogeneity of variances.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "How to report a post hoc test APA Style",
+      "content": "McLeod, S. (2024). P Value Calculator From F Ratio (ANOVA). Simply Psychology. https://www.simplypsychology.org/p-value-calculator-from-f-ratio-anova.html\n\nMcLeod, Saul. \"P Value Calculator From F Ratio (ANOVA).\" Simply Psychology, 2 July 2024, https://www.simplypsychology.org/p-value-calculator-from-f-ratio-anova.html.\n\nMcLeod, S. (2024) P Value Calculator From F Ratio (ANOVA). Simply Psychology. Available at: https://www.simplypsychology.org/p-value-calculator-from-f-ratio-anova.html (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 3,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/anova-calculator.jpg",
+      "alt": "P Value Calculator From F Ratio (ANOVA)",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/one-way-ind-anova-300x183.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/t-test-formula-300x129.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cohen-d-300x142.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Chi-Square-Test-of-Independence-300x186.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/chi-squared-equation-300x169.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# P Value Calculator From F Ratio (ANOVA)\n\n> Psychology»Statistics\n\n## Giriş\n\nPsychology»Statistics\n\n## Which post hoc test to use for one-way ANOVA?\n\nIf a one-way ANOVA is significant, you can determine which group has the most effect on the dependent variable through post-hoc tests. Common methods include:\n\n- Tukey’s HSD: Use when you want to compare all possible pairs of group means with good balance between Type I error control and statistical power.\n\n- Bonferroni: Choose this when you need a simple, conservative approach that strongly controls the family-wise error rate, especially useful for a small number of planned comparisons.\n\n- Scheffe’s: Opt for this method when you need flexibility to test all possible contrasts among group means, not just pairwise comparisons.\n\n- Dunnett’s: Select this test when you specifically want to compare multiple treatment groups to a single control group.\n\n- Games-Howell: Employ this test when your groups have unequal variances or unequal sample sizes, as it doesn’t assume homogeneity of variances.\n\n## How to report a post hoc test APA Style\n\nMcLeod, S. (2024). P Value Calculator From F Ratio (ANOVA). Simply Psychology. https://www.simplypsychology.org/p-value-calculator-from-f-ratio-anova.html\n\nMcLeod, Saul. \"P Value Calculator From F Ratio (ANOVA).\" Simply Psychology, 2 July 2024, https://www.simplypsychology.org/p-value-calculator-from-f-ratio-anova.html.\n\nMcLeod, S. (2024) P Value Calculator From F Ratio (ANOVA). Simply Psychology. Available at: https://www.simplypsychology.org/p-value-calculator-from-f-ratio-anova.html (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:35:28.397945"
+}

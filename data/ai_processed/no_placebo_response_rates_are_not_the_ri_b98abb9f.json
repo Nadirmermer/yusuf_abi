@@ -1,0 +1,199 @@
+{
+  "id": "no_placebo_response_rates_are_not_the_ri_b98abb9f",
+  "original_title": "New study undercuts the notion that antidepressant effects are placebo effects.",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/in-practice/201610/no-placebo-response-rates-are-not-the-rise",
+  "published_date": "2016-10-13T12:14:22-04:00",
+  "read_time_minutes": 45,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/Untitled_19.jpg?itok=fxhLB7Br",
+      "alt": "Image 9: Peter D Kramer",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/Medicine_Drug_Pills_on_Plate.png?itok=wAhZ8vhK",
+      "alt": "Image 15: Katefreedman/Wikimedia Commons",
+      "caption": null,
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-04/pexels-alena-shekhovtcova-6074961_1.jpg?itok=Pky0J6mG",
+      "alt": "Image 16: Alena Shekhovtcova / Pexels",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-01/pexels-ron-lach-9902269.jpg?itok=GVjg6O6M",
+      "alt": "Image 17: Ron Lach / Pexels",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/thumbnail_115x140/public/field_user_blogger_photo/Untitled_19.jpg?itok=kovd_byn",
+      "alt": "Image 23: Peter D Kramer",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/zilchzeronada_-_white_0.jpg?itok=MpaD85wu",
+      "alt": "Image 24: wikicommons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/faces2_mck_original_sketch_1_0.jpg?itok=b7ZdHDVC",
+      "alt": "Image 25: image by Matthew C Kramer",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/kinsella__1__0.jpg?itok=R8UIGzED",
+      "alt": "Image 26: website of W P Kinsella",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/faces2_mck_original_sketch_0.jpg?itok=gDt_qvHn",
+      "alt": "Image 27: copyright Matthew C Kramer",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/2022-06/img_3145.jpg?itok=6eq3iZ7Y",
+      "alt": "Image 28: Image by Susan Sands",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/2020-06/wellness-285590_640.jpg?itok=cLSTCDMa",
+      "alt": "Image 29: Pixabay Jurgen Rubig",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/hero_image/pt_self_test/2024-05/tests-mental-health-assessment-hero-large.jpg?itok=PZQCv4fs",
+      "alt": "Image 30: Hugo Felix / Shutterstock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/pexels-josh-hild-1270765-16952091.jpg?itok=pJgL6hlY",
+      "alt": "Image 31: Pexels/Josh Hild",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/shutterstock_1476591212_hi_small_roman_samborskyi.jpg?itok=j_y1vNI5",
+      "alt": "Image 32: Roman Samborskyi/Shutterstock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_images/2026-08/bellinon-cloud-3719093_1920.png.jpg?itok=OCKYAOlI",
+      "alt": "Image 33: Image by Bellinon from Pixabay",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/black_man_thinking.jpg?h=c6cc8e0b&itok=5FB-k0td",
+      "alt": "Image 34: Source: Jacob Lund/Adobe PhotoStock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/pexels-mikhail-nilov-8670519.jpg?itok=vyp2W7rK",
+      "alt": "Image 35: Mikhail Nilov / Pexels",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2025-12/shutterstock_2713769427.jpg?itok=wdXPwYSa",
+      "alt": "Image 38: Shutterstock AI image generator",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2024-09/pexels-pixabay-163116.jpg?itok=Fx73_d3t",
+      "alt": "Image 39: Pixabay / Pexels",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2024-01/christina-victoria-craft-ZHys6xN7sUE-unsplash.jpg?h=de84d87d&itok=5oy6v_t8",
+      "alt": "Image 40: Christina Victoria Craft/Unsplash",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/default_images/counseling.jpg",
+      "alt": "Image 41: Counselling",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 9027,
+  "turkce_baslik": "İyileşmeniz Sadece Bir İllüzyon Mu: Antidepresanlar ve Plasebo Gerçeği",
+  "kanca_sorusu": "Kullandığınız ilaçlar gerçekten mi işe yarıyor, yoksa iyileşmeyi beklediğiniz için mi iyi hissediyorsunuz?",
+  "score": 45,
+  "puan_nedeni": "Metin farmakolojik araştırmaların istatistiksel analizlerini ve plasebo oranlarını inceleyen akademik bir makaleye dayandığı için klinik psikolojinin doğrudan ilişkisel ve duygusal derinliğinden uzaktır. Kuru akademik ve istatistiksel ton barındırır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Ruhsal olarak tükenmiş hissettiğimizde, dışarıdan aldığımız desteğin gerçek gücünü sorgulamak insan zihninin en temel reflekslerinden biridir. Uzun yıllar boyunca psikiyatri dünyasında, antidepresanların yarattığı iyileşmenin aslında ilacın biyokimyasal etkisinden değil, hastanın iyileşme inancından yani plasebo etkisinden kaynaklandığı argümanı savunuldu. Araştırmalar, plasebo oranlarının yıllar içinde arttığını ve bunun toplumsal inançla ilişkili olduğunu öne sürse de, son dönemdeki metodolojik düzeltmeler bu teorinin temellerini sarsmaktadır.\n\nTakipçilerimizin günlük yaşamda sıkça yaşadığı 'Acaba bu hissettiklerim tamamen benim kuruntum mu?' ya da 'Kendi kendimi mi kandırıyorum?' kaygısı, bu bilimsel tartışmanın bireysel yansımasıdır. Zihin ve beden arasındaki bağ o kadar güçlüdür ki, iyileşme ihtimali bile başlı başına bir umut kaynağı olabilir. Ancak bilimsel veriler, farmakolojik müdahalelerin ve psikoterapinin sadece birer telkinden ibaret olmadığını, nörolojik ve psikolojik gerçekliğe dayandığını net bir şekilde göstermektedir.\n\nİyileşme yolculuğunda kişinin kendi içsel süreçlerini sorgulaması normaldir. Destek alırken ya da tedavi görürken 'acaba bu sahte mi' şüphesiyle yaşamak yerine, profesyonel yardımların insan psikolojisindeki somut karşılığını kabul etmek gerekir. Zihin karmaşık bir yapıdır ve iyileşme, hem inancın hem de doğru bilimsel müdahalelerin ortak bir ürünü olarak gerçekleşir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "İyileşme Bir İllüzyon Mu",
+      "body": "Aldığınız desteğin ya da ilaçların gerçek gücünü hiç sorguladınız mı?",
+      "highlight_box": "Acaba her şey inançtan mı ibaret?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Plasebo Yanılgısı",
+      "body": "Yıllarca iyileşmenin sadece ilaca duyulan inançla gerçekleştiği savunuldu.",
+      "highlight_box": "Beklenti mi, gerçek etki mi?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "İstatistiksel Hatalar",
+      "body": "Geçmişteki araştırmalarda drop-out yani tedaviyi bırakan hastaların göz ardı edilmesi oranları yanlış gösterdi.",
+      "highlight_box": "Veriler ne söylüyor?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Zihinsel Kuşku",
+      "body": "Bireylerin kendi iyileşme süreçlerinden şüphe duyması ve her şeyi zihinlerinde yarattıklarını sanması.",
+      "highlight_box": "Kendi kendimi mi kandırıyorum?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Gerçekçi Kabul",
+      "body": "Bilimsel veriler ve profesyonel destek, plasebo etkisinin ötesinde somut bir iyileşme sağlar.",
+      "highlight_box": "Destek almak bir zayıflık değil, gerçektir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Güven",
+      "body": "İyileşme yolculuğunuzda aldığınız profesyonel yardımların değerini küçümsemeyin.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "İlaçlarınızı içtiğinizde iyileşmenizin tek sebebi sadece inanmak mı?",
+    "konusma_metni": "Yıllarca antidepresanların sadece birer plasebo olduğu, yani inancımız sayesinde işe yaradığı söylendi. Ancak yapılan son araştırmalar bu yaygın inanışın metodolojik hatalara dayandığını gösteriyor. Ruhsal iyileşmemiz sadece bir illüzyon değil. Zihnimizin ve aldığımız desteğin gerçek bir karşılığı var. Kendinizi kandırdığınızı düşünmeyi bırakın."
+  },
+  "caption": "Ruhsal iyileşme süreçlerinde en sık karşılaşılan sorulardan biri, hissedilen rahatlamanın gerçekten tedaviye mi yoksa sadece iyileşme beklentisine mi ait olduğudur. Uzun süredir antidepresan etkilerinin büyük ölçüde plasebo olduğu yönündeki argümanlar, yapılan yeni ve kapsamlı metodolojik incelemelerle yeniden ele alınıyor. Bireylerin kendi iyileşme süreçlerinden şüphe duyması, zihnin kaygılı yapısının bir yansımasıdır. Ancak bilimsel araştırmalar, farmakolojik ve psikolojik müdahalelerin sadece birer inanç sisteminden ibaret olmadığını, somut karşılıkları olduğunu gösteriyor. İyileşme yolculuğunuzda kendinizi sorgularken, aldığınız profesyonel desteğin gerçekliğini göz ardı etmeyin. Psikoloji, bilimsel zihin yönetimi, psikoterapi, ruh sağlığı, klinik psikoloji, iyileşme süreci.",
+  "processed_at": "2026-09-26 17:45:49"
+}

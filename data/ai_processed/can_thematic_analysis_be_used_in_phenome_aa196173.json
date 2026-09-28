@@ -1,0 +1,127 @@
+{
+  "id": "can_thematic_analysis_be_used_in_phenome_aa196173",
+  "original_title": "Can thematic analysis be used in phenomenology?",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/can-thematic-analysis-be-used-in-phenomenology.html",
+  "published_date": "2024-12-06T15:29:03+00:00",
+  "read_time_minutes": 6,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/organize-by-theme.jpg",
+      "alt": "Can thematic analysis be used in phenomenology?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/themes-300x158.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mixed-methods-design-300x196.webp",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Hermeneutic-Phenomenology.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/thematic-grounded-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Questionnaire-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/deductive-inductive.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1173,
+  "turkce_baslik": "Araştırma Metodolojisinin Ötesinde: Fenomenolojik Tematik Analiz",
+  "kanca_sorusu": "Bir insanın öznel deneyimini incelerken sadece kalıpları mı görüyorsunuz, yoksa o deneyimin özüne mi iniyorsunuz?",
+  "score": 45,
+  "puan_nedeni": "Metin, doğrudan ilişkisel dinamikler, bağlanma stilleri ya da bireyin günlük duygusal mücadeleleri yerine akademik araştırma metodolojisi ve metodolojik uyumluluk üzerine odaklandığı için editoryal kimliğimizin katı puanlama kuralına göre düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Akademik literatürde tematik analiz ile fenomenolojik yaklaşımın kesişimi, aslında insan zihninin karmaşıklığını anlamaya çalışırken düştüğümüz bir tuzağı gözler önüne serer. Yüzeysel kalıpları yakalamak ile bir deneyimin özüne inmek aynı şey değildir. Günlük hayatta da başkalarının ya da kendi davranışlarımızın sadece dışsal görüntülerine odaklanır, arkalarındaki derin anlamı kaçırırız. Bir ilişkinin ya da travmanın dinamiklerini incelerken, sadece ne söylendiğine değil, o deneyimin kişinin dünyasında ne anlama geldiğine bakmak gerekir. Metodolojik titizlik, tıpkı insan ilişkilerindeki sınırlar gibi, yüzeyselliğin ötesine geçmemizi sağlar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Görünenin Ötesine Bakmak",
+      "body": "Deneyimlerin sadece yüzeyindeki kalıpları görmek, gerçeğin derinliğini anlamamızı engeller.",
+      "highlight_box": "Yüzeysel kalıplar özü gizler.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Anlam Arayışı ve Deneyim",
+      "body": "İnsan deneyimini anlamak, sadece ne söylendiğine değil, o deneyimin ne anlama geldiğine odaklanmayı gerektirir.",
+      "highlight_box": "Bunu kendi hayatınızda nasıl yapıyorsunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Veriye Sadakat ve Derinlik",
+      "body": "Kanıtların ötesine geçmeden, ancak yüzeyde de kalmadan gerçeği aramak gerekir.",
+      "highlight_box": "Kanıtlarla desteklenen bir farkındalık.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Yöntemde Şeffaflık",
+      "body": "Kendi önyargılarımızı fark etmek ve analitik süreci dürüstçe incelemek şarttır.",
+      "highlight_box": "Önyargılarla yüzleşmek cesaret ister.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Alternatifleri Değerlendirmek",
+      "body": "Her yöntem her soruya uygun değildir; doğru aracı seçmek süreci dönüştürür.",
+      "highlight_box": "Unutmayın: Bu bilinçli bir seçim sürecidir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Öze İnmek",
+      "body": "Gerçek anlayış, yüzeysel açıklamaların ötesine geçebildiğimizde başlar.",
+      "highlight_box": "Derinlemesine düşünmek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Bir deneyimin sadece görünen kısmına odaklandığınızda, aslında gerçeğin tamamını kaçırırsınız.",
+    "konusma_metni": "Psikolojik araştırmalarda ya da kendi hayatımızda olayları incelerken sıklıkla yüzeydeki kalıplarla yetiniriz. Oysa tematik analiz ile fenomenolojiyi birleştirmek gibi, kendi iç dünyamızı anlamak da derin bir titizlik gerektirir. Sadece ne yaşadığınıza değil, o deneyimin sizin varoluşunuzu nasıl şekillendirdiğine bakmalısınız. Yüzeysel çözümler yerine özne inmek cesaret ister."
+  },
+  "caption": "Akademik araştırmalardan günlük insan ilişkilerine kadar en büyük yanılgımız, olayların ve deneyimlerin sadece yüzeyindeki kalıplarla yetinmektir. Oysa gerçek anlam, yüzeysel açıklamaların ötesine geçip deneyimin özüne odaklandığımızda ortaya çıkar. Araştırma metodolojisinde olduğu gibi, kendi iç dünyamızı anlamak da şeffaflık, derinlik ve dürüst bir yaklaşım gerektirir. Deneyimlerinizi nasıl ele alıyorsunuz? \n\nAraştırmaYöntemleri Psikoloji Fenomenoloji TematikAnaliz ÖznelDeneyim BilinçliFarkındalık Metodoloji",
+  "processed_at": "2026-09-26 03:17:33"
+}

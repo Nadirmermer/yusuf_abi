@@ -1,0 +1,50 @@
+{
+  "id": "meet_me_coffee_fae6b07e",
+  "url": "https://www.psychologytoday.com/us/blog/live-long-and-prosper/201601/meet-me-coffee",
+  "source": "Psychology Today",
+  "blog_name": "live-long-and-prosper",
+  "title": "Meet Me for Coffee",
+  "subtitle": null,
+  "author": "Jasmin Tahmaseb-McConatha Ph.D.",
+  "author_title": "Ph.D.",
+  "reviewer": null,
+  "published_date": "2016-01-21T08:37:01-05:00",
+  "date_modified": "2016-01-21T08:37:01-05:00",
+  "read_time_minutes": 1,
+  "word_count": 31,
+  "summary": "Are the cold days of winter making you feel disconnected? Has it been weeks since you met with your coffee and conversation group? You are not alone.",
+  "topics": [
+    "Loneliness"
+  ],
+  "key_points": [],
+  "sections": [],
+  "images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/from_iphone_april_2014_404_0.JPG.jpg?itok=qf55S6QG",
+      "alt": "Meet Me for Coffee",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/jasmin-tmcconatha.jpg?itok=j-cR37og",
+      "alt": "Jasmin Tahmaseb-McConatha Ph.D.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-08/woman_reading_by_window.jpg?h=557c4f39&itok=vpWzORkH",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-08/zoshua-colah-sekr1us3wiu-unsplash__1_.jpg?itok=X2Yc7Thy",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Meet Me for Coffee\n\n> Are the cold days of winter making you feel disconnected? Has it been weeks since you met with your coffee and conversation group? You are not alone.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-21T21:26:20.285397"
+}

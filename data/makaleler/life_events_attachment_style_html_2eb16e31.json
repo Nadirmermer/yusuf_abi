@@ -1,0 +1,169 @@
+{
+  "id": "life_events_attachment_style_html_2eb16e31",
+  "url": "https://www.simplypsychology.org/life-events-attachment-style.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Do Life Events Lead to Enduring Changes in Adult Attachment Styles?",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2024-01-29T09:49:29+00:00",
+  "date_modified": null,
+  "read_time_minutes": 8,
+  "word_count": 1587,
+  "summary": "News»Clinical Psychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "News»Clinical Psychology\n\nAttachment theory proposes that early childhood experiences with caregivers lead individuals to forminternal working modelsabout relationships that guide perceptions and behaviors in close relationships throughout life (Bowlby, 1969; Fraley, 2019).\n\nOn the one hand, the assumption that working models function as trait-like representations implies that attachment styles should be fairly resistant to change, reverting back toward initial “set points” even after disruptions (Fraley & Brumbaugh, 2004).\n\nOn the other hand, formulations of working models as continually updated based on relational experiences suggest that major events could potentially alter attachment representations permanently if the experiences are impactful enough (Davila & Sargent, 2003).",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Points",
+      "content": "- The study examined whether 25 different life events lead to immediate and/or enduring changes in adultattachment styles.\n\n- About half of the events were associated with immediate changes in attachment, but only a quarter were associated with enduring changes.\n\n- There were significant individual differences, with some people changing more than others following events.\n\n- How people construed events was related to whether they showed enduring change in attachment.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Rationale",
+      "content": "The study explains thatattachment theoryproposes mechanisms for both stability and change in attachment styles, but does not clearly specify whether experiences tend to lead to transient or enduring changes (Fraley et al., 2011).\n\nMost prior longitudinal research on life events and adult attachment has simply focused on comparing individuals who did or did not experience a given event at one point in time (Gillath et al., 2016).\n\nThis between-persons approach cannot address whether events shape within-person changes in attachment security enduringly versus transiently.\n\nOther studies have examined test-retest correlations in attachment security over time. But high stability estimates can mask enduring changes for subgroups of individuals (Karantzas et al., 2019).\n\nThis study uses alongitudinalinterrupted time-series design with a within-person analysis to assess trajectories before and after events, overcoming limitations in previous research.\n\nThe design allows for examining both short-term and long-term changes in response to major life events.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Method",
+      "content": "Attachment was measured using theECR-RS scaleon four dimensions: global/romantic avoidance/anxiety.\n\nLife events were measured with a checklist of 25 events spanning domains like:\n\n- Health(‘I was ill or sick’),\n\n- Work(‘I started a new job’),\n\n- Relationships(‘I started dating someone new’),\n\n- Family(‘I found out that I or my partner was pregnant’),\n\n- Location(‘I moved to a new location’),\n\n- Leisure(‘I took a vacation or went on holiday’).\n\nFor each event experienced, participants rated whether it was positive/rewarding or stressful.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Sample",
+      "content": "The data come from theyourPersonality longitudinal projectthat assessed adult attachment and life experiences approximately monthly over periods from 6 months to 3 years.\n\nThe sample included 4,920 participants with 3-24 waves of data.\n\nIn terms of demographics, the sample was predominantly white (74%) women (82%). The average age was 35 years. In terms of relationship status at the initial assessment, 39% were single, 35% dating, and 25% married. Education levels ranged from some high school (1%) to graduate degrees (28%).\n\nFor the analyses examining change in response to specific life events, subset samples were created for each of the 25 events. These “event-based samples” included participants who had experienced the given event at least once and completed a minimum of 3 assessment waves before and after the event.\n\nThe size of these subset samples varied widely across events based on how many participants met those criteria. For example, the subset for the event “I was ill or sick” included 832 participants, while the subset for the event “I retired” only included 14 participants.\n\nThis sample was used to analyze general patterns of stability and change in attachment styles over time.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Statistical Analysis",
+      "content": "The key analysis involved fitting longitudinal mixed effects models to estimate attachment trajectories before and after events.\n\nSeparate models were run for each of the 25 events and for each attachment outcome (global/romantic avoidance/anxiety).",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Results",
+      "content": "Both immediate and enduring changes in attachment were observed in response to major life events, clarifying important attachment dynamics. But enduring change was less common on average than transient change.\n\nAround half of events were associated with short-term/immediate changes in attachment, but only a quarter were related to enduring changes.\n\nFor example, starting a new relationship immediately decreased insecurity but no enduring changes. Having a conflict with a partner increases insecurity immediately and enduringly.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Immediate Changes",
+      "content": "- About half of the 25 life events studied were associated with immediate changes in attachment styles. For example, starting a new relationship led to decreases in attachment insecurity.\n\n- On average, immediate effects were small to moderate in size (about 0.05 SDs change for avoidance, 0.13 SD for anxiety).\n\n- Some findings were counterintuitive – for example, being apart from one’s partner was related to decreases in anxiety on average.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Enduring Changes",
+      "content": "- About a quarter of the events were related to enduring changes in attachment styles. For example, having a conflict with one’s partner was associated with enduring increases in romantic attachment insecurity.\n\n- On average, enduring effects were small in size (under 0.10 SDs).\n\n- There were significant individual differences in enduring change. The likelihood of changing by more than 1/3 SD ranged from 5% to 86% depending on the event.\n\n- Perceiving events more positively was associated with greater secure shifts in attachment.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "General Change Patterns",
+      "content": "- On average, people tended to become less insecure (especially less anxious) over time regardless of events. This could be due to biases, effects of participating in the study, or other processes.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Selection Effects",
+      "content": "- People higher in attachment insecurity were more likely to eventually experience certain “destabilizing” events likerelationship breakups.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Insight",
+      "content": "The study clarifies the important conceptual and empirical distinctions between short-term versus long-term changes in attachment.\n\nIt overcomes significant limitations in the existing literature concerning the impact of life events on attachment dynamics.\n\nThe intensive longitudinal within-person interrupted time series design allows stronger causal inferences about the effects of different life events.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Strengths",
+      "content": "- Large sample size with very intensive repeated measurements over long time frames\n\n- Naturalistic measurement of life events as they organically occurred\n\n- Examination of broad range of events beyond typical attachment-relevant events\n\n- Separation of short-term vs enduring changes\n\n- Analysis of individual differences in change",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "Limitations",
+      "content": "- Low base rates for some events like retirement, limiting conclusions\n\n- Sample is not fully representative (mostly white women)\n\n- Can’t make very long-term forecasts about enduring change\n\n- There is no data on experiences like therapy that could impact attachment\n\n- Limitations on causal inferences without controlled experiments",
+      "order": 14,
+      "items": []
+    },
+    {
+      "heading": "Conclusions",
+      "content": "The study reveals how life events can perturb attachment trajectories, sometimes transiently and sometimes enduringly.\n\nThere appear to be complex dynamics between socialization processes that can change attachment and selection effects whereby attachment shapes experiences.\n\nMore research is needed to understand moderators of change, like event construals and individual differences. But the intensive longitudinal design provides a strong methodological foundation for studying attachment dynamics.\n\nMcLeod, S. (2024). Do Life Events Lead to Enduring Changes in Adult Attachment Styles?. Simply Psychology. https://www.simplypsychology.org/news/life-events-attachment-style/\n\nMcLeod, Saul. \"Do Life Events Lead to Enduring Changes in Adult Attachment Styles?.\" Simply Psychology, 29 January 2024, https://www.simplypsychology.org/news/life-events-attachment-style/.\n\nMcLeod, S. (2024) Do Life Events Lead to Enduring Changes in Adult Attachment Styles?. Simply Psychology. Available at: https://www.simplypsychology.org/news/life-events-attachment-style/ (Accessed: 22 September 2026).",
+      "order": 15,
+      "items": []
+    },
+    {
+      "heading": "References",
+      "content": "Bowlby, J. (1969).Attachment. Attachment and loss: Vol. 1. Loss. New York: Basic Books.\n\nDavila, J., & Sargent, E. (2003). The meaning of life (events) predicts changes in attachment security.Personality and Social Psychology Bulletin, 29(11), 1383-1395.\n\nFraley, R. C. (2019). Attachment in adulthood: Recent developments, emerging debates, and future directions.Annual Review of Psychology, 70, 401–422.\n\nFraley, R. C., & Brumbaugh, C. C. (2004). A dynamical systems approach to conceptualizing and studying stability and change in attachment security. In W. S. Rholes & J. A. Simpson (Eds.),Adult attachment: Theory, research, and clinical implications(pp. 86–132). New York: Guilford Press.\n\nFraley, R. C., Gillath, O., & Deboeck, P. R. (2021). Do life events lead to enduring changes in adult attachment styles? A naturalistic longitudinal investigation.Journal of Personality and Social Psychology, 120(6), 1567–1606.https://doi.org/10.1037/pspi0000326\n\nFraley, R. C., Roisman, G. I., & Haltigan, J. D. (2013). The legacy of early experiences in development: Formalizing alternative models of how early experiences are carried forward over time.Developmental Psychology, 49(1), 109–126.https://doi.org/10.1037/a0027\n\nGillath, O., Karantzas, G., & Fraley, R. C. (2016).Adult attachment: A concise guide to theory and research. Academic Press.\n\nKarantzas, G. C., Deboeck, P. R., Gillath, O., & Fraley, R. C. (2019). Stability and change in attachment styles: A focus on the individual and life events and experiences that moderate change over time.Personality and Social Psychology Review. Manuscript submitted for publication.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 16,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/couple-date.jpeg",
+      "alt": "Do Life Events Lead to Enduring Changes in Adult Attachment Styles?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-anxiety-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/creative-child-and-parent-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/disclosing-diagnosis-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/future-anxiety-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/ptsd-300x129.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Do Life Events Lead to Enduring Changes in Adult Attachment Styles?\n\n> News»Clinical Psychology\n\n## Giriş\n\nNews»Clinical Psychology\n\nAttachment theory proposes that early childhood experiences with caregivers lead individuals to forminternal working modelsabout relationships that guide perceptions and behaviors in close relationships throughout life (Bowlby, 1969; Fraley, 2019).\n\nOn the one hand, the assumption that working models function as trait-like representations implies that attachment styles should be fairly resistant to change, reverting back toward initial “set points” even after disruptions (Fraley & Brumbaugh, 2004).\n\nOn the other hand, formulations of working models as continually updated based on relational experiences suggest that major events could potentially alter attachment representations permanently if the experiences are impactful enough (Davila & Sargent, 2003).\n\n## Key Points\n\n- The study examined whether 25 different life events lead to immediate and/or enduring changes in adultattachment styles.\n\n- About half of the events were associated with immediate changes in attachment, but only a quarter were associated with enduring changes.\n\n- There were significant individual differences, with some people changing more than others following events.\n\n- How people construed events was related to whether they showed enduring change in attachment.\n\n## Rationale\n\nThe study explains thatattachment theoryproposes mechanisms for both stability and change in attachment styles, but does not clearly specify whether experiences tend to lead to transient or enduring changes (Fraley et al., 2011).\n\nMost prior longitudinal research on life events and adult attachment has simply focused on comparing individuals who did or did not experience a given event at one point in time (Gillath et al., 2016).\n\nThis between-persons approach cannot address whether events shape within-person changes in attachment security enduringly versus transiently.\n\nOther studies have examined test-retest correlations in attachment security over time. But high stability estimates can mask enduring changes for subgroups of individuals (Karantzas et al., 2019).\n\nThis study uses alongitudinalinterrupted time-series design with a within-person analysis to assess trajectories before and after events, overcoming limitations in previous research.\n\nThe design allows for examining both short-term and long-term changes in response to major life events.\n\n## Method\n\nAttachment was measured using theECR-RS scaleon four dimensions: global/romantic avoidance/anxiety.\n\nLife events were measured with a checklist of 25 events spanning domains like:\n\n- Health(‘I was ill or sick’),\n\n- Work(‘I started a new job’),\n\n- Relationships(‘I started dating someone new’),\n\n- Family(‘I found out that I or my partner was pregnant’),\n\n- Location(‘I moved to a new location’),\n\n- Leisure(‘I took a vacation or went on holiday’).\n\nFor each event experienced, participants rated whether it was positive/rewarding or stressful.\n\n## Sample\n\nThe data come from theyourPersonality longitudinal projectthat assessed adult attachment and life experiences approximately monthly over periods from 6 months to 3 years.\n\nThe sample included 4,920 participants with 3-24 waves of data.\n\nIn terms of demographics, the sample was predominantly white (74%) women (82%). The average age was 35 years. In terms of relationship status at the initial assessment, 39% were single, 35% dating, and 25% married. Education levels ranged from some high school (1%) to graduate degrees (28%).\n\nFor the analyses examining change in response to specific life events, subset samples were created for each of the 25 events. These “event-based samples” included participants who had experienced the given event at least once and completed a minimum of 3 assessment waves before and after the event.\n\nThe size of these subset samples varied widely across events based on how many participants met those criteria. For example, the subset for the event “I was ill or sick” included 832 participants, while the subset for the event “I retired” only included 14 participants.\n\nThis sample was used to analyze general patterns of stability and change in attachment styles over time.\n\n## Statistical Analysis\n\nThe key analysis involved fitting longitudinal mixed effects models to estimate attachment trajectories before and after events.\n\nSeparate models were run for each of the 25 events and for each attachment outcome (global/romantic avoidance/anxiety).\n\n## Results\n\nBoth immediate and enduring changes in attachment were observed in response to major life events, clarifying important attachment dynamics. But enduring change was less common on average than transient change.\n\nAround half of events were associated with short-term/immediate changes in attachment, but only a quarter were related to enduring changes.\n\nFor example, starting a new relationship immediately decreased insecurity but no enduring changes. Having a conflict with a partner increases insecurity immediately and enduringly.\n\n## Immediate Changes\n\n- About half of the 25 life events studied were associated with immediate changes in attachment styles. For example, starting a new relationship led to decreases in attachment insecurity.\n\n- On average, immediate effects were small to moderate in size (about 0.05 SDs change for avoidance, 0.13 SD for anxiety).\n\n- Some findings were counterintuitive – for example, being apart from one’s partner was related to decreases in anxiety on average.\n\n## Enduring Changes\n\n- About a quarter of the events were related to enduring changes in attachment styles. For example, having a conflict with one’s partner was associated with enduring increases in romantic attachment insecurity.\n\n- On average, enduring effects were small in size (under 0.10 SDs).\n\n- There were significant individual differences in enduring change. The likelihood of changing by more than 1/3 SD ranged from 5% to 86% depending on the event.\n\n- Perceiving events more positively was associated with greater secure shifts in attachment.\n\n## General Change Patterns\n\n- On average, people tended to become less insecure (especially less anxious) over time regardless of events. This could be due to biases, effects of participating in the study, or other processes.\n\n## Selection Effects\n\n- People higher in attachment insecurity were more likely to eventually experience certain “destabilizing” events likerelationship breakups.\n\n## Insight\n\nThe study clarifies the important conceptual and empirical distinctions between short-term versus long-term changes in attachment.\n\nIt overcomes significant limitations in the existing literature concerning the impact of life events on attachment dynamics.\n\nThe intensive longitudinal within-person interrupted time series design allows stronger causal inferences about the effects of different life events.\n\n## Strengths\n\n- Large sample size with very intensive repeated measurements over long time frames\n\n- Naturalistic measurement of life events as they organically occurred\n\n- Examination of broad range of events beyond typical attachment-relevant events\n\n- Separation of short-term vs enduring changes\n\n- Analysis of individual differences in change\n\n## Limitations\n\n- Low base rates for some events like retirement, limiting conclusions\n\n- Sample is not fully representative (mostly white women)\n\n- Can’t make very long-term forecasts about enduring change\n\n- There is no data on experiences like therapy that could impact attachment\n\n- Limitations on causal inferences without controlled experiments\n\n## Conclusions\n\nThe study reveals how life events can perturb attachment trajectories, sometimes transiently and sometimes enduringly.\n\nThere appear to be complex dynamics between socialization processes that can change attachment and selection effects whereby attachment shapes experiences.\n\nMore research is needed to understand moderators of change, like event construals and individual differences. But the intensive longitudinal design provides a strong methodological foundation for studying attachment dynamics.\n\nMcLeod, S. (2024). Do Life Events Lead to Enduring Changes in Adult Attachment Styles?. Simply Psychology. https://www.simplypsychology.org/news/life-events-attachment-style/\n\nMcLeod, Saul. \"Do Life Events Lead to Enduring Changes in Adult Attachment Styles?.\" Simply Psychology, 29 January 2024, https://www.simplypsychology.org/news/life-events-attachment-style/.\n\nMcLeod, S. (2024) Do Life Events Lead to Enduring Changes in Adult Attachment Styles?. Simply Psychology. Available at: https://www.simplypsychology.org/news/life-events-attachment-style/ (Accessed: 22 September 2026).\n\n## References\n\nBowlby, J. (1969).Attachment. Attachment and loss: Vol. 1. Loss. New York: Basic Books.\n\nDavila, J., & Sargent, E. (2003). The meaning of life (events) predicts changes in attachment security.Personality and Social Psychology Bulletin, 29(11), 1383-1395.\n\nFraley, R. C. (2019). Attachment in adulthood: Recent developments, emerging debates, and future directions.Annual Review of Psychology, 70, 401–422.\n\nFraley, R. C., & Brumbaugh, C. C. (2004). A dynamical systems approach to conceptualizing and studying stability and change in attachment security. In W. S. Rholes & J. A. Simpson (Eds.),Adult attachment: Theory, research, and clinical implications(pp. 86–132). New York: Guilford Press.\n\nFraley, R. C., Gillath, O., & Deboeck, P. R. (2021). Do life events lead to enduring changes in adult attachment styles? A naturalistic longitudinal investigation.Journal of Personality and Social Psychology, 120(6), 1567–1606.https://doi.org/10.1037/pspi0000326\n\nFraley, R. C., Roisman, G. I., & Haltigan, J. D. (2013). The legacy of early experiences in development: Formalizing alternative models of how early experiences are carried forward over time.Developmental Psychology, 49(1), 109–126.https://doi.org/10.1037/a0027\n\nGillath, O., Karantzas, G., & Fraley, R. C. (2016).Adult attachment: A concise guide to theory and research. Academic Press.\n\nKarantzas, G. C., Deboeck, P. R., Gillath, O., & Fraley, R. C. (2019). Stability and change in attachment styles: A focus on the individual and life events and experiences that moderate change over time.Personality and Social Psychology Review. Manuscript submitted for publication.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:38:40.672522"
+}

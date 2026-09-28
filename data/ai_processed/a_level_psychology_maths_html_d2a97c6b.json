@@ -1,0 +1,121 @@
+{
+  "id": "a_level_psychology_maths_html_d2a97c6b",
+  "original_title": "How much of A-level psychology is maths?",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/a-level-psychology-maths.html",
+  "published_date": "2026-04-28T10:06:01+00:00",
+  "read_time_minutes": 6,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/convergent-validity.jpeg",
+      "alt": "How much of A-level psychology is maths?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/exam.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/My-project-1-45-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Freud-Therapy-300x228.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/issues-and-debates-in-psychology-1-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/a-level-psycholog-a02-240x300.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1243,
+  "turkce_baslik": "Psikolojinin Görünmeyen Yüzü: Bilimsel Araştırma ve Sayıların Gerçek Anlamı",
+  "kanca_sorusu": "İnsan zihnini anlamaya çalışırken aslında ne kadar matematik yapıyoruz?",
+  "score": 45,
+  "puan_nedeni": "Metin doğrudan akademik bir müfredat incelemesi ve istatistiksel hesaplama yöntemlerini ele almaktadır. İlişkisel dinamikler, bağlanma stilleri veya bireysel içgörüler barındırmadığı, tamamen akademik bir konu olduğu için puanı düşüktür.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Psikoloji eğitimi veya araştırması denildiğinde akla ilk olarak insan ilişkileri, duygusal süreçler ve derinlemesine yapılan ruhsal çözümlemeler gelir. Ancak akademik düzeyde psikoloji, veriye dayalı ampirik bir bilim dalıdır. İnsan davranışını nesnel bir şekilde incelemek; istatistiksel testler, merkezi eğilim ölçümleri, standart sapma hesaplamaları ve grafiksel verilerin yorumlanmasını zorunlu kılar. Bu durum, psikolojiye adım atan birçok kişinin zihnindeki soyut ve sezgisel dünya algısı ile somut, sayısal gerçeklik arasında bir köprü kurulmasını gerektirir.\n\nGünlük hayatta yaşadığımız ilişki problemlerini veya içsel çatışmaları anlamlandırırken sezgilerimizden faydalanırız. Fakat klinik ve akademik psikoloji, bu sezgilerin ampirik verilerle desteklenmesini bekler. Bir araştırmada elde edilen verilerin ortalaması, dağılımı veya olasılık hesaplamaları, aslında insan davranışının istatistiksel birer özetidir. Sayıların ardındaki bu psikolojik gerçeklik, bireysel deneyimlerimizi daha geniş bir bağlama oturtmamıza ve önyargılardan arınmış bir bakış açısı geliştirmemize yardımcı olur.\n\nSonuç olarak, psikoloji sadece hissetmek ve anlamlandırmak değil, aynı zamanda ölçmek ve analiz etmektir. Zihnimizin karmaşık yapısını çözerken kullanılan bu analitik araçlar, duygusal karmaşalarımızı bile daha net görebilmemiz için bize metodolojik bir çerçeve sunar. Bilimsel veriyi okuryazarlıkla ele almak, ruhsal dünyamızı dışarıdan bir gözle değerlendirebilme becerimizi doğrudan besler.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Psikolojinin Sayısal Dili",
+      "body": "İnsan zihnini anlamak sadece sezgilerden mi ibarettir, yoksa arkasında katı bir veri bilimi mi vardır?",
+      "highlight_box": "Akademik psikolojinin temel taşı: Sayılar ve veriler.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Sezgi ve Veri Arasındaki Çatışma",
+      "body": "Günlük hayatımızda olayları hislerimizle değerlendirirken, bilimsel yaklaşım somut kanıtlar ve istatistiksel analizler arar.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Merkezi Eğilim Ölçümleri",
+      "body": "Ortalama, medyan ve mod gibi kavramlar, karmaşık davranış kalabalığını anlamlı tek bir noktada özetlememizi sağlar.",
+      "highlight_box": "Veriyi özetlemenin psikolojikyolu.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Veri Dağılımı ve Sapma",
+      "body": "Standart sapma, bir grubun ne kadar benzer veya farklı tepkiler verdiğini gösteren en net göstergedir.",
+      "highlight_box": "Aykırı değerler tüm resmi değiştirebilir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Grafikler ve Gerçeklik Algısı",
+      "body": "Verileri doğru grafiklerle görselleştirmek, eğilimleri tarafsız bir gözle görmemize ve yanılgılardan kaçınmamıza yardımcı olur.",
+      "highlight_box": "Veri okuryazarlığı bir korunma mekanizmasıdır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Bilimsel Bakış Açısı",
+      "body": "Zihninizi ve çevrenizi anlamlandırırken hem duygusal zekanızı hem de analitik düşünme becerinizi birlikte kullanın.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Psikolojinin sadece hissetmekten ibaret olduğunu sanıyorsanız, büyük bir gerçeği gözden kaçırıyorsunuz.",
+    "konusma_metni": "Birçok kişi psikolojinin tamamen duygular, ilişkiler ve sezgiler üzerine kurulduğunu düşünür. Oysa akademik ve klinik psikoloji, verilerin ve istatistiklerin dilini konuşur. İnsan davranışını tarafsız bir şekilde incelemek, verileri okumaktan ve sayıları doğru yorumlamaktan geçer. Zihnimizi anlamak istiyorsak, sadece hissettiklerimize değil, olayların arkasındaki somut gerçekliğe de bakabilmeliyiz."
+  },
+  "caption": "Psikoloji eğitimi ve araştırmaları denildiğinde akla ilk gelen genellikle soyut kavramlar ve ruhsal süreçlerdir. Ancak insan davranışını nesnel olarak incelemek, sayıların ve verilerin dilini anlamaktan geçer. Akademik psikolojinin temellerini oluşturan bu analitik yaklaşım, olaylara sadece hislerimizle değil, somut kanıtlarla bakabilme yetisi kazandırır.\n\n#Psikoloji #BilimselAraştırma #VeriAnalizi #AkademikPsikoloji #ZihinYönetimi #EleştirelDüşünce #BilişselSüreçler",
+  "processed_at": "2026-09-26 02:44:25"
+}

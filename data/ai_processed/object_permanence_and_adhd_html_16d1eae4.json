@@ -1,0 +1,127 @@
+{
+  "id": "object_permanence_and_adhd_html_16d1eae4",
+  "original_title": "Object Permanence & ADHD: “Out Of Sight, Out of Mind”",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/object-permanence-and-adhd.html",
+  "published_date": "2025-05-20T10:42:45+00:00",
+  "read_time_minutes": 8,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adhd-object-permanence.jpg",
+      "alt": "Object Permanence & ADHD: “Out Of Sight, Out of Mind”",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adhd-time-blindness-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/alexithymia-adhd-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adhd-vs-normal-distraction-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/tasks-impossible-adhd-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adhd-episodic-memory-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adhd-problems-at-work-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1689,
+  "turkce_baslik": "Gözden Uzak Olan, Zihinden de Siler mi: DEHB ve Görsel Hatırlatıcıların Gücü",
+  "kanca_sorusu": "Çekmeceye kaldırdığınız eşyaları, hatta mesaj atmadığınız için unuttuğunuz insanları gerçekten hayatınızdan çıkardığınızı mı sanıyorsunuz?",
+  "score": 82,
+  "puan_nedeni": "Her ne kadar nörolojik bir temele dayansa da, konunun günlük hayattaki ilişkisel yansımaları (arkadaşlara geç dönme, eşyaları unutma, 'gözden ırak olan gönülden de ırak olur' dinamiği) takipçilerde yüksek bir ayna etkisi yarattığı için puanı yüksektir.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Gelişim psikolojisinde nesne sürekliliği bebeklik döneminde kazanılan bir yetidir; yetişkinler ise nesnelerin kaybolmadığını bilir. Ancak DEHB söz konusu olduğunda, zihin arkasında çalışan o görünmez mekanizma bambaşka bir gerçeklik sunar. Çalışma belleğindeki zayıflıklar ve prefrontal korteksteki düşük aktivite, göz önünde olmayan bir görevin, nesnenin veya kişinin beyin tarafından adeta yok sayılmasına yol açar. Bu durum bir kayıtsızlık veya ihmal değil, beynin anlık duyusal girdilere olan bağımlılığıdır.\n\nGünlük hayatta bu durum, buzdolabının en arkasında küflenen yemekler, çekmeceye atıldığı için kaybolan anahtarlar veya bir süredir mesaj atılmadığı için unutulan dostluklar olarak kendini gösterir. İlişkilerde ise karşı taraf bunu kişisel bir reddedilme veya değersizlik olarak algılayabilir. Oysa mesele sevgi eksikliği değil, beynin hatırlatma sinyallerini üretmekte yaşadığı nörobiyolojik zorluktur.\n\nBu döngüyü kırmak için içsel hafçaya güvenmek yerine dışsal hatırlatıcılar inşa etmek şarttır. Eşyaları görünür kılmak, alanları şeffaf hale getirmek ve rutini dijital araçlarla desteklemek, bu görünmez duvarı aşmanın en sağlıklı yoludur. Unutmayın, bu bir hafıza kusuru değil, bilginin işlenme biçimidir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Gözden Uzak, Zihinden Irak",
+      "body": "Çekmeceye koyduğunuz bir eşyayı ya da günlerdir yazmadığınız bir dostunuzu tamamen unuttuğunuzu fark ettiğiniz o an.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Bu Bir Unutkanlık Değil, Çalışma Belleği Meselesi",
+      "body": "Bebeklikteki nesne sürekliliği ile karıştırılsa da, DEHB zihnindeki mesele nesnenin varlığı değil, sürekli bir görsel hatırlatıcıya olan biyolojik ihtiyaçtır.",
+      "highlight_box": "Çalışma belleği zayıfladığında, dış dünya silinir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Görünmeyen Eşyalar",
+      "body": "Dolabın arkasında unutulan gıdalar veya çekmecede kaybolan anahtarlar. Gözün görmediği, zihnin kaydettiği alanın dışındadır.",
+      "highlight_box": "Göz önünde değilse, sanki hiç var olmamıştır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Donuklaşan Bağlar",
+      "body": "Bir süredir mesaj atmadığınız birinin varlığını unutmak. Karşı taraf bunu kişisel alsa da, temeldeki sebep duyusal girdinin eksikliğidir.",
+      "highlight_box": "Kötü niyetli değil, sadece zihinsel bir körlüktür.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Çözüm: Zihne Değil, Dış Dünyaya Güvenin",
+      "body": "Eşyaları şeffaf kutularda saklayın, hatırlatıcılar kurun ve yaşam alanınızı görünür kılacak şekilde yeniden organize edin.",
+      "highlight_box": "Görünür olan, hatırda kalır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış & İçsel Hatırlatma",
+      "body": "Zihninizin çalışma biçimini suçlamayın; eksik olanları dış dünyadan destek alarak tamamlamayı öğrenin.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Gözden uzak olan gönülden de ırak olur sözü, DEHB zihni için bir metafor değil, acı bir gerçekliliktir.",
+    "konusma_metni": "Çekmeceye kaldırdığınız her şeyin beyninizde aniden buharlaştığını hissediyor musunuz? Gelişimsel anlamda nesne sürekliliğine sahip olsak da, DEHB beyni çalışan bellekteki zayıflıklar yüzünden göz önünde olmayan şeyleri yok saymaya meyillidir. Bu bir unutkanlık veya sevgi eksikliği değil, prefrontal korteksin anlık duyusal girdiye olan ihtiyacıdır. Eğer bir şeyi unuttuysanız, suçluluk duymak yerine onu görünür kılın."
+  },
+  "caption": "Gözden uzak olanın zihinden de uzaklaştığı o anlar, sıklıkla bir karakter kusuru veya ihmal olarak değerlendirilir. Oysa nörobiyolojik arka planda çalışan çalışma belleği zayıflıkları ve prefrontal korteksin işleyiş biçimi, bu durumun oldukça insani ve fiziksel bir temeli olduğunu gösterir. Görünmeyen bir nesne veya görev, beyin için adeta varlığını yitirir.\n\nBu durumu yaşayanlar genellikle kendilerini suçlar veya çevrelerindeki insanlardan suçlama suçluluk duyarlar. Mesele unutmak değil, zihnin anlık duyusal girdilere olan bağımlılığıdır. Çözüm ise hafızayı zorlamak değil, çevreyi daha görünür ve işlevsel hale getirmektir.\n\n#dehb #çalışmabelleği #nöroloji #zihinvebeyin #ilişkiler #özşefkat #yaşapsikoloji",
+  "processed_at": "2026-09-26 03:13:00"
+}

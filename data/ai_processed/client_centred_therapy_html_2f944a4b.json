@@ -1,0 +1,127 @@
+{
+  "id": "client_centred_therapy_html_2f944a4b",
+  "original_title": "Person-Centred Therapy and Core Conditions",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/client-centred-therapy.html",
+  "published_date": "2025-04-28T17:16:24+00:00",
+  "read_time_minutes": 45,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/talking-therapy.jpg",
+      "alt": "Person-Centred Therapy and Core Conditions",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/unconditional-positive-regard-300x198.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/gestalt-therapy-300x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/psychodynamic-therapy-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Transactional-Analysis-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Countertransference-therapy-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Narrative-Therapy-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 8962,
+  "turkce_baslik": "Olduğun Gibi Görülmemek: Gerçek Benlik ile Maskeler Arasındaki Uçurum",
+  "kanca_sorusu": "İçinizde haykıran gerçek hisleriniz ile dışarıya gösterdiğiniz o kusursuz profil arasında kaç metre boşluk var?",
+  "score": 82,
+  "puan_nedeni": "Carl Rogers'ın danışan merkezli terapisi ve incongruence (uyumsuzluk) kavramı, bireyin kendi iç dünyasındaki çatışmaları ve maskeleri doğrudan sorgulamasını sağladığı için takipçilerde derin bir ayna etkisi yaratır.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "Carl Rogers insan ruhunun derinliklerine baktığında, iyileşmenin reçetelerde değil, iki insan arasındaki hakiki temasın ve koşulsuz kabulün içinde yattığını gördü. Günlük hayatımızda en çok yorulduğumuz yer, kendi içsel gerçekliğimiz ile dış dünyaya sunduğumuz o uyumlu, pürüzsüz imaj arasındaki uçurumdur. Olduğumuz kişi ile olmamız gerektiği inatla empoze edilen kişi çatıştığında, kaygı ve tükenmişlik baş gösterir. Çünkü insan, sürekli olarak onaylanmak veya hata yapmamak adına kendi organismik hislerini bastırdığında yabancılaşır. Gerçek bir bağ ve iyileşme, kişinin kendi karanlığıyla ve uyumsuzluk durumuyla yüzleşebileceği, yargılanmayacağı güvenli bir iklimde mümkündür.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Olduğun Gibi Görülmemek",
+      "body": "İçimizdeki gerçek hisler ile dışarıya gösterdiğimiz yüz arasındaki o görünmez mesafe.",
+      "highlight_box": "Kendi gerçeğinizden ne kadar uzaktasınız?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Uyumsuzluk Hali",
+      "body": "İçeride hissedilen ile dışarıya yansıtılan benlik örtüşmediğinde, kronik kaygı ve tükenmişlik başlar.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Koşullu Kabul Yanılgısı",
+      "body": "Sadece başarılı, uyumlu veya sessiz olduğunuzda sevilileceğinize inanmak, ruhunuzu susturur.",
+      "highlight_box": "Sevilmek için kimliğinizden ne kadar ödün veriyorsunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Maskelerin Ağırlığı",
+      "body": "Gerçek ihtiyaçlarınızı bastırmak, onları yok etmez; sadece bedensel ve ruhsal semptomlar olarak geri döner.",
+      "highlight_box": "Bastırdığınız duygular nerenizde ağrı yapıyor?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Koşulsuz Öz Kabul",
+      "body": "İyileşme, başkalarının onayını beklemekle değil, kendi içsel sesinizi ve kırılganlığınızı kucaklamakla başlar.",
+      "highlight_box": "Unutmayın: Bu bir süreçtir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış & İçsel Hatırlatma",
+      "body": "Olduğunuz gibi kabul edilmeyi beklemek yerine, önce kendi gerçekliğinize hak ettiği alanı tanıyın.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "İçinizde hissettiğiniz o büyük huzursuzluğun adı, aslında kim olduğunuzla kim gibi görünmek zorunda kaldığınız arasındaki uçurumdur.",
+    "konusma_metni": "Çoğumuz hayatımız boyunca başkalarının gözündeki halimizi korumaya çalışırız. İçeride derin bir öfke, korku ya da yetersizlik hissi vardır ama dışarıda hep güçlü ve uyumlu görünmek zorundayızdır. Carl Rogers buna incongruence yani uyumsuzluk der. Kendi gerçekliğinizden koptuğunuz an, kaygı başlar. İyileşmek ise birinin sizi değiştirmeye çalışmadan, sadece olduğunuz gibi duymasıyla başlar."
+  },
+  "caption": "Kendi içsel gerçekliğiniz ile dış dünyaya sunduğunuz maske arasındaki mesafe açıldıkça, içimizdeki kaygı ve yabancılaşma da büyür. Carl Rogers'ın danışan merkezli yaklaşımı bize şunu hatırlatır: İnsan, yargılanmadığı ve koşulsuzca kabul edildiği an kendi potansiyelini bulur ve iyileşir. Sürekli güçlü görünmek zorunda olduğunuz o yükü bugün biraz olsun hafifletmek için nereden başlayacaksınız?\n\n#psikoloji #carlrogers #içselbüyüme #kişiselgelişimdegilgerçeklik #kaygı #farkındalık #ruhsalşifa",
+  "processed_at": "2026-09-26 03:15:45"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "sensorimotor_html_11c95f65",
+  "original_title": "Sensorimotor Stage of Cognitive Development",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/sensorimotor.html",
+  "published_date": "2026-09-17T11:43:23+00:00",
+  "read_time_minutes": 29,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Sensorimotor-Stage.jpg",
+      "alt": "Sensorimotor Stage of Cognitive Development",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/piaget-stages-300x163.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Vygotsky-vs-Piaget-300x174.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/child-development-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/formal-operational-stage-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/moral-choice-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Piaget-Conservation-1-300x293.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 5879,
+  "turkce_baslik": "Gözden Kaybolanın Yok Olmadığı An: Bebeklikten Yetişkinliğe Güvenin İnşası",
+  "kanca_sorusu": "Gözümüzün önünden giden birinin tamamen yok olmadığını ne zaman öğrendik?",
+  "score": 42,
+  "puan_nedeni": "Makale klasik çocuk gelişimi ve Piaget'nin duyusal-motor dönemi teorisini anlatmaktadır. Doğrudan yetişkin ilişkisel çatışmalarına, bağlanma örüntülerine veya toksik dinamiklere hitap etmediği, daha çok akademik bir gelişim psikolojisi incelemesi olduğu için kurallarımız gereği düşük puan almıştır.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "Bebekliğin ilk aylarında dünya, yalnızca görünen ibarettir. Bir nesne ya da bakan kişi görüş alanından çıktığında, zihinsel temsili henüz gelişmemiş olan bebek için o varlık tamamen yok olmuştur. Piaget'nin duyusal-motor dönem olarak adımladığı bu ilk iki yıl, aslında insan psikolojisinin en temel yapı taşını döşer. Nesne sürekliliğinin kazanılması, sadece bilişsel bir beceri değil, aynı zamanda ilerleyen yaşlarda yaşanacak ayrılık kaygılarının, terk edilme korkularının ve ilişkilerdeki güven ya da güvensizlik döngülerinin kökenidir.\n\nÇocuğun odadan çıkan ebeveyninin tamamen yok olmadığını, sadece başka bir yere gittiğini idrak etmesi uzun ve sancılı bir zihinsel evrimdir. Bu dönemde kurulan ilk şemalar, gelecekteki partner seçimlerimizi, sevdiklerimiz geçici olarak uzaklaştığında verdiğimiz duygusal tepkileri ve hatta yalnızlık toleransımızı doğrudan etkiler. Bebeklikte atılan bu temeller, yetişkinlikte kurduğumuz bağların sağlığını belirleyen en sessiz ama en güçlü mimardır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Gözden Uzak, Gönülden Irak mı?",
+      "body": "Zihnimizin nesneleri ve insanları kalıcı kılma yolculuğu bebeklikte başlar.",
+      "highlight_box": "Bilinmeyenle kurduğumuz ilk bağ.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Nesne Sürekliliği",
+      "body": "Bebekler için bir nesne gözden kaybolduğunda yok olur. Bu his, yetişkinlikteki ayrılık kayrısının temeli olabilir.",
+      "highlight_box": "Görünmeyen de var olmaya devam eder.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Adım: Duyusal Keşif",
+      "body": "Dünyayı sadece dokunarak, tadarak ve hissederek anlamlandırmaya çalıştığımız o ilk aylar.",
+      "highlight_box": "Deneyim yoluyla öğrenme.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Adım: Neden-Sonuç İlişkisi",
+      "body": "Yaptığımız her hareketin bir sonucu olduğunu keşfetmek, kontrol duygusunu doğurur.",
+      "highlight_box": "Eylemlerimizin yankıları.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Güvenli Ayrılıklar",
+      "body": "Çocuklukta kazanılan nesne sürekliliği, yetişkinlikte sağlıklı ve güvenli ilişkiler kurmanın ön koşuludur.",
+      "highlight_box": "Uzaklık yok oluş demek değildir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Geçmişin refleksleri bugünümüzü şekillendirir. Farkındalık, bu döngüyü kırmanın ilk adımıdır.",
+      "highlight_box": "Derinlemesine anlamak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Gözden uzaklaşan birinin aslında zihninizde nasıl devasa bir yer kapladığını biliyor musunuz?",
+    "konusma_metni": "Bebeklik döneminde nesne sürekliliği kazanana kadar, dünya sadece gözümüzün gördüğü kadardır. Bir şey görüş alanımızdan çıkarsa zihnimizden de silinir. Ancak büyüdükçe bu durum tersine döner. Hayatımızdan gidenlerin aslında zihnimizde nasıl kalıcılaştığını ve ilişkilerdeki kaygılarımızın temellerinin bebeklikteki bu döneme nasıl dayandığını inceliyoruz."
+  },
+  "caption": "Bebeklik döneminde kazanılan nesne sürekliliği, yalnızca bilişsel bir gelişim aşaması değildir. Aynı zamanda yetişkinlikte kurduğumuz bağların, ayrılıklara verdiğimiz tepkilerin ve güven duyma kapasitemizin de temelini oluşturur. Gözden kaybolanın yok olmadığını öğrendiğimiz o ilk anlar, ilişkilerimizin kaderini çizer. Konu hakkındaki düşüncelerinizi yorumlarda paylaşabilirsiniz. Psikoloji, Gelişim Psikolojisi, Bağlanma, Nesne Sürekliliği, Çocukluk Anıları, Zihin Yapısı, İçsel İyileşme",
+  "processed_at": "2026-09-26 02:42:34"
+}

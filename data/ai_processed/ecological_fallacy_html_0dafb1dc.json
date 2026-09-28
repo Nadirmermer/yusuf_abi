@@ -1,0 +1,133 @@
+{
+  "id": "ecological_fallacy_html_0dafb1dc",
+  "original_title": "Ecological Fallacy: Definition & Examples",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/ecological-fallacy.html",
+  "published_date": "2026-09-17T11:02:30+00:00",
+  "read_time_minutes": 10,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/ecological-fallacy-1.jpg",
+      "alt": "Ecological Fallacy: Definition & Examples",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/ecological-fallacy.jpeg",
+      "alt": "ecological fallacy",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cultural-relativism-300x168.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-cognitive-theory-300x145.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-identity-theory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-constructivism-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/pluralistic-ignorance-300x209.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/normative-social-influence-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/headshot.webp",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1951,
+  "turkce_baslik": "Genel Olan Her Zaman Doğru Değildir: Önyargıların Psikolojik Temeli",
+  "kanca_sorusu": "Bir grubun genel özelliklerine bakarak bir insanı peşinen yargıladığınızı kaç kez fark ettiniz?",
+  "score": 45,
+  "puan_nedeni": "Metin temel olarak metodolojik bir istatistik hatasını ve sosyolojik verileri incelemektedir. Doğrudan ilişkisel dinamikler, bağlanma stilleri veya travmalar barındırmadığı, daha çok akademik ve istatistiksel bir kavram olduğu için puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, karmaşık dünyayı anlamlandırmak ve hızlı kararlar almak için kategorize etmeye, genelleştirmeye ve etiketlemeye meyillidir. Ancak topluluklar üzerinden elde edilen genel geçer verileri bireylere mal etmek, psikolojide ve istatistikte ciddi bir yanılgıya yol açar. Bir grubun ortalaması, o grubun içindeki tekil bir insanın gerçeğini asla tam olarak yansıtamaz. İlişkilerimizde de sıkça bu hataya düşeriz; geçmişte yaşadığımız toksik bir grubun veya partnerin genel özelliklerini, karşımızdaki masum bireye peşinen yükleriz. Önyargıların ve kalıp yargıların temelinde yatan bu zihinsel kestirme yol, bireyi görmemizi engeller ve bizi yanılgıya sürükler.\n\nToplumsal düzeydeki istatistikler ya da genel algılar, bir insanı bütünsel olarak anlamak için asla yeterli bir mercek değildir. İnsan ruhu istatistiki bir ortalamaya indirgenemeyecek kadar benzersiz ve karmaşık katmanlara sahiptir. Bir gruba ait olmak, o bireyin içsel motivasyonlarını, korkularını ve geçmişini ele vermez. Zihnimiz bizi tembelliğe alıştırıp genel olanı doğru kabul etmeye zorladığında, karşımızdaki gerçek insanı kaçırırız.\n\n@ya_da_psikoloji olarak vurguladığımız gibi, derinlemesine bir içgörü ve sağlıklı ilişkiler kurabilmek, etiketlerin ve genellemelerin ötesine geçebilmeyi gerektirir. Karşımızdaki insanın grubunu, geçmişini ya da kimliğini değil, bizzat kendisini duymaya başladığımızda gerçek bağlar kurulabilir. Zihnin bu kolaycı genelleme tuzağını fark etmek, hem sosyal ilişkilerdeki önyargıları kırmak hem de bireysel sınırları korumak adına atılacak en önemli adımdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Genellemenin Tuzağı",
+      "body": "Bir grubun genel özellikleri üzerinden bireyleri yargılamak zihnin en yaygın kestirme yoludur.",
+      "highlight_box": "Ortalamalar her zaman bireyin gerçeğini yansıtmaz.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Ekolojik Yanılgı Nedir?",
+      "body": "Topluluklar için geçerli olan verilerin, o topluluğun içindeki her bir birey için geçerli olduğunu varsaymaktır.",
+      "highlight_box": "Gruba bakıp kişiyi yargılamak.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Bütünün Yanılgısı",
+      "body": "Bir grubun genel eğilimini alıp, o gruba dahil olan herkesin aynı olduğunu düşünmek kalıp yargıları besler.",
+      "highlight_box": "Hepsi aynı zihniyeti",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Kalıp Yargıların Kökü",
+      "body": "Zihnimiz belirsizlikle başa çıkmak için gruplara ait ortalama özellikleri bireylere yapıştırma eğilimindedir.",
+      "highlight_box": "Zihinsel kestirme yollar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Nasıl Aşılır?",
+      "body": "Karşınızdaki insanı bir grubun temsilcisi olarak değil, kendi hikayesi olan tekil bir birey olarak dinleyin.",
+      "highlight_box": "Etiketleri bir kenara bırakın.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Gerçek Bağlantı",
+      "body": "Önyargılardan arınmış bir zihin, insanları olduğu gibi görebilmenin tek yoludur.",
+      "highlight_box": "Daha derin bir farkındalık için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Bir gruba bakarak o grubun içindeki herkesi aynı kefeye koyduğunuz o an, büyük bir zihinsel hataya düşüyorsunuz.",
+    "konusma_metni": "Zihnimiz enerji tasarrufu yapmak için sürekli etiketler ve genellemeler üretir. Sosyal psikolojide ekolojik yanılgı dediğimiz bu durum, bir topluluğun genel özelliklerini oradaki bireylere doğrudan atfettiğimizde ortaya çıkar. Örneğin geçmişte yaşadığınız kötü bir deneyimi ya da bir grubun genel algısını, karşınızdaki yeni ve eşsiz bir insana mal edersiniz. Oysa hiçbir istatistiki ortalama, bir insanın iç dünyasındaki karmaşayı ve benzersizliği açıklayamaz. Önyargılardan kurtulmak istiyorsanız, önce insanları bir grubun parçası olarak değil, tekil birer varlık olarak görmeyi öğrenmelisiniz."
+  },
+  "caption": "Zihnimiz dünyayı anlamlandırmak için sürekli genellemeler yapar. Ancak topluluklar üzerinden elde edilen genel verileri bireylere mal etmek, ilişkilerimizde ve algılarımızda ciddi yanılgılara yol açar. Bir grubun ortalaması, o grubun içindeki tekil bir insanın gerçeğini asla tam olarak yansıtamaz. Önyargıların ve kalıp yargıların arkasında yatan bu zihinsel mekanizmayı fark etmek, insanları etiketlerden bağımsız görebilmenin ilk adımıdır. Bu konuyu etrafınızda sıkça gözlemlediğiniz kişilerle paylaşarak farkındalık yaratabilirsiniz. #psikoloji #önyargı #zihinyönetimi #sosyalpsikoloji #bilişselfarkındalık #ilişkiler #kişiselgelişim",
+  "processed_at": "2026-09-26 17:07:24"
+}

@@ -1,0 +1,133 @@
+{
+  "id": "language_html_f8f8bdb8",
+  "original_title": "Language Acquisition Theory",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/language.html",
+  "published_date": "2026-09-17T11:32:50+00:00",
+  "read_time_minutes": 26,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/My-project-1-51.jpg",
+      "alt": "Language Acquisition Theory",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/piaget-stages-300x163.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brain-critical-development-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Vygotsky-vs-Piaget-300x174.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/moral-choice-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/piaget-adaptation2-300x198.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/child-development-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Henna-Lemetyinen.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 5115,
+  "turkce_baslik": "İçimizdeki Kelimelerin Kökü: Çocukluk Dil Gelişimi ve Bağlanmanın Sessiz Çığlığı",
+  "kanca_sorusu": "Çocukken duyduğumuz ilk cümleler, bugün kurduğumuz ilişkilerin sınırlarını nasıl çizer?",
+  "score": 45,
+  "puan_nedeni": "Metin genel olarak çocuk psikolojisi, dil edinimi teorileri (Chomsky, Skinner, Piaget) gibi akademik ve gelişimsel nöroloji/psikoloji temellerine dayandığı için klinik olarak doğrudan ilişkisel krizlere (gaslikely, toksik partner vb.) hitap etmez. Bu nedenle puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Dil edinimi teorileri ilk bakışta sadece çocukların nasıl konuşmayı öğrendiğini inceleyen akademik bir alan gibi görünse de, işin kökeninde insanın kendini ifade etme ve anlaşılma çabasının psikolojik temelleri yatar. Skinner'ın dışsal pekiştireçleri ile Chomsky'nin doğuştancı yaklaşımı arasındaki çatışma, bireyin dünyayla ve ilk bakım verenleriyle kurduğu bağın niteliğini anlamamız için bize ayna tutar. Çocuklukta duyulan sesler, onaylanan ya da cezalandırılan kelimeler, ilerleyen yaşlarda iç sesimizin sertliğini ya da şefkatini belirler. Kelimelerin ötesinde, her ifade edilmemiş duygu, kişinin ilişkilerinde yaşadığı o derin sessiz mutabakatın ve anlaşılmama korkusunun bir yansımasıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "İçimizdeki Kelimelerin Kökü",
+      "body": "Konuşmayı nasıl öğrendik? Ya da ifade edemediğimiz duygularımız aslında nereden geliyor?",
+      "highlight_box": "Her kelimenin ardında saklı bir bağlanma öyküsü vardır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Onaylanan Sesler, Bastırılan Benlik",
+      "body": "Çocuklukta aldığımız tepkiler, hangi duyguları yüksek sesle söyleyeceğimizi, hangilerini içimize atacağımızı belirler.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Dışsal Koşullanma",
+      "body": "Çocuklukta verilen tepkiler, bireyin onay alma ve sevilme isteğini doğrudan kelimelerine yansıtmasına yol açar.",
+      "highlight_box": "Sevgi için doğru kelimeleri seçme çabası.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. İçsel Sesteki Eleştirmen",
+      "body": "Geçmişte duyulan eleştiriler, yetişkinlikte zihnimizin içinde sürekli konuşan o yargılayıcı sese dönüşür.",
+      "highlight_box": "Kendi kendimizin en sert hakimi oluruz.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kendi Sesini Yeniden Bulmak",
+      "body": "Başkalarını memnun etmek için seçilen kelimelerden sıyrılıp, kendi gerçek ihtiyaçlarınızı ifade etme zamanı.",
+      "highlight_box": "Unutmayın: Bu bir süreçtir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış & İçsel Hatırlatma",
+      "body": "Bugün kurduğunuz her cümle, geçmişin izlerini taşır. Ama onları dönüştürmek sizin elinizdedir.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Çocukken kuramadığınız cümlelerin bedelini bugün kim ödüyoruz?",
+    "konusma_metni": "Dil sadece kelimeleri öğrenmek değildir. Nasıl ses çıkaracağımız, hangi cümlenin ödüllendirildiği ve hangisinin bastırıldığı aslında ilk ilişkilerimizde başlar. Bugün yetişkin bir birey olarak sınır koymakta zorlanıyorsanız, belki de sorun kelimelerinizde değil, o kelimeleri ilk söylemeye çalıştığınız andaki onaylanma açlığınızdadır."
+  },
+  "caption": "Dil edinimi teorileri ve çocuk psikolojisi bize gösteriyor ki, insanın kendini ifade etme biçimi ilk ilişkilerinden bağımsız düşünülemez. Çocukken onaylanan seslerimiz ile yetişkinlikte kurduğumuz sınırlar arasında görünmez bir köprü vardır. İçsel eleştirmeninizin sesini susturmak ve kendi gerçek ifadenizi bulmak için bu süreci anlamak gerekir. #psikoloji #çocukpsikolojisi #bağlanma #içselses #kişiselgelişimdegilbilim #ya_da_psikoloji #farkındalık",
+  "processed_at": "2026-09-26 02:43:11"
+}

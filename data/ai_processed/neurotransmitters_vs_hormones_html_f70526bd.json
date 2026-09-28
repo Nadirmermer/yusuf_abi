@@ -1,0 +1,127 @@
+{
+  "id": "neurotransmitters_vs_hormones_html_f70526bd",
+  "original_title": "Neurotransmitters Vs Hormones",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/neurotransmitters-vs-hormones.html",
+  "published_date": "2025-07-23T13:34:27+00:00",
+  "read_time_minutes": 6,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitters-hormones.jpg",
+      "alt": "Neurotransmitters Vs Hormones",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitter-formulas-300x152.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/excitatory-vs-inhibitory-neurotransmitters-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/serotonin-dopamine-300x152.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adrenal-glands-300x287.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sympathetic-vs-parasympathetic-nervous-system-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cns-pns-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1117,
+  "turkce_baslik": "İçimizdeki Hızlı Mesajlar ve Derin Dalgalar: Bedenimiz Ruh Halimizi Nasıl Yönetiyor?",
+  "kanca_sorusu": "Ani bir kaygıyla nefessiz kalmanızla, günlerce süren o tükenmişlik hissinin bedendeki kökeni aynı mıdır?",
+  "score": 48,
+  "puan_nedeni": "Metin temel olarak nörobiyolojik ve fizyolojik mekanizmaları, nörotransmitterler ile hormonlar arasındaki farkları açıklamaktadır. Doğrudan ilişkisel bir dinamik veya psikopatolojik bağ kurmadığı, saf biyopsikoloji odaklı olduğu için katı puanlama kuralına göre orta-düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Günlük yaşamın koşturmacası içinde hissettiğimiz o ani panik dalgaları ya da üzerimizden kalkmayan o ağır yorgunluk hissi, aslında içimizdeki iki farklı iletişim sisteminin eseridir. Biri anlık, nokta atışı mesajlar gönderen nörotransmitterler; diğeri ise tüm bedeni saran, yavaş ama kalıcı etkiler bırakan hormonlardır. Sinir sistemimiz anlık tehditlerle baş etmeye çalışırken, endokrin sistemimiz uzun vadeli adaptasyon süreçlerini yönetir. Bu iki sistemin nasıl çalıştığını anlamak, sadece biyolojik bir merak değil, bedenimizin bize verdiği sinyalleri doğru okumanın da ilk adımıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "İçimizdeki İki Farklı Dil",
+      "body": "Bedenimiz ve zihnimiz iki farklı kimyasal mesajlaşma sistemiyle yönetilir.",
+      "highlight_box": "Hızlı sinyaller ve yavaş dalgalar",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Anlık Mesajlar: Nörotransmitterler",
+      "body": "Sinir hücreleri arasında milisaniyeler içinde seyahat eden anlık sinyallerdir. Ruh halinizi, hareketlerinizi ve anlık tepkilerinizi belirler.",
+      "highlight_box": "Serotonin, Dopamin ve GABA bu sistemin parçasıdır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Geniş Dalgalar: Hormonlar",
+      "body": "Endokrin bezlerinden salgılanarak kan dolaşımına karışır. Etkileri daha yavaş başlar ancak tüm bedene yayılır ve uzun sürer.",
+      "highlight_box": "Büyüme, metabolizma ve stres tepkileri buradan yönetilir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Stresin Fiziksel Karşılığı",
+      "body": "Kortizol gibi hormonlar uzun süreli stres durumlarında salgılanarak bedenin homeostatisini yani dengesini değiştiri.",
+      "highlight_box": "Stres sadece zihinsel değil, hormonal bir süreçtir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Sistemlerin Kesişimi",
+      "body": "Norepinefrin ve epinefrin gibi bazı moleküller hem nörotransmitter hem de hormon olarak iki rolde de birden oynayabilir.",
+      "highlight_box": "Zihin ve beden her zaman birlikte çalışır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Bedeninizi Dinlemek",
+      "body": "Yaşadığınız ruh hali değişimlerinin arkasındaki biyolojik mekanizmayı anlamak, kendinize şefkat duymanın ilk adımıdır.",
+      "highlight_box": "Daha sonra incelemek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden bazı kaygılar aniden gelir de bazıları günlerce üzerimizden kalkmaz biliyor musunuz?",
+    "konusma_metni": "Beynimizdeki kimyasal mesajlaşma iki farklı dille yapılır. Nörotransmitterler anlık ve hızlı mesajlardır; tıpkı bir anlık öfke ya da ani bir refleks gibi. Hormonlar ise kana karışarak yavaş yavaş yayılan ama etkileri günlerce süren mektuplar gibidir. İçinizdeki o sürekli yorgunluk veya geçmeyen stres hissi, bu iki sistemin dengesiyle doğrudan ilgilidir."
+  },
+  "caption": "Bedenimizdeki kimyasal mesajlaşma, dış dünyayla kurduğumuz bağın görünmeyen mimarıdır. Nörotransmitterlerin milisaniyeler süren hızlı tepkileri ile hormonların kana karışarak tüm bedene yayılan uzun vadeli etkileri, ruh halimizi, kaygılarımızı ve stresle baş etme biçimimizi doğrudan belirler. İçsel dengenizi anlamak için bu süreci fark etmek önemlidir. #biyopsikoloji #nörobilim #stresyönetimi #ruhsağlığı #kortizol #içseldenge",
+  "processed_at": "2026-09-26 17:27:20"
+}

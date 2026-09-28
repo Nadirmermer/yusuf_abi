@@ -1,0 +1,133 @@
+{
+  "id": "psychology_vs_sociology_html_480b94c1",
+  "original_title": "Sociology vs Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/psychology-vs-sociology.html",
+  "published_date": "2026-09-21T17:33:41+00:00",
+  "read_time_minutes": 12,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sociology.jpg",
+      "alt": "Sociology vs Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-identity-theory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-cognitive-theory-300x145.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-constructivism-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-control-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cultural-relativism-300x168.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hofstede-cultural-dimensions-300x144.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/psychology.jpeg",
+      "alt": "psychology",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Julia-Simkus.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2418,
+  "turkce_baslik": "Aynadaki Ben: Kendi İç Sesimiz Mi, Yoksa Bize Bakanların Toplamı Mı?",
+  "kanca_sorusu": "Kendinizi bildiniz bileli taşıdığınız o karakter, gerçekten size mi ait, yoksa etrafınızdakilerin size biçtiği rollerin bir yansıması mı?",
+  "score": 48,
+  "puan_nedeni": "Metin genel olarak sosyoloji ve psikoloji disiplinlerinin akademik farklarını ve genetik-çevresel korelasyonları incelediği için kuru akademik kategoridedir. Takipçinin doğrudan ilişkisel yarasını kaşıyan bir içgörü barındırmadığından puanı düşük tutulmuştur.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "İnsan davranışını anlamaya çalışan iki büyük mercek vardır: Biri bireyin zihnine, travmalarına ve iç dünyasına odaklanan psikoloji; diğeri ise toplumun, yapıların ve ilişkilerin insanı nasıl şekillendirdiğini inceleyen sosyoloji. Ancak bu iki disiplin 'benlik' kavramında kesişir. Erikson ve Piaget benliğin gelişimini bireyin içsel aşamalarında ararken, Cooley'in 'ayna benlik' teorisi tam tersini söyler: Kim olduğumuz, başkalarının gözünde gördüğümüz yansımadan ibarettir. Belki de gün boyunca yaşadığımız içsel çatışmalar, kendi iç sesimiz ile başkalarının bize yüklediği beklentiler arasındaki o sessiz savaşın birer sonucudur.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Aynadaki Benlik",
+      "body": "Kendimize baktığımızda gördüğümüz kişi gerçekten biz miyiz?",
+      "highlight_box": "Benliğimiz içeriden mi kurulur, dışarıdan mı yansıtılır?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "İki Farklı Bakış Açısı",
+      "body": "Psikoloji zihnin derinliklerine odaklanırken, sosyoloji bizi saran toplumsal çevreye bakar.",
+      "highlight_box": "Birey mi toplumu şekillendirir, toplum mu bireyi?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "İçsel Olgunlaşma",
+      "body": "Psikolojik yaklaşım, benliği bireyin içsel aşamaları ve kişisel tarihi üzerinden ele alır.",
+      "highlight_box": "Geçmişteki yaralarımız bugünkü tepkilerimizi belirler.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Ayna Benlik Teorisi",
+      "body": "Charles Cooley'e göre kim olduğumuz, başkalarının bize nasıl baktığına dair algımızla şekillenir.",
+      "highlight_box": "Başkalarının gözündeki yansımamız kimliğimiz haline gelir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kendi Sesini Bulmak",
+      "body": "Sosyal çevrenin ve beklentilerin ötesine geçerek kendi gerçekliğinizle bağ kurun.",
+      "highlight_box": "Başkalarının aynasından kurtulma süreci.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Kimliğiniz başkalarının size biçtiği rollerin toplamından ibaret değildir.",
+      "highlight_box": "Bu derinleşme yolculuğunu kaydetmeyi unutmayın.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Kendinizi tanıdığınızı mı sanıyorsunuz, yoksa başkalarının sizi görmek istediği kişi mi oldunuz?",
+    "konusma_metni": "Psikoloji benliğin içeriden dışarıya doğru büyüdüğünü söyler, yani iç dünyamızı ve travmalarımızı inceler. Sosyoloji ise tam tersini savunur: Kim olduğumuz, etrafımızdakilerin bize baktığı aynada gördüğümüz şeydir. Yani başkalarının gözündeki yerimiz. Gün boyunca yaşadığımız o kimlik bunalımları, aslında kendi iç sesimizle bize biçilen rollerin çatışmasından başka bir şey değil. Siz kendi sesinizi mi duyuyorsunuz, yoksa kalabalığın yankısını mı?"
+  },
+  "caption": "İnsan davranışını anlamaya çalışırken iki ayrı kutuptan bakarız: Bireyin zihnine odaklanan psikoloji ve toplumsal yapıları inceleyen sosyoloji. Ancak asıl mesele, bu iki dünyanın kesiştiği yerde, yani benliğimizin inşasında başlar. Charles Cooley'in ayna benlik teorisi, kim olduğumuza dair inancımızın çoğunlukla başkalarının bize baktığı yerden şekillendiğini söyler. Peki siz, kendi hayatınızı yaşarken kendi sesinizi mi duyuyorsunuz, yoksa etrafınızdakilerin size biçtiği rollerin yankısını mı?\n\n#psikoloji #sosyoloji #benlik #kişiselgelişimdegilbilim #kimlik #içgörü #farkındalık",
+  "processed_at": "2026-09-26 16:50:39"
+}

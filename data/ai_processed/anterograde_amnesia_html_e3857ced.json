@@ -1,0 +1,127 @@
+{
+  "id": "anterograde_amnesia_html_e3857ced",
+  "original_title": "Anterograde Amnesia In Psychology: Definition & Examples",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/anterograde-amnesia.html",
+  "published_date": "2026-09-17T10:51:43+00:00",
+  "read_time_minutes": 4,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/amnesia.jpg",
+      "alt": "Anterograde Amnesia In Psychology: Definition & Examples",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--300x97.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Declarative-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/episodic-memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Procedural-Memory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/State-Dependent-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 817,
+  "turkce_baslik": "Yeni Anılar Kuramamak: Anterograd Amnezi ve Zihnin Bugüne Hapsolması",
+  "kanca_sorusu": "Hayatınızdaki son olayları zihninize hiç kaydedemediğinizi, her yeni günün tamamen yabancı bir boşlukla başladığını hayal edin; peki ya ruhsal hafızamız da benzer bir körleşme yaşarsa ne olur?",
+  "score": 45,
+  "puan_nedeni": "Metin, organik beyin hasarı, amnezi ve nöroloji temelli klinik bir makale olduğundan, doğrudan ilişkisel çatışmalar veya günlük psikolojik dinamikler yerine nöropsikolojik bir bozukluğu incelemektedir. Bu nedenle akademik tabanı güçlü ancak takipçinin doğrudan kendi ilişkisel dünyasını bulamayacağı bir konudur.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "Anterograd amnezi, kişinin beyin travması veya alkol bağımlılığı gibi etkenler sonrasında yeni anılar oluşturma yetisini yitirmesi durumudur. Geçmişteki derin izler yerli yerinde dururken, bugünden yarına köprü kurulamaması insan zihninin en sarsıcı kırılmalarından biridir. Ünlü H.M. vakasında olduğu gibi, bu durumdaki bireyler yeni insanları tanısalar dahi onları hafızalarına mühürleyemez; her karşılaşma ilk kez yaşanıyormuş gibi hissiyat bırakır.\n\nPsikolojik ve nörolojik açıdan hafıza, sadece geçmişi hatırlamak değil, geleceği inşa etme mekanizmamızdır. Anterograd amnezi yaşayan hastaların durumu, zihnin en temel işlevlerinden biri olan 'anlam üretme ve biriktirme' süreci sekteye uğradığında kimliğin nasıl askıda kaldığını gösterir. Eski anılar korunurken yeni deneyimlerin silinmesi, insan ruhunun şimdiki zamana mahkum olmasına yol açar.\n\nGünlük hayatta bu nörolojik tablodan bağımsız olarak, travmatik yaşantılar ve kronik savunma mekanizmaları da benzer bir 'yeni deneyime kapanma' hali yaratabilir. Birey, geçmişin acısından korunmak adına tıpkı hafızasını kapatmış gibi yeni bağlar kurmaktan kaçınabilir. @ya_da_psikoloji olarak baktığımızda, hafızanın ve bilincin sınırları, insanın kendi iç dünyasıyla kurduğu bağın en kırılgan aynasıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihnin Bugüne Hapsolması",
+      "body": "Geçmişin hatıraları zihinde dururken, bugünün yeni anılarını kaydedememek nasıl bir hissettirir?",
+      "highlight_box": "Anterograd amnezi, yeni bilgiyi uzun süreli hafızaya aktaramama durumudur.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Hafızanın Seçici Kırılması",
+      "body": "Beynin hippokampüs bölgesindeki hasarlar, eski bilgileri korurken yeni öğrenme kapılarını kapatabilir.",
+      "highlight_box": "Her yeni insan, her gün yeniden yabancıya dönüşür.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "H.M. Vakası ve Bilinmeyenler",
+      "body": "1953 yılındaki ameliyatıyla bilinen H.M. vakası, kısa süreli hafızanın normal kalıp uzun süreli kayıt yapmanın imkansızlaşabileceğini kanıtlamıştır.",
+      "highlight_box": "Okunan haberler okunduğu an unutulur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Alkolün ve Travmanın Etkisi",
+      "body": "Korsakoff sendromu gibi durumlarda, uzun süreli vitamin eksikliği beyin hücrelerinde geniş çaplı hasara ve bellek kayıplarına yol açar.",
+      "highlight_box": "Fiziksel hasar zihinsel sürekliliği doğrudan etkiler.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kimlik ve Hafıza Bağı",
+      "body": "İnsan deneyimleri, onları hafızada tutabildiğimiz ölçüde benliğimizin bir parçası haline gelir.",
+      "highlight_box": "Zihin, geçmiş ile gelecek arasında bir köprüdür.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış ve İçsel Hatırlatma",
+      "body": "Hafıza sadece hatırlamak değil, kim olduğumuzu bilme biçimimizdir.",
+      "highlight_box": "Bu analizi ileride tekrar incelemek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Yeni hiçbir şeyi hafızanıza kaydedemediğinizi, tanıştığınız herkesin her gün yabancıya dönüştüğünü düşündünüz mü?",
+    "konusma_metni": "Nörolojide anterograd amnezi olarak bilinen durum, kişinin travma veya ameliyat sonrasında yeni anı oluşturamaması halidir. Geçmişteki anılar yerli yerinde durur ancak bugünden yarına hiçbir bilgi aktarılamaz. Zihnin bu şekilde şimdiki zamana hapsolması, insan kimliğinin hafızayla nasıl örüldüğünü gösteren en çarpıcı örnektir. Hafızanın kaybı, aslında kimliğin ve geleceğin de askıya alınması demektir."
+  },
+  "caption": "Anterograd amnezi, bireyin beyin hasarı veya benzeri etkenler sonrasında yeni anılar oluşturma yetisini tamamen kaybetmesi durumudur. Eski anılar yerli yerinde dururken, bugünden yarına köprü kurulamaması zihnin en derin kırılmalarından biridir. Ünlü H.M. vakası, kısa süreli hafızanın korunmasına rağmen yeni bilgilerin uzun süreli hafızaya aktarılamayacağını kanıtlamıştır.\n\nZihnimizin işleyiş biçimi, kimliğimizi ve deneyimlerimizi anlamlandırma çabamızın temelini oluşturur. Bu tür nörolojik ve psikolojik eşikler, hafızanın insan hayatındaki hayati rolünü gözler önüne serer.\n\n#psikoloji #hafıza #nöropsikoloji #bilinç #zihin #klinikpsikoloji #travma",
+  "processed_at": "2026-09-26 17:10:34"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "sensory_vs_motor_neurons_html_ee4fb058",
+  "original_title": "Sensory Vs Motor Neurons",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/sensory-vs-motor-neurons.html",
+  "published_date": "2025-06-20T15:35:03+00:00",
+  "read_time_minutes": 6,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-motor-relay-neurons.png",
+      "alt": "Sensory Vs Motor Neurons",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-vs-motor-neuron.jpg",
+      "alt": "A venn diagram outlining the similarities and differences between sensory and motor neurons.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Sensory-Neuron.jpeg",
+      "alt": "Sensory Neuron",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cns-pns-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/interneuron-function-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurons-vs-glial-cells-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Diagram_of_the_spinal_cord-300x276.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/electrical-synapse-1-300x251.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/motor-neuron.jpg",
+      "alt": "motor neuron",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1147,
+  "turkce_baslik": "Bedenin Sessiz Dili: Duyularımız ve Tepkilerimiz Arasındaki Görünmez Bağ",
+  "kanca_sorusu": "Tehlike anında düşünmeden geri çekilmenizi sağlayan o refleks, zihninizle nasıl iletişim kurar?",
+  "score": 45,
+  "puan_nedeni": "Metin tamamen biyolojik, nörolojik ve akademik temelli sinir sistemi işleyişini anlatmaktadır. Doğrudan ilişkisel bir çatışma, bağlanma stili veya duygusal derinlik barındırmadığı, genel tıp ve biyopsikoloji alanı olduğu için katı puanlama kuralına göre düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan bedeni, dış dünyadan gelen uyaranları algılamak ve hayatta kalmak için kusursuz bir ağla donatılmıştır. Duyusal nöronlar, cildimizden gözümüze kadar her noktadan topladıkları bilgiyi merkezi sinir sistemine taşırken, motor nöronlar bu bilgiyə karşılık bedenin nasıl tepki vereceğini kaslara ve bezlere iletir. Bu iki sistemin uyumlu dansı, hem çevremizi algılamamızı hem de tehlike anında düşünmeye bile vakit bulamadan refleks göstermemizi sağlar. Bilimsel temelli bu mekanizma, aslında bedenin kendi içindeki iletişimin ne kadar hayati olduğunu ve zihnimizin fiziksel dünyayla nasıl sürekli bir alışveriş içinde bulunduğunu gözler önüne serer.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Bedenin İç İletişimi",
+      "body": "Dış dünyadan gelen uyaranlar zihnimize nasıl ulaşır?",
+      "highlight_box": "Duyular ve tepkiler arasındaki görünmez köprü.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Giriş ve Çıkış Hattı",
+      "body": "Sinir sistemi, bilgiyi almak ve komut vermek üzere iki temel sistem üzerine kuruludur.",
+      "highlight_box": "Biri algılar, diğeri harekete geçirir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Duyusal Nöronlar",
+      "body": "Cildimizden gözümüze kadar çevreden gelen bilgiyi merkezi sinir sistemine taşıyan habercilerdir.",
+      "highlight_box": "Algılamanın ilk adımı.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Motor Nöronlar",
+      "body": "Merkezi sinir sisteminden gelen komutları kaslara ve bezlere ileterek hareketi sağlarlar.",
+      "highlight_box": "Eylemin ve tepkinin yöneticisi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Refleks Arkı",
+      "body": "Bazı uyaranlar beyne gitmeden omurilikte işlenir ve ani tehlikelere karşı hızlıca tepki verilmesini sağlar.",
+      "highlight_box": "Bedenin otomatik koruma mekanizması.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Bütünsel Farkındalık",
+      "body": "Zihin ve beden ayrılmaz bir bütündür; her duyum bir tepkiyi, her tepki bir hayatta kalma çabasını barındırır.",
+      "highlight_box": "Bu bilgiyi daha sonra incelemek üzere kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Siz daha tehlikeyi fark etmeden eliniz sıcaktan neden çekilir?",
+    "konusma_metni": "Beynimiz ve bedenimiz arasındaki bu inanılmaz iletişim, duyusal ve motor nöronların kusursuz işbirliğiyle gerçekleşir. Duyusal nöronlar dünyayı algılamamızı sağlarken, motor nöronlar bedene ne yapması gerektiğini söyler. Bu mekanizma, sadece biyolojik bir süreç değil, hayatta kalma reflekslerimizin temelidir."
+  },
+  "caption": "Bedenimiz, dış dünyadan gelen uyaranları işlemek ve hayatta kalmak için karmaşık ama kusursuz bir sinir sistemine sahiptir. Duyusal nöronlar çevreyi algılarken, motor nöronlar bu algıya karşılık bedenin harekete geçmesini sağlar. Bu iki sistemin uyumu, sadece fiziksel hareketlerimizi değil, aynı zamanda tehlike anındaki reflekslerimizi de belirler. Sinir sisteminin bu temel işleyişi hakkında ne düşünüyorsunuz? Yorumlarda buluşalım.\n\n#sinirsistemi #biyopsikoloji #nöroloji #bedenvesinir #farkındalık #psikoloji",
+  "processed_at": "2026-09-26 17:31:53"
+}

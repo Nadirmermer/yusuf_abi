@@ -1,0 +1,169 @@
+{
+  "id": "emotion_regulation_flexibility_and_momen_0f61d0e5",
+  "url": "https://www.simplypsychology.org/emotion-regulation-flexibility-and-momentary-affect.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Emotion Regulation Flexibility And Momentary Affect",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2024-05-13T12:48:30+00:00",
+  "date_modified": null,
+  "read_time_minutes": 8,
+  "word_count": 1561,
+  "summary": "News»Clinical Psychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "News»Clinical Psychology\n\nEmotion regulation flexibility refers to the ability to adapt emotion regulation strategies to varying situational demands.\n\nThe DIAMONDS model, which assesses eight fundamental situational characteristics (Duty, Intellect, Adversity, Mating, Positivity, Negativity, Deception, and Sociality), provides a comprehensive framework for examining emotion regulation flexibility across diverse contexts.\n\nThis allows researchers to capture the nuanced interplay between situational factors and the effectiveness of different emotion regulation strategies in real-world settings.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Points:",
+      "content": "- The study employedecological momentary assessment(EMA) to develop proxy measures for emotion regulation (ER) flexibility components (context sensitivity, repertoire, and feedback responsiveness) and examined their associations with momentary affective outcomes in two independent samples from the United States and China.\n\n- Increased momentary context sensitivity and use of repertoire were associated with reduced distress in both cultures, while results for feedback responsiveness were less consistent.\n\n- Maintaining effective strategies was generally adaptive, whereas switching from ineffective strategies was adaptive for momentary depressed, but not anxious, mood.\n\n- The study demonstrates transcultural similarities in ER flexibility’s benefits and nuanced implications of its components on affective outcomes.\n\n- While enlightening, the study has limitations such as using a fixed EMA schedule, limited exploration of racial differences, and the inability to infer causality.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Rationale",
+      "content": "Previous research has classifiedER strategiesas either uniformly adaptive or maladaptive (Aldao et al., 2010; Joormann & Stanton, 2016). However, recent studies have demonstrated that the efficacy of specific ER strategies varies across situations and individuals (Sheppes et al., 2014; Troy et al., 2013).\n\nWhile theoretical models and empirical research have highlighted the importance of ER flexibility in navigating diverse contexts (Aldao et al., 2015; Bonanno & Burton, 2013), there has been little research simultaneously examining its components in real-world, daily situations.\n\nMoreover, culture, often overlooked in ER flexibility literature, plays a pivotal role in shaping how individuals perceive, interpret, and manage their emotions (Ford & Mauss, 2015).\n\nTherefore, this study aimed to test the flexibility sequence model using a longitudinal EMA design with data from two distinct cultures, the United States and China, examining the potential robustness and consistency of findings independently in both cultures, as well as possible cross-cultural differences.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Method",
+      "content": "The study employed a longitudinal EMA design to capture multiple components of ER flexibility and their associations with momentary affective outcomes in two independent samples from the United States (N= 158) and China (N = 144).\n\nParticipants completed baseline and exit surveys, as well as four daily EMA surveys for 21 days, reporting emotional situations, situation characteristics, ER use and change, and momentary distress.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Procedure",
+      "content": "Participants completed an orientation meeting with trained research assistants before the 21-day EMA phase.\n\nDuring the EMA phase, participants were prompted to complete surveys four times per day, assessing the most emotional situation in the past three hours, perceived situational characteristics, ER strategies, effectiveness of ER strategies, whether participants changed their initial ER strategies, and momentary psychological distress following the regulation attempt.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Sample",
+      "content": "The US sample consisted of 158 adults (36 men, 116 women, and 6 nonbinary or nonconforming individuals) aged 18 to 72 years (M = 35.97, SD = 12.45). The Chinese sample consisted of 144 adults (55 men, 88 women, and 1 nonbinary or nonconforming individual) aged 18 to 55 years (M = 29.37, SD = 8.50).",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Measures",
+      "content": "- Baseline and exit surveys assessed demographics, components of flexibility, and habitual use of ER strategies.\n\n- EMA surveys measured emotional situations, perceived situational characteristics (DIAMONDS), initial and updated/hypothetical ER strategies, effectiveness of ER strategies, ER change, and momentary distress (depressed mood, anxious mood, and perceived stress).",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Statistical Measures",
+      "content": "Multilevel modeling (MLM) was used to examine the associations between momentary measures of flexibility components and affective outcomes. Predictors were person-centered at level 1 and grand-mean centered at level 2.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Results",
+      "content": "- In both cultures, increased momentary context sensitivity and use of repertoire were associated with reduced momentary distress.\n\n- Maintaining effective strategies was adaptive for momentary anxious mood, perceived stress, and total distress, while switching from ineffective strategies was adaptive for momentary depressed mood.\n\n- Some cross-cultural differences emerged, with context sensitivity having larger effect sizes for US participants and strategy switching being particularly advantageous for the Chinese sample.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Insight",
+      "content": "This study provides valuable insights into the adaptiveness of ER flexibility components across two distinct cultures.\n\nThe findings suggest that differentiating situational characteristics (context sensitivity) and deploying a range of effective strategies (repertoire) in the moment is beneficial for reducing distress, regardless of cultural background.\n\nHowever, the impact of feedback responsiveness appears to be more nuanced, with maintaining effective strategies being generally adaptive, but switching from ineffective strategies being particularly beneficial for depressed mood.\n\nThe study also highlights potential cultural differences in the emphasis on flexibility components, with context sensitivity being more impactful in the US and strategy switching being more advantageous in China.\n\nThese findings extend previous research by simultaneously examining multiple flexibility components in real-world contexts and across cultures.\n\nFuture research could explore the relationships between trait and state levels of flexibility components, as well as their impact on long-term mental health outcomes.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Strengths",
+      "content": "- Longitudinal EMA design to capture ER flexibility in real-world contexts\n\n- Development of proxy measures for flexibility components\n\n- Examination of all flexibility components simultaneously\n\n- Inclusion of independent samples from two distinct cultures",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Limitations",
+      "content": "- Fixed EMA schedule that may not have adequately captured real-time ER\n\n- Limited exploration of racial differences due to sample size constraints\n\n- Inability to infer causality from the observed associations.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Clinical Implications",
+      "content": "The study’s results have significant implications for understanding the role of ER flexibility in mental health across cultures.\n\nThe findings suggest that interventions targeting the development of context sensitivity and repertoire use in the moment could be beneficial for reducing distress, regardless of cultural background.\n\nHowever, the nuanced impact of feedback responsiveness on specific affective outcomes suggests that a more tailored approach may be necessary when addressing depressed or anxious mood.\n\nThe potential cultural differences in the emphasis on flexibility components also highlight the importance of considering cultural factors when designing and implementing ER interventions.\n\nFurther research is needed to explore the long-term impact of ER flexibility on mental health outcomes and to develop culturally-sensitive interventions that promote adaptive ER.\n\nMcLeod, S. (2024). Emotion Regulation Flexibility And Momentary Affect. Simply Psychology. https://www.simplypsychology.org/news/emotion-regulation-flexibility-and-momentary-affect/\n\nMcLeod, Saul. \"Emotion Regulation Flexibility And Momentary Affect.\" Simply Psychology, 13 May 2024, https://www.simplypsychology.org/news/emotion-regulation-flexibility-and-momentary-affect/.\n\nMcLeod, S. (2024) Emotion Regulation Flexibility And Momentary Affect. Simply Psychology. Available at: https://www.simplypsychology.org/news/emotion-regulation-flexibility-and-momentary-affect/ (Accessed: 22 September 2026).",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "Primary Reference",
+      "content": "Chen, M. S., Bi, K., Han, X., Sun, P., & Bonanno, G. A. (2024). Emotion regulation flexibility and momentary affect in two cultures.Nature Mental Health,1-10.https://doi.org/10.1038/s44220-024-00215-3",
+      "order": 14,
+      "items": []
+    },
+    {
+      "heading": "Other References",
+      "content": "Aldao, A., Nolen-Hoeksema, S., & Schweizer, S. (2010). Emotion-regulation strategies across psychopathology: A meta-analytic review.Clinical Psychology Review, 30(2), 217-237.\n\nAldao, A., Sheppes, G., & Gross, J. J. (2015). Emotion regulation flexibility. Cognitive Therapy and Research, 39(3), 263-278.\n\nBonanno, G. A., & Burton, C. L. (2013). Regulatory flexibility: An individual differences perspective on coping and emotion regulation.Perspectives on Psychological Science, 8(6), 591-612.\n\nFord, B. Q., & Mauss, I. B. (2015). Culture and emotion regulation.Current Opinion in Psychology, 3, 1-5.\n\nJoormann, J., & Stanton, C. H. (2016). Examining emotion regulation in depression: A review and future directions.Behaviour Research and Therapy, 86, 35-49.\n\nSheppes, G., Scheibe, S., Suri, G., Radu, P., Blechert, J., & Gross, J. J. (2014). Emotion regulation choice: A conceptual framework and supporting evidence.Journal of Experimental Psychology: General, 143(1), 163-181.\n\nTroy, A. S., Shallcross, A. J., & Mauss, I. B. (2013). A person-by-situation approach to emotion regulation: Cognitive reappraisal can either help or hurt, depending on the context.Psychological Science, 24(12), 2505-2514.",
+      "order": 15,
+      "items": []
+    },
+    {
+      "heading": "Keep Learning",
+      "content": "- How can the findings of this study inform the development of culturally-sensitive interventions targeting ER flexibility?\n\n- What are the potential long-term implications of ER flexibility on mental health outcomes, and how can future research explore these relationships?\n\n- How might the study’s limitations, such as the fixed EMA schedule and limited exploration of racial differences, be addressed in future research to enhance our understanding of ER flexibility across diverse contexts and populations?\n\n- Given the nuanced impact of feedback responsiveness on specific affective outcomes, what are some potential strategies for tailoring ER interventions to address depressed or anxious mood effectively?\n\n- How can the potential cultural differences in the emphasis on flexibility components inform our understanding of the role of culture in shaping ER processes, and what are the implications for cross-cultural research in this field?\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 16,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotion-regulation-2.jpeg",
+      "alt": "Emotion Regulation Flexibility And Momentary Affect",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/disclosing-diagnosis-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/future-anxiety-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mindfulness-yogi-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adult-friendships-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotion-wheel-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Emotion Regulation Flexibility And Momentary Affect\n\n> News»Clinical Psychology\n\n## Giriş\n\nNews»Clinical Psychology\n\nEmotion regulation flexibility refers to the ability to adapt emotion regulation strategies to varying situational demands.\n\nThe DIAMONDS model, which assesses eight fundamental situational characteristics (Duty, Intellect, Adversity, Mating, Positivity, Negativity, Deception, and Sociality), provides a comprehensive framework for examining emotion regulation flexibility across diverse contexts.\n\nThis allows researchers to capture the nuanced interplay between situational factors and the effectiveness of different emotion regulation strategies in real-world settings.\n\n## Key Points:\n\n- The study employedecological momentary assessment(EMA) to develop proxy measures for emotion regulation (ER) flexibility components (context sensitivity, repertoire, and feedback responsiveness) and examined their associations with momentary affective outcomes in two independent samples from the United States and China.\n\n- Increased momentary context sensitivity and use of repertoire were associated with reduced distress in both cultures, while results for feedback responsiveness were less consistent.\n\n- Maintaining effective strategies was generally adaptive, whereas switching from ineffective strategies was adaptive for momentary depressed, but not anxious, mood.\n\n- The study demonstrates transcultural similarities in ER flexibility’s benefits and nuanced implications of its components on affective outcomes.\n\n- While enlightening, the study has limitations such as using a fixed EMA schedule, limited exploration of racial differences, and the inability to infer causality.\n\n## Rationale\n\nPrevious research has classifiedER strategiesas either uniformly adaptive or maladaptive (Aldao et al., 2010; Joormann & Stanton, 2016). However, recent studies have demonstrated that the efficacy of specific ER strategies varies across situations and individuals (Sheppes et al., 2014; Troy et al., 2013).\n\nWhile theoretical models and empirical research have highlighted the importance of ER flexibility in navigating diverse contexts (Aldao et al., 2015; Bonanno & Burton, 2013), there has been little research simultaneously examining its components in real-world, daily situations.\n\nMoreover, culture, often overlooked in ER flexibility literature, plays a pivotal role in shaping how individuals perceive, interpret, and manage their emotions (Ford & Mauss, 2015).\n\nTherefore, this study aimed to test the flexibility sequence model using a longitudinal EMA design with data from two distinct cultures, the United States and China, examining the potential robustness and consistency of findings independently in both cultures, as well as possible cross-cultural differences.\n\n## Method\n\nThe study employed a longitudinal EMA design to capture multiple components of ER flexibility and their associations with momentary affective outcomes in two independent samples from the United States (N= 158) and China (N = 144).\n\nParticipants completed baseline and exit surveys, as well as four daily EMA surveys for 21 days, reporting emotional situations, situation characteristics, ER use and change, and momentary distress.\n\n## Procedure\n\nParticipants completed an orientation meeting with trained research assistants before the 21-day EMA phase.\n\nDuring the EMA phase, participants were prompted to complete surveys four times per day, assessing the most emotional situation in the past three hours, perceived situational characteristics, ER strategies, effectiveness of ER strategies, whether participants changed their initial ER strategies, and momentary psychological distress following the regulation attempt.\n\n## Sample\n\nThe US sample consisted of 158 adults (36 men, 116 women, and 6 nonbinary or nonconforming individuals) aged 18 to 72 years (M = 35.97, SD = 12.45). The Chinese sample consisted of 144 adults (55 men, 88 women, and 1 nonbinary or nonconforming individual) aged 18 to 55 years (M = 29.37, SD = 8.50).\n\n## Measures\n\n- Baseline and exit surveys assessed demographics, components of flexibility, and habitual use of ER strategies.\n\n- EMA surveys measured emotional situations, perceived situational characteristics (DIAMONDS), initial and updated/hypothetical ER strategies, effectiveness of ER strategies, ER change, and momentary distress (depressed mood, anxious mood, and perceived stress).\n\n## Statistical Measures\n\nMultilevel modeling (MLM) was used to examine the associations between momentary measures of flexibility components and affective outcomes. Predictors were person-centered at level 1 and grand-mean centered at level 2.\n\n## Results\n\n- In both cultures, increased momentary context sensitivity and use of repertoire were associated with reduced momentary distress.\n\n- Maintaining effective strategies was adaptive for momentary anxious mood, perceived stress, and total distress, while switching from ineffective strategies was adaptive for momentary depressed mood.\n\n- Some cross-cultural differences emerged, with context sensitivity having larger effect sizes for US participants and strategy switching being particularly advantageous for the Chinese sample.\n\n## Insight\n\nThis study provides valuable insights into the adaptiveness of ER flexibility components across two distinct cultures.\n\nThe findings suggest that differentiating situational characteristics (context sensitivity) and deploying a range of effective strategies (repertoire) in the moment is beneficial for reducing distress, regardless of cultural background.\n\nHowever, the impact of feedback responsiveness appears to be more nuanced, with maintaining effective strategies being generally adaptive, but switching from ineffective strategies being particularly beneficial for depressed mood.\n\nThe study also highlights potential cultural differences in the emphasis on flexibility components, with context sensitivity being more impactful in the US and strategy switching being more advantageous in China.\n\nThese findings extend previous research by simultaneously examining multiple flexibility components in real-world contexts and across cultures.\n\nFuture research could explore the relationships between trait and state levels of flexibility components, as well as their impact on long-term mental health outcomes.\n\n## Strengths\n\n- Longitudinal EMA design to capture ER flexibility in real-world contexts\n\n- Development of proxy measures for flexibility components\n\n- Examination of all flexibility components simultaneously\n\n- Inclusion of independent samples from two distinct cultures\n\n## Limitations\n\n- Fixed EMA schedule that may not have adequately captured real-time ER\n\n- Limited exploration of racial differences due to sample size constraints\n\n- Inability to infer causality from the observed associations.\n\n## Clinical Implications\n\nThe study’s results have significant implications for understanding the role of ER flexibility in mental health across cultures.\n\nThe findings suggest that interventions targeting the development of context sensitivity and repertoire use in the moment could be beneficial for reducing distress, regardless of cultural background.\n\nHowever, the nuanced impact of feedback responsiveness on specific affective outcomes suggests that a more tailored approach may be necessary when addressing depressed or anxious mood.\n\nThe potential cultural differences in the emphasis on flexibility components also highlight the importance of considering cultural factors when designing and implementing ER interventions.\n\nFurther research is needed to explore the long-term impact of ER flexibility on mental health outcomes and to develop culturally-sensitive interventions that promote adaptive ER.\n\nMcLeod, S. (2024). Emotion Regulation Flexibility And Momentary Affect. Simply Psychology. https://www.simplypsychology.org/news/emotion-regulation-flexibility-and-momentary-affect/\n\nMcLeod, Saul. \"Emotion Regulation Flexibility And Momentary Affect.\" Simply Psychology, 13 May 2024, https://www.simplypsychology.org/news/emotion-regulation-flexibility-and-momentary-affect/.\n\nMcLeod, S. (2024) Emotion Regulation Flexibility And Momentary Affect. Simply Psychology. Available at: https://www.simplypsychology.org/news/emotion-regulation-flexibility-and-momentary-affect/ (Accessed: 22 September 2026).\n\n## Primary Reference\n\nChen, M. S., Bi, K., Han, X., Sun, P., & Bonanno, G. A. (2024). Emotion regulation flexibility and momentary affect in two cultures.Nature Mental Health,1-10.https://doi.org/10.1038/s44220-024-00215-3\n\n## Other References\n\nAldao, A., Nolen-Hoeksema, S., & Schweizer, S. (2010). Emotion-regulation strategies across psychopathology: A meta-analytic review.Clinical Psychology Review, 30(2), 217-237.\n\nAldao, A., Sheppes, G., & Gross, J. J. (2015). Emotion regulation flexibility. Cognitive Therapy and Research, 39(3), 263-278.\n\nBonanno, G. A., & Burton, C. L. (2013). Regulatory flexibility: An individual differences perspective on coping and emotion regulation.Perspectives on Psychological Science, 8(6), 591-612.\n\nFord, B. Q., & Mauss, I. B. (2015). Culture and emotion regulation.Current Opinion in Psychology, 3, 1-5.\n\nJoormann, J., & Stanton, C. H. (2016). Examining emotion regulation in depression: A review and future directions.Behaviour Research and Therapy, 86, 35-49.\n\nSheppes, G., Scheibe, S., Suri, G., Radu, P., Blechert, J., & Gross, J. J. (2014). Emotion regulation choice: A conceptual framework and supporting evidence.Journal of Experimental Psychology: General, 143(1), 163-181.\n\nTroy, A. S., Shallcross, A. J., & Mauss, I. B. (2013). A person-by-situation approach to emotion regulation: Cognitive reappraisal can either help or hurt, depending on the context.Psychological Science, 24(12), 2505-2514.\n\n## Keep Learning\n\n- How can the findings of this study inform the development of culturally-sensitive interventions targeting ER flexibility?\n\n- What are the potential long-term implications of ER flexibility on mental health outcomes, and how can future research explore these relationships?\n\n- How might the study’s limitations, such as the fixed EMA schedule and limited exploration of racial differences, be addressed in future research to enhance our understanding of ER flexibility across diverse contexts and populations?\n\n- Given the nuanced impact of feedback responsiveness on specific affective outcomes, what are some potential strategies for tailoring ER interventions to address depressed or anxious mood effectively?\n\n- How can the potential cultural differences in the emphasis on flexibility components inform our understanding of the role of culture in shaping ER processes, and what are the implications for cross-cultural research in this field?\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:36:09.395496"
+}

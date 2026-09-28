@@ -1,0 +1,139 @@
+{
+  "id": "conditioned_stimulus_html_7b073c8a",
+  "original_title": "Conditioned Stimulus",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/conditioned-stimulus.html",
+  "published_date": "2026-09-21T11:55:37+00:00",
+  "read_time_minutes": 12,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Conditioned-Stimulus.jpg",
+      "alt": "Conditioned Stimulus",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Pavlovs-Dogs-Experiment.jpg",
+      "alt": "Simply Psychology Logo",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Pavlov-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Pavlovs-Dogs-Experiment-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Unconditioned-Stimulus-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Second-order_conditioning-290x300.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/skinner-box-300x253.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/behaviorist-approach-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Julia-Simkus.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2436,
+  "turkce_baslik": "Zihnin Görünmeyen Zincirleri: Geçmişin Uyarıcıları Bugününüzü Nasıl Yönetiyor?",
+  "kanca_sorusu": "Neden ortada hiçbir tehlike yokken kalbiniz hızlanıyor ya da bazı anılarda boğuluyormuş gibi hissediyorsunuz?",
+  "score": 45,
+  "puan_nedeni": "Metin, klasik koşullanma ve Pavlovyen teoriler gibi kuru akademik öğrenme kuramlarını ele almaktadır. Her ne kadar metnin sonunda kaygı ile bir bağ kurulsa da, teorik temelli olması ve pratik ilişkisel dinamiklerden ziyade davranışçı psikolojiye odaklanması nedeniyle puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, geçmişte yaşadığı travmatik ya da yoğun deneyimleri sadece birer anı olarak depolamakla kalmaz; o anın etrafındaki nötr detayları da birer tehlike sinyaline dönüştürür. Klasik koşullanma teorisinin temelini oluşturan bu mekanizma, aslında günlük hayatta neden sebepsiz yere tetiklendiğimizi açıklar. Bir koku, bir ses, hatta sıradan bir kelime; geçmişteki acı dolu bir anıyla defalarca eşleştiğinde, bugünkü güvenli anınızda bile sizi aynı korku ve kaygı döngüsüne hapsedebilir.\n\nBu durum sadece basit bir alışkanlık değil, beynin hayatta kalma adına kurduğu katı bir tahmindir. Ancak modern psikoloji bize gösterir ki, bu uyarıcılar sadece birer tekrarın sonucu değil, aynı zamanda o olayın ne kadar güvenilir birer habercisi olduğuyla ilgilidir. Yani zihnimiz, geçmişin gölgesinde bugünü okumaya çalıştığı sürece, aslında var olmayan tehlikelere karşı alarm vermeye devam eder.\n\nİyileşme süreci, bu görünmeyen zincirleri fark etmekle başlar. Sizi tetikleyen uyarıcının bugünkü gerçekliğinizle geçmişteki yankısını ayırt edebilmek, otomatik tepkilerinizi durdurmanın ilk adımıdır. Zihninizin geçmişin korkularıyla bugünü yönetmesine her zaman izin vermek zorunda değilsiniz; bazen sadece durup o uyarıcının bugünkü anlamını sorgulamak, zincirleri kırmak için yeterlidir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Geçmişin Sessiz Tetikleyicileri",
+      "body": "Bugün yaşadığınız ani kaygıların ve huzursuzlukların kökeni, zihninizin geçmişte kurduğu gizli bağlarda saklı olabilir.",
+      "highlight_box": "Zihniniz hangi anının esiri?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Nötr Olan Nasıl Tehdit Olur?",
+      "body": "Bir zamanlar tamamen anlamsız olan bir detay, yaşanan yoğun bir olayla eşleştiğinde artık tehlike çanı gibi çalmaya başlar.",
+      "highlight_box": "Uyarıcılar anlamını geçmişten alır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Anlam Yüklenen Detaylar",
+      "body": "Tekrar eden eşleşmeler, beyinde kalıcı bir yol oluşturur ve en ufak bir benzerlikte dahi aynı duygusal tepkiyi otomatik olarak tetikler.",
+      "highlight_box": "Bilinç dışı bir eşleşme döngüsü.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Tehdit Olmayan Alarm Durumu",
+      "body": "Gerçekte tehlike bulunmadığı halde beden sanki kriz anındaymış gibi tepki verir. Bu durum klinik kaygının en temel işaretlerinden biridir.",
+      "highlight_box": "Beden güvende hissedemez.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Zincirleri Kırmak Mümkün",
+      "body": "Bu otomatik tepkileri durdurmak için öncelikle tetikleyicinin bugünkü gerçekliğinizle bağını koparmayı ve yeni deneyimler oluşturmayı öğrenmelisiniz.",
+      "highlight_box": "Farkındalık en güçlü kalkandır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Bugüne Geri Dönmek",
+      "body": "Geçmişin uyarıcılarının bugününüzü yönetmesine izin vermeyin. Tetiklendiğinizde durun ve nerede olduğunuzu hatırlayın.",
+      "highlight_box": "Bu içeriği rehber olarak saklayın.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden ortada hiçbir sebep yokken aniden iç sıkıntısı ya da kaygı yaşıyorsunuz?",
+    "konusma_metni": "Beyniniz geçmişte yaşadığınız acı bir anıyı, bugünkü sıradan bir detayla eşleştirmiş olabilir. Klasik koşullanma dediğimiz bu mekanizma, sıradan bir kokuyu ya da sesi tehlike sinyaline dönüştürür. Aslında korktuğunuz şey şu an yaşadığınız an değil, geçmişin bugüne sızan gölgesidir. Bu tetikleyicilerin farkına vardığınızda, zihninizin kurduğu tuzakları bozmaya başlayabilirsiniz."
+  },
+  "caption": "Zihnimiz, geçmişte yaşanan acı ya da stres dolu deneyimleri sadece birer anı olarak saklamaz. O anın çevresindeki sıradan detayları, kokuları, sesleri ya da kelimeleri de birer tehlike sinyaline dönüştürür. Klasik koşullanma olarak bilinen bu süreç, bugün neden sebepsiz yere kaygılandığımızın veya tetiklendiğimizin en temel açıklamalarından biridir.\n\nGeçmişin gölgesinde bugünü yaşamak, sürekli var olmayan tehlikelere karşı alarmda kalmaktır. Ancak bu döngüyü kırmak, tetikleyicilerinizi fark etmek ve onların bugünkü gerçekliğinizle olan bağını sorgulamakla mümkündür.\n\nBu konuyu derinlemesine incelemek ve zihninizin oyunlarını fark etmek için kaydetmeyi unutmayın.\n\n#psikoloji #kaygı #koşullanma #zihinyönetimi #travma #farkındalık #ilişkiselpsikoloji",
+  "processed_at": "2026-09-26 02:41:44"
+}

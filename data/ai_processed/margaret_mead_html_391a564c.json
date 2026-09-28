@@ -1,0 +1,133 @@
+{
+  "id": "margaret_mead_html_391a564c",
+  "original_title": "Margaret Mead",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/margaret-mead.html",
+  "published_date": "2026-09-17T11:34:02+00:00",
+  "read_time_minutes": 11,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/margaret-mead-1.jpg",
+      "alt": "Margaret Mead",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/culture-faces.jpeg",
+      "alt": "a wall of paper outlines of faces in different skin colours",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hofstede-cultural-dimensions-300x144.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cultural-relativism-300x168.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-identity-theory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/The_looking_glass_self-300x232.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-cognitive-theory-300x145.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-constructivism-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Erin-Heaning.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2199,
+  "turkce_baslik": "Kendi Doğrunuz mu, Yoksa İçinde Büyüdüğünüz Toplumun Reçetesi mi?",
+  "kanca_sorusu": "Bugün savunduğunuz inançların, öfkelendiğiniz kuralların veya seçtiğiniz hayatın gerçekten size ait olduğunu ne kadar kanıtsulayabilirsiniz?",
+  "score": 45,
+  "puan_nedeni": "Metin genel olarak kültürel antropoloji, Margaret Mead'in hayatı ve akademik tartışmalar üzerine kuruludur. Doğrudan klinik bir içgörü veya ilişkisel bir dinamik (bağlanma, toksik ilişki vb.) içermediğinden, @ya_da_psikoloji takipçi kitlesi için akademik ve mesafeli kalmaktadır. Bu nedenle puanı düşük tutulmuştur.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "İçinde doğduğumuz ve büyüdüğümüz toplum, bize bir kimlik sunmakla kalmaz; aynı zamanda neyi normal, neyi anormal bulacağımızın da sınırlarını çizer. Antropolog Margaret Mead, kültürün insan doğası üzerindeki ezici gücünü incelediğinde, aslında bireyin kendi kararları sandığı pek çok şeyin toplumsal birer yankıdan ibaret olduğunu göstermişti. Batı dünyasının mutlak doğrular olarak kabul ettiği cinsiyet rolleri, aile yapıları ve bireysel bunalımlar, farklı kültürlerin aynasında bambaşka bir suret kazanır. Bu durum, insan psikolojisinin biyolojik birer robot olmadıklarını, aksine içine doğdukları kültürün kumaşıyla örüldüklerini kanıtlar. Kendi iç sesimizi duymak istiyorsak, önce o sesin üzerine binen kültürel ve toplumsal gürültüyü kısmayı öğrenmeliyiz. Bize dayatılan şablonları sorgulamadan benimsediğimiz sürece, başkalarının yazdığı bir senaryonun başrolünde olduğumuzu fark edemeyiz.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Kendi Kararlarınız mı, Size Dayatılanlar mı?",
+      "body": "Hayatınızın direksiyonunda kimin oturduğunu hiç düşündünüz mü?",
+      "highlight_box": "Seçimlerinizin kökeni nerede?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Kültürel Aynanın Etkisi",
+      "body": "Bireyler olarak neyi seveceğimiz, nasıl üzüleceğimiz ve neye isyan edeceğimiz bile içine doğduğumuz sistem tarafından şekillendirilir.",
+      "highlight_box": "Normal dediğiniz şey kime göre normal?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Toplumsal Kabul Arayışı",
+      "body": "Kendi istekleriniz yerine başkalarının onayını merkeze koymak, bireysel özgürlüğün en büyük engelidir.",
+      "highlight_box": "Onay almadığınızda suçlu hissediyorsunuz.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Otomatik Tepkiler",
+      "body": "Kriz anlarında verdiğiniz tepkilerin size mi ait yoksa aileden öğrendiğiniz ezberler mi olduğunu ayırt edememek.",
+      "highlight_box": "Ben mi böyle düşünüyorum, yoksa bana böyle mi öğretildi?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Sınır Çizmek ve Ayrışmak",
+      "body": "Kendi kimliğinizi inşa etmek için çevrenizden gelen sesleri kısmanız ve kendi iç sesinize alan açmanız gerekir.",
+      "highlight_box": "Ayrışmak bencillik değil, ruhsal büyümedir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Özgürlük",
+      "body": "Başkalarının beklentilerinden arındığınızda kalan kişi, sizin gerçek benliğinizdir.",
+      "highlight_box": "Bu farkındalığı kaybetmemek için kaydet.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Hayatınızda aldığınız kararların gerçekten size ait olduğunu mu düşünüyorsunuz?",
+    "konusma_metni": "Çoğu zaman kendi irademizle verdiğimizi sandığımız kararlar, aslında içinde büyüdüğümüz kültürün ve aile sisteminin bize yazdığı gizli senaryolardan ibarettir. Toplumun normal dediği şey, belki de sadece size giydirilen dar bir elbiscedir. Kendi gerçekliğinizi bulmak istiyorsanız, önce size ezberletilen bu kalıpları sorgulamaya başlamalısınız."
+  },
+  "caption": "Toplumun bize biçtiği roller, aileden devralınan inançlar ve kültürel kalıplar, bireysel kimliğimizi görünmez bir şekilde kuşatır. Kendi kararlarımız sandığımız pek çok şey, aslında başkalarının bizim için yazdığı senaryolardan ibarettir. Gerçek bir bireyselleşme süreci, bu ezberleri sorgulama cesaretini gösterdiğimiz an başlar.\n\n#KültürelKimlik #Bireyselleşme #Psikoloji #ToplumVeBirey #İçselYolculuk #Sınırlar #Farkındalık",
+  "processed_at": "2026-09-26 17:06:20"
+}

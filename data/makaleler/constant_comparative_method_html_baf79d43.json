@@ -1,0 +1,151 @@
+{
+  "id": "constant_comparative_method_html_baf79d43",
+  "url": "https://www.simplypsychology.org/constant-comparative-method.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Constant Comparative Method In Grounded Theory",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2024-10-29T17:38:39+00:00",
+  "date_modified": null,
+  "read_time_minutes": 8,
+  "word_count": 1532,
+  "summary": "Psychology»Research Methodology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Research Methodology\n\nThe constant comparative method was developed by sociologists Barney Glaser and Anselm Strauss in the 1960s as a core component of theirgrounded theory approachto qualitative research.\n\nIt involves systematically comparing new data with existing data to identify patterns, similarities, and differences.\n\nThis process is iterative and continues throughout the research process, frominitial codingto theoretical sampling and memo writing.\n\nThe constant comparative method continues until researchers reachtheoretical saturation, meaning that no new information or insights emerge from the data.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Takeaways",
+      "content": "- Constantly comparing data: As data is collected, it is constantly compared to existing data to identify similarities, differences, and patterns.\n\n- Developing codes and categories: Based on the comparisons, codes are developed to label and categorize the data. These codes are then grouped into categories to further organize the data.\n\n- Refining codes and categories: As new data is collected, the codes and categories are refined and modified to ensure they accurately reflect the data.\n\n- Developing theory: Through this iterative process of comparing, coding, and refining, a grounded theory emerges from the data.\n\nHere is a step-by-step approach to applying the constant comparative method:\n\n- Open coding\n\n- Axial coding\n\n- Create Categories\n\n- Theoretical Sampling\n\n- Memo Writing",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Open coding",
+      "content": "Open coding, also called initial coding, is the first stage of data analysis in grounded theory.\n\nDuring this stage, researchers engage with the data in detail, going line by line to identify important words and label them. In vivo codes use words from the participants as labels.\n\nIn grounded theory, codes are labels given to data segments that have a similar meaning\n\nBegin by analyzing your data line by line, identifying key concepts, ideas, and events.\n\nAssign initial codes to these elements, remaining close to the data and using gerunds (verbs ending in “ing”) to focus on processes and actions.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Example:",
+      "content": "- Interview 1:The first participant might say, “I felt so lost when I got laid off. I didn’t know what to do with myself. I spent weeks just watching TV and feeling sorry for myself.”\n\n- Initial codes:The researcher could assign initial codes such as “feeling lost,” “lack of direction,” “inactivity,” and “self-pity.”",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Axial coding",
+      "content": "Axial codinginvolves refining and connecting the initial codes generated during open coding to develop a more comprehensive understanding of the data.\n\nCompare each new piece of data with previously coded data, looking for similarities and differences.\n\nThis helps to ensure the codes “fit” the data and capture the essence of what is happening.\n\n- Compare codes with additional data: Researchers compare additional data with the open codes they have developed to ensure that they accurately reflect the meaning of the data. Researchers would examine whether new data support, contradict, or add nuance to these codes.\n\n- Compare the codes with each other: Researchers compare codes to see if they are similar enough to be merged into a more comprehensive code, or if they need to be split into separate categories to represent distinct concepts.Revising codes: Codes can be revised to better fit the data.Combining codes: Codes that are very similar can be merged together into a new, more comprehensive code.Creating new codes: Sometimes codes need to be split to represent separate categories.\n\n- Revising codes: Codes can be revised to better fit the data.\n\n- Combining codes: Codes that are very similar can be merged together into a new, more comprehensive code.\n\n- Creating new codes: Sometimes codes need to be split to represent separate categories.\n\n- Revising codes: Codes can be revised to better fit the data.\n\n- Combining codes: Codes that are very similar can be merged together into a new, more comprehensive code.\n\n- Creating new codes: Sometimes codes need to be split to represent separate categories.\n\nWhen multiple researchers are involved in coding, they independently code data and then collaborate to unify their coding.\n\nBy comparing their coding, researchers can identify disagreements, leading to discussions that illuminate nuances in the data.\n\nThese discussions can highlight nuanced interpretations and enrich the overall analysis.\n\nAnalyzing these disagreements helps refine the categories and ensure they reflect the participants’ experiences.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Example:",
+      "content": "- Interview 2:The second participant might say, “I was angry when I was fired. I felt like I had been betrayed by the company. I started going to the gym every day to channel my frustration.”\n\n- Comparing and refining codes:The researcher compares these data to the codes from the first interview. They realize “feeling lost” and “anger” could both be categorized under a broader concept of “experiencing negative emotions.”\n\n- Creating new codes:The second interview introduces the idea of “physical activity” as a coping mechanism, so the researcher creates this new code.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Create Categories",
+      "content": "The constant comparison method helps researchers group conceptually similar data under a conceptual label, facilitating the development of concepts and categories grounded in the data.\n\nCategories are groups of related codes, which represent patterns or themes in the data. They are developed through an iterative process of comparing different elements of data.\n\nAs you compare codes, identify connections and group them together into broader categories.\n\nContinue comparing new codes and categories with existing ones. As your understanding evolves, you may:\n\n- Refine existing codes and categories.\n\n- Develop new codes and categories.\n\n- Merge or split existing codes and categories.\n\nThrough constant comparison, researchers identify the most significant and frequent category, which becomes the core category of the grounded theory.\n\nThis core category then serves as a focal point, integrating the other categories into a coherent theory.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Example:",
+      "content": "- Interview 3:The third participant might say, “I knew I had to get back on my feet quickly. I started networking and updating my resume right away. I also reached out to a career counselor for advice.”\n\n- Further refinement and categorization:The researcher sees that this data reflects proactive coping strategies. They might create categories like “job search activities” and “seeking support.”\n\n- Core category:The researcher might identify “taking control” as the core category that explains the main processes participants experience.\n\n- Relationships between categories:The theory might propose that taking control through proactive coping strategies (like job search activities and seeking support) can help mitigate negative emotions and foster a sense of hope and agency.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Theoretical Sampling",
+      "content": "Theoretical samplingis used in grounded theory to strategically select participants or data sources that will best inform the developing theory.\n\nThis iterative process starts after the initial coding of data from a purposive sample, which is chosen to maximize variation.\n\nConstant comparison informs theoretical sampling by revealing gaps and areas that require further exploration. By comparing emerging categories with existing data, researchers can identify the need for specific types of data to refine and develop their theory.\n\nTheoretical sampling ensures that the constant comparative method is not limited to the initial data set.\n\nIt allows the analysis to grow and evolve as the research progresses, leading to a more nuanced and well-developed grounded theory.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Example:",
+      "content": "- Theoretical sampling:The researcher may start to notice certain patterns. For example, they may observe that people who engage in proactive coping strategies tend to report lower levels of negative emotions. To explore this further, the researcher might intentionally seek out more interviewees who actively engage in job search activities or seek support, a strategy known as theoretical sampling.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Memo Writing",
+      "content": "Memo writingis an essential part of the constant comparative method.\n\nThroughout the coding process, researchers write memos to document their thoughts, insights, questions, and connections they observe during their comparisons.\n\nThis continuous reflection and documentation align with the iterative nature of the constant comparative method, where new insights are constantly compared with existing ones to refine understanding.\n\nThese memos serve as:\n\n- Anaudit trail: They track the evolution of the researcher’s thinking and decision-making process.\n\n- A tool for reflection: Memos encourage researchers to critically examine their assumptions and interpretations.\n\n- A catalyst for theoretical insights: The act of writing can often lead to new connections and ideas that might not have emerged otherwise.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Sources",
+      "content": "Glaser, B., & Strauss, A. (2017).Discovery of grounded theory: Strategies for qualitative research. Routledge.\n\nGuba, E. G., & Lincoln, Y. S. (1994). Competing paradigms in qualitative research.Handbook of qualitative research,2(163-194), 105.\n\nMaykut, P., & Morehouse, R. (2002).Beginning qualitative research: A philosophical and practical guide. Routledge.\n\nMcLeod, S. (2024). Constant Comparative Method In Grounded Theory. Simply Psychology. https://www.simplypsychology.org/constant-comparative-method.html\n\nMcLeod, Saul. \"Constant Comparative Method In Grounded Theory.\" Simply Psychology, 29 October 2024, https://www.simplypsychology.org/constant-comparative-method.html.\n\nMcLeod, S. (2024) Constant Comparative Method In Grounded Theory. Simply Psychology. Available at: https://www.simplypsychology.org/constant-comparative-method.html (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 12,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/constant-comparison.jpg",
+      "alt": "Constant Comparative Method In Grounded Theory",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Sample-Target-Population-300x160.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/axial-coding-300x154.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/qualitative-coding-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/thematic-grounded-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/coding-saturation-300x129.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/triangulation-1-286x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Constant Comparative Method In Grounded Theory\n\n> Psychology»Research Methodology\n\n## Giriş\n\nPsychology»Research Methodology\n\nThe constant comparative method was developed by sociologists Barney Glaser and Anselm Strauss in the 1960s as a core component of theirgrounded theory approachto qualitative research.\n\nIt involves systematically comparing new data with existing data to identify patterns, similarities, and differences.\n\nThis process is iterative and continues throughout the research process, frominitial codingto theoretical sampling and memo writing.\n\nThe constant comparative method continues until researchers reachtheoretical saturation, meaning that no new information or insights emerge from the data.\n\n## Key Takeaways\n\n- Constantly comparing data: As data is collected, it is constantly compared to existing data to identify similarities, differences, and patterns.\n\n- Developing codes and categories: Based on the comparisons, codes are developed to label and categorize the data. These codes are then grouped into categories to further organize the data.\n\n- Refining codes and categories: As new data is collected, the codes and categories are refined and modified to ensure they accurately reflect the data.\n\n- Developing theory: Through this iterative process of comparing, coding, and refining, a grounded theory emerges from the data.\n\nHere is a step-by-step approach to applying the constant comparative method:\n\n- Open coding\n\n- Axial coding\n\n- Create Categories\n\n- Theoretical Sampling\n\n- Memo Writing\n\n## Open coding\n\nOpen coding, also called initial coding, is the first stage of data analysis in grounded theory.\n\nDuring this stage, researchers engage with the data in detail, going line by line to identify important words and label them. In vivo codes use words from the participants as labels.\n\nIn grounded theory, codes are labels given to data segments that have a similar meaning\n\nBegin by analyzing your data line by line, identifying key concepts, ideas, and events.\n\nAssign initial codes to these elements, remaining close to the data and using gerunds (verbs ending in “ing”) to focus on processes and actions.\n\n## Example:\n\n- Interview 1:The first participant might say, “I felt so lost when I got laid off. I didn’t know what to do with myself. I spent weeks just watching TV and feeling sorry for myself.”\n\n- Initial codes:The researcher could assign initial codes such as “feeling lost,” “lack of direction,” “inactivity,” and “self-pity.”\n\n## Axial coding\n\nAxial codinginvolves refining and connecting the initial codes generated during open coding to develop a more comprehensive understanding of the data.\n\nCompare each new piece of data with previously coded data, looking for similarities and differences.\n\nThis helps to ensure the codes “fit” the data and capture the essence of what is happening.\n\n- Compare codes with additional data: Researchers compare additional data with the open codes they have developed to ensure that they accurately reflect the meaning of the data. Researchers would examine whether new data support, contradict, or add nuance to these codes.\n\n- Compare the codes with each other: Researchers compare codes to see if they are similar enough to be merged into a more comprehensive code, or if they need to be split into separate categories to represent distinct concepts.Revising codes: Codes can be revised to better fit the data.Combining codes: Codes that are very similar can be merged together into a new, more comprehensive code.Creating new codes: Sometimes codes need to be split to represent separate categories.\n\n- Revising codes: Codes can be revised to better fit the data.\n\n- Combining codes: Codes that are very similar can be merged together into a new, more comprehensive code.\n\n- Creating new codes: Sometimes codes need to be split to represent separate categories.\n\n- Revising codes: Codes can be revised to better fit the data.\n\n- Combining codes: Codes that are very similar can be merged together into a new, more comprehensive code.\n\n- Creating new codes: Sometimes codes need to be split to represent separate categories.\n\nWhen multiple researchers are involved in coding, they independently code data and then collaborate to unify their coding.\n\nBy comparing their coding, researchers can identify disagreements, leading to discussions that illuminate nuances in the data.\n\nThese discussions can highlight nuanced interpretations and enrich the overall analysis.\n\nAnalyzing these disagreements helps refine the categories and ensure they reflect the participants’ experiences.\n\n## Example:\n\n- Interview 2:The second participant might say, “I was angry when I was fired. I felt like I had been betrayed by the company. I started going to the gym every day to channel my frustration.”\n\n- Comparing and refining codes:The researcher compares these data to the codes from the first interview. They realize “feeling lost” and “anger” could both be categorized under a broader concept of “experiencing negative emotions.”\n\n- Creating new codes:The second interview introduces the idea of “physical activity” as a coping mechanism, so the researcher creates this new code.\n\n## Create Categories\n\nThe constant comparison method helps researchers group conceptually similar data under a conceptual label, facilitating the development of concepts and categories grounded in the data.\n\nCategories are groups of related codes, which represent patterns or themes in the data. They are developed through an iterative process of comparing different elements of data.\n\nAs you compare codes, identify connections and group them together into broader categories.\n\nContinue comparing new codes and categories with existing ones. As your understanding evolves, you may:\n\n- Refine existing codes and categories.\n\n- Develop new codes and categories.\n\n- Merge or split existing codes and categories.\n\nThrough constant comparison, researchers identify the most significant and frequent category, which becomes the core category of the grounded theory.\n\nThis core category then serves as a focal point, integrating the other categories into a coherent theory.\n\n## Example:\n\n- Interview 3:The third participant might say, “I knew I had to get back on my feet quickly. I started networking and updating my resume right away. I also reached out to a career counselor for advice.”\n\n- Further refinement and categorization:The researcher sees that this data reflects proactive coping strategies. They might create categories like “job search activities” and “seeking support.”\n\n- Core category:The researcher might identify “taking control” as the core category that explains the main processes participants experience.\n\n- Relationships between categories:The theory might propose that taking control through proactive coping strategies (like job search activities and seeking support) can help mitigate negative emotions and foster a sense of hope and agency.\n\n## Theoretical Sampling\n\nTheoretical samplingis used in grounded theory to strategically select participants or data sources that will best inform the developing theory.\n\nThis iterative process starts after the initial coding of data from a purposive sample, which is chosen to maximize variation.\n\nConstant comparison informs theoretical sampling by revealing gaps and areas that require further exploration. By comparing emerging categories with existing data, researchers can identify the need for specific types of data to refine and develop their theory.\n\nTheoretical sampling ensures that the constant comparative method is not limited to the initial data set.\n\nIt allows the analysis to grow and evolve as the research progresses, leading to a more nuanced and well-developed grounded theory.\n\n## Example:\n\n- Theoretical sampling:The researcher may start to notice certain patterns. For example, they may observe that people who engage in proactive coping strategies tend to report lower levels of negative emotions. To explore this further, the researcher might intentionally seek out more interviewees who actively engage in job search activities or seek support, a strategy known as theoretical sampling.\n\n## Memo Writing\n\nMemo writingis an essential part of the constant comparative method.\n\nThroughout the coding process, researchers write memos to document their thoughts, insights, questions, and connections they observe during their comparisons.\n\nThis continuous reflection and documentation align with the iterative nature of the constant comparative method, where new insights are constantly compared with existing ones to refine understanding.\n\nThese memos serve as:\n\n- Anaudit trail: They track the evolution of the researcher’s thinking and decision-making process.\n\n- A tool for reflection: Memos encourage researchers to critically examine their assumptions and interpretations.\n\n- A catalyst for theoretical insights: The act of writing can often lead to new connections and ideas that might not have emerged otherwise.\n\n## Sources\n\nGlaser, B., & Strauss, A. (2017).Discovery of grounded theory: Strategies for qualitative research. Routledge.\n\nGuba, E. G., & Lincoln, Y. S. (1994). Competing paradigms in qualitative research.Handbook of qualitative research,2(163-194), 105.\n\nMaykut, P., & Morehouse, R. (2002).Beginning qualitative research: A philosophical and practical guide. Routledge.\n\nMcLeod, S. (2024). Constant Comparative Method In Grounded Theory. Simply Psychology. https://www.simplypsychology.org/constant-comparative-method.html\n\nMcLeod, Saul. \"Constant Comparative Method In Grounded Theory.\" Simply Psychology, 29 October 2024, https://www.simplypsychology.org/constant-comparative-method.html.\n\nMcLeod, S. (2024) Constant Comparative Method In Grounded Theory. Simply Psychology. Available at: https://www.simplypsychology.org/constant-comparative-method.html (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:34:17.480566"
+}

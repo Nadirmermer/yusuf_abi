@@ -1,0 +1,199 @@
+{
+  "id": "why_doctors_see_antidepressant_effects_r_808b8da0",
+  "original_title": "Good results that drug trials consistently hide.",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/in-practice/201609/why-doctors-see-antidepressant-effects-researchers-miss",
+  "published_date": "2016-09-22T08:08:37-04:00",
+  "read_time_minutes": 48,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/Untitled_19.jpg?itok=fxhLB7Br",
+      "alt": "Image 9: Peter D Kramer",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/mck%20faces%20cropped.jpg?itok=tQSnuik6",
+      "alt": "Image 15: copyright Matthew C Kramer",
+      "caption": null,
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/shutterstock_2264398831.jpg?itok=QtzvTYsv",
+      "alt": "Image 16: New Africa Studio / Shutterstock. Used with permission.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-07/olga-delawrence-b9cayhnfmho-unsplash.jpg?itok=3meR_uXD",
+      "alt": "Image 17: Olga DeLawrence / Unsplash",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/thumbnail_115x140/public/field_user_blogger_photo/Untitled_19.jpg?itok=kovd_byn",
+      "alt": "Image 23: Peter D Kramer",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/zilchzeronada_-_white_0.jpg?itok=MpaD85wu",
+      "alt": "Image 24: wikicommons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/faces2_mck_original_sketch_1_0.jpg?itok=b7ZdHDVC",
+      "alt": "Image 25: image by Matthew C Kramer",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/Medicine_Drug_Pills_on_Plate_0.png.jpg?itok=3BuCZ6q3",
+      "alt": "Image 26: Katefreedman/Wikimedia Commons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/kinsella__1__0.jpg?itok=R8UIGzED",
+      "alt": "Image 27: website of W P Kinsella",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/pexels-brenocardosofotografia-7719817.jpg?itok=0uSJPd2J",
+      "alt": "Image 28: Brenocardosofotografia/Pexels",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/antidepressants_0.jpg?itok=JNrTBgVB",
+      "alt": "Image 29: Wikimedia Commons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/hero_image/pt_self_test/2024-06/shutterstock_361971998_2500-wide.jpg?itok=31moGkkN",
+      "alt": "Image 30: Zoran Zeremski/Shutterstock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2025-05/mind1_black_salmon_shutterstock_2255973743.jpg?itok=t0aR195W",
+      "alt": "Image 31: Black Salmon Shutterstock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/2021-01/shutterstock_639627391.jpg?itok=u5XZp9Ls",
+      "alt": "Image 32: Petar Djordjevic/Shutterstock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/pexels-josh-hild-1270765-16952091.jpg?itok=pJgL6hlY",
+      "alt": "Image 33: Pexels/Josh Hild",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/shutterstock_1476591212_hi_small_roman_samborskyi.jpg?itok=j_y1vNI5",
+      "alt": "Image 34: Roman Samborskyi/Shutterstock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_images/2026-08/bellinon-cloud-3719093_1920.png.jpg?itok=OCKYAOlI",
+      "alt": "Image 35: Image by Bellinon from Pixabay",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-07/ornaw-beach-4224006_1280.jpg?itok=Iau3DNJz",
+      "alt": "Image 38: Orna / Pixabay ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-06/alexander-grey-fepfs43yipe-unsplash_0.jpg?itok=Xuu4c27F",
+      "alt": "Image 39: Alexander Grey/Unsplash/Use with permission",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-04/istock-1299068118.jpg?itok=u_PMRlPn",
+      "alt": "Image 40: Boris Javanovic / Istock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/default_images/counseling.jpg",
+      "alt": "Image 41: Counselling",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 9590,
+  "turkce_baslik": "Araştırmaların Görmezden Geldiği Gerçek: Doktorlar İlaç Etkisini Neden Farklı Gözlemler?",
+  "kanca_sorusu": "Bilimsel araştırmaların yetersiz bulduğu bir tedavi, bir hekimin odasında neden mucizeler yaratıyor gibi görünür?",
+  "score": 45,
+  "puan_nedeni": "Makale farmakolojik çalışmaların metodolojik açıklarını ve klinik gözlem ile araştırma verileri arasındaki boşluğu ele alıyor. Doğrudan ilişkisel bir içgörü veya bireyin iç dünyasına ait bir dinamik barındırmadığı, daha çok akademik ve metodolojik bir tartışma olduğu için katı puanlama kuralımıza göre düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Tıp dünyasında sıkça karşımıza çıkan bir çelişki vardır: Laboratuvar ortamında yapılan katı araştırmalar bir ilacın ya da tedavinin etkisini sınırlı veya anlamsız bulurken, sahada hastaları birebir takip eden klinisyenler aynı tedavinin çarpıcı sonuçlar verdiğini savunur. Bu durum genellikle doktorların yanıldığı, hastalarına karşı aşırı iyimser bir önyargı besledikleri şeklinde yorumlanır. Oysa sorun, insan deneyiminin laboratuvarın soğuk ve standardize edilmiş sınırlarına tam olarak sığmamasından kaynaklanır.\n\nColumbia Üniversitesi yürütülen küçük çaplı bir çalışma, beklenti, umut ve kurulan terapötik ilişkinin ilaçların etkisini nasıl dönüştürdüğünü gözler önüne serdi. İlaç çalışmalarında denekler genellikle körleme yöntemlerle test edilir ve beklentiler sıfırlanmaya çalışılır. Ancak gerçek hayatta bir hekimin odasına giren hasta, çaresizliğine deva bulacağı inancıyla ve umutla oturur. İlaç, sadece kimyasal bir molekül olarak değil, aynı zamanda iyileşme arzusunun somut bir aracı olarak bedene girer. Araştırmaların kaçırdığı nokta tam olarak bu bağlamsal gerçekliktir.\n\nKlinik pratikte iyileşme, asla sadece moleküler bir reaksiyonun sonucu değildir. Doktorun hastaya yaklaşımı, hastanın ilaca yüklediği anlam ve 'görüldüğünü' hissetmesi, tedavinin seyrini kökten değiştirir. Bilimsel veriler istatistiksel ortalamalarla konuşurken, insan teki kendi öznel hikayesinde yaşar. Bu iki farklı dilin birbiriyle uyuşmaması bir tarafın hatalı olduğunu değil, psikolojik iyileşmenin saf sayılardan ibaret olmadığını gösterir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Bilim ve Klinik Arasındaki Çatışma",
+      "body": "Araştırmaların etkisiz bulduğu tedaviler, klinikte neden işe yarar?",
+      "highlight_box": "Laboratuvar sonuçları ile gerçek hayat deneyimi neden uyuşmaz?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Görünmeyen Değişken: Umut",
+      "body": "Bilimsel deneyler insanı laboratuvara kapatırken, gerçek hayat beklentilerle şekillenir.",
+      "highlight_box": "Tedavinin başarısı sadece kimyasal mıdır?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "İlaç ve Beklenti Etkileşimi",
+      "body": "Hastanın ilacın işe yarayacağını bilmesi veya inanması, tedavi sonucunu kökten değiştirebilir.",
+      "highlight_box": "Körleme testler gerçek hayatı yansıtmaz.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Doktorun Gözünden Gerçeklik",
+      "body": "Klinisyenler sadece molekülleri değil, hastayla kurulan bağı ve iyileşme iradesini gözlemler.",
+      "highlight_box": "İstatistiksel ortalamalar her bireyin hikayesini yansıtmaz.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "İyileşmenin Çok Boyutlu Doğası",
+      "body": "Gerçek iyileşme, saf verilerin ötesinde, insanın kendi iyileşme potansiyeline inandığı an başlar.",
+      "highlight_box": "Bağlam, en az molekül kadar güçlüdür.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış",
+      "body": "Her insan bir istatistik değildir; deneyimler laboratuvar masalarında tam olarak ölçülemez.",
+      "highlight_box": "Bu analizi ileride tekrar incelemek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Bilimsel araştırmaların başarısız bulduğu bir tedavi, gerçek hayatta neden insanları iyileştirmeye devam ediyor?",
+    "konusma_metni": "Laboratuvarlar ile kliniklerin dünyası genellikle birbirine zıt sonuçlar verir. Araştırmacılar bir ilacın ya da yöntemin etkisiz olduğunu söylerken, doktorlar hastalarında gözle görülür bir değişim fark ederler. Bunun nedeni doktorların yanılması değil, araştırmaların insan psikolojisinin en güçlü bileşenini, yani umudu ve beklentiyi dışarıda bırakmasıdır. İyileşme sadece kimyasal bir formül değildir; hastanın iyileşeceğine olan inancıyla başlar."
+  },
+  "caption": "Bilimsel araştırmalar ile klinik gözlemler arasındaki o derin uçurum, insan psikolojisinin en karmaşık alanlarından birini oluşturur. Laboratuvarda etkisiz bulunan bir yöntem, bir hekimin odasında ya da bir terapide neden hayat kurtarıcı olabilir?\n\nAraştırmalar genellikle insanı soyutlayarak, beklentileri ve umudu denklemin dışına iterek sonuç üretir. Oysa psikolojik iyileşme, saf kimyasal reaksiyonlardan ibaret değildir. Hastanın tedaviye yüklediği anlam, kurulan güven ilişkisi ve iyileşme iradesi, her türlü formülün ötesinde bir güç barındırır.\n\nBu analizi faydalı bulduysanız kaydedebilir ve benzer içerikler için takipte kalabilirsiniz.\n\n#psikoloji #klinikpsikoloji #bilimvepsikoloji #antidepresan #tedavi #ruhsağlığı #insandavranışı",
+  "processed_at": "2026-09-26 17:46:04"
+}

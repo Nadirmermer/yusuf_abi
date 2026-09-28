@@ -1,0 +1,133 @@
+{
+  "id": "culture_attachment_html_662b7ee5",
+  "original_title": "Van Ijzendoorn & Kroonenberg (1988)",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/culture-attachment.html",
+  "published_date": "2026-09-17T11:00:14+00:00",
+  "read_time_minutes": 12,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cultural-differences-1.jpg",
+      "alt": "Van Ijzendoorn & Kroonenberg (1988)",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Van-Ijzendoorn.jpg",
+      "alt": "Van Ijzendoorn",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/strange-situation-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/harlow-monkey-300x242.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/privation-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bobo-doll-300x172.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/summer-camp-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/milgram-study-300x236.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2339,
+  "turkce_baslik": "Kültürler Arası Bağlanma: Sevgi Evrensel mi, Yoksa Coğrafyanın Bir Eseri mi?",
+  "kanca_sorusu": "Çocuklukta kurduğunuz bağın şekli, doğduğunuz coğrafyanın kurallarıyla mı yazıldı?",
+  "score": 82,
+  "puan_nedeni": "Bağlanma stillerinin kültürel kökenlerini ve bireysel-kolektif dinamiklerin ilişkiler üzerindeki yansımalarını derinlemesine incelediği için okuyucuda güçlü bir ayna etkisi yaratır.",
+  "category": "Bağlanma & Ayrılık",
+  "editoryal_genis_metin": "İnsan ilişkilerinin ve bağlanma biçimlerinin evrensel olduğu varsayılır; ancak Van Ijzendoorn ve Kroonenberg'in klasik meta-analizi, güvenli bağlanmanın tüm dünyada en yaygın temel olduğunu gösterirken, güvensiz bağlanma biçimlerinin coğrafi ve kültürel kodlarla nasıl şekillendiğini gözler önüne seriyor. Bireyselci kültürlerde bağımsızlık övülürken kaçıngan bağlanma biçimlerinin baskın çıkması, toplulukçu yapılarda ise kaygılı/direngen örüntülerin artması, ilişkilerimizin sadece kişisel tercihlerimizden ibaret olmadığını kanıtlıyor. Çocuklukta bakım verenle kurulan o ilk temas, aslında içinde büyüdüğümüz toplumsal inançların ve geleneklerin bir yansıması olarak yetişkinlikteki romantik ilişkilerimizi de sessizce yönetmeye devam ediyor.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Bağlanmanın Coğrafyası",
+      "body": "Sevilme ve bağlanma biçimimiz evrensel mi, yoksa içine doğduğumuz kültürün bir eseri mi?",
+      "highlight_box": "Kültürel kodlar ilişkilerimizi nasıl şekillendirir?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Evrensel Olan ve Olmayan",
+      "body": "Güvenli bağlanma dünyanın her yerinde en yaygın temeldir; ancak güvensiz bağlanma biçimleri kültürel olarak keskin bir şekilde ayrışır.",
+      "highlight_box": "Bunu ilişkilerinizde fark ediyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Bireyselci Kültürler ve Kaçınganlık",
+      "body": "Bağımsızlığın ve bireyselliğin kutsandığı Batı kültürlerinde, çocukların ve bireylerin kaçıngan bağlanma örüntüleri sergileme eğilimi daha yüksektir.",
+      "highlight_box": "Duygusal mesafenin arkasındaki toplumsal baskı",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Kolektif Kültürler ve Direngen Bağlanma",
+      "body": "Aile ve grup uyumunun öncelik olduğu doğu ve toplulukçu yapılarda ise kaygılı ve direngen bağlanma biçimleri daha baskın olarak gözlemlenir.",
+      "highlight_box": "Ayrışamama ve kaybetme korkusu",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kendi Örüntünüzü Fark Etmek",
+      "body": "İlişkilerinizde tekrarladığınız krizlerin kökeninde sadece bugünkü partneriniz değil, yetiştiğiniz sistemin görünmeyen kuralları yatar.",
+      "highlight_box": "Unutmayın: Farkındalık değişimin ilk adımıdır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Özgürleşme",
+      "body": "Kültürünüzün veya geçmişinizin size dayattığı bağlanma kalıplarını fark ederek bilinçli birer yetişkin ilişkisi inşa edebilirsiniz.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Seçtiğiniz partnerlerin veya yaşadığınız bağlanma sorunlarının coğrafyanızla bir ilgisi olduğunu biliyor musunuz?",
+    "konusma_metni": "Araştırmalar güvenli bağlanmanın evrensel olduğunu söylüyor ancak güvensiz bağlanma biçimleri tamamen büyüdüğünüz kültüre göre şekilleniyor. Bireyselci toplumlarda bağımsızlık baskısı kaçınganlığı beslerken, toplulukçu yapılarda dirençli bağlanma ön plana çıkıyor. Yani ilişkilerinizde yaşadığınız o krizler, sadece sizin değil, içinde doğduğunuz sistemin izlerini taşıyor."
+  },
+  "caption": "İlişkilerimizde yaşadığımız bağlanma problemleri, sadece kişisel birer eksiklik veya partner seçimi hatası değildir. Araştırmalar, güvenli bağlanmanın evrensel bir temel olduğunu ancak güvensiz bağlanma biçimlerinin içine doğduğumuz kültür, aile yapıları ve toplumsal normlarca derinlemesine şekillendirildiğini gösteriyor. Bireyselci sistemlerin yarattığı kaçınganlık ile toplulukçu yapıların beslediği kaygılı örüntüler, bugünkü ilişkilerimizin haritasını çıkarır. Kendi kalıplarınızı fark etmek, bu döngüden özgürleşmenin tek yoludur. \n\n#bağlanmastilleri #gÜvenlibağlanma #kaçınganbağlanma #ilişkipsikolojisi #çocukluktravmaları #ya_da_psikoloji #içselbüyüme",
+  "processed_at": "2026-09-26 17:07:15"
+}

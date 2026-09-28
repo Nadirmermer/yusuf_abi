@@ -1,0 +1,139 @@
+{
+  "id": "what_is_serotonin_html_c6961ed1",
+  "original_title": "What Does Serotonin Do?",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/what-is-serotonin.html",
+  "published_date": "2026-09-17T14:57:31+00:00",
+  "read_time_minutes": 15,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Serotonin.jpg",
+      "alt": "What Does Serotonin Do?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/serotonin-function.jpg",
+      "alt": "A mindmap infographic with the chemical structure of serotonin in the centre and different functions surrounding it such as regulates mood, affects learning and memory, and manages digestive system.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitter-formulas-300x152.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/serotonin-dopamine-300x152.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Dopamine-300x233.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitters-hormones-300x248.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Diathesis-Stress-Model-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hpa_axis-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Serotonin-syndrome-727x1024.jpeg",
+      "alt": "Serotonin syndrome",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2914,
+  "turkce_baslik": "Mutluluk Kimyasalının Ötesinde: Serotonin ve Ruhsal Dünyamız",
+  "kanca_sorusu": "Sürekli tükenmiş hissettiğinizde sorun gerçekten iradenizde mi, yoksa zihninizin en temel kimyasallarında mı saklı?",
+  "score": 42,
+  "puan_nedeni": "Metin tamamen biyokimyasal mekanizmalar, nörotransmitterler, fare deneyleri ve bağırsak-beyin fizyolojisi üzerine kuruludur. Doğrudan ilişkisel bir dinamik veya bağlanma stili barındırmadığı için klinik olarak akademik kategoride kalmaktadır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Serotonin, popüler kültürde genellikle basit bir mutluluk hormonu olarak indirgenir. Oysa nörobiyolojik gerçeklik bunun çok ötesindedir. Beyin sapından yayılan bu molekül; dürtü kontrolünden öfke yönetimine, uyku döngüsünden zihinsel esnekliğe kadar ruhsal dünyamızın pek çok katmanını yapılandırır. Çoğu insan serotonin eksikliğini sadece mutsuzluk olarak tanımlasa da, aslında bu durum zihnin sınırları koruma, hayal kırıklığıyla baş etme ve dürtüleri dengeleme kapasitesindeki bir düşüştür. Bağırsaklarda üretilen kısmın kan-beyin bariyerini geçememesi, zihinsel iyilik halinin ne kadar hassas ve içsel bir dengeye dayandığını gösterir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Mutluluk Hormonu Miti",
+      "body": "Serotonini yalnızca basit bir neşe kaynağı olarak görmek, onun insan psikolojisindeki devasa rolünü göz ardı etmektir.",
+      "highlight_box": "Zihnimizin kimyasal mimarisi çok daha karmaşıktır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Dürtü ve Tahammül",
+      "body": "Düşük serotonin seviyeleri agresyondan ziyade, hayal kırıklığına karşı toleransın azalması ve dürtüsel kararlarla kendini gösterir.",
+      "highlight_box": "Sabrınızın hızla tükenmesinin kökeninde ne var?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Duygusal Denge ve İstikrar",
+      "body": "Serotonin, diğer nörotransmitterlerle birlikte çalışarak öfke, kaygı ve özsaygı dengesini modüle eder.",
+      "highlight_box": "Doğal bir duygusal stabilizatör.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Uyku ve Biyolojik Saat",
+      "body": "Beyin sapındaki raphe nükleusundan salınan serotonin, uyanıklık ve melatonin dönüşümüyle uyku kalitesini doğrudan etkiler.",
+      "highlight_box": "Uykusuzluk ve zihinsel yorgunluk birbiriyle doğrudan bağlantılıdır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "İki Ayrı Dünya",
+      "body": "Bağırsaklarda üretilen serotonin beyne geçemez. Zihnimiz kendi kimyasal dengesini kendi kurmak zorundadır.",
+      "highlight_box": "Fizyolojik sınırlarımızı kabullenmek ilk adımdır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Ruhsal zorluklar sadece irade zayıflığı değildir; bedenin ve zihnin biyolojik birer yansımasıdır.",
+      "highlight_box": "Bu bilgiyi zihinsel farkındalığınız için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Serotonin hakkında bildiğiniz her şeyi unutun.",
+    "konusma_metni": "Bugün serotonin eksikliğini sadece bir mutsuzluk sebebi olarak görenlere sesleniyoruz. Bu molekül sadece neşemizi değil, dürtülerimizi, öfke toleransımızı ve karar mekanizmalarımızı yönetiyor. Düşük serotonin seviyesi genellikle şiddete değil, içsel dürtüselliğe ve tahammülsüzlüğe yol açar. Zihninizin bu biyolojik zeminini anlamadan kendinizi eleştirmeyi bırakın."
+  },
+  "caption": "Serotonin, popüler kültürde sıklıkla sadece bir mutluluk moleküllü olarak özetlenir. Oysa nörobiyolojide onun asıl işlevi; dürtüleri dengelemek, hayal kırıklığına karşı toleransı korumak ve zihinsel istikrarı sağlamaktır. Duygusal dalgalanmalarınızı veya tahammülsüzlüğünüzü sadece irade eksikliği olarak yargılamadan önce, zihninizin biyolojik altyapısını anlamak gerekir. Bu konuyu derinlemesine incelemek ve kendi içgörülerinize ayna tutmak için bu gönderiyi kaydedebilirsiniz. #serotonin #nörobiyoloji #psikoloji #zihinselsağlık #duygusaldenge #klinikpsikoloji #beyinbilimi",
+  "processed_at": "2026-09-26 16:56:48"
+}

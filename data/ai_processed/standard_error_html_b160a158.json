@@ -1,0 +1,133 @@
+{
+  "id": "standard_error_html_b160a158",
+  "original_title": "Standard Error In Statistics: What It Is, Why It Matters, & How to Calculate",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/standard-error.html",
+  "published_date": "2026-09-17T14:52:37+00:00",
+  "read_time_minutes": 5,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Standard-error-formula.jpg",
+      "alt": "Standard Error In Statistics: What It Is, Why It Matters, & How to Calculate",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Standard-error-formula.jpg",
+      "alt": "Standard error formula",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bell-curve-300x250.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cohen-d-300x142.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sampling-distribution-300x166.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Julia-Simkus.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1088,
+  "turkce_baslik": "İstatistikte Standart Hata ve Örneklemin Güvenilirliği",
+  "kanca_sorusu": "Elde ettiğiniz veriler gerçekten gerçeği mi yansıtıyor, yoksa sadece tesadüfi bir sapma mı?",
+  "score": 40,
+  "puan_nedeni": "Makale tamamen akademik istatistik formüllerine, standart sapma hesaplamalarına ve örneklem teorilerine odaklanmaktadır. Takipçinin günlük ilişkisel dünyasına veya içsel psikolojisine hitap etmediği için düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Psikolojik araştırmalarda veya veri analizinde elde edilen sonuçların genel popülasyonu ne kadar doğru temsil ettiği kritik bir sorudur. Standart hata, bir örneklemin ortalamasının gerçek popülasyon ortalamasından ne kadar sapabileceğini ölçen istatistiksel bir araçtır. Büyük bir standart hata, verilerin dağınık olduğunu ve örneklemin yanıltıcı olabileceğini gösterirken; küçük bir standart hata, güvenilir ve birbirine yakın sonuçlara işaret eder. Bu teknik detaylar, bilimsel bilginin metodolojik temellerini anlamak açısından değerlidir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Standart Hata Nedir?",
+      "body": "Örneklem dağılımının bir popülasyonu ne kadar doğru temsil ettiğini ölçen istatistiksel bir terimdir.",
+      "highlight_box": "Verilerin arkasındaki güvenilirlik ölçütü.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Büyük ve Küçük Hata",
+      "body": "Büyük standart hata verilerin dağınık olduğunu, küçük standart hata ise sonuçların daha güvenilir olduğunu gösterir.",
+      "highlight_box": "Örneklem boyutu arttıkça hata azalır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Ne Anlama Gelir?",
+      "body": "Standart hata, tahmin edilen ortalamanın etrafındaki belirsizliği ölçmemizi sağlar.",
+      "highlight_box": "Güven aralığı hesaplamalarında kullanılır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Ne Zaman Kullanılır?",
+      "body": "Örneklem verilerinin bütün bir popülasyonu ne kadar iyi temsil ettiğini görmek istediğimizde kullanılır.",
+      "highlight_box": "Veri analitiğinin temel yapı taşlarından biridir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Nasıl Hesaplanır?",
+      "body": "Standart sapmanın, örneklem boyutunun kareköküne bölünmesiyle elde edilir.",
+      "highlight_box": "Matematiksel kesinlik ve analiz.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Metodolojik Hatırlatma",
+      "body": "Bilimsel verilerin yorumlanmasında istatistiksel temelleri göz ardı etmemek gerekir.",
+      "highlight_box": "Daha sonra incelemek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Yaptığınız ölçümlerin ne kadar güvenilir olduğunu hiç düşündünüz mü?",
+    "konusma_metni": "Bugün istatistikte standart hatanın ne anlama geldiğine ve örneklem ortalamasının gerçeği ne kadar yansıttığına bakıyoruz. Standart hata küçüldükçe, verilerimizin güvenilirliği artar."
+  },
+  "caption": "İstatistikte standart hata, elde edilen örneklem ortalamasının gerçek popülasyon ortalamasını ne kadar doğru temsil ettiğini gösteren kritik bir ölçüttür. Veri analizi ve bilimsel araştırmalarda güvenilirlik derecesini belirlemek için kullanılır. #istatistik #verianalizi #bilimselaraştırma #psikoloji #metodoloji #araştırmayöntemleri",
+  "processed_at": "2026-09-26 02:42:18"
+}

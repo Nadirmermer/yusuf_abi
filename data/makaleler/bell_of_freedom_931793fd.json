@@ -1,0 +1,44 @@
+{
+  "id": "bell_of_freedom_931793fd",
+  "url": "https://www.psychologytoday.com/us/blog/in-practice/201401/bell-of-freedom",
+  "source": "Psychology Today",
+  "blog_name": "in-practice",
+  "title": "Bell of Freedom",
+  "subtitle": null,
+  "author": "Peter D Kramer",
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2014-01-28T10:36:58-05:00",
+  "date_modified": "2014-01-28T10:36:58-05:00",
+  "read_time_minutes": 1,
+  "word_count": 5,
+  "summary": "Pete Seeger",
+  "topics": [
+    "Depression"
+  ],
+  "key_points": [],
+  "sections": [],
+  "images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/blogs/36/2014/01/142720-144046.jpg?itok=biOCGRVf",
+      "alt": "Bell of Freedom",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/Untitled_19.jpg?itok=fxhLB7Br",
+      "alt": "Peter D Kramer",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/blogs/36/2014/01/142720-144046.jpg?itok=v6Ya39hq",
+      "alt": "in concert",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Bell of Freedom\n\n> Pete Seeger\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-21T20:10:00.702747"
+}

@@ -1,0 +1,139 @@
+{
+  "id": "declarative_memory_html_8346875d",
+  "original_title": "Declarative Memory In Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/declarative-memory.html",
+  "published_date": "2026-09-17T11:00:50+00:00",
+  "read_time_minutes": 12,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Declarative-Memory.jpg",
+      "alt": "Declarative Memory In Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/long-term-memory.jpg",
+      "alt": "There are two components of long-term memory: explicit and implicit. Explicit memory includes episodic\n and semantic memory. Implicit memory includes procedural memory and things learned through conditioning.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/episodic-memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--300x97.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Procedural-Memory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/flashbulb-memories-300x171.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/State-Dependent-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Ayesh-Perera.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2442,
+  "turkce_baslik": "Zihnimizin Arşiv Odası: Geçmişi Nasıl Hatırlıyor, Neyi Unutmayı Seçiyoruz?",
+  "kanca_sorusu": "Geçmişteki bir olayı hatırladığınızda, gerçekten olanı mı hatırlıyorsunuz yoksa zihninizin o anı yeniden yazmasını mı izliyorsunuz?",
+  "score": 45,
+  "puan_nedeni": "Metin temel olarak bilişsel psikolojinin beyin anatomisi ve bellek türlerini (epizodik ve semantik bellek) ele alıyor. Doğrudan ilişkisel bir çatışma veya toksik dinamik içermediği, daha çok akademik bir inceleme olduğu için puanı kısıtlı tutuyoruz.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, yaşananları bir video kaseti gibi kaydetmez; her hatırlama anında geçmiş yeniden kurgulanır. Açık veya bildirimsel bellek olarak adlandırdığımız bu alan, iki temel sütun üzerine kuruludur: Genel bilgileri tutan semantik bellek ve kişisel anılarımızı, yani zihinsel zaman yolculuğumuzu barındıran epizodik bellek. Bir ilişki bittiğinde ya da travmatik bir olay yaşandığında, zihnimiz bu anıları sadece birer veri olarak değil, o an hissettiğimiz duyguların süzgecinden geçirerek saklar. Hatırlamak, geçmişi olduğu gibi archive etmek değil, bugünün gözünden o güne yeniden bakmaktır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihinsel Zaman Yolculuğu",
+      "body": "Geçmişi hatırlamak bir veri tabanından bilgi çekmek değildir; o anı bugünün duygularıyla yeniden yaşmaktır.",
+      "highlight_box": "Her hatırlama, anıyı biraz daha değiştirir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "İki Farklı Arşiv: Semantik ve Epizodik",
+      "body": "Zihnimiz dünyadaki bilgileri ve kişisel tarihimizi iki ayrı rafta saklar. Biri kuralları, diğeri ise sadece size ait olan o günü tutar.",
+      "highlight_box": "Bilmek ile hatırlamak aynı şey değildir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Epizodik Belleğin Yanıltıcı Gücü",
+      "body": "Önemli olayları hatarlarken zihnimiz sadece detayları değil, o gün ne hissettiğimizi de kaydeder. Bu yüzden travmalar ve kırgınlıklar canlı kalır.",
+      "highlight_box": "Duygu, hafızanın mürekkebidir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Neden Aynı Olayı Farklı Hatırlıyoruz?",
+      "body": "İki insan aynı tartışmayı yaşasa bile, öznel deneyimler farklı olduğu için zihinlerindeki kayıtlar da tamamen farklı iki hikayeye dönüşür.",
+      "highlight_box": "Ortak anı diye bir şey, nadiren tam olarak vardır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Geçmişin Kaydını Esnetmek",
+      "body": "Zihninizin size dayattığı o eski senaryoların bugün hayatınızı yönetmesine izin vermeyin. Hatırladığınız her şey değiştirilebilir.",
+      "highlight_box": "Geçmişi değil, bugüne olan etkisini değiştirebilirsiniz.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizin hafıza oyunlarını fark etmek, kendi içgörünüzü geliştirmenin ilk adımıdır.",
+      "highlight_box": "Bu analizi zihinsel haritanız için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Eski sevgilinizle yaşadığınız bir tartışmayı hatırladığınızda, emin olun ikiniz de aynı hikayeyi anlatmıyorsunuz.",
+    "konusma_metni": "Beynimiz anıları kaydederken onları sadece birer gerçek olarak saklamaz. Epizodik bellek dediğimiz alan, kişisel deneyimlerimizi ve o an hissettiğimiz duyguları birleştirerek depolar. Bu yüzden iki insan aynı olayı yaşar ama zihinlerinde tamamen farklı iki film oynatır. Hatırlamak bir ayna tutmak değil, geçmişi bugünün duygularıyla yeniden boyamaktır."
+  },
+  "caption": "Geçmişi hatırlama biçimimiz, bugün kim olduğumuzu belirleyen en temel bilişsel süreçlerden biridir. Ancak bellek, dış dünyadaki gerçeklerin tarafsız bir kamerası değil, iç dünyamızın süzgecinden geçen öznel bir kurgudur. İki kişinin aynı olayı tamamen farklı hatırlaması, zihnin olayları kişisel deneyimler ve duygularla paketlemesinden kaynaklanır. Hatırladığınız her anı, bugünün süzgecinden geçer.\n\n#bilişselpsikoloji #bellek #hafıza #zihinselyolculuk #psikolojianaliz #farkındalık",
+  "processed_at": "2026-09-26 17:07:28"
+}

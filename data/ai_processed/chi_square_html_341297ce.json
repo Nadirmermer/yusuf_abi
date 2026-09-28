@@ -1,0 +1,151 @@
+{
+  "id": "chi_square_html_341297ce",
+  "original_title": "Chi-Square (Χ²) Test & How To Calculate Formula Equation",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/chi-square.html",
+  "published_date": "2023-08-29T13:16:22+00:00",
+  "read_time_minutes": 11,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Chi-Square-Test-of-Independence.jpg",
+      "alt": "Chi-Square (Χ²) Test & How To Calculate Formula Equation",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/contingency-table-observed.png",
+      "alt": "contingency table representing observed counts ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/contingency-table-expected.png",
+      "alt": "contingency table representing observed counts ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/chi-squared-equation-300x169.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/one-way-ind-anova-300x183.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-whisker-plot-300x165.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/chi-squared-equation.png",
+      "alt": "chi-squared-equation ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/spss-chi-square-independence-test-significance-output.png",
+      "alt": "chi-squared-spss output ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/themes/generatepress_child/images/user-placeholder.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2268,
+  "turkce_baslik": "İstatistiğin Gölgesinde İnsan Zihni: Ki-Kare Testi Neyi Ölçer?",
+  "kanca_sorusu": "Gözlemlerimiz ile gerçeklik arasındaki o görünmeyen mesafeyi kaç kez hesaplamaya çalıştık?",
+  "score": 40,
+  "puan_nedeni": "Metin tamamen istatistiksel bir formül olan Ki-Kare (Chi-Square) testinin matematiksel altyapısını, tablolama tekniklerini ve hesaplama adımlarını anlatmaktadır. Doğrudan ilişkisel bir içgörü veya duygusal bir ayna etkisi barındırmadığı, kuru bir akademik metodoloji makalesi olduğu için düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Akademik psikolojide ve araştırmalarda kullanılan Ki-Kare testi, yüzeyde sadece kategorik veriler arasındaki ilişkiyi inceleyen matematiksel bir araç gibi görünür. Oysa insan zihni de sürekli bir gözlenen ile beklenen çatışması yaşar. Hayatımızda kurduğumuz ilişkilerde, karşımızdakinden beklediklerimiz ile bulduklarımız arasındaki o istatistiksel sapma, tıpkı Ki-Kare formülündeki (O-E)² / E hesaplaması gibi içsel bir gerilim yaratır. Beklentilerimiz sıfır hata payıyla gerçekleşmediğinde hayal kırıklığı yaşarız. Bu akademik metodoloji, bireyin zihinsel modellerindeki uyumsuzlukları anlamak için bize soyut bir analoji sunar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Beklenen ile Gerçekleşen Arasındaki Mesafe",
+      "body": "İnsan zihni sürekli bir olasılık ve beklenti hesabı yapar.",
+      "highlight_box": "Gözlenen ile beklenen arasındaki fark.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Kategorik Veriler ve Zihinsel Şemalar",
+      "body": "İstatistiksel testler gibi, zihnimiz de olayları kategorilere ayırır ve bir desen arar.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Gözlenen Değerler",
+      "body": "Hayatta karşımıza çıkan somut durumlar, yani ham gerçeklik.",
+      "highlight_box": "Olayların olduğu gibi kabulü.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Beklenen Değerler",
+      "body": "Zihnimizin kurduğu senaryolar ve idealize edilmiş sonuçlar.",
+      "highlight_box": "Varsayımlarımızın yarattığı yük.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Anlamlı Farkı Bulmak",
+      "body": "Sapmalar büyüdükçe ilişkilerdeki ve kararlardaki krizler de belirginleşir.",
+      "highlight_box": "Unutmayın: Bu bir farkındalık sürecidir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Gerçekliğe Uyum",
+      "body": "Beklentileri esnetmek, zihinsel istatistiğin en önemli adımıdır.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Hayatınızdaki beklentiler ve gerçekler neden hiç tutmuyor biliyor musunuz?",
+    "konusma_metni": "Bugün psikolojide ve araştırmalarda kullanılan Ki-Kare testini konuşacağız. Aslında bu test bize sadece sayıları değil, insan zihninin beklenen ile gözlenen arasındaki sürekli çatışmasını anlatır. İlişkilerde de tam olarak bunu yaparız. Karşımızdakine yüklediğimiz anlam ile bulduğumuz gerçeklik uyuşmadığında o büyük fark ortaya çıkar. Zihnimiz sürekli bu hesabı yapar."
+  },
+  "caption": "İstatistiksel bir yöntem olan Ki-Kare testi, yüzeyde kategorik verileri analiz etse de, insan zihninin beklenti ve gerçeklik dengesini kurma çabasını anlamak için bize analitik bir perspektif sunar. Hayatın içinde kurduğumuz denklemler bazen şaşar. \n\n#psikoloji #istatistik #bilimselpsikoloji #zihinyönetimi #beklentiler #farkındalık #yaşam",
+  "processed_at": "2026-09-26 17:44:56"
+}

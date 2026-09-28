@@ -1,0 +1,127 @@
+{
+  "id": "premack_principle_html_a62c8198",
+  "original_title": "the Premack Principle in Psychology:  Definition and Examples",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/premack-principle.html",
+  "published_date": "2024-02-02T11:35:29+00:00",
+  "read_time_minutes": 14,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Premack-principle.jpg",
+      "alt": "the Premack Principle in Psychology:  Definition and Examples",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/skinner-box-300x253.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Operant-Conditioning-Reinforcement-1-300x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/skinner-box-1-300x185.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/drive-reduction-theory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Pavlov-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/headshot.webp",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2862,
+  "turkce_baslik": "Önce Acı, Sonra Ödül: Premack İlkesi ve Günlük Hayattaki Koşullu Mutluluklar",
+  "kanca_sorusu": "İstediğiniz bir şeye ulaşmak için önce kendinizi istemediğiniz görevleri yapmaya zorladığınız o döngü aslında nasıl çalışıyor?",
+  "score": 45,
+  "puan_nedeni": "Metin temel olarak klasik davranışçılık, hayvan deneyleri ve öğrenme teorilerine dayandığı için klinik ve ilişkisel derinlikten uzaktır. Ancak bu mekanizmanın insan motivasyonu ve erteleme davranışına uyarlanabilecek yönleri bulunduğundan orta-düşük bir puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "David Premack tarafından ortaya atılan Premack İlkesi, temel olarak yüksek olasılıklı bir davranışın, düşük olasılıklı bir davranışı pekiştirmek için nasıl kullanılabileceğini inceler. Günlük yaşamda bunu sıkça yaparız: Önce çalışmak zorunda olduğumuz sevilmeyen işi bitirir, ardından ödül olarak sevdiğimiz bir aktiviteye yöneliriz. Ancak bu mekanizma sadece dışsal ödüllerle sınırlı kalmaz; zihnimiz sürekli bir koşullandırma döngüsü içindedir. Bir şeyi elde etme hakkını, ancak bedel ödedikten sonra kendimize tanımamız, uzun vadede tükenmişlik hissine ve içsel motivasyonun zedelenmesine yol açabilir. Davranışsal psikoloji bize eylemlerin sonuçlarını gösterseudit, insan ruhu sadece basit bir ödül-ceza mekanizmasından ibaret değildir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Koşullu Mutluluk Döngüsü",
+      "body": "İstediğimiz bir hayata ulaşmak için istemediğimiz sorumlulukları taşımak zorunda kaldığımız o düzen.",
+      "highlight_box": "Önce görev, sonra ödül mantığı zihnimizi nasıl şekillendiriyor?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Premack İlkesi Nedir?",
+      "body": "Yüksek olasılıklı bir davranışı, düşük olasılıklı bir davranışı tetiklemek için kullanma mekanizması.",
+      "highlight_box": "Davranışçılığın motivasyon üzerindeki etkisi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Ödül Avcılığı",
+      "body": "Zor bir işi yapabilmek için sürekli dışsal bir havuza ihtiyaç duymak, içsel motivasyonu zamanla zayıflatır.",
+      "highlight_box": "Ödül olmadan harekete geçememek.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Yoksunluk Teorisi",
+      "body": "Sevdiğimiz bir aktiviteye erişim kısıtlandığında, o aktiviteye duyulan arzu ve dolayısıyla motivasyon artar.",
+      "highlight_box": "Yasak olan her zaman daha çekicidir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Döngüyü Kırmak",
+      "body": "Her eylemi bir cezalandırma veya ödüllendirme mekanizmasından çıkarıp anlamlı bir sürece dönüştürün.",
+      "highlight_box": "Koşulsuz öz-şefkat ve motivasyon.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Hayatınızı sürekli bir koşturmaca ve ödül bekleyişi haline getirmeyin. Sürecin kendisi kıymetlidir.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Sürekli kendinize bir ödül vererek iş yapmaya çalışıyorsanız, aslında beyninizi nasıl manipüle ediyorsunuz?",
+    "konusma_metni": "Psikolojide Premack İlkesi diye bir gerçek var. Daha çok istemediğimiz bir görevi yapmak için, arkasından yapacağımız keyifli bir aktiviteyi ödül olarak kullanırız. Örneğin önce o zor raporu bitireceksin, sonra kahve içeceksin gibi. Fakat bu durum bir süre sonra içsel motivasyonumuzu tüketebilir ve her eylemi bir koşula bağlamamıza neden olur. Hayatınızı sürekli bir ödül avcılığına dönüştürmeyin."
+  },
+  "caption": "Günlük hayatımızda sıklıkla kullandığımız ödül ve ceza mekanizmaları, aslında davranışsal psikolojinin en temel teorilerinden biri olan Premack İlkesine dayanır. İstediğimiz bir şeye ulaşmak için istemediğimiz görevleri yerine getirme zorunluluğu, zihinsel enerjimizi nasıl tüketir? Bu döngüyü fark etmek, motivasyonunuzu yeniden tanımlamanın ilk adımıdır. \n\n#psikoloji #davranışsalpsikoloji #motivasyon #erteleme #zihinyönetimi #kişiselgelişimdegilbilim #ya_da_psikoloji",
+  "processed_at": "2026-09-26 17:41:36"
+}

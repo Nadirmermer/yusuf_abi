@@ -1,0 +1,56 @@
+{
+  "id": "computers_lack_social_judgment_c35bba44",
+  "url": "https://www.psychologytoday.com/us/blog/incompetence/201603/computers-lack-social-judgment",
+  "source": "Psychology Today",
+  "blog_name": "incompetence",
+  "title": "Computers Lack Social Judgment",
+  "subtitle": null,
+  "author": "Stephen Greenspan Ph.D.",
+  "author_title": "Ph.D.",
+  "reviewer": null,
+  "published_date": "2016-03-28T18:22:46-04:00",
+  "date_modified": "2016-03-28T18:22:46-04:00",
+  "read_time_minutes": 1,
+  "word_count": 39,
+  "summary": "Optimism about the future of autonomous cars was deal a set-back when a Google auto collided with a bus. A big problem is that the bus driver did not perform as the robot predicted",
+  "topics": [
+    "Artificial Intelligence"
+  ],
+  "key_points": [],
+  "sections": [],
+  "images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/auto_1_0.jpg?itok=eGupCvIW",
+      "alt": "Computers Lack Social Judgment",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/stephen-greenspan-phd.jpg?itok=KnNmiteL",
+      "alt": "Stephen Greenspan Ph.D.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/auto_1.jpg?itok=hibpCGVU",
+      "alt": "istock subsciption",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/chatgpt_image_sep_17__2026__10_52_30_am.png.jpg?itok=zXBZo7uo",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/pexels-googledeepmind-18069697.jpg?itok=DR2pOwQK",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Computers Lack Social Judgment\n\n> Optimism about the future of autonomous cars was deal a set-back when a Google auto collided with a bus. A big problem is that the bus driver did not perform as the robot predicted\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-21T21:15:41.757246"
+}

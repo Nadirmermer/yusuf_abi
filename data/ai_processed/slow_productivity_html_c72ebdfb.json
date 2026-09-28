@@ -1,0 +1,133 @@
+{
+  "id": "slow_productivity_html_c72ebdfb",
+  "original_title": "Slow Productivity",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/slow-productivity.html",
+  "published_date": "2025-12-01T12:41:25+00:00",
+  "read_time_minutes": 11,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Slow-Productivity.jpg",
+      "alt": "Slow Productivity",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/delete-apps-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/time-blocking-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/deep-work-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Shutdown-Ritual-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/goal-setting-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/gibbs-reflective-cycle-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/time-blocking.jpg",
+      "alt": "time blocking",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2116,
+  "turkce_baslik": "Tükenmişliğin Anatomisi: Sürekli Meşgul Olmanın Gizli Maliyeti",
+  "kanca_sorusu": "Bütün gün hiçbir şey üretmemiş gibi hissedip akşam saatlerinde üzerinizde tonlarca ağırlıkla eve dönüyor musunuz?",
+  "score": 45,
+  "puan_nedeni": "Metin temel olarak iş hayatı verimliliği, odaklanma ve modern çalışma kültürü üzerine pratik bir model sunuyor. Doğrudan derin psikopatoloji, toksik ilişki veya bağlanma yarası barındırmadığı, daha çok bilişsel verimlilik ve modern yaşam stresi odaklı olduğu için orta-düşük puan aldı.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Modern şehir insanının en büyük yanılgısı, sürekli hareket halinde olmayı üretkenlik sanmaktır. Sürekli açık sekme pencereleri, anında yanıtlanan mesajlar ve bitmek bilmeyen bildirimler, zihni sürekli bir alarm halinde tutar. Buna aşırı uyarıcılı ve dağınık çalışma kültürü diyoruz. Beynimiz sürekli bir kontekst değişimine maruz kaldığında, derinlemesine düşünme kapasitemiz felç olur. Akşam olduğunda hissedilen o derin yorgunluk, bedensel bir emekten ziyade, zihnin aynı anda yüzlerce farklı uyarıcıyla savaşmak zorunda kalmasından kaynaklanır. Gerçek iyileşme ve zihinsel sakinlik, daha hızlı çalışmakla değil, hayatımızdaki gürültüyü azaltmakla başlar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Aynı Anda Her Yerde Olup Hiçbir Yerde Olamamak",
+      "body": "Sürekli bildirimleri kontrol ediyor, onlarca sekme açık çalışıyor ve gün sonunda kendinizi tükenmiş mi hissediyorsunuz?",
+      "highlight_box": "Meşguliyet ile üretkenliği birbirine karıştırıyoruz.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Hiperaktif Kovan Zihni Tuzağı",
+      "body": "Anında cevap verme zorunluluğu, beyninizi sürekli bir tetikte olma haline sokar ve odaklanma kapasitenizi parça pinçik eder.",
+      "highlight_box": "Her mesaj, beynin başka bir dünyaya ani geçiş yapmasına neden olur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Yönetim Yükü",
+      "body": "Yapılacaklar listesi o kadar şişer ki, asıl işi yapmaktan ziyade o listeyi yönetmekle enerji tüketirsiniz.",
+      "highlight_box": "Aşırı yük, derin düşünmenin en büyük düşmanıdır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Biyolojik Uyumsuzluk",
+      "body": "İnsan zihni ve bedeni bir makine gibi yılın 365 günü yüzde yüz kapasiteyle çalışmaya uygun değildir.",
+      "highlight_box": "Doğal ritmimizi reddettiğimizde tükenmişlik kaçınılmaz olur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Daha Az Şey, Daha Derin Odak",
+      "body": "Projelerinizi acısuyla budayın. Çoğu şeye hayır demeyi öğrenmek, gerçekten değerli olana yer açmaktır.",
+      "highlight_box": "Hızlı değil, dengeli ve sürdürülebilir bir tempo kurun.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Zihinsel Sınırları Yeniden Çizmek",
+      "body": "Üretkenlik nicelikle değil, dikkatinizin kalitesiyle ölçülür. Kendi doğal hızınıza geri dönün.",
+      "highlight_box": "Bu içeriği zihinsel yorgunluk hissettiğinizde hatırlamak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Bütün gün koşturduğunuz halde hiçbir şey yapmamış gibi hissetmenizin tek bir psikolojik sebebi var.",
+    "konusma_metni": "Sürekli bildirimlere bakan, aynı anda on sekme açık çalışan ve akşam olduğunda derin bir tükenmişlikle çöken o zihin, aslında bir verimlilik tuzağının içinde. Modern hayat bize her şeye anında yetişmemiz gerektiğini söylüyor. Oysa insan beyni sürekli bir koşturmaca için tasarlanmadı. Sürekli meşgul olmak üretkenlik değildir, sadece zihinsel bir kaçıştır. Gerçek odaklanma, hayatınızdan fazlalıkları çıkardığınızda başlar."
+  },
+  "caption": "Günümüz çalışma kültürü ve modern yaşam, insan zihnini sürekli bir aciliyet hissiyle baş başa bırakıyor. Her şeye yetişmeye çalışmak, anında yanıt vermek ve sürekli ulaşılabilir olmak, bireyin kendi içsel ritmini kaybetmesine yol açıyor. Sürekli meşgul olma hali, derinlemesine düşünme ve üretme kapasitesini felç ederken, akşam saatlerinde derin bir zihinsel tükenmişlik bırakıyor. Gerçek anlamda odaklanabilmek ve zihinsel dinginliği koruyabilmek için, hayatımızdaki fazlalıkları ayıklamak ve doğal bir tempo benimsemek zorundayız. \n\n#zihinselyorgunluk #tükenmişlik #odaklanma #zihinyönetimi #modernyaşam #psikoloji #ya_da_psikoloji",
+  "processed_at": "2026-09-26 02:47:36"
+}

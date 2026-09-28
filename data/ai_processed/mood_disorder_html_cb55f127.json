@@ -1,0 +1,145 @@
+{
+  "id": "mood_disorder_html_cb55f127",
+  "original_title": "The Various Types of Mood Disorders",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/mood-disorder.html",
+  "published_date": "2025-08-29T11:03:14+00:00",
+  "read_time_minutes": 13,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mood-disorder.jpeg",
+      "alt": "The Various Types of Mood Disorders",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Signs-of-Emotion-Dysregulation-in-ADHD-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotion-dysregulation-help-adhd-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotional-dysregulation-autism-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/alexithymia-adhd-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Signs-of-low-emotional-intelligence-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Autism-Vs-OCD-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Types-of-mood-disorders-1.jpg",
+      "alt": "Types of mood disorders 1",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cycle-of-depression-1.jpg",
+      "alt": "cycle of depression 1",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Florence-Yeung-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2541,
+  "turkce_baslik": "Duygulanım Bozuklukları: İçsel Fırtınalar ve Ruh Hali Dalgalanmaları",
+  "kanca_sorusu": "Ruh halinizdeki ani ve derin düşüşleri sadece günlük yorgunluk olarak mı yoksa daha derin bir içsel fırtınanın parçası olarak mı görüyorsunuz?",
+  "score": 45,
+  "puan_nedeni": "Metin genel olarak DSM tabanlı klinik tanıları ve psikiyatrik kategorileri açıklayan akademik bir çerçeve sunuyor. İlişkisel dinamiklerden ziyade tıbbi ve klinik bir bilgilendirme olduğu için editoryal puanımız daha temkinli ve akademik kategoride kaldı.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan ruhu, her zaman sakin seyreden düz bir çizgide ilerlemez. Ancak bazı dönemlerde bu dalgalanmalar sıradan bir yorgunluğun veya geçici bir üzüntünün çok ötesine geçer. Duygulanım bozuklukları, bireyin iç dünyasındaki bu keskin uçurumları ve duygusal regülasyon kapasitesinin zorlandığı durumları ele alır. Majör depresyondan bipolar spektruma, mevsimsel geçişlerden kronikleşmiş distimik hallere kadar ruh halimiz bazen bizim dışımızda işleyen bir mekanizmaya dönüşür. Bu durum sadece bireyin zihnini değil, aynı zamanda günlük işlevselliğini ve sosyal bağlarını da derinden sarsar.\n\nKlinik pratikte sıklıkla karşılaştığımız bu durumlar, kişinin kendi iç ses yabancılaşmasına yol açabilir. Örneğin, nedensiz görünen bir tükenmişlik ya da ani bir taşkınlık hali, bireyin kendisini suçlamasına neden olur. Oysa yaşananlar karakter zayıflığı değil, regüle edilemeyen duygulanım devreleridir. Bireyin kendi içindeki bu aşırılıkları fark etmesi ve bunları nesnel bir gözle gözlemleyebilmesi, iyileşme yolculuğunun ilk ve en kritik adımıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "İçsel Fırtınalar",
+      "body": "Ruh halinizdeki dalgalanmalar bazen sıradan bir günün ötesine geçip hayatınızı esir alıyorsa.",
+      "highlight_box": "Duygularınızın şiddeti sizi korkutuyor mu?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Ayna Etkisi",
+      "body": "İçinde bulunduğunuz ruh halinin nedenini bulamaz, sürekli bir uçurumda hissedersiniz.",
+      "highlight_box": "Bu durumun adı her zaman tembellik değildir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Majör Çöküşler",
+      "body": "Hiçbir neden yokken süregelen o derin üzüntü ve hayattan kopuş hali.",
+      "highlight_box": "Fiziksel ve zihinsel tükenmişlik",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Uçlardaki Yaşam",
+      "body": "Bazen aşırı coşku ve enerji, bazen ise hiçbir şey yapamayacak kadar derin bir karanlık.",
+      "highlight_box": "Duygu regülasyonunda zorlanma",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Fark Etmek",
+      "body": "Yaşadığınız bu döngülerin birer klinik karşılığı olabileceğini kabul etmek ilk adımdır.",
+      "highlight_box": "Profesyonel destek bir lüks değil, gerekliliktir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizin size oyun oynadığı anlarda kendinize yabancılaşmayın.",
+      "highlight_box": "Bu gönderiyi anlamlı bulduysanız kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Ruh halinizdeki bu ani iniş çıkışların adı sadece yorgunluk olmayabilir.",
+    "konusma_metni": "Her gün aynı enerjide olmamak normaldir. Ancak günlerce süren o derin tükenmişlik hissi ya da aniden gelen o yoğun öfke dalgaları, ruhunuzun size verdiği farklı bir mesaj olabilir. Duygulanım bozuklukları geniş bir yelpazeyi kapsar ve bu durum iradenizin zayıflığıyla değil, beyninizin duyguyu regüle etme biçimiyle ilgilidir. Kendinize karşı biraz daha şefkatli, ama bir o kadar da dürüst olma vakti."
+  },
+  "caption": "Ruh halindeki dalgalanmalar, modern insanın en sık yaşadığı ancak sıklıkla yanlış etiketlediği içsel süreçlerden biridir. Günlük hayatın akışı içinde yaşanan tükenmişlik ile klinik boyuttaki duygulanım bozukluklarını birbirine karıştırmamak gerekir. İç dünyanızdaki bu fırtınaları anlamlandırmak ve kendinize daha şefkatli yaklaşmak için bu içeriği inceleyebilir, benzer süreçlerden geçen sevdiklerinizle paylaşabilirsiniz.\n\n#psikoloji #ruhhalidepresyon #bipolarduzen #duygulanımbozukluğu #zihinvebilinç #klinikpsikoloji #ya_da_psikoloji",
+  "processed_at": "2026-09-26 17:29:20"
+}

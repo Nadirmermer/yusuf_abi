@@ -1,0 +1,139 @@
+{
+  "id": "stroop_effect_html_1592986e",
+  "original_title": "Stroop Effect",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/stroop-effect.html",
+  "published_date": "2026-09-17T14:52:57+00:00",
+  "read_time_minutes": 32,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/stroop-effect1.jpg",
+      "alt": "Stroop Effect",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/stroop-test.jpeg",
+      "alt": "Stroop test example showing colour words printed in matching and mismatched ink colours",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/automatic-processing-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--300x97.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/controlled-processing-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/heuristics-cognitive-bias-300x239.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-memory-300x111.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/stroop-picture-word.png",
+      "alt": "Illustration of four Stroop task variants: picture-word, direction-word, digit-numerosity, and letter identification",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/charlotte-ruhl.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 6420,
+  "turkce_baslik": "Zihnin Otomatik Pilotu: Stroop Etkisi ve Zihinsel Çatışma",
+  "kanca_sorusu": "Okumak bu kadar kolasken, neden gözümüzün önündeki rengi söylemek zihnimizi bu kadar zorlar?",
+  "score": 45,
+  "puan_nedeni": "Her ne kadar köklü bir bilişsel psikoloji deneyi olsa da, doğrudan ilişkisel dinamikler, bağlanma stilleri veya bireysel iç dünyamızla ilgili derin bir öznel yansıtma sunmadığı, daha çok nörolojik ve kognitif bir mekanizma olduğu için puanı akademik kategoride tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Zihnimiz, günlük yaşamın karmaşası içinde enerjisini korumak için otomatik pilot özelliklerine güvenir. Okumak gibi çok erken yaşlarda kazandığımız beceriler, artık zihinsel birer reflex haline gelmiştir. Ancak bu otomatikleşme, karşımıza çelişkili uyarıcılar çıktığında bir çatışma yaratır. Kırmızı yazılmış yeşil kelimesini gördüğümüzde beynimiz otomatik olarak okuma eylemini gerçekleştirirken, bizden istenen mürekkebin rengini söylemektir. Bu iki zihinsel süreç arasındaki çatışma, tam anlamıyla zihnimizin sınırlarını ve dikkat mekanizmalarımızın ne kadar kolay manipüle edilebileceğini gösterir. Hayatta da böyledir; eski ve otomatikleşmiş alışkanlıklarımız, yeni ve bilinçli bir karar almaya çalıştığımızda sürekli olarak bize direnç gösterir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihinsel Çatışma Anı",
+      "body": "Beynimizin otomatik refleksleri ile bilinçli kontrolümüz arasındaki sessiz savaş.",
+      "highlight_box": "Okumak çok kolaydır, peki ya renkleri söylemek?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Otomatik Pilotun Gücü",
+      "body": "Zihnimiz enerji tasarrufu yapmak için okumayı otomatikleştirir ve bu kontrolü ele alır.",
+      "highlight_box": "Alışkanlıklar neden bu kadar kalıcıdır?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "İşlem Hızı Teorisi",
+      "body": "Kelimeleri algılamak, rengi fark etmekten her zaman daha hızlı gerçekleşir.",
+      "highlight_box": "Zihin önce anlamı yakalar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Bilişsel Müdahale",
+      "body": "İki çelişkili bilgi aynı anda beyne ulaştığında tepki süresi yavaşlar ve hata payı artar.",
+      "highlight_box": "Karar verirken yaşanan duraksama.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Bilinçli Kontrol",
+      "body": "Otomatik tepkileri durdurup odaklanmak zihinsel çaba ve sürekli pratik gerektirir.",
+      "highlight_box": "Farkındalık otomatizmi yavaşlatır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Zihinsel Sınırlarımız",
+      "body": "Beynimizin otomatik kabullerini fark etmek, onu daha bilinçli yönetmenin ilk adımıdır.",
+      "highlight_box": "Tekrar incelemek üzere kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Beyninizin sizi nasıl kandırdığını görmek ister misiniz?",
+    "konusma_metni": "Gözümüzün önündeki açık bir gerçeği söylemek neden bazen bu kadar zor gelir? Stroop etkisi tam olarak bunu inceler. Okumak bizim için o kadar otomatiktir ki, renkleri adlandırmak istediğimizde beynimizdeki iki farklı mekanizma birbiriyle çatışır. Tıpkı hayatımızda otomatikleşmiş eski alışkanlıkların, yeni kararlar alırken önümüze engel olması gibi."
+  },
+  "caption": "Zihnimiz hayatı kolaylaştırmak için birçok süreci otomatik pilota devreder. Ancak bu otomatizm, yeni ve farklı bir durumla karşılaştığımızda ciddi bir zihinsel çatışma yaratır. Stroop etkisi, bu çatışmanın somut bir göstergesidir. Okuma eyleminin rengi adlandırma üzerindeki baskısı, tıpkı yaşamımızdaki kökleşmiş kalıpların yeni kararlar alırken yarattığı direnç gibidir. Zihinsel süreçlerinizi daha yakından tanımak ve bu mekanizmaları fark etmek için bu içeriği kaydedebilirsiniz. \n\n#bilişselpsikoloji #zihinselyönetim #dikkat #nöropsikoloji #farkındalık #bilişselçatışma #ya_da_psikoloji",
+  "processed_at": "2026-09-26 02:42:20"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "wechsler_intelligence_scales_adhd_and_au_b0df9019",
+  "url": "https://www.simplypsychology.org/wechsler-intelligence-scales-adhd-and-autism.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Do Wechsler Intelligence Scales Predict Academic Achievement In ADHD And Autism?",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2024-06-21T10:22:59+00:00",
+  "date_modified": null,
+  "read_time_minutes": 10,
+  "word_count": 1991,
+  "summary": "News»Clinical Psychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "News»Clinical Psychology\n\nThe Wechsler Intelligence Scales are standardized tests designed to measure cognitive abilities in children and adults.\n\nFor children aged 6-16, the Wechsler Intelligence Scale for Children (WISC) is commonly used. It assesses various cognitive domains, including verbal comprehension, perceptual reasoning, working memory, and processing speed, to generate a Full Scale IQ score.\n\nIn individuals diagnosed with autism spectrum disorder (ASD) or attention-deficit/hyperactivity disorder (ADHD), the relationship between intelligence and academic achievement may be more complex than in the general population.\n\nThese neurodevelopmental disorders can affect cognitive processes differently, potentially leading to uneven skill profiles.\n\nFor instance, an autistic child might have above-average intelligence but struggle with specific academic tasks due tosocial communicationchallenges. Similarly, a child with ADHD may have average intelligence but underachieve academically due to difficulties with attention andexecutive functioning.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Points",
+      "content": "- The primary methods of examining the relationship between Wechsler intelligence scales and academic achievement in children with ADHD or ASD include systematic review and meta-analysis of observational studies.\n\n- Factors like Full Scale IQ (FSIQ), Processing Speed Index (PSI), Working Memory Index (WMI), and Verbal Comprehension Index (VCI) significantly affect academic achievement in reading, written language, and mathematics for children withADHD and ASD.\n\n- The research, while enlightening, has certain limitations such as the small number of studies on ASD, heterogeneity in sample characteristics, and varying measures of academic achievement across studies.\n\n- Understanding the relationship between intelligence and academic achievement in neurodevelopmental disorders is crucial for developing effective educational interventions and support strategies.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Rationale",
+      "content": "The study aimed to examine if Wechsler intelligence scales predict academic achievement and/or grades in children with ADHD and/or ASD.\n\nThis research is important because:",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "What we know:",
+      "content": "Intelligence tests are robust predictors of academic achievement in the general population (Deary et al., 2007; Neisser et al., 1996; Plomin & von Stumm, 2018).\n\nHowever, this relationship may be less straightforward in neurodevelopmental disorderssuch as ADHDandASD, which are characterizedby diverse cognitive profiles and often co-occur with specific learning challenges (Mayes & Calhoun, 2007; Assouline et al., 2012).",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Next step:",
+      "content": "While numerous studies have examined IQ, WISC profiles, and academic achievement in ASD and ADHD separately, there was a need to systematically review and meta-analyze the relationship between Wechsler intelligence scales and academic achievement specifically in these populations.\n\nThis research helps clarify the role of IQ in academic achievement for children with ADHD and ASD, which is crucial for developing appropriate educational interventions and support strategies.\n\nUnderstanding this relationship is particularly important given the heterogeneous nature of these neurodevelopmental disorders and the varying cognitive and academic profiles observed within these populations (Thaler et al., 2013; Mayes & Calhoun, 2008).",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Method",
+      "content": "Thesystematic reviewandmeta-analysisfollowed the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analysis) guidelines.\n\nThree databases were searched: PubMed, PsycINFO, and Education Research Complete.\n\nThe search strategy included a combination of three key elements:\n\n- Intellectual functioning or Wechsler scales\n\n- Academic achievement\n\n- Diagnosis (ADHD, ASD)\n\nSpecific search terms for each database were provided in a supplementary table.\n\n- Observational studies (case-control, cross-sectional, longitudinal)\n\n- Original data\n\n- Published in peer-reviewed journals between 01-01-2000 and 24-02-2023\n\n- Written in English\n\n- Participants: Children aged 6-16 years with ADHD or ASD\n\n- Measures: Wechsler scales (WISC, WASI) and quantitative measures of academic achievement and/or grades\n\n- Studies on children aged 0-5 years, adolescents from 17 years and older, and adults\n\n- Studies on children with intellectual disability (ID) alone or as comorbidity\n\n- Studies where ADHD and/orASD diagnosiswas based only on parental ratings of symptoms",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Statistical measures",
+      "content": "The meta-analyses were conducted using the tool Meta-Essentials, employing a random effects model due to expected heterogeneity across studies.\n\nThe I² statistic was used to assess heterogeneity. Publication bias was assessed with funnel plots including the results of a trim-and-fill procedure.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Study selection and characteristics:",
+      "content": "- 12 studies were included in the systematic review (9 ADHD, 3 ASD)\n\n- 6 samples from 2 studies were included in the meta-analysis (all ADHD)\n\n- Total participants: ADHD (n = 1,834), ASD (n = 176)",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Risk of bias assessment:",
+      "content": "- 3 studies had low risk of bias\n\n- 9 studies had medium risk of bias",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Narrative synthesis:",
+      "content": "- FSIQ/IQ emerged as a predictor of academic achievement\n\n- Working memory, vocabulary, verbal comprehension, and verbal reasoning were implicated in academic achievement\n\n- Processing speed’s impact was less clear and might contribute to achievement to a lower degree\n\n- FSIQ, WMI, and PSI emerged as significant predictors of academic achievement\n\n- VCI and PRI were also implicated, but the limited number of studies prevented firm conclusions",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Meta-analysis results (ADHD only):",
+      "content": "- Mathematics: overall weighted correlation = 0.48 (95% CI: 0.21-0.68)\n\n- Word reading: overall weighted correlation = 0.43 (95% CI: 0.27-0.57)\n\n- Written language: overall weighted correlation = 0.38 (95% CI: 0.24-0.50)\n\n- Mathematics: overall weighted correlation = 0.40 (95% CI: 0.33-0.46)\n\n- Word reading: overall weighted correlation = 0.29 (95% CI: 0.14-0.42)\n\n- Written language: overall weighted correlation = 0.35 (95% CI: 0.26-0.43)",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Insight",
+      "content": "The study provides evidence that Wechsler intelligence scales, particularly FSIQ and PSI, are moderately predictive of academic achievement in children with ADHD across reading, written language, and mathematics.\n\nFor children with ASD, while the evidence is more limited, FSIQ, WMI, and PSI appear to be significant predictors of academic achievement.\n\nThese findings extend previous research by systematically analyzing the relationship between specific components of intelligence (as measured by Wechsler scales) and academic achievement in neurodevelopmental disorders.\n\nThe study highlights that while intelligence is an important factor, other characteristics related to ADHD or ASD may affect the strength of this relationship.\n\nFuture research could focus on:\n\n- Longitudinal studies to examine the bidirectional relationship between intelligence and academic achievement in ADHD and ASD.\n\n- Investigating the role of executive functions, motivation, and other factors in academic achievement for these populations.\n\n- Developing and testing targeted interventions based on cognitive profiles to improve academic outcomes.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Strengths",
+      "content": "Below are some of the strengths of this review:\n\n- Comprehensive search strategy covering multiple databases\n\n- Adherence to PRISMA guidelines for systematic reviews\n\n- Use of the Newcastle-Ottawa Scale for risk of bias assessment\n\n- Inclusion of both narrative synthesis and meta-analysis\n\n- Consideration of multiple components of intelligence (FSIQ, PSI, WMI, VCI) and their relationships with different domains of academic achievement",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "Limitations",
+      "content": "Below are some of the limitations of this review:\n\n- Small number of studies on ASD, limiting generalizability of findings for this population\n\n- Heterogeneity in sample characteristics (e.g., ADHD subtypes, comorbidities) across studies\n\n- Variation in measures of academic achievement, limiting the number of samples that could be included in the meta-analysis\n\n- Lack of longitudinal studies examining the relationship between WISC results and academic achievement over time\n\n- Potential publication bias, although this could not be conclusively determined due to the small number of studies\n\nThese limitations suggest that the findings should be interpreted cautiously, particularly for the ASD population.\n\nThe heterogeneity in samples and measures also indicates a need for more standardized approaches in future research.",
+      "order": 14,
+      "items": []
+    },
+    {
+      "heading": "Implications",
+      "content": "The results have significant implications for educational and clinical practice:\n\n- Use of Wechsler scales:The study supports the value of using Wechsler intelligence scales in predicting academic achievement for children with ADHD and potentially for those with ASD. This can inform educational planning and support strategies.\n\n- Targeted interventions:Understanding the specific relationships between different components of intelligence (e.g., processing speed, working memory) and academic domains can help in developing targeted interventions. For example, interventions focusing on improving processing speed might be particularly beneficial for mathematics performance.\n\n- Holistic assessment:While intelligence is an important factor, the moderate correlations suggest that other factors also play a significant role in academic achievement for children with ADHD and ASD. This underscores the need for comprehensive assessment that includes measures of executive function, motivation, and other relevant factors.\n\n- Individualized support:The variability in findings across studies highlights the heterogeneity within ADHD and ASD populations. This emphasizes the importance of individualized assessment and support strategies rather than one-size-fits-all approaches.\n\n- Educational accommodations:The findings can inform the development of appropriate educational accommodations. For instance, children with lower processing speed might benefit from extended time on tests or reduced homework load.\n\n- Early intervention:Given the predictive value of intelligence measures, early assessment could help identify children at risk for academic difficulties, allowing for timely intervention.\n\n- Professional development:Educators and clinicians working with children with ADHD and ASD should be trained in interpreting intelligence test results in the context of academic achievement, considering the nuances highlighted in this study.\n\nGuy-Evans, O. (2024). Do Wechsler Intelligence Scales Predict Academic Achievement In ADHD And Autism?. Simply Psychology. https://www.simplypsychology.org/news/wechsler-intelligence-scales-adhd-and-autism/\n\nGuy-Evans, Olivia. \"Do Wechsler Intelligence Scales Predict Academic Achievement In ADHD And Autism?.\" Simply Psychology, 21 June 2024, https://www.simplypsychology.org/news/wechsler-intelligence-scales-adhd-and-autism/.\n\nGuy-Evans, O. (2024) Do Wechsler Intelligence Scales Predict Academic Achievement In ADHD And Autism?. Simply Psychology. Available at: https://www.simplypsychology.org/news/wechsler-intelligence-scales-adhd-and-autism/ (Accessed: 22 September 2026).",
+      "order": 15,
+      "items": []
+    },
+    {
+      "heading": "Primary reference",
+      "content": "Marinopoulou, M., Åsberg Johnels, J., Bornehag, C. G., Unenge Hallerbäck, M., & Billstedt, E. (2024). Do Wechsler intelligence scales predict academic achievement in children with ADHD or autism? A systematic review and meta-analysis.Applied Neuropsychology: Child, 1–15.https://doi.org/10.1080/21622965.2024.2361022",
+      "order": 16,
+      "items": []
+    },
+    {
+      "heading": "Other references",
+      "content": "Deary, I. J., Strand, S., Smith, P., & Fernandes, C. (2007). Intelligence and educational achievement.Intelligence,35(1), 13–21.https://doi.org/10.1016/j.intell.2006.02.001\n\nFerrer, E., Shaywitz, B. A., Holahan, J. M., Marchione, K., & Shaywitz, S. E. (2010). Uncoupling of reading and IQ over time: Empirical evidence for a definition of dyslexia.Psychological Science,21(1), 93–101.https://doi.org/10.1177/0956797609354084\n\nNeisser, U., Boodoo, G., Bouchard, T. J., Jr, Boykin, A. W., Brody, N., Ceci, S. J., Halpern, D. F., Loehlin, J. C., Perloff, R., Sternberg, R. J., & Urbina, S. (1996). Intelligence: Knowns and unknowns.American Psychologist,51(2), 77–101.https://doi.org/10.1037/0003-066X.51.2.77\n\nPlomin, R., & von Stumm, S. (2018). The new genetics of intelligence.Nature Reviews. Genetics,19(3), 148–159.https://doi.org/10.1038/nrg.2017.104\n\nQuinn, J. M., Wagner, R. K., Petscher, Y., Roberts, G., Menzel, A. J., & Schatschneider, C. (2020). Differential codevelopment of vocabulary knowledge and reading comprehension for students with and without learning disabilities.Journal of Educational Psychology,112(3), 608–627.https://doi.org/10.1037/edu0000382",
+      "order": 17,
+      "items": []
+    },
+    {
+      "heading": "Keep Learning",
+      "content": "- How might the relationship between intelligence and academic achievement differ in children with ADHD compared to those with ASD, and what factors could account for these differences?\n\n- Given the moderate correlations found in this study, what other factors might play a significant role in academic achievement for children with ADHD or ASD?\n\n- How could the findings of this study inform the development of more effective educational interventions for children with ADHD or ASD?\n\n- What ethical considerations should be taken into account when using intelligence measures to predict academic achievement in children with neurodevelopmental disorders?\n\n- How might the relationship between intelligence and academic achievement change over time for children with ADHD or ASD, and what implications might this have for long-term educational planning?\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.",
+      "order": 18,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/intelligence-tests-asd-adhd.jpeg",
+      "alt": "Do Wechsler Intelligence Scales Predict Academic Achievement In ADHD And Autism?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/disclosing-diagnosis-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/autism-burnout-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/homeless-youth-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/future-anxiety-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/creative-child-and-parent-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-media-harm-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Do Wechsler Intelligence Scales Predict Academic Achievement In ADHD And Autism?\n\n> News»Clinical Psychology\n\n## Giriş\n\nNews»Clinical Psychology\n\nThe Wechsler Intelligence Scales are standardized tests designed to measure cognitive abilities in children and adults.\n\nFor children aged 6-16, the Wechsler Intelligence Scale for Children (WISC) is commonly used. It assesses various cognitive domains, including verbal comprehension, perceptual reasoning, working memory, and processing speed, to generate a Full Scale IQ score.\n\nIn individuals diagnosed with autism spectrum disorder (ASD) or attention-deficit/hyperactivity disorder (ADHD), the relationship between intelligence and academic achievement may be more complex than in the general population.\n\nThese neurodevelopmental disorders can affect cognitive processes differently, potentially leading to uneven skill profiles.\n\nFor instance, an autistic child might have above-average intelligence but struggle with specific academic tasks due tosocial communicationchallenges. Similarly, a child with ADHD may have average intelligence but underachieve academically due to difficulties with attention andexecutive functioning.\n\n## Key Points\n\n- The primary methods of examining the relationship between Wechsler intelligence scales and academic achievement in children with ADHD or ASD include systematic review and meta-analysis of observational studies.\n\n- Factors like Full Scale IQ (FSIQ), Processing Speed Index (PSI), Working Memory Index (WMI), and Verbal Comprehension Index (VCI) significantly affect academic achievement in reading, written language, and mathematics for children withADHD and ASD.\n\n- The research, while enlightening, has certain limitations such as the small number of studies on ASD, heterogeneity in sample characteristics, and varying measures of academic achievement across studies.\n\n- Understanding the relationship between intelligence and academic achievement in neurodevelopmental disorders is crucial for developing effective educational interventions and support strategies.\n\n## Rationale\n\nThe study aimed to examine if Wechsler intelligence scales predict academic achievement and/or grades in children with ADHD and/or ASD.\n\nThis research is important because:\n\n## What we know:\n\nIntelligence tests are robust predictors of academic achievement in the general population (Deary et al., 2007; Neisser et al., 1996; Plomin & von Stumm, 2018).\n\nHowever, this relationship may be less straightforward in neurodevelopmental disorderssuch as ADHDandASD, which are characterizedby diverse cognitive profiles and often co-occur with specific learning challenges (Mayes & Calhoun, 2007; Assouline et al., 2012).\n\n## Next step:\n\nWhile numerous studies have examined IQ, WISC profiles, and academic achievement in ASD and ADHD separately, there was a need to systematically review and meta-analyze the relationship between Wechsler intelligence scales and academic achievement specifically in these populations.\n\nThis research helps clarify the role of IQ in academic achievement for children with ADHD and ASD, which is crucial for developing appropriate educational interventions and support strategies.\n\nUnderstanding this relationship is particularly important given the heterogeneous nature of these neurodevelopmental disorders and the varying cognitive and academic profiles observed within these populations (Thaler et al., 2013; Mayes & Calhoun, 2008).\n\n## Method\n\nThesystematic reviewandmeta-analysisfollowed the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analysis) guidelines.\n\nThree databases were searched: PubMed, PsycINFO, and Education Research Complete.\n\nThe search strategy included a combination of three key elements:\n\n- Intellectual functioning or Wechsler scales\n\n- Academic achievement\n\n- Diagnosis (ADHD, ASD)\n\nSpecific search terms for each database were provided in a supplementary table.\n\n- Observational studies (case-control, cross-sectional, longitudinal)\n\n- Original data\n\n- Published in peer-reviewed journals between 01-01-2000 and 24-02-2023\n\n- Written in English\n\n- Participants: Children aged 6-16 years with ADHD or ASD\n\n- Measures: Wechsler scales (WISC, WASI) and quantitative measures of academic achievement and/or grades\n\n- Studies on children aged 0-5 years, adolescents from 17 years and older, and adults\n\n- Studies on children with intellectual disability (ID) alone or as comorbidity\n\n- Studies where ADHD and/orASD diagnosiswas based only on parental ratings of symptoms\n\n## Statistical measures\n\nThe meta-analyses were conducted using the tool Meta-Essentials, employing a random effects model due to expected heterogeneity across studies.\n\nThe I² statistic was used to assess heterogeneity. Publication bias was assessed with funnel plots including the results of a trim-and-fill procedure.\n\n## Study selection and characteristics:\n\n- 12 studies were included in the systematic review (9 ADHD, 3 ASD)\n\n- 6 samples from 2 studies were included in the meta-analysis (all ADHD)\n\n- Total participants: ADHD (n = 1,834), ASD (n = 176)\n\n## Risk of bias assessment:\n\n- 3 studies had low risk of bias\n\n- 9 studies had medium risk of bias\n\n## Narrative synthesis:\n\n- FSIQ/IQ emerged as a predictor of academic achievement\n\n- Working memory, vocabulary, verbal comprehension, and verbal reasoning were implicated in academic achievement\n\n- Processing speed’s impact was less clear and might contribute to achievement to a lower degree\n\n- FSIQ, WMI, and PSI emerged as significant predictors of academic achievement\n\n- VCI and PRI were also implicated, but the limited number of studies prevented firm conclusions\n\n## Meta-analysis results (ADHD only):\n\n- Mathematics: overall weighted correlation = 0.48 (95% CI: 0.21-0.68)\n\n- Word reading: overall weighted correlation = 0.43 (95% CI: 0.27-0.57)\n\n- Written language: overall weighted correlation = 0.38 (95% CI: 0.24-0.50)\n\n- Mathematics: overall weighted correlation = 0.40 (95% CI: 0.33-0.46)\n\n- Word reading: overall weighted correlation = 0.29 (95% CI: 0.14-0.42)\n\n- Written language: overall weighted correlation = 0.35 (95% CI: 0.26-0.43)\n\n## Insight\n\nThe study provides evidence that Wechsler intelligence scales, particularly FSIQ and PSI, are moderately predictive of academic achievement in children with ADHD across reading, written language, and mathematics.\n\nFor children with ASD, while the evidence is more limited, FSIQ, WMI, and PSI appear to be significant predictors of academic achievement.\n\nThese findings extend previous research by systematically analyzing the relationship between specific components of intelligence (as measured by Wechsler scales) and academic achievement in neurodevelopmental disorders.\n\nThe study highlights that while intelligence is an important factor, other characteristics related to ADHD or ASD may affect the strength of this relationship.\n\nFuture research could focus on:\n\n- Longitudinal studies to examine the bidirectional relationship between intelligence and academic achievement in ADHD and ASD.\n\n- Investigating the role of executive functions, motivation, and other factors in academic achievement for these populations.\n\n- Developing and testing targeted interventions based on cognitive profiles to improve academic outcomes.\n\n## Strengths\n\nBelow are some of the strengths of this review:\n\n- Comprehensive search strategy covering multiple databases\n\n- Adherence to PRISMA guidelines for systematic reviews\n\n- Use of the Newcastle-Ottawa Scale for risk of bias assessment\n\n- Inclusion of both narrative synthesis and meta-analysis\n\n- Consideration of multiple components of intelligence (FSIQ, PSI, WMI, VCI) and their relationships with different domains of academic achievement\n\n## Limitations\n\nBelow are some of the limitations of this review:\n\n- Small number of studies on ASD, limiting generalizability of findings for this population\n\n- Heterogeneity in sample characteristics (e.g., ADHD subtypes, comorbidities) across studies\n\n- Variation in measures of academic achievement, limiting the number of samples that could be included in the meta-analysis\n\n- Lack of longitudinal studies examining the relationship between WISC results and academic achievement over time\n\n- Potential publication bias, although this could not be conclusively determined due to the small number of studies\n\nThese limitations suggest that the findings should be interpreted cautiously, particularly for the ASD population.\n\nThe heterogeneity in samples and measures also indicates a need for more standardized approaches in future research.\n\n## Implications\n\nThe results have significant implications for educational and clinical practice:\n\n- Use of Wechsler scales:The study supports the value of using Wechsler intelligence scales in predicting academic achievement for children with ADHD and potentially for those with ASD. This can inform educational planning and support strategies.\n\n- Targeted interventions:Understanding the specific relationships between different components of intelligence (e.g., processing speed, working memory) and academic domains can help in developing targeted interventions. For example, interventions focusing on improving processing speed might be particularly beneficial for mathematics performance.\n\n- Holistic assessment:While intelligence is an important factor, the moderate correlations suggest that other factors also play a significant role in academic achievement for children with ADHD and ASD. This underscores the need for comprehensive assessment that includes measures of executive function, motivation, and other relevant factors.\n\n- Individualized support:The variability in findings across studies highlights the heterogeneity within ADHD and ASD populations. This emphasizes the importance of individualized assessment and support strategies rather than one-size-fits-all approaches.\n\n- Educational accommodations:The findings can inform the development of appropriate educational accommodations. For instance, children with lower processing speed might benefit from extended time on tests or reduced homework load.\n\n- Early intervention:Given the predictive value of intelligence measures, early assessment could help identify children at risk for academic difficulties, allowing for timely intervention.\n\n- Professional development:Educators and clinicians working with children with ADHD and ASD should be trained in interpreting intelligence test results in the context of academic achievement, considering the nuances highlighted in this study.\n\nGuy-Evans, O. (2024). Do Wechsler Intelligence Scales Predict Academic Achievement In ADHD And Autism?. Simply Psychology. https://www.simplypsychology.org/news/wechsler-intelligence-scales-adhd-and-autism/\n\nGuy-Evans, Olivia. \"Do Wechsler Intelligence Scales Predict Academic Achievement In ADHD And Autism?.\" Simply Psychology, 21 June 2024, https://www.simplypsychology.org/news/wechsler-intelligence-scales-adhd-and-autism/.\n\nGuy-Evans, O. (2024) Do Wechsler Intelligence Scales Predict Academic Achievement In ADHD And Autism?. Simply Psychology. Available at: https://www.simplypsychology.org/news/wechsler-intelligence-scales-adhd-and-autism/ (Accessed: 22 September 2026).\n\n## Primary reference\n\nMarinopoulou, M., Åsberg Johnels, J., Bornehag, C. G., Unenge Hallerbäck, M., & Billstedt, E. (2024). Do Wechsler intelligence scales predict academic achievement in children with ADHD or autism? A systematic review and meta-analysis.Applied Neuropsychology: Child, 1–15.https://doi.org/10.1080/21622965.2024.2361022\n\n## Other references\n\nDeary, I. J., Strand, S., Smith, P., & Fernandes, C. (2007). Intelligence and educational achievement.Intelligence,35(1), 13–21.https://doi.org/10.1016/j.intell.2006.02.001\n\nFerrer, E., Shaywitz, B. A., Holahan, J. M., Marchione, K., & Shaywitz, S. E. (2010). Uncoupling of reading and IQ over time: Empirical evidence for a definition of dyslexia.Psychological Science,21(1), 93–101.https://doi.org/10.1177/0956797609354084\n\nNeisser, U., Boodoo, G., Bouchard, T. J., Jr, Boykin, A. W., Brody, N., Ceci, S. J., Halpern, D. F., Loehlin, J. C., Perloff, R., Sternberg, R. J., & Urbina, S. (1996). Intelligence: Knowns and unknowns.American Psychologist,51(2), 77–101.https://doi.org/10.1037/0003-066X.51.2.77\n\nPlomin, R., & von Stumm, S. (2018). The new genetics of intelligence.Nature Reviews. Genetics,19(3), 148–159.https://doi.org/10.1038/nrg.2017.104\n\nQuinn, J. M., Wagner, R. K., Petscher, Y., Roberts, G., Menzel, A. J., & Schatschneider, C. (2020). Differential codevelopment of vocabulary knowledge and reading comprehension for students with and without learning disabilities.Journal of Educational Psychology,112(3), 608–627.https://doi.org/10.1037/edu0000382\n\n## Keep Learning\n\n- How might the relationship between intelligence and academic achievement differ in children with ADHD compared to those with ASD, and what factors could account for these differences?\n\n- Given the moderate correlations found in this study, what other factors might play a significant role in academic achievement for children with ADHD or ASD?\n\n- How could the findings of this study inform the development of more effective educational interventions for children with ADHD or ASD?\n\n- What ethical considerations should be taken into account when using intelligence measures to predict academic achievement in children with neurodevelopmental disorders?\n\n- How might the relationship between intelligence and academic achievement change over time for children with ADHD or ASD, and what implications might this have for long-term educational planning?\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:35:41.629539"
+}

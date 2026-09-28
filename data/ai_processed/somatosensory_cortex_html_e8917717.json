@@ -1,0 +1,151 @@
+{
+  "id": "somatosensory_cortex_html_e8917717",
+  "original_title": "Somatosensory Cortex: Function & Location",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/somatosensory-cortex.html",
+  "published_date": "2026-09-17T14:52:28+00:00",
+  "read_time_minutes": 10,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Somatosensory-Cortex.jpg",
+      "alt": "Somatosensory Cortex: Function & Location",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/somatosensory-cortex-1.jpg",
+      "alt": "An infographic titled 'somatosensory cortex' with an outline of the brain with the primary and secondary somatosensory cortices highlights and bullet points with some of the main functions underneath.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/somatosensory-cortex.gif",
+      "alt": "somatosensory",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/primary_somatic_sensory_cortex.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Motor-Cortex-300x174.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brodmanns-areas-300x169.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotions-brain-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cns-pns-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Broca_Wernicke-300x185.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Motor-Homunculus-1024x885.jpg",
+      "alt": "Motor Homunculus",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1969,
+  "turkce_baslik": "Somatosensoriyel Korteks ve Beden Haritası",
+  "kanca_sorusu": "Beyninizde bedeninizin nasıl bir haritası olduğunu hiç merak ettiniz mi?",
+  "score": 45,
+  "puan_nedeni": "Makale saf biyopsikoloji ve nöroloji temelli olduğundan, doğrudan ilişkisel dinamikler veya içsel psikolojik süreçler yerine akademik beyin anatomisi anlatmaktadır. Bu durum, takipçilerde derin bir ayna etkisi yaratmakta zayıf kalır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Somatosensoriyel korteks, vücudumuzdan gelen dokunma, basınç, sıcaklık ve ağrı gibi duyusal bilgileri işleyen beyin bölgesidir. Parietal lobda yer alan bu alan, sensory homunculus adı verilen çarpıtılmış bir beden haritasına ev sahipliği yapar. Bu haritada ellerimiz ve dudaklarımız gibi hassas bölgeler çok daha geniş bir nörolojik alan kaplar. Nöroloji ve biyopsikoloji temelli bu mekanizmalar, çevremizi nasıl algıladığımızın biyolojik temelini oluşturur.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Somatosensoriyel Korteks Nedir?",
+      "body": "Beynimizin dokunma, ağrı ve sıcaklık sinyallerini işleyen merkezidir.",
+      "highlight_box": "Duyusal algının merkezi.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Sensory Homunculus Haritası",
+      "body": "Beynimizdeki beden haritası, vücudumuzun oranlarına değil hassasiyetine göre şekillenir.",
+      "highlight_box": "Hassas bölgeler daha çok yer kaplar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Primer Somatosensoriyel Korteks",
+      "body": "Temel dokunma, doku, şekil ve vücut pozisyonu bilgilerinin ilk ulaştığı alandır.",
+      "highlight_box": "Brodmann alanları 1, 2, 3.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Sekonder Somatosensoriyel Korteks",
+      "body": "Nesneleri dokunarak tanıma ve duyusal anıları saklama süreçlerini yönetir.",
+      "highlight_box": "Duygusal anlamlandırma.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kontralateral İşleme",
+      "body": "Beynin sol yarım küresi vücudun sağ tarafını, sağ yarım küresi ise sol tarafını işler.",
+      "highlight_box": "Çapraz sinir ağı.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Beden ve Zihin Bağlantısı",
+      "body": "Beynimiz sadece dünyayı hissetmez, geçmiş deneyimlerle bu hisleri anlamlandırır.",
+      "highlight_box": "Bilimsel okumalar için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Beyninizin içinde ellerinizin gerçekte olduğundan çok daha büyük göründüğünü biliyor musunuz?",
+    "konusma_metni": "Somatosensoriyel korteks, vücudumuzdan gelen dokunma ve ağrı sinyallerini işler. Beynimizdeki duyusal harita olan sensory homunculus, hassas bölgelere daha çok yer ayırır. Bu da biyolojik olarak dünyayı algılama biçimimizi doğrudan şekillendirir."
+  },
+  "caption": "Somatosensoriyel korteks ve beyindeki duyusal harita mekanizması, biyolojik algımızın temelini oluşturur. #nöroloji #biyopsikoloji #beyin #duyu #bilimselpsikoloji #farkındalık #zihin",
+  "processed_at": "2026-09-26 16:59:53"
+}

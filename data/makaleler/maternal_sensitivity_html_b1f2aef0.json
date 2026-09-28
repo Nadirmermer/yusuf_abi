@@ -1,0 +1,157 @@
+{
+  "id": "maternal_sensitivity_html_b1f2aef0",
+  "url": "https://www.simplypsychology.org/maternal-sensitivity.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Maternal Sensitivity & Child Attachment Security: A Meta-Analysis",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2025-11-12T09:44:50+00:00",
+  "date_modified": null,
+  "read_time_minutes": 9,
+  "word_count": 1775,
+  "summary": "News»Clinical Psychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "News»Clinical Psychology\n\nSensitive responsiveness of caregiversrefers to a caregiver’s ability to accurately perceive, interpret, and promptly respond to a child’s signals and needs appropriately. It involves being attuned to the child’s emotional state, providing comfort when needed, and supporting their exploration and autonomy. This caregiving behavior is crucial for fosteringsecure attachment relationships.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Points",
+      "content": "- The primary methods of thismeta-analysisincluded a comprehensive literature search, coding of study characteristics and effect sizes, and multilevel random-effects meta-analytic models to examine associations between caregiver sensitivity and child attachment security.\n\n- Factors like type of attachment measure, reliability of attachment coding, type of sensitivity measure, duration of sensitivity observation, and time between sensitivity and attachment assessments significantly affected the strength of associations between sensitivity and attachment security.\n\n- For fathers specifically, child age and paternal age moderated associations, with stronger effects for older children and fathers.\n\n- The research, while extensive, has certain limitations such as a lack of diverse samples beyond North America and Europe and few studies on fathers compared to mothers.\n\n- This meta-analysis provides critical insights into the universal importance of caregiver sensitivity for promoting secure child-caregiver attachments across diverse populations and family structures.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Rationale",
+      "content": "This meta-analysis aimed to comprehensively synthesize over 50 years of research on associations between caregiver sensitivity and child attachment security.\n\nPrevious meta-analyses on this topic have been limited in scope or sample size (De Wolff & Van IJzendoorn, 1997; Lucassen et al., 2011; Zeegers et al., 2017).\n\nWith the growth of attachment research across diverse populations and family structures in recent decades, an updated synthesis was needed to elucidate when and for whom sensitivity most strongly predicts attachment.\n\nSpecifically, this study sought to address three key gaps in the literature:\n\n- Directly compare effect sizes for maternal versus paternal sensitivity in predicting child attachment security. Previous meta-analyses suggested stronger effects for mothers, but were conducted decades apart with different inclusion criteria.\n\n- Identify moderators that may explain heterogeneity in effect sizes across studies, as few consistent moderators have been identified in past meta-analyses.\n\n- Examine associations between sensitivity and specific insecure attachment classifications (avoidant, resistant, disorganized), which are often combined in research despite potentially distinct antecedents.\n\nBy addressing these gaps, this meta-analysis aimed to provide an authoritative update on the role of caregiver sensitivity in attachment formation to inform theory, research, and clinical practice.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Method",
+      "content": "The authors conducted acomprehensive literaturesearch as part of a larger project called the Child Attachment Studies Catalogue and Data Exchange (CASCADE).\n\nElectronic databases searched included PsycInfo, MEDLINE, Embase, and Dissertation Abstracts International for published and unpublished studies from 1967 to August 2020.\n\nSearch terms included variations of “strange situation” and “attachment.” The authors also reviewed reference lists of relevant meta-analyses and included studies.\n\nThe search identified 29,980 unique records. After screening, 2,378 studies were included in CASCADE.\n\n- An observational measure of caregiver sensitivity\n\n- An observational measure of child attachment\n\n- Sufficient statistics to extract an effect size\n\n- Sensitivity was measured after attachment\n\n- Associations were assessed following an intervention (without baseline data)\n\n- The sample overlapped with another included study\n\nThe final sample included 181 studies with 238 effect sizes.\n\nThe authors adhered to PRISMA guidelines and provided a flow diagram of the study selection process.\n\nThe authors used multilevel random-effects meta-analytic models to account for dependencies between multiple effect sizes from the same study.\n\nThey used the robumeta package in R and set the assumed correlation between effect sizes within studies to ρ = .80.\n\nEffect sizeswere converted to Fisher’s z and then back to correlations for reporting. Heterogeneity was assessed using τ2 and I2 statistics. Publication bias was evaluated using funnel plots, Egger’s test, and p-curve analyses.\n\nModerator analyses were conducted using meta-regressions, first at the univariate level and then in multivariate models for significant moderators. Categorical moderators were only tested with sufficient degrees of freedom (df > 4).",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Main Effects:",
+      "content": "Across all caregivers (k = 174 studies, 230 effect sizes, N = 22,914), the pooled correlation between sensitivity and attachment security was r = .25 (95% CI [.22, .28]).\n\n- For mothers only (k = 159, 202 effect sizes, N = 21,483), r = .26 (95% CI [.22, .29]).\n\n- For fathers only (k = 22, 23 effect sizes, N = 1,626), r = .21 (95% CI [.14, .27]).",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Moderator Analyses:",
+      "content": "The difference between mother and father effect sizes was not statistically significant.\n\n- Attachment measure (larger effects for AQS vs. Strange Situation)\n\n- Sensitivity measure (larger effects for MBQS vs. other measures)\n\n- Reliability of attachment coding (larger effects for excellent/adequate vs. poor reliability)\n\n- Duration of sensitivity observation (larger effects for longer observations)\n\n- Time between assessments (smaller effects with longer intervals)\n\n- Child age (larger effects for older children)\n\n- Father age (larger effects for older fathers)",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Insecure Attachment Subtypes:",
+      "content": "Maternal sensitivity was negatively associated with:\n\n- Avoidant attachment: r = -.24 (k = 35, N = 4,798)\n\n- Resistant attachment: r = -.14 (k = 36, N = 4,838)\n\n- Disorganized attachment: r = -.22 (k = 23, N = 3,799)\n\nEffect sizes did not significantly differ between insecure subtypes.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Insight",
+      "content": "This meta-analysis provides the most comprehensive synthesis to date on associations betweencaregiver sensitivityand child attachment security.\n\nThe overall effect size (r = .25) was remarkably consistent with previous meta-analyses, despite a much larger and more diverse sample.\n\nThis speaks to the robustness of sensitivity as a key determinant of attachment across diverse populations and study methodologies.\n\nA key finding was the lack of significant difference between maternal and paternal sensitivity effect sizes. This contrasts with earlier meta-analyses suggesting stronger effects for mothers, likely reflecting societal shifts in father involvement and more recent high-quality studies on fathers.\n\nIt highlights the importance of sensitive caregiving from both parents for promoting secure attachments.\n\nThe identification of several methodological moderators (e.g., type/reliability of measures, observation length) provides valuable guidance for future attachment research.\n\nIt suggests the need for standardized, high-quality measures and procedures to accurately capture sensitivity-attachment links.\n\nFor fathers specifically, the moderating effects of child and father age suggest sensitivity may become increasingly influential as children develop and fathers gain caregiving experience. This aligns with research on increasing father involvement across early childhood.\n\nThe similar effect sizes foravoidant,resistant, anddisorganized attachmentchallenge theoretical notions of distinct caregiving antecedents for these subtypes.\n\nHowever, the authors note this may reflect limitations in statistical power or the measures used, rather than true equivalence.\n\nFuture research should:\n\n- Include more diverse samples beyond North America/Europe\n\n- Examine multiple dimensions of parenting beyond sensitivity\n\n- Consider reciprocal influences between child attachment and parental sensitivity\n\n- Develop clinical measures of sensitivity for practice settings",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Strengths",
+      "content": "The study had many methodological strengths including:\n\n- Comprehensive literature search spanning over 50 years\n\n- Large sample size (181 studies, 22,914 participants)\n\n- Inclusion of unpublished studies to mitigate publication bias\n\n- Multilevel meta-analytic models to account for dependencies\n\n- Examination of multiple potential moderators\n\n- Separate analyses for mothers and fathers\n\n- Analysis of associations with specific insecure attachment subtypes\n\n- Rigorous assessment of publication bias and p-hacking",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Limitations",
+      "content": "- Geographical restrictions: 87% of studies from North America/Europe\n\n- Demographic limitations: Samples predominantly White, middle-class\n\n- Few studies on fathers (7% of total sample) compared to mothers\n\n- Correlational nature of data precludes causal conclusions\n\n- Potential language bias from English-language search strategy\n\n- Reliance on study-level moderators rather than individual participant data\n\n- Inability to test some moderators for fathers due to limited studies",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Clinical Implications",
+      "content": "The results have significant real-world implications for understanding and promoting healthy child development. They confirm sensitive caregiving as a critical target for parenting interventions aiming to foster secure attachments.\n\nThe similar effect sizes for mothers and fathers suggest both parents play important roles in attachment formation. This supports policies promoting father involvement in early childcare, such as parental leave.\n\nThe moderating effects of methodological factors highlight the need for high-quality, standardized measures in both research and clinical practice. Developing brief, valid sensitivity assessments for community settings could improve early identification of at-risk dyads.\n\nFor clinicians, the results reinforce the importance of supporting sensitive parenting behaviors across diverse family structures. They also suggest potential benefits of targeting both mothers and fathers in attachment-based interventions.\n\nThe lack of clear distinctions between insecure subtypes indicates a need for further research on their unique antecedents and sequelae. This could inform more tailored intervention approaches for different attachment patterns.\n\nOverall, this meta-analysis provides strong evidence for the universal importance of caregiver sensitivity in promoting secure attachments and healthy child development.\n\nIt highlights promising directions for future research, practice, and policy to support positive caregiver-child relationships across diverse populations.\n\nMcLeod, S. (2025). Maternal Sensitivity & Child Attachment Security: A Meta-Analysis. Simply Psychology. https://www.simplypsychology.org/news/maternal-sensitivity/\n\nMcLeod, Saul. \"Maternal Sensitivity & Child Attachment Security: A Meta-Analysis.\" Simply Psychology, 12 November 2025, https://www.simplypsychology.org/news/maternal-sensitivity/.\n\nMcLeod, S. (2025) Maternal Sensitivity & Child Attachment Security: A Meta-Analysis. Simply Psychology. Available at: https://www.simplypsychology.org/news/maternal-sensitivity/ (Accessed: 22 September 2026).",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Primary reference",
+      "content": "Madigan, S., Deneault, A.-A., Duschinsky, R., Bakermans-Kranenburg, M. J., Schuengel, C., van IJzendoorn, M. H., Ly, A., Fearon, R. M. P., Eirich, R., & Verhage, M. L. (2024). Maternal and paternal sensitivity: Key determinants of child attachment security examined through meta-analysis.Psychological Bulletin, 150(7), 839–872.https://doi.org/10.1037/bul0000433",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Other references",
+      "content": "De Wolff, M. S., & Van IJzendoorn, M. H. (1997). Sensitivity and attachment: A meta-analysis on parental antecedents of infant attachment.Child Development, 68(4), 571-591.\n\nLucassen, N., Tharner, A., Van IJzendoorn, M. H., Bakermans-Kranenburg, M. J., Volling, B. L., Verhulst, F. C., Lambregtse-Van den Berg, M. P., & Tiemeier, H. (2011). The association between paternal sensitivity and infant–father attachment security: A meta-analysis of three decades of research.Journal of Family Psychology, 25(6), 986-992.\n\nZeegers, M. A. J., Colonnesi, C., Stams, G. J. M., & Meins, E. (2017). Mind matters: A meta-analysis on parental mentalization and sensitivity as predictors of infant–parent attachment.Psychological Bulletin, 143(12), 1245-1272.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 13,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Prosociality-attachment.jpeg",
+      "alt": "Maternal Sensitivity & Child Attachment Security: A Meta-Analysis",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/creative-child-and-parent-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/future-anxiety-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-anxiety-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/disclosing-diagnosis-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mindfulness-yogi-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-media-harm-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Maternal Sensitivity & Child Attachment Security: A Meta-Analysis\n\n> News»Clinical Psychology\n\n## Giriş\n\nNews»Clinical Psychology\n\nSensitive responsiveness of caregiversrefers to a caregiver’s ability to accurately perceive, interpret, and promptly respond to a child’s signals and needs appropriately. It involves being attuned to the child’s emotional state, providing comfort when needed, and supporting their exploration and autonomy. This caregiving behavior is crucial for fosteringsecure attachment relationships.\n\n## Key Points\n\n- The primary methods of thismeta-analysisincluded a comprehensive literature search, coding of study characteristics and effect sizes, and multilevel random-effects meta-analytic models to examine associations between caregiver sensitivity and child attachment security.\n\n- Factors like type of attachment measure, reliability of attachment coding, type of sensitivity measure, duration of sensitivity observation, and time between sensitivity and attachment assessments significantly affected the strength of associations between sensitivity and attachment security.\n\n- For fathers specifically, child age and paternal age moderated associations, with stronger effects for older children and fathers.\n\n- The research, while extensive, has certain limitations such as a lack of diverse samples beyond North America and Europe and few studies on fathers compared to mothers.\n\n- This meta-analysis provides critical insights into the universal importance of caregiver sensitivity for promoting secure child-caregiver attachments across diverse populations and family structures.\n\n## Rationale\n\nThis meta-analysis aimed to comprehensively synthesize over 50 years of research on associations between caregiver sensitivity and child attachment security.\n\nPrevious meta-analyses on this topic have been limited in scope or sample size (De Wolff & Van IJzendoorn, 1997; Lucassen et al., 2011; Zeegers et al., 2017).\n\nWith the growth of attachment research across diverse populations and family structures in recent decades, an updated synthesis was needed to elucidate when and for whom sensitivity most strongly predicts attachment.\n\nSpecifically, this study sought to address three key gaps in the literature:\n\n- Directly compare effect sizes for maternal versus paternal sensitivity in predicting child attachment security. Previous meta-analyses suggested stronger effects for mothers, but were conducted decades apart with different inclusion criteria.\n\n- Identify moderators that may explain heterogeneity in effect sizes across studies, as few consistent moderators have been identified in past meta-analyses.\n\n- Examine associations between sensitivity and specific insecure attachment classifications (avoidant, resistant, disorganized), which are often combined in research despite potentially distinct antecedents.\n\nBy addressing these gaps, this meta-analysis aimed to provide an authoritative update on the role of caregiver sensitivity in attachment formation to inform theory, research, and clinical practice.\n\n## Method\n\nThe authors conducted acomprehensive literaturesearch as part of a larger project called the Child Attachment Studies Catalogue and Data Exchange (CASCADE).\n\nElectronic databases searched included PsycInfo, MEDLINE, Embase, and Dissertation Abstracts International for published and unpublished studies from 1967 to August 2020.\n\nSearch terms included variations of “strange situation” and “attachment.” The authors also reviewed reference lists of relevant meta-analyses and included studies.\n\nThe search identified 29,980 unique records. After screening, 2,378 studies were included in CASCADE.\n\n- An observational measure of caregiver sensitivity\n\n- An observational measure of child attachment\n\n- Sufficient statistics to extract an effect size\n\n- Sensitivity was measured after attachment\n\n- Associations were assessed following an intervention (without baseline data)\n\n- The sample overlapped with another included study\n\nThe final sample included 181 studies with 238 effect sizes.\n\nThe authors adhered to PRISMA guidelines and provided a flow diagram of the study selection process.\n\nThe authors used multilevel random-effects meta-analytic models to account for dependencies between multiple effect sizes from the same study.\n\nThey used the robumeta package in R and set the assumed correlation between effect sizes within studies to ρ = .80.\n\nEffect sizeswere converted to Fisher’s z and then back to correlations for reporting. Heterogeneity was assessed using τ2 and I2 statistics. Publication bias was evaluated using funnel plots, Egger’s test, and p-curve analyses.\n\nModerator analyses were conducted using meta-regressions, first at the univariate level and then in multivariate models for significant moderators. Categorical moderators were only tested with sufficient degrees of freedom (df > 4).\n\n## Main Effects:\n\nAcross all caregivers (k = 174 studies, 230 effect sizes, N = 22,914), the pooled correlation between sensitivity and attachment security was r = .25 (95% CI [.22, .28]).\n\n- For mothers only (k = 159, 202 effect sizes, N = 21,483), r = .26 (95% CI [.22, .29]).\n\n- For fathers only (k = 22, 23 effect sizes, N = 1,626), r = .21 (95% CI [.14, .27]).\n\n## Moderator Analyses:\n\nThe difference between mother and father effect sizes was not statistically significant.\n\n- Attachment measure (larger effects for AQS vs. Strange Situation)\n\n- Sensitivity measure (larger effects for MBQS vs. other measures)\n\n- Reliability of attachment coding (larger effects for excellent/adequate vs. poor reliability)\n\n- Duration of sensitivity observation (larger effects for longer observations)\n\n- Time between assessments (smaller effects with longer intervals)\n\n- Child age (larger effects for older children)\n\n- Father age (larger effects for older fathers)\n\n## Insecure Attachment Subtypes:\n\nMaternal sensitivity was negatively associated with:\n\n- Avoidant attachment: r = -.24 (k = 35, N = 4,798)\n\n- Resistant attachment: r = -.14 (k = 36, N = 4,838)\n\n- Disorganized attachment: r = -.22 (k = 23, N = 3,799)\n\nEffect sizes did not significantly differ between insecure subtypes.\n\n## Insight\n\nThis meta-analysis provides the most comprehensive synthesis to date on associations betweencaregiver sensitivityand child attachment security.\n\nThe overall effect size (r = .25) was remarkably consistent with previous meta-analyses, despite a much larger and more diverse sample.\n\nThis speaks to the robustness of sensitivity as a key determinant of attachment across diverse populations and study methodologies.\n\nA key finding was the lack of significant difference between maternal and paternal sensitivity effect sizes. This contrasts with earlier meta-analyses suggesting stronger effects for mothers, likely reflecting societal shifts in father involvement and more recent high-quality studies on fathers.\n\nIt highlights the importance of sensitive caregiving from both parents for promoting secure attachments.\n\nThe identification of several methodological moderators (e.g., type/reliability of measures, observation length) provides valuable guidance for future attachment research.\n\nIt suggests the need for standardized, high-quality measures and procedures to accurately capture sensitivity-attachment links.\n\nFor fathers specifically, the moderating effects of child and father age suggest sensitivity may become increasingly influential as children develop and fathers gain caregiving experience. This aligns with research on increasing father involvement across early childhood.\n\nThe similar effect sizes foravoidant,resistant, anddisorganized attachmentchallenge theoretical notions of distinct caregiving antecedents for these subtypes.\n\nHowever, the authors note this may reflect limitations in statistical power or the measures used, rather than true equivalence.\n\nFuture research should:\n\n- Include more diverse samples beyond North America/Europe\n\n- Examine multiple dimensions of parenting beyond sensitivity\n\n- Consider reciprocal influences between child attachment and parental sensitivity\n\n- Develop clinical measures of sensitivity for practice settings\n\n## Strengths\n\nThe study had many methodological strengths including:\n\n- Comprehensive literature search spanning over 50 years\n\n- Large sample size (181 studies, 22,914 participants)\n\n- Inclusion of unpublished studies to mitigate publication bias\n\n- Multilevel meta-analytic models to account for dependencies\n\n- Examination of multiple potential moderators\n\n- Separate analyses for mothers and fathers\n\n- Analysis of associations with specific insecure attachment subtypes\n\n- Rigorous assessment of publication bias and p-hacking\n\n## Limitations\n\n- Geographical restrictions: 87% of studies from North America/Europe\n\n- Demographic limitations: Samples predominantly White, middle-class\n\n- Few studies on fathers (7% of total sample) compared to mothers\n\n- Correlational nature of data precludes causal conclusions\n\n- Potential language bias from English-language search strategy\n\n- Reliance on study-level moderators rather than individual participant data\n\n- Inability to test some moderators for fathers due to limited studies\n\n## Clinical Implications\n\nThe results have significant real-world implications for understanding and promoting healthy child development. They confirm sensitive caregiving as a critical target for parenting interventions aiming to foster secure attachments.\n\nThe similar effect sizes for mothers and fathers suggest both parents play important roles in attachment formation. This supports policies promoting father involvement in early childcare, such as parental leave.\n\nThe moderating effects of methodological factors highlight the need for high-quality, standardized measures in both research and clinical practice. Developing brief, valid sensitivity assessments for community settings could improve early identification of at-risk dyads.\n\nFor clinicians, the results reinforce the importance of supporting sensitive parenting behaviors across diverse family structures. They also suggest potential benefits of targeting both mothers and fathers in attachment-based interventions.\n\nThe lack of clear distinctions between insecure subtypes indicates a need for further research on their unique antecedents and sequelae. This could inform more tailored intervention approaches for different attachment patterns.\n\nOverall, this meta-analysis provides strong evidence for the universal importance of caregiver sensitivity in promoting secure attachments and healthy child development.\n\nIt highlights promising directions for future research, practice, and policy to support positive caregiver-child relationships across diverse populations.\n\nMcLeod, S. (2025). Maternal Sensitivity & Child Attachment Security: A Meta-Analysis. Simply Psychology. https://www.simplypsychology.org/news/maternal-sensitivity/\n\nMcLeod, Saul. \"Maternal Sensitivity & Child Attachment Security: A Meta-Analysis.\" Simply Psychology, 12 November 2025, https://www.simplypsychology.org/news/maternal-sensitivity/.\n\nMcLeod, S. (2025) Maternal Sensitivity & Child Attachment Security: A Meta-Analysis. Simply Psychology. Available at: https://www.simplypsychology.org/news/maternal-sensitivity/ (Accessed: 22 September 2026).\n\n## Primary reference\n\nMadigan, S., Deneault, A.-A., Duschinsky, R., Bakermans-Kranenburg, M. J., Schuengel, C., van IJzendoorn, M. H., Ly, A., Fearon, R. M. P., Eirich, R., & Verhage, M. L. (2024). Maternal and paternal sensitivity: Key determinants of child attachment security examined through meta-analysis.Psychological Bulletin, 150(7), 839–872.https://doi.org/10.1037/bul0000433\n\n## Other references\n\nDe Wolff, M. S., & Van IJzendoorn, M. H. (1997). Sensitivity and attachment: A meta-analysis on parental antecedents of infant attachment.Child Development, 68(4), 571-591.\n\nLucassen, N., Tharner, A., Van IJzendoorn, M. H., Bakermans-Kranenburg, M. J., Volling, B. L., Verhulst, F. C., Lambregtse-Van den Berg, M. P., & Tiemeier, H. (2011). The association between paternal sensitivity and infant–father attachment security: A meta-analysis of three decades of research.Journal of Family Psychology, 25(6), 986-992.\n\nZeegers, M. A. J., Colonnesi, C., Stams, G. J. M., & Meins, E. (2017). Mind matters: A meta-analysis on parental mentalization and sensitivity as predictors of infant–parent attachment.Psychological Bulletin, 143(12), 1245-1272.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:22:39.231720"
+}

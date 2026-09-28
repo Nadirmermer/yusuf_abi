@@ -1,0 +1,103 @@
+{
+  "id": "when_healing_enters_a_space_built_for_co_60d6bb2c",
+  "original_title": "When Healing Enters a Space Built for Control",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/emotional-origins-of-violence/202601/when-healing-enters-a-space-built-for-control",
+  "published_date": "2026-01-07T14:53:22-05:00",
+  "read_time_minutes": 1,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-01/pexels-rdne-6069522.jpg?h=b0955f85&itok=RaYHpcEp",
+      "alt": "When Healing Enters a Space Built for Control",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/siegcas.png.jpg?itok=luT8r_h1",
+      "alt": "Sigifredo Castell Britton Ph.D.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-01/pexels-rdne-6069522.jpg?itok=-ZLkwZz5",
+      "alt": "RDNE Stock Project/Pexels",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/caihuuthanh-beautiful-6126170.jpg?itok=AmGa0yHN",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/9_11_mental_health.jpg?itok=WI-qA-4l",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 27,
+  "turkce_baslik": "Kontrol Üzerine Kurulmuş Düzenlerde İyileşme Mümkün mü?",
+  "kanca_sorusu": "Sizi kontrol etmek için tasarlanmış bir sistemin içinde, kendi içinizde iyileşmeyi nasıl başarabilirsiniz?",
+  "score": 45,
+  "puan_nedeni": "Makale kurumsal ve düzelttiği sistemler (correctional environments) bağlamında ele alındığı için bireysel takipçinin doğrudan günlük ilişkisel dinamiklerine tam oturmamaktadır. Ancak kontrol ve iyileşme ekseni, toksik ilişkiler ve manipülasyon temalarıyla dolaylı bir bağ kurabildiği için orta-düşük bir puan almıştır.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "İnsan psikolojisi, katı kurallar ve sürekli denetim altında tutulan ortamlarda hayatta kalmaya çalışırken kendi öz benliğinden uzaklaşır. Kontrol odaklı yapılar, bireyin hata yapma lüksünü elinden alır ve onu sürekli bir tetikte olma haline mahkum eder. Böyle bir sistemin içine iyileşme çabası girdiğinde, ilk direnç her zaman sistemin kendisinden gelir. Çünkü kontrol, değişimi ve dönüşümü bir tehdit olarak algılar. İyileşmek ise her şeyden önce bu dışsal denetim mekanizmalarını içsel sesimizden ayırmayı ve kendi sınırlarımızı yeniden çizmeyi gerektirir. Bu süreç kolay değildir; çünkü güvenlik kisvesi altında sunulan kontrol, bireyin kendi sorumluluğunu almasını engeller.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Kontrol ve İyileşme",
+      "body": "Sürekli denetlenen ve kurallarla çevrili bir alanda kendi iç sesinizi duyabilmek neredeyse imkansızlaşır.",
+      "highlight_box": "Kontrolün olduğu yerde güven değil, tetikte olma hali vardır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Sistemin Direnci",
+      "body": "Kurumsal ya da ilişki bazlı kontrol mekanizmaları, içsel iyileşme girişimlerini bir tehdit olarak algılar.",
+      "highlight_box": "Değişim, kontrolü elinde tutanı rahatsız eder.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Sürekli Suçluluk Hissi",
+      "body": "Kontrol odaklı yapılarda birey, her olumsuzluktan kendisini sorumlu tutmaya başlar.",
+      "highlight_box": "Kendi doğrularınızdan şüphe duymaya başlarsınız.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Özgürlük Alanının Daralması",
+      "body": "Atılacak her adımın başkalarının onayından geçmesi gerektiği inancı, bireyi içsel olarak felç eder.",
+      "highlight_box": "Kendi kararlarınızı alma beceriniz körelir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Sınırları Yeniden Çizmek",
+      "body": "İyileşme, dışsal kontrolü kabul etmek değil, kendi içsel otoritenizi yeniden ilan etmenizle başlar.",
+      "highlight_box": "Sorumluluğu ait olduğu yere geri verin.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış",
+      "body": "Sizi kontrol eden koşullar ne olursa olsun, kendi iç dünyanızdaki iyileşme alanı yalnızca size aittir.",
+      "highlight_box": "Bu yazıyı, kontrolü bırakıp kendine yönelmek isteyenlerle paylaşın.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Sizi kontrol altında tutan bir yapının içinde iyileşmeye çalışmak neden bu kadar zordur?",
+    "konusma_metni": "Hayatınızdaki kontrol odaklı dinamikler, değişim çabanızı her defasında sekteye uğratabilir. Çünkü kontrol, esnekliği ve dolayısıyla iyileşmeyi kabul etmez. Eğer sürekli denetlendiğinizi ve onaylanmadığınızı hissediyorsanız, odaklanmanız gereken dış dünya değil, o sistemin içerisindeki kendi sınırlarımızdır."
+  },
+  "caption": "Kontrol odaklı sistemler ve ilişkiler, bireyin iyileşme potansiyelini baskı altına alır. Dışarıdan dayatılan kurallar ve sürekli denetim hissi, kişinin kendi içsel sorumluluğunu almasını zorlaştırır. Ancak gerçek dönüşüm, bu kontrol mekanizmalarına boyun eğmekle değil, kişinin kendi sınırlarını ve içsel otoritesini yeniden inşa etmesiyle mümkündür. \n\n#psikoloji #iyileşme #travma #kontrol #sınırlar #kişiselgelişim #ya_da_psikoloji",
+  "processed_at": "2026-09-28 02:33:15"
+}

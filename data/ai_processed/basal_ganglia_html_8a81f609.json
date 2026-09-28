@@ -1,0 +1,145 @@
+{
+  "id": "basal_ganglia_html_8a81f609",
+  "original_title": "Basal Ganglia",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/basal-ganglia.html",
+  "published_date": "2026-09-17T10:54:57+00:00",
+  "read_time_minutes": 19,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/basal-ganglia-1.jpg",
+      "alt": "Basal Ganglia",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Basal-Ganglia-Structure.jpg",
+      "alt": "Basal Ganglia Structure",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Dopamine-300x233.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brodmanns-areas-300x169.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Motor-Cortex-300x174.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/nucleus-accumbens-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitter-formulas-300x152.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Basal-Ganglia-2.jpg",
+      "alt": "Basal Ganglia 2",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Basal-Ganglia-Location.jpg",
+      "alt": "Basal Ganglia Location",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3876,
+  "turkce_baslik": "Beynin Trafik Polisi: Hareketsizliğin ve Alışkanlıkların Arkasındaki Nörolojik Gerçeklik",
+  "kanca_sorusu": "İstemediğiniz halde tekrarladığınız o alışkanlıklar veya içsel durduramadığınız dürtüler nereden doğuyor?",
+  "score": 45,
+  "puan_nedeni": "Metin temel olarak nöroloji, beyin yapıları ve bazal gangliya anatomisini ele almaktadır. Doğrudan ilişkisel dinamikler, bağlanma stilleri veya psikolojik savunma mekanizmaları içermediği, daha çok biyopsikolojik bir mekanizmayı anlattığı için klinik olarak düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Bazal gangliya, beynin derinliklerinde yer alan ve yalnızca fiziksel hareketlerimizi değil, aynı zamanda günlük alışkanlıklarımızı, motivasyonumuzu ve dürtülerimizi yöneten karmaşık bir yapıdır. Tıpkı bir kavşaktaki trafik ışıkları gibi, hangi düşüncenin ya da davranışın geçmesine izin verileceğini, hangisinin durdurulacağını filtreden geçirir. Günlük hayatta irade zayıflığı olarak adlandırdığımız pek çok durumun, aslında bu derin nörolojik devrelerin ve dopamin dengesinin bir yansıması olduğunu görmek mümkündür. İnsan davranışı, sadece bilinçli kararlardan ibaret değildir; beynin alt katmanlarında sessizce işleyen bu mekanizmalar, verdiğimiz tepkilerin ve tekrarladığımız döngülerin temel mimarıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Beynin Görünmeyen Trafik Polisi",
+      "body": "Zihnimizin derinliklerinde işleyen mekanizmalar, günlük davranışlarımızı ve alışkanlıklarımızı nasıl sessizce yönetiyor?",
+      "highlight_box": "Her eylemin ardında görünmeyen bir süzgeç vardır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "İrade mi, Nörolojik Filtre mi?",
+      "body": "Sürekli tekrarladığımız döngüler ve durduramadığımız dürtüler, beynin karar merkezlerinin çalışma biçimiyle doğrudan ilişkilidir.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Giriş İstasyonu: Striatum",
+      "body": "Beyne gelen tüm uyaranlar ve hareket sinyalleri önce bu süzgeçten geçer. Alışkanlıklar burada kalıcı hale gelir.",
+      "highlight_box": "Alışkanlıkların kodlandığı yer.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Fren Mekanizması",
+      "body": "Beyin sadece eylemi başlatmaz; aynı zamanda yanlış zamanda gelen tepkileri frenlemek için sürekli bir baskı uygular.",
+      "highlight_box": "Durabilmek de en az hareket etmek kadar karmaşıktır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Döngüleri Fark Etmek",
+      "body": "Otomatik pilotta gerçekleşen davranışları değiştirmek, beynin bu otomatik filtreleme sistemine bilinçli farkındalık katmakla başlar.",
+      "highlight_box": "Unutmayın: Bu bir farkındalık sürecidir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Her istemsiz tekrar ve alışkanlık, biyolojik bir altyapıya sahiptir. Kendinizi suçlamak yerine sistemi anlamaya odaklanın.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "İstediğiniz halde bazı alışkanlıklarınızı neden bir türlü bırakamadığınızı biliyor musunuz?",
+    "konusma_metni": "Beynimiz, tıpkı yoğun bir kavşaktaki trafik lambaları gibi hangi davranışı yapıp hangisini durduracağına karar veren derin yapılara sahiptir. Bazal gangliya adı verilen bu yapılar, sadece fiziksel hareketlerimizi değil, aynı zamanda tekrarlayan alışkanlıklarımızı ve dürtülerimizi yönetir. İrade gösteremediğinizi düşündüğünüz o anlar, aslında beynin bu derin devrelerindeki sinyal filtreleme mekanizmasıyla ilgilidir. Davranışlarımızın kökenini anlamak, döngüleri kırmanın ilk adımıdır."
+  },
+  "caption": "İnsan davranışının derin katmanları, sadece soyut kavramlardan ibaret değil, beynin mimari yapısıyla doğrudan ilişkilidir. Alışkanlıkların, dürtülerin ve otomatik tepkilerin ardındaki nörolojik mekanizmayı anlamak, kendi döngülerimize dışarıdan bakmamızı sağlar. Bu içeriği faydalı bulduysanız ilgili kişilere gönderebilir ve daha sonra incelemek üzere kayfedebilirsiniz.\n\n#noropsikoloji #davranışbilimleri #alışkanlıklar #beyinbilimi #farkındalık #nöroloji #yaşamdöngüsü",
+  "processed_at": "2026-09-26 17:08:35"
+}

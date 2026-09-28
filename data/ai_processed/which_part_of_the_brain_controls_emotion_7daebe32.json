@@ -1,0 +1,133 @@
+{
+  "id": "which_part_of_the_brain_controls_emotion_7daebe32",
+  "original_title": "Brain & Emotions",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/which-part-of-the-brain-controls-emotions.html",
+  "published_date": "2026-09-21T18:19:31+00:00",
+  "read_time_minutes": 13,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotions-brain.jpg",
+      "alt": "Brain & Emotions",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sympathetic-vs-parasympathetic-nervous-system-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-1-300x186.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cingulate-cortex-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/basal-ganglia-1-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/limbic-system.jpg",
+      "alt": "limbic system",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2693,
+  "turkce_baslik": "Beynimizin Duygusal Savaşları: Amigdala, Prefrontal Korteks ve İçsel Tepkilerimiz",
+  "kanca_sorusu": "Neden bazı olaylar karşısında mantıklı düşünmek yerine aniden savaş ya da kaç moduna geçiyorsunuz?",
+  "score": 45,
+  "puan_nedeni": "Metin nörobiyolojik ve biyopsikolojik temelli yapıya sahip olduğu, doğrudan ilişkisel dinamikler veya bağlanma örüntüleri yerine beyin anatomisi (amigdala, hipokampus, hipotalamus) odaklı olduğu için kuru akademik kategoriye girer ve düşük puan alır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Günlük hayatta yaşadığımız yoğun kaygıları, ani öfke patlamalarını veya derin üzüntüleri, sanki tek bir merkezden yönetiliyormuş gibi hissederiz. Oysa beyin, duyguları tek bir noktada üretmez; aksine amigdalanın tehdit algısı, hipokampusun anıları bugüne taşıması ve prefrontal korteksin bu kaosu yatıştırma çabası arasında sürekli bir müzakere yürütülür. Özellikle travmatik anılarda veya kronik kaygı durumlarında amigdalanın alarm zihni sürekli çalar ve mantıklı kararlar almamızı sağlayan ön beyin devre dışı kalır. Bu durum, kişinin neden geçmişteki bir acıyı bugünkü ilişkisinde tekrar yaşadığını ve neden mantığıyla hareket edemediğini net bir şekilde açıklar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Duyguların Tek Bir Merkezi Yoktur",
+      "body": "Zihnimizdeki fırtınalar tek bir noktadan değil, birbiriyle konuşan karmaşık bir ağdan doğar.",
+      "highlight_box": "Duygusal tepkileriniz bir tesadüf değildir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Amigdala: Alarm Zili",
+      "body": "Tehdit algılandığında amigdala hemen devreye girer ve mantığı devre dışı bırakarak hayatta kalma modunu açar.",
+      "highlight_box": "Neden ani tepkiler veriyorsunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Geçmişin Bugüne Etkisi",
+      "body": "Hipokampus, güçlü duyguları anılarla mühürler; bu yüzden eski bir yara bugün yeniden kanayabilir.",
+      "highlight_box": "Anılar sadece geçmişte kalmaz, bedende yaşar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Savaş ya da Kaç Hali",
+      "body": "Hipotalamus bedensel tepkileri tetikler; kalp atışı hızlanır, kan basıncı yükselir ve kontrol kaybedilir.",
+      "highlight_box": "Fizyolojik uyarılmışlık durumu",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Beyin Değişebilir",
+      "body": "Farkındalık ve terapi çalışmaları, amigdalanın aşırı tepkilerini yatıştırarak yeni nörolojik yollar kurabilir.",
+      "highlight_box": "Nöroplastisite umut barındırır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Dengeye Doğru",
+      "body": "Tepkilerinizi yargılamak yerine onları anlamak, iyileşmenin ilk adımıdır.",
+      "highlight_box": "Tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden en mantıklı olmanız gereken anda bir anda amigdalanız ele geçiriyor sizi?",
+    "konusma_metni": "Beynimiz duyguları tek bir merkezden yönetmez. Tehlike anında amigdala devreye girer ve mantıklı düşünmemizi sağlayan prefrontal korteksi adeta devreden çıkarır. Kalp atışınız hızlanır, kaslarınız gerilir ve savaş ya da kaç moduna girersiniz. Bu biyolojik bir tepkidir, ancak farkındalıkla bu döngüyü yavaşlatmak mümkündür."
+  },
+  "caption": "Duygularımızın zihnimizde ve bedenimizde nasıl bir ağ üzerinden yürüdüğünü anlamak, kendimize karşı daha şefkatli ve bilinçli yaklaşmamızı sağlar. Amigdala alarm verdiğinde, mantık devre dışı kalır ve eski anılar bugüne taşınır. Bu mekanizmayı fark etmek, tepkilerimizin esiri olmaktan çıkıp onları gözlemleyen bir konuma gelmemizin kapısını aralar. #beyin #nörobiyoloji #amigdala #kaygı #farkındalık #psikoloji #ya_da_psikoloji",
+  "processed_at": "2026-09-26 03:24:06"
+}

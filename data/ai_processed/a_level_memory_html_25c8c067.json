@@ -1,0 +1,151 @@
+{
+  "id": "a_level_memory_html_25c8c067",
+  "original_title": "Memory Revision Notes",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/a-level-memory.html",
+  "published_date": "2025-07-10T10:35:16+00:00",
+  "read_time_minutes": 47,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brain-memory.jpeg",
+      "alt": "Memory Revision Notes",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/a-level-psycholog-a02-240x300.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/nervous-system-1-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/approaches3-300x228.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/as-attachment-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/My-project-1-46-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/asch-experiment-300x213.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/as-multi.jpg",
+      "alt": "multi-store model of memory",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/serial-position-effect.jpg",
+      "alt": "serial position effect",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Working-Memory3.jpg",
+      "alt": "working memory",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/loftus.jpg",
+      "alt": "loftus and palmer study",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 9411,
+  "turkce_baslik": "Zihinsel Bellek Sınırlarımız: Bilgiyi Nasıl İşliyoruz, Neyi Unutuyoruz?",
+  "kanca_sorusu": "Zihniniz aynı anda hem bir konuşmayı takip edip hem de yön bulmaya çalışırken neden tıkanıyor?",
+  "score": 45,
+  "puan_nedeni": "Metin, akademik düzeyde bellek modelleri (Working Memory Model) ve bilişsel psikoloji sınav soruları içermektedir. Doğrudan kişisel ilişkiler veya duygusal dinamikler yerine teorik nöroloji ve akademik sınıflandırmalara odaklandığı için editoryal puanımız düşüktür.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, dış dünyadan gelen uyaranları işlerken doğrusal bir bilgisayar gibi çalışmaz. Bilişsel psikolojide hafıza modelleri, zihnimizin bilgiyi nasıl depoladığını, işlediğini ve bazen neden tamamen sildiğini anlamaya çalışır. Çalışma belleği modeli, zihnimizin aynı anda birden fazla bilişsel yükü nasıl yönettiğini açıklar. Ancak bu mekanizmalar dışarıdan gelen stres, travma veya aşırı bilgi yüklemesi altında kaldığında aksamaya başlar. Zihnimizin sınırlı kapasitesi, günlük hayatta aldığımız kararları ve odaklanma becerimizi doğrudan etkiler. Bu teorik altyapı, zihinsel yorgunluğumuzun ve zihinsel dağınıklığımızın arka planındaki mekanizmayı gözler önüne serer.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihinsel Sınırlarımız",
+      "body": "Bellek sadece geçmişi hatırlamak değil, anlık bilgiyi işleme ve yönetme biçimimizdir.",
+      "highlight_box": "Zihnimiz her bilgiyi aynı anda işleyemez.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Çalışma Belleği ve Yük",
+      "body": "Aynı anda hem işi düşünmek hem de bir konuşmayı takip etmek zihinsel sistemimizi zorlar.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "İşitsel ve Görsel Ayrım",
+      "body": "Zihnimiz duyduklarımız ve gördüklerimiz için ayrı işlem hatları kullanır.",
+      "highlight_box": "İki benzer işi aynı anda yapmak çatışma yaratır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Merkezi Yönetici",
+      "body": "Tüm bu akışı kontrol eden sistem, yorgunluk anında ilk aksayan kısımdır.",
+      "highlight_box": "Yoğun stres altında dikkat yönetimi zayıflar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Zihinsel Yükü Hafifletmek",
+      "body": "Aynı anda tek bir işe odaklanmak, bellek performansını ve zihinsel dinginliği artırır.",
+      "highlight_box": "Unutmayın: Zihin sınırsız bir depo değildir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış ve Hatırlatma",
+      "body": "Zihinsel kapasitenizi korumak için sınırlarınızı kabul edin ve aşırı yüklemeden kaçının.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Zihniniz aynı anda iki farklı şeyi yapmaya çalışırken neden kilitleniyor?",
+    "konusma_metni": "Günlük hayatın koşturmacasında sürekli bir şeyleri unuttuğunuzu veya kafanızın dolup taştığını hissediyorsanız, bunun sebebi zihninizin çalışma kapasitesidir. Bilgiyi işleme biçimimiz, dikkat yönetimimiz ve zihinsel süzgecimiz aslında belirli bir kapasiteye sahiptir. Bu videoda, beynin bilgiyi nasıl işlediğini ve bu sistemin stres altında neden çökebildiğini inceliyoruz."
+  },
+  "caption": "Zihnimizin bilgiyi işleme kapasitesi ve bellek sistemleri, günlük hayattaki yorgunluğumuzun ve odaklanma sorunlarımızın temelini oluşturur. Çalışma belleği modeli, aynı anda birden fazla uyaranla baş etmeye çalışırken sistemin nasıl tıkanabileceğini açıklar. Zihinsel kapasitenizi korumak ve aşırı yüklenmenin etkilerini anlamak için bu analizi inceleyebilirsiniz. Psikoloji, zihin yönetimi, bellek, bilişsel psikoloji, odaklanma, farkındalık, nöropsikoloji.",
+  "processed_at": "2026-09-26 03:10:41"
+}

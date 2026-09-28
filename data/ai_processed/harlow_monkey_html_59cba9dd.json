@@ -1,0 +1,127 @@
+{
+  "id": "harlow_monkey_html_59cba9dd",
+  "original_title": "Harry Harlow Monkey Experiments in Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/harlow-monkey.html",
+  "published_date": "2026-09-17T11:07:04+00:00",
+  "read_time_minutes": 17,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/harlow-monkey.jpg",
+      "alt": "Harry Harlow Monkey Experiments in Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/little-albert-300x209.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/strange-situation-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/privation-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cultural-differences-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hassett-2008.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bobo-doll-300x172.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3425,
+  "turkce_baslik": "Temasın İyileştirici Gücü ve Bağlanmanın Anatomisi",
+  "kanca_sorusu": "Sizi besleyen mi, yoksa zor anınızda sarılan mı güvenli limanınız oldu?",
+  "score": 40,
+  "puan_nedeni": "Metin tarihsel bir hayvan deneyini (Harry Harlow) ve klasik bağlanma teorisinin kökenlerini ele alan akademik ve deneysel bir çalışmadır. Doğrudan modern insan ilişkileri dinamiklerini veya klinik patolojileri öznel olarak incelemediği, daha çok nörobiyolojik ve tarihsel bir arka plan sunduğu için katı puanlama kriterlerimize göre düşük puan almıştır.",
+  "category": "Bağlanma & Ayrılık",
+  "editoryal_genis_metin": "Tarihsel olarak Harry Harlow'un yaptığı maymun deneyleri, insan ilişkilerindeki bağlanma dinamiklerini anlamamız için sarsıcı bir temel oluşturmuştur. Uzun süre boyunca bir bebeğin bakım verenine sadece beslendiği, yani fiziksel hayatta kalma ihtiyacını karşıladığı için bağlandığı varsayılırdı. Ancak bu deneyler, dokunma duyusunun ve temas konforunun en az beslenme kadar, hatta bazı durumlarda daha hayati bir biyolojik ihtiyaç olduğunu kanıtladı. Korku anında bireyin sığınağı araması, tehlike anında dahi reddedildiği yere tutunma eğilimi göstermesi, çocuklukta alınan yaraların yetişkinlikteki ilişkisel tercihlerimizi nasıl şekillendirdiğinin en net kanıtıdır. Güvenli bir üs bulamayan bireyler, dünyayı keşfetmek yerine sürekli bir tehdit algısıyla yaşamayı öğrenirler.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Temas ve Bağlanma",
+      "body": "İlişkilerimizde aradığımız şey sadece hayatta kalmak mı, yoksa sığınacak bir ten mi?",
+      "highlight_box": "Bağlanma beslenmeyle değil, temasla başlar.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Yanlış Bilinen Gerçek",
+      "body": "Eski teoriler bebeklerin sadece onları besleyen kişiye bağlandığını söylerdi. Ancak deneyler bunun aksini kanıtladı.",
+      "highlight_box": "Besleyen değil, sarılan güvenlidir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Güvenli Üs İhtiyacı",
+      "body": "Korku anında birey, mantıklı olana değil, fiziksel veya duygusal olarak sığınak bildiği yere kaçar.",
+      "highlight_box": "Korku, bağlanmayı zayıflatmaz, aksine artırır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Kritik Dönem Hasarları",
+      "body": "Erken yaşta mahrum bırakılan bireyler, ileride sağlıklı sosyal ilişkiler kurmakta ve sınır çizmekte zorlanırlar.",
+      "highlight_box": "Geçmişin izleri bugünkü seçimlerimizi etkiler.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "İçsel İyileşme",
+      "body": "Güvenli bir üs bulamayan yetişkinler, kendi içsel şefkat alanlarını inşa etmeyi öğrenmek zorundadır.",
+      "highlight_box": "Unutmayın: Bu bir farkındalık sürecidir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış",
+      "body": "Gerçek bağ, sizi sadece hayatta tutan değil, ruhunuzu dinlendiren temastır.",
+      "highlight_box": "Bu derinlemesine analizi kaydetmeyi unutmayın.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Sizi sadece doyuran bir insanla, gerçekten sarılan bir insan arasındaki fark nedir?",
+    "konusma_metni": "Geçmişte yapılan meşhur deneyler bize çok çarpıcı bir gerçeği gösterdi. İnsanlar sadece fiziksel ihtiyaçları karşılandığı için bağlanmazlar. Asıl aradığımız şey temas konforudur. Korktuğunuzda kaçtığınız kişi sizi doyuran mı, yoksa güven veren mi? Eğer hayatınızda güvenli bir liman yoksa, en tehditkar durumlarda bile yanlış yerlere tutunmaya devam edersiniz."
+  },
+  "caption": "İlişkilerimizde neden bazen en toksik yerlere sığınırız? Tarihsel psikoloji deneyleri, insan bağlarının temelde beslenmekten çok temas ve güvenli üs arayışına dayandığını göstermektedir. Korku anında bireyin kaçtığı yer, onun bağlanma stilinin de aynasıdır. \n\n#baglanma #psikoloji #iliskiler #cocukluk #guyenlilibaris #travma #icgoru",
+  "processed_at": "2026-09-26 17:05:51"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "gender_biology_html_6900b34b",
+  "original_title": "Biological Theories of Gender",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/gender-biology.html",
+  "published_date": "2023-06-15T15:49:16+00:00",
+  "read_time_minutes": 12,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/as-gender.jpg",
+      "alt": "Biological Theories of Gender",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/epigenetics-300x207.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/freud-in-sepia-300x210.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/continuous-vs-discontinuous-300x141.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/piaget-stages-300x163.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/kohlberg-moral-development-300x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2341,
+  "turkce_baslik": "Cinsiyetin Biyolojik Temelleri: Kromozomlar, Hormonlar ve Davranışsal Kalıplarımız",
+  "kanca_sorusu": "Davranışlarımızın ne kadarı toplumsal rollerin bir ürünü, ne kadarı biyolojimizin görünmeyen diktesi?",
+  "score": 45,
+  "puan_nedeni": "Metin, cinsiyetin biyolojik temelleri, kromozomlar, hayvan deneyleri ve hormonlar gibi genel tıp ve akademik nöroloji konularını ele almaktadır. Doğrudan ilişkisel dinamikler, bağlanma stilleri veya bireysel iç dünyayı yansıtmadığı için klinik olarak düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan davranışı ve kimliği üzerine düşünürken, doğa ve kültür arasındaki ince çizgi her zaman merak konusu olmuştur. Biyolojik yaklaşım, cinsiyetin temellerini kromozomlar ve hormonlar üzerinden açıklarken, testosteron ve östrojen gibi kimyasalların sadece bedensel gelişimi değil, beyin lateralizasyonunu ve davranışsal eğilimleri de etkilediğini öne sürmektedir. Hayvan deneyleri ve nörolojik araştırmalar, prenatal dönemdeki hormonal maruziyetin davranış kalıpları üzerinde belirleyici olabileceğini göstermektedir. Ancak bu durum, karmaşık insan psikolojisini ve toplumsal cinsiyet rollerini yalnızca biyolojiye indirgemenin yetersiz kalacağı gerçeğini değiştirmez. Biyolojik altyapı bir zemin sunarken, bireyin bu zemini nasıl yorumladığı ve toplumsal dinamiklerle nasıl harmanladığı derinlemesine incelenmeyi bekleyen bir süreçtir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Biyolojik Temeller",
+      "body": "Cinsiyetin biyolojik temelleri kromozomlar ve hormonlar etrafında şekillenir.",
+      "highlight_box": "Doğa ve biyoloji davranışlarımızı ne kadar etkiler?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Kromozomlar ve Hormonlar",
+      "body": "XX ve XY kromozom dizilimleri, rahim içindeki hormonal salgıları tetikleyerek hem fiziksel hem de nörolojik gelişimi etkiler.",
+      "highlight_box": "Testosteron ve östrojenin beyin üzerindeki rolleri",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Beyin Lateralizasyonu",
+      "body": "Araştırmalar, erkek ve kadın beyinlerinin bilgiyi işleme biçimlerinde hormonal etkiler nedeniyle farklılıklar olabileceğini göstermektedir.",
+      "highlight_box": "Sol ve sağ hemisferlerin kullanım farklılıkları",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Deneysel Bulgular",
+      "body": "Prenatal dönemde hormonlara maruz kalmanın, ilerleyen dönemdeki davranışsal eğilimleri şekillendirebildiği laboratuvar ortamında gözlemlenmiştir.",
+      "highlight_box": "Hormonların davranış üzerindeki kalıcı izleri",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Biyoloji ve Çevre",
+      "body": "Biyolojik yaklaşım cinsiyeti temellendirirken, modern psikoloji bu iki kategorinin katı olmadığını ve bir süreklilik arz ettiğini kabul eder.",
+      "highlight_box": "Biyolojik altyapı ve toplumsal cinsiyetin kesişimi",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış",
+      "body": "İnsan davranışı, biyolojik miras ile çevresel faktörlerin karmaşık bir etkileşimidir.",
+      "highlight_box": "Bilimsel perspektifi kaydetmek için dokunun.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Karakterimizin ve tepkilerimizin ne kadarı doğuştan gelen biyolojimizle yazıldı?",
+    "konusma_metni": "Bugün cinsiyetin ve davranışların biyolojik temellerine yakından bakıyoruz. Kromozomlar ve hormonlar beynimizin gelişimini ve hatta iki yarım kürenin çalışmasını nasıl etkiliyor? Hayvan deneyleri ve nörolojik araştırmalar ne söylüyor? Biyoloji kaderimiz mi, yoksa sadece başlangıç noktası mı? Gelin, bu soruların akademik arka planını birlikte inceleyelim."
+  },
+  "caption": "Cinsiyetin ve davranışların biyolojik temelleri, psikoloji ve nörobilimin en çok tartışılan konuları arasında yer almaktadır. Kromozomların belirleyiciliği, hormonların beyin gelişimi üzerindeki etkileri ve bu süreçlerin davranışsal yansımaları akademik düzeyde incelenmektedir. Biyolojik altyapının insan davranışını nasıl şekillendirdiğine dair bilimsel bulgular, karmaşık yapımızın mekanizmalarını anlamamıza yardımcı olur. #psikoloji #nörobilim #biyolojiksirrlar #cinsiyet #bilimselpsikoloji #davranışbilimleri #insandavranışı",
+  "processed_at": "2026-09-26 17:45:28"
+}

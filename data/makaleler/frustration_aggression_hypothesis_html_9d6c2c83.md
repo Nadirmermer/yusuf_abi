@@ -1,0 +1,400 @@
+# Frustration-Aggression Hypothesis
+
+- **Kaynak Platform**: Simply Psychology
+- **Orijinal URL**: https://www.simplypsychology.org/frustration-aggression-hypothesis.html
+- **Yayın Tarihi**: 2026-09-17T11:05:53+00:00
+- **Okuma Süresi / Kelime**: ~19 dk (3707 kelime)
+- **Çekilme Zamanı**: 2026-09-21T22:36:56.460072
+
+---
+
+## 📌 Giriş / Özet
+Psychology»Social Psychology
+
+
+## 🎯 Ana Maddeler & Odak Noktaları (Carousel / Post Çekirdeği)
+1. 1. Major Strengths and Explanatory Power
+2. 2. Key Criticisms & Theoretical Weaknesses
+3. 3. The Cognitive Evolution of the FAH
+4. 4. The Ultimate Revision: Berkowitz’s Aggressive-Cue Theory
+5. 5. Contemporary Research
+6. The Power of Cognitive Appraisal: Appraisal and Intent
+7. 4. Semantic Associations: Subtle Media Cues
+
+
+## 🖼️ Konuyla İlgili Görseller (Arka Plan & Tasarım İçin)
+- ![Frustration-Aggression Hypothesis](https://www.simplypsychology.org/wp-content/uploads/frustration-aggression-hypothesis.png) - *Header Image*
+- ![frustration-aggression hypothesis](/wp-content/uploads/frustration-aggression-hypothesis.png)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/instrumental-aggression-1-300x169.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/resolution-cognitive-dissonance-300x231.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/social-cognitive-theory-300x145.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/social-identity-theory-1-300x169.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/Theory_of_reasoned_action-300x225.png)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/social-impact-300x205.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/headshot.webp)
+
+
+## 📝 Makale Bölümleri ve Detaylı İçerik
+
+### Giriş
+
+Psychology»Social Psychology
+
+Thefrustration-aggression hypothesis, proposed by Dollard, Doob, Miller, Mowrer and Sears (1939), states that frustration always causes aggression, and aggression always stems from frustration.
+
+The theory combines Freud’s idea that aggression is aninnate drivewith learning theory. Dollard argued this drive is triggered specifically byfrustration, the blocking of a goal, rather than building up on its own.
+
+### Goal Blockage, Tension, and Catharsis
+
+- Frustrationoccurs when a deliberate or accidental external factor blocks an individual’s attempt to reach an expected goal.
+
+- This blockage creates an internal psychological drive ofemotional tensionand anger.
+
+- Dollard et al. (1939) proposed that aggression releases this tension throughcatharsis, calming the person afterward. Modern evidence contradicts this: catharsis is now considered the theory’s least defensible claim.
+
+- However, we do not always aggress against the true source. That target may be too dangerous, risking punishment, or simply unavailable. When this happens, wedisplaceour aggressive response onto a safer target, or whoever happens to be present.
+
+- Frustration-Aggression Examples
+
+- Causes of Frustration
+
+- Critical Evaluation
+
+- Aggressive-Cue Theory (ACT)
+
+### Frustration-Aggression Examples
+
+Here are several examples from psychological research and historical events that illustrate the Frustration-Aggression Hypothesis in action:
+
+### Everyday Interpersonal Frustration
+
+- Closeness to a Goal:The closer you are to achieving a goal when you are thwarted, the more aggressive your reaction will be.
+
+- Unjustified vs. Justified Frustration:A barrier seen as arbitrary or unfair triggers strong aggression. A barrier seen as fair or justified triggers much less, though rarely none.
+
+- Unintentional Sabotage:The reduction of aggressive impulses when the source of frustration is attributed to an accidental, uncontrollable, or unintentional factor rather than deliberate malice or negligence.
+
+### Displaced Aggression and Scapegoating
+
+- Economic Frustration and Violence:When people cannot retaliate against the actual source of their frustration (like a failing economy), they often displace their aggression onto  a vulnerable, less powerful, or minority out-group.
+
+- Shifting Targets of Scapegoating:The process by which the target of displaced aggression shifts over time, dictated by changing socioeconomic conditions and prevailing cultural prejudices. Pre-existing social approval or systemic biases determine which specific minority or immigrant group is deemed an acceptable target for blame and hostility during times of resource scarcity.
+
+### Relative Deprivation and Collective Unrest
+
+- Urban Race Riots:Riots are sparked less by absolute poverty than by a perceived gap. People compare their situation to a standard they feel entitled to, and that gap fuels collective frustration, not the hardship itself.
+
+- Political Rebellion and Terrorism:Rebellion is most likely after rising expectations suddenly stall or reverse. Even relatively privileged people turn to radical action once progress they expected stops.
+
+### Environmental Cues Triggering Aggression(Berkowitz’s Revision)
+
+- The Weapons Effect:Berkowitz argued that frustration only creates a “readiness” for aggression. An environmental cue, such as a weapon, can tip that readiness into actual violence. The cue acts as a cognitive prime, turning an internal readiness into overt violence.
+
+### Causes of Frustration
+
+Not all frustrating events lead to the same level of aggression. Dollard and later behaviorists identified specific environmental and cognitive variables that amplify or dampen the reaction:
+
+### Goal Gradient Principle(Closeness to the Goal)
+
+The closer an individual is to achieving their goal when they are blocked, the greater their expectation of gratification.
+
+Therefore, a sudden interruption at the final moment causes a far sharper spike in frustration and subsequent aggression.
+
+Example:A website crash feels far more frustrating when you are entering your card details for a concert ticket. It feels like nothing when the same crash happens on the homepage.
+
+### Perceived Fairness(Justified vs. Unjustified Frustration)
+
+Dill and Anderson (1995)tested whether a fair reason for a blockage switches off aggression entirely, or only turns it down.
+
+- Method:Participants’ access to an expected reward was blocked in an unjustified way, a justified way, or not blocked at all, and their hostile aggression toward the person responsible was measured.
+
+- Results:Justified blocking produced less hostile aggression than unjustified blocking, but still produced more aggression than no blocking at all.
+
+- Conclusion:A fair reason turns aggression down, not off. Even a blockage most people would call reasonable still leaves some hostile reaction behind.
+
+### Relative vs. Absolute Deprivation
+
+Psychologists distinguish between lacking something entirely (absolute deprivation) and feeling like you have less than you deserve (relative deprivation).
+
+Frustration is primarily born out of relative deprivation.
+
+When a person’s actual situation falls short of their rising expectations or the standard they see others enjoying, the perceived unfairness generates acute frustration.
+
+This is often used to explain collective violence, such as riots or political unrest.
+
+### 1. Major Strengths and Explanatory Power
+
+The primary value of the FAH lies in its ability to explain complex, real-world social phenomena that pure biological theories cannot.
+
+When individuals cannot safely retaliate against the actual source of their frustration—either because the frustrator is a powerful authority figure (e.g., a boss) or abstract (e.g., a failing economy)—they utilize the ego defense mechanism ofdisplacement.
+
+The aggressive drive is redirected onto weaker, safer, or socially approved substitute targets (scapegoats).
+
+The FAH successfully scales up from individual behavior to explain large-scale riots, revolutions, and terrorism through the concept ofrelative deprivation.
+
+- Absolute deprivation(simply living in poverty) does not inherently cause violence.
+
+- Instead,relative deprivation—the acute, perceived gap between what people currently have and what theybelieve they deserve—creates explosive collective frustration.
+
+Real-world field experiments consistently validate the theory’s claim that frustration escalates based on how close a person is to their objective (the Goal Gradient Principle).
+
+For example, a stranger cutting into the 2nd place of a waiting line triggers vastly more overt aggression than a stranger cutting into the 12th place.
+
+### 2. Key Criticisms & Theoretical Weaknesses
+
+Despite its strengths, psychologists quickly realized that Dollard’s original 1939 “all-or-nothing” statement was a rigid overstatement that completely ignored human cognition.
+
+Neal Miller (1941), one of the original co-authors, later criticized the rigidity of the theory.
+
+He argued that even if frustration instigates an internal urge to attack,situational constraintsoften suppress the behavior.
+
+Factors such as a fear of retaliation, social norms, or the sheer physical size and strength of the frustrator dictate whether someone will actually lash out.
+
+Albert Bandura (1973) argued that frustration does not automatically manufacture a targeted “aggressive drive.”
+
+Instead, frustration simply produces a generalized state ofphysiological arousal.
+
+Whether an individual uses that energy to act violently, problem-solve, or withdraw depends entirely on theirlearned patterns of behavior(Social Learning Theory) and environmental cues.
+
+The original hypothesis struggles to explain why different personality types handle stress differently.
+
+For instance, studies ofovercontrolled violent criminalsshow that some people chronically bury their resentment under rigid psychological controls.
+
+They do not instinctively react to frustration with immediate aggression, but may eventually “explode” after a long period of suppression.
+
+### 3. The Cognitive Evolution of the FAH
+
+To remain viable, the FAH had to be heavily revised to incorporate how humans mentally interpret a situation (cognitive appraisalandattributions).
+
+- The Role of Intent:Research revealed that frustration only reliably produces aggression when the blocking event is perceived asarbitrary, illegitimate, or intentional.
+
+- Mitigating Circumstances:If an event is deemed an accident or understandable, the urge to aggress is neutralized. This was famously shown when a teammate accidentally sabotaged a group’s task because his hearing aid broke; because the group appraised the failure as a genuine accident, no measurable aggression occurred.
+
+- Hostile Attributional Bias:In modern clinical psychology, chronic aggression is often linked to a cognitive distortion where highly reactive individuals rapidly misinterpret completely ambiguous situations as intentional provocations.
+
+### 4. The Ultimate Revision: Berkowitz’s Aggressive-Cue Theory
+
+Berkowitz’sAggressive-Cue Theory (ACT)holds that frustration only creates a readiness for aggression. An environmental cue, like a weapon, is what actually triggers violence. The full account, including the classic Weapons Effect study, is covered below underAggressive-Cue Theory (ACT).
+
+### 5. Contemporary Research
+
+Two large studies anchor the post-2015 evidence.Benjamin, Kepes and Bushman (2018)pooled the weapons-effect literature;Dodge et al. (2015)tested the attributional account across nine countries.
+
+- Aim:To test the whole weapons-effect literature against the General Aggression Model and check how much publication bias distorts it.
+
+- Method:A meta-analysis of 151 effect sizes from 78 studies and 7,668 participants, coded for aggressive thoughts, angry feelings, hostile appraisals, and aggressive behavior.
+
+- Results:Weapons increased aggressive thoughts, hostile appraisals, and aggressive behavior, but not angry feelings; some published estimates overstated the effect once publication bias was controlled.
+
+- Conclusion:The weapons effect is real but smaller and more cognitive than the classic single-study account implies.
+
+- Aim:To test whether children who read hostile intent into ambiguous situations become more aggressive, across very different cultures.
+
+- Method:1,299 children from 12 communities in nine countries were followed for four years and rated ambiguous provocation vignettes for hostile or benign intent.
+
+- Results:In every one of 12 communities, children who saw hostile intent reacted more aggressively, and hostile-attributional-bias scores predicted higher chronic aggression even controlling for prior aggression.
+
+- Conclusion:A stable tendency to read hostility into ambiguous situations, not just the frustrating event itself, drives much of a child’s later aggression.
+
+### Aggressive-Cue Theory (ACT)
+
+Leonard Berkowitz significantly expanded upon the original 1939 Frustration-Aggression Hypothesis by demonstrating that the link between frustration and aggressive behavior is rarely a direct, automatic reflex.
+
+Instead, he introduced theAggressive-Cue Theory (ACT)(also known as cue-arousal theory), which fundamentally shifted how psychologists view the triggers of violent behavior.
+
+Dollard’s original 1939 theory was adeterministic reflex model(Frustration → Automatic Aggression).
+
+Berkowitz (1989, 1993) revolutionized this by introducing aninteractionist model, arguing that internal emotion and external environmental cues must combine to produce violence.
+
+### Frustration → Anger → Aggression (The Three-Step Flow)
+
+Berkowitz dismantled the idea that frustration automatically forces a person to attack. Instead, he separated the internal emotional state from the actual physical behavior.
+
+- The Reality of Frustration:Frustration is just one of many unpleasant experiences (alongside physical pain, extreme heat, or loud noises) that producesnegative affect(psychological pain and annoyance).
+
+- The “Readiness to Aggress”:This negative affect turns intoanger. Anger does not guarantee violence; it simply puts the individual into a state of psychological “readiness.” The behavior is not “pushed” out by internal pressure; it must be “pulled” out by the environment.
+
+### The Power of Cognitive Appraisal: Appraisal and Intent
+
+Berkowitz emphasized that humans are not like early behaviorist lab rats; we mentally evaluatewhyour goal was blocked before we react.
+
+- Justified vs. Unjustified:If a goal is blocked but we perceive it as fair, accidental, or legitimate, we rationalize it, and anger is avoided.
+
+- The Triggers:Frustration only converts to anger if we appraise the event asarbitrary, illegitimate, or intentional. We must believe the frustrator deliberately broke social rules to interfere with us.
+
+Exam Link:In clinical psychology, individuals with chronic anger issues often suffer from ahostile attribution bias—a cognitive distortion where they automatically appraise ambiguous accidents as deliberate, hostile provocations.
+
+### Aggressive Cues & The “Weapons Effect” (Key Study)
+
+Anaggressive cueis any stimulus in our immediate environment that we subconsciously associate with violence.
+
+If an individual is already in a state of “readiness to aggress” (angry), the presence of a cue acts as the physical trigger to release that aggression.
+
+- Procedure:Male university students were deliberately made angry by a confederate who gave them a high number of uncomfortable electric shocks. Next, the participants were given a turn to shock the confederate back.
+
+- The Independent Variable (IV):The items left “accidentally” on a table in the testing room:Condition 1 (Aggressive Cue):A rifle and a revolver.Condition 2 (Neutral Cue):Two badminton rackets.
+
+- Condition 1 (Aggressive Cue):A rifle and a revolver.
+
+- Condition 2 (Neutral Cue):Two badminton rackets.
+
+- Findings:Angered participants in the room with the guns gavesignificantly higher numbers and longer durations of shocksto the confederate than those in the badminton condition.
+
+- Condition 1 (Aggressive Cue):A rifle and a revolver.
+
+- Condition 2 (Neutral Cue):Two badminton rackets.
+
+Crucial Quote for Essays:This study proved theWeapons Effect. As Berkowitz famously concluded:“Guns not only permit violence, they can stimulate it as well. The finger pulls the trigger, but the trigger may also be pulling the finger.”
+
+### 4. Semantic Associations: Subtle Media Cues
+
+Berkowitz proved that an environmental cue does not have to be a physical weapon; it can be a purely semantic (meaning-based) link or a media association.
+
+- Procedure:Participants were angered, then shown a clip of a brutal boxing movie starring the actorKirk Douglas, who played a fighter namedKelly.
+
+- Findings:When given the chance to deliver electric shocks to the person who originally angered them, participants gave thehighestshocks if the confederate happened to introduce themselves by the name“Kirk”or“Kelly.”
+
+- A-Level Application:The name itself acted as a cognitive cue. Because the name matched the successful violence seen on screen, it triggered the conversion of the participant’s internal anger into real-world aggression.
+
+### Standardizing Psychology Terminology
+
+To make research more scientific, Berkowitz helped standardize how psychologists categorize hostile behaviors:
+
+- Aggression:Any behavior directed toward another individual that is carried out with the proximate intent to cause harm.
+
+- Violence:Specifically reserved forextreme forms of aggressionwhere the deliberate goal is to inflict severe, major physical injury or destruction on another person.
+
+### Evaluation
+
+- High Ecological Validity in Lawmaking:Berkowitz’s Cue-Arousal theory has massive real-world application. It forms the psychological basis for debates surrounding gun control and open-carry laws in countries like the US, proving that the high visibility of weapons increases the statistical likelihood of impulsive, reactive homicides.
+
+- Bridges the Cognitive and Biological Approaches:Unlike the original rigid psychodynamic/biological 1939 model, Berkowitz’s revision blends biological arousal (anger) with cognitive interpretation (appraisal of intent) and environmental learning (associating cues like names or guns with violence).
+
+- Laboratory Artifacts / Demand Characteristics:Critics argue that the classic Weapons Effect study lacks mundane realism. Students in a 1960s laboratory seeing a random shotgun on a table may have guessed that the researcherswantedthem to act aggressively, meaning the results could be due todemand characteristicsrather than a true psychological reflex.
+
+### Key Takeaways
+
+- Original Claim:Dollard et al. (1939) argued aggression always follows frustration, and frustration always causes some aggression. Later revisions rejected this strict, testable claim.
+
+- Miller’s Revision:Miller (1941) showed frustration only makes aggression more likely, not certain; fear of punishment or social norms can block it entirely.
+
+- Cue-Arousal:Berkowitz reframed frustration as one source of arousal among many; an aggressive cue, like a weapon, is often still needed to trigger an attack.
+
+- Legitimacy:Frustration seen as arbitrary or unfair sparks far more aggression than frustration seen as fair or accidental.
+
+- Catharsis:The idea that acting aggressively ‘releases’ built-up frustration is the theory’s weakest, least-supported claim today.
+
+- HAB:Chronically aggressive people tend to read hostile intent into ambiguous situations, fuelling a cycle of perceived provocation and retaliation.
+
+Nickerson, C. (2026). Frustration-Aggression Hypothesis. Simply Psychology. https://www.simplypsychology.org/frustration-aggression-hypothesis.html
+
+Nickerson, Charlotte. "Frustration-Aggression Hypothesis." Simply Psychology, 17 September 2026, https://www.simplypsychology.org/frustration-aggression-hypothesis.html.
+
+Nickerson, C. (2026) Frustration-Aggression Hypothesis. Simply Psychology. Available at: https://www.simplypsychology.org/frustration-aggression-hypothesis.html (Accessed: 21 September 2026).
+
+### References
+
+Amsel, A. (1962). Frustrative nonreward in partial reinforcement and discrimination learning: Some recent history and a theoretical extension. Psychological Review, 69(4), 306–328.
+
+Anderson, C. A., & Bushman, B. J. (2002). Human aggression. Annual review of psychology, 53(1), 27-51.
+
+Berkowitz, L. (1958). The expression and reduction of hostility. Psychological Bulletin, 55(5), 257.
+
+Berkowitz, L. (1988). Frustrations, appraisals, and aversively stimulated aggression. Aggressive behavior, 14(1), 3-11.
+
+Berkowitz, L. (1989). Frustration-aggression hypothesis: examination and reformulation. Psychological bulletin, 106(1), 59.
+
+Berkowitz, L. (1990). On the formation and regulation of anger and aggression: A cognitive-neoassociationistic analysis. American Psychologist, 45(4), 494.
+
+Bettencourt, B., & Miller, N. (1996). Gender differences in aggression as a function of provocation: a meta-analysis. Psychological bulletin, 119(3), 422.
+
+Breuer, J., Scharkow, M., & Quandt, T. (2015). Sore losers? A reexamination of the frustration–aggression hypothesis for colocated video game play. Psychology of Popular Media Culture, 4(2), 126.
+
+Breuer, J., & Elson, M. (2017). Frustration-aggression theory (pp. 1-12). Wiley Blackwell.
+
+Brown, J. S., & Farber, I. E. (1951). Emotions conceptualized as intervening variables—with suggestions toward a theory of frustration. Psychological bulletin, 48(6), 465.
+
+Burnstein, E., & Worchel, P. (1962). Arbitrariness of frustration and its consequences for aggression in a social situation. Journal of Personality.
+
+Buss, A. H. (1963). Physical aggression in relation to different frustrations. The Journal of Abnormal and Social Psychology, 67(1), 1.
+
+Buss, A. H. (1966). Instrumentality of aggression, feedback, and frustration as determinants of physical aggression. Journal of personality and social psychology, 3(2), 153.
+
+Caprara, G. V. (1982). A comparison of the frustration-aggression and emotional susceptibility hypotheses. Aggressive Behavior.
+
+Cohen, A. R. (1955). Social norms, arbitrariness of frustration, and status of the agent of frustration in the frustration-aggression hypothesis. The Journal of Abnormal and Social Psychology, 51(2), 222.
+
+Csikszentmihalyi, M. (1990). Flow: The psychology of optimal experience. New York, NY: Harper Perennial.
+
+da Gloria, J. (1984). Frustration, aggression, and the sense of justice. In A. Mummendey (Ed.), Social psychology of aggression: From individual behavior to social interaction (pp. 127–141). Berlin, Germany: Springer.
+
+Davitz, J. R. (1952). The effects of previous training on postfrustration behavior. The Journal of Abnormal and Social Psychology, 47(2S), 309.
+
+Deutsch, M. (1949). An experimental study of the effects of co-operation and competition upon group process. Human Relations, 2(3), 199–231. doi:10.1177/001872674900200301
+
+Dill, J. C., & Anderson, C. A. (1995). Effects of frustration justification on hostile aggression. Aggressive Behavior, 21(5), 359-369.
+
+Dollard, J., Miller, N. E., Doob, L. W., Mowrer, O. H., & Sears, R. R. (1939). Frustration and aggression.
+
+Geen, R. G. (1968). Effects of frustration, attack, and prior training in aggressiveness upon aggressive behavior. Journal of personality and social psychology, 9(4), 316.
+
+Filer, R. J. (1952). Frustration, satisfaction, and other factors affecting the attractiveness of goal objects. The Journal of Abnormal and Social Psychology, 47(2), 203.
+
+Grossarth-Maticek, R., Eysenck, H. J., & Vetter, H. (1989). The causes and cures of prejudice: An empirical study of the frustration-aggression hypothesis. Personality and Individual Differences, 10(5), 547-558.
+
+Haner, C. F., & Brown, P. A. (1955). Clarification of the instigation to action concept in the frustration-aggression hypothesis. The Journal of Abnormal and Social Psychology, 51(2), 204.
+
+Hanratty, M. A., O’Neal, E., & Sulzer, J. L. (1972). Effect of frustration upon imitation of aggression. Journal of Personality and Social Psychology, 21(1), 30.
+
+Harris, M. B. (1974). Mediators between frustration and aggression in a field experiment. Journal of Experimental Social Psychology, 10(6), 561-571.
+
+Hokanson, J. E. (1961). The effects of frustration and anxiety on overt aggression. The Journal of Abnormal and Social Psychology, 62(2), 346.
+
+Ichheiser, G. (1950). Frustration and aggression or frustration and defence: A counter-hypothesis.
+
+Kregarman, J. J., & Worchel, P. (1961). Arbitrariness of frustration and aggression. The Journal of Abnormal and Social Psychology, 63(1), 183.
+
+Kulik, J. A., & Brown, R. (1979). Frustration, attribution of blame, and aggression. Journal of experimental social psychology, 15(2), 183-194.
+
+Miller, N. E. (1941). I. The frustration-aggression hypothesis.Psychological Review, 48(4), 337–342. https://doi.org/10.1037/h0055861
+
+Morlan, G. K. (1949). A note on the frustration-aggression theories of Dollard and his associates. Psychological review, 56(1), 1.
+
+Pastore, N. (1950). A neglected factor in the frustration-aggression hypothesis: a comment. The Journal of Psychology, 29(2), 271-279.
+
+Pastore, N. (1952). The role of arbitrariness in the frustration-aggression hypothesis. The Journal of Abnormal and Social Psychology, 47(3), 728.
+
+Rothaus, P., & Worchel, P. (1960). The inhibition of aggression under non-arbitrary frustration. Journal of Personality.
+
+Rule, B. G., Dyck, R., & Nesdale, A. R. (1978). Arbitrariness of frustration: Inhibition or instigation effects on aggression. European Journal of Social Psychology, 8(2), 237-244.
+
+Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68–78.
+
+Seligman, M. E. P. (1975). Helplessness: On depression, development, and death. San Francisco, CA:Freeman.
+
+Sherif, M., Harvey, O. J., White, B. J., Hood, W. R., & Sherif, C. W. (1961). Intergroup cooperation and competition: The Robbers Cave experiment. Norman, OK: University Book Exchange.
+
+Thompson Jr, R. J., & Kolstoe, R. H. (1974). Physical aggression as a function of strength of frustration and instrumentality of aggression. Journal of Research in Personality, 7(4), 314-323.
+
+Verona, E., & Curtin, J. J. (2006). Gender differences in the negative affective priming of aggressive behavior. Emotion, 6(1), 115.
+
+Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes. Cambridge, MA: Harvard University Press.
+
+Whitaker, J. L., Melzer, A., Steffgen, G., & Bushman, B. J. (2013). The allure of the forbidden: Breaking taboos, frustration, and attraction to violent video games. Psychological science, 24(4), 507-513.
+
+Worchel, S. (1974). The effect of three types of arbitrary thwarting on the instigation to aggression 1. Journal of Personality, 42(2), 300-318.
+
+Zillmann, D., & Cantor, J. R. (1976). Effect of timing of information about mitigating circumstances on emotional responses to provocation and retaliatory behavior. Journal of Experimental Social Psychology, 12(1), 38-55.
+
+BSc (Hons) Psychology, MRes, PhD, University of Manchester
+
+Chartered Psychologist (CPsychol)
+
+Saul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.
+
+Writer and Cognitive Engineer
+
+AB History, Harvard University
+
+Charlotte Nickerson is a Harvard graduate and cognitive engineer whose work sits at the intersection of social psychology, human behaviour, and technology design. She contributed over 100 articles to Simply Psychology and holds a Master's in Cognitive Engineering from ENSC.

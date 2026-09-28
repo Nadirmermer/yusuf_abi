@@ -1,0 +1,133 @@
+{
+  "id": "excitatory_vs_inhibitory_neurotransmitte_2ed88fc0",
+  "original_title": "Excitatory Vs. Inhibitory Neurotransmitters",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/excitatory-vs-inhibitory-neurotransmitters.html",
+  "published_date": "2026-09-17T11:04:05+00:00",
+  "read_time_minutes": 5,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/excitatory-vs-inhibitory-neurotransmitters.jpg",
+      "alt": "Excitatory Vs. Inhibitory Neurotransmitters",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Neurotransmitter.jpeg",
+      "alt": "Diagram of two neurons with a part focused in on the process of neurotransmission at the synpase. Labelled vesicles, receptors, reuptake, enzymes.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitter-formulas-300x152.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitters-hormones-300x248.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/electrical-synapse-1-300x251.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/serotonin-dopamine-300x152.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/interneuron-function-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/action-potential-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 993,
+  "turkce_baslik": "Beynimizin Gaz ve Fren Mekanizması: Kaygı ve Aşırı Düşünmenin Nörolojik Kökeni",
+  "kanca_sorusu": "Sürekli tetikte hissetmenizin ve zihninizi bir türlü susturamamanızın arkasındaki biyolojik dengeyi hiç merak ettiniz mi?",
+  "score": 40,
+  "puan_nedeni": "Konu doğrudan biyopsikoloji, nörotransmiterler ve sinaptik depolarizasyon gibi akademik ve kuru nöroloji mekanizmalarına dayandığı için klinik olarak ilişkisel derinlikten uzaktır. Doğrudan bir ilişki dinamikleri veya travma çözümü sunmadığı için puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, sürekli bir hareket halinde olan karmaşık bir denge ağıdır. Nörobilim bu dengeyi eksitatör ve inhibitör yani uyarıcı ve baskılayıcı kimyasal haberciler üzerinden açıklar. Günlük hayatta hissettiğimiz o yoğun kaygı, zihinsel yorgunluk ya da aniden gelen sakinleşme isteği aslında sinir sistemimizin gaz ve fren pedalına aynı anda basmasından başka bir şey değildir. Yeterli frenleme yani inhibisyon olmadığında devreler aşırı uyarılır ve bu durum kronik kaygı olarak kendini gösterir. Ruhsal denge, sadece coşkulu bir hareketlilik değil, aynı zamanda durabilme ve sakinleşebilme becerisidir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihniniz Neden Hiç Susmuyor?",
+      "body": "Sürekli düşünmek, tetikte hissetmek ve rahatlayamamak sadece psikolojik bir yorgunluk değildir.",
+      "highlight_box": "Beynimizdeki gaz ve fren dengesi bozulduğunda ne olur?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Uyarıcı ve Baskılayıcı Güçler",
+      "body": "Nörotransmiterler sinir hücreleri arasında haber taşıyan kimyasal anahtarlardır. Kimisi harekete geçirir, kimisi durdurur.",
+      "highlight_box": "Biri gaz pedalına basarken diğeri frene basar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Fren Sistemi Ne Zaman Tıkanır?",
+      "body": "GABA gibi ana baskılayıcı kimyasallar yetersiz kaldığında sinir devreleri aşırı uyarılır.",
+      "highlight_box": "Bu durum doğrudan kronik kaygı ve uyku problemlerine yol açar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Hücresel Düzeyde Ne Oluyor?",
+      "body": "Uyarıcı sinyaller nöronları elektriksel olarak tetiklerken, baskılayıcılar sistemi sakinleştirmek için yükü düşürür.",
+      "highlight_box": "Denge bozulduğunda tükenmişlik kaçınılmazdır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Sistemi Yeniden Dengelemek",
+      "body": "Zihinsel aşırı yüklenmeyi azaltmak için sinir sistemine durmayı ve nefes almayı öğretmek zorundasınız.",
+      "highlight_box": "Unutmayın: Bu biyolojik bir süreçtir, iradeyle her zaman bastırılamaz.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihniniz sürekli alarm veriyorsa, ona daha fazla gaz vermek yerine frene basmayı hatırlatın.",
+      "highlight_box": "Bu bilimsel perspektifi kaybetmemek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Sürekli kafanızın içinde dönüp duran o sesleri durduramayışınızın sebebi beyninizdeki fren sisteminin bozulmuş olması.",
+    "konusma_metni": "Beynimiz tıpkı bir araba gibidir. Gaz ve fren pedalları vardır. Uyarıcı nörotransmiterler gaza basarken, inhibitörler yani GABA ve serotonin gibi kimyasallar frene basar. Eğer hayatınızda sürekli bir kaygı ve tükenmişlik halindeyse, beyniniz artık frene basmayı unutmuş demektir. Zihinsel dengeyi kurmak için önce bu biyolojik mekanizmayı anlamak gerekir."
+  },
+  "caption": "Zihnimizdeki karmaşık düşünce ağları, kaygı halleri ve sürekli tetikte olma hissi rastlantı değildir. Nörolojik düzeyde uyarılma ve baskılama dengesi, ruhsal durumumuzu doğrudan belirler. Sürekli gaz pedalına basılan bir zihinde fren mekanizmalarının nasıl çalıştığını anlamak, kendimize şefkatle yaklaşmanın ilk adımıdır. #nöropsikoloji #kaygı #zihinyönetimi #sinirsistemi #psikoloji #farkındalık",
+  "processed_at": "2026-09-26 17:06:36"
+}

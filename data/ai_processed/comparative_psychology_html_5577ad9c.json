@@ -1,0 +1,127 @@
+{
+  "id": "comparative_psychology_html_5577ad9c",
+  "original_title": "Comparative Psychology Explained",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/comparative-psychology.html",
+  "published_date": "2023-06-14T13:48:09+00:00",
+  "read_time_minutes": 4,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/konrad-lorenz.jpg",
+      "alt": "Comparative Psychology Explained",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sympathetic-vs-parasympathetic-nervous-system-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mirror-neurons-266x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/nervous-system-1-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/child-development-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotions-brain-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/loving-mom-300x249.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 799,
+  "turkce_baslik": "İnsan Davranışının Kökeni: Hayvan Deneyleri Bize Ne Anlatıyor?",
+  "kanca_sorusu": "İnsan ilişkilerindeki en temel reflekslerimizin, aslında laboratuvarlardaki hayvan deneyleriyle ne kadar ortak noktası var?",
+  "score": 40,
+  "puan_nedeni": "Metin, doğrudan klinik bir ilişki dinamizminden ziyade akademik ve karşılaştırmalı psikoloji tarihine (Pavlov, Skinner, Harlow) odaklandığı için katı kuralımız gereği düşük puan almıştır. Ancak anne yoksunluğu ve bağlanma kısımları insan psikolojisine hafif bir köprü kurmaktadır.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "Karşılaştırmalı psikoloji, insan davranışlarını anlamak için uzun yıllar boyunca hayvanlar üzerinden yapılan deneyleri temel almıştır. Pavlov'un köpekleri, Skinner'ın fareleri ve Harlow'un rhesus maymunları, öğrenme yasalarından anne yoksunluğunun yarattığı kalıcı hasarlara kadar pek çok teorinin temelini oluşturmuştur. Hayvanlar üzerinde yapılan bu çalışmalar, insanlardaki kritik bağlanma evrelerini ve territorial (bölgesel) dürtüleri anlamamız için birer ayna tutsa da, insan bilincinin ve dilinin karmaşıklığı bu genellemeleri sorgulamamızı gerektirir. Bilimsel bilgiye ulaşma yolunda harcanan bu bedeller, insan olmanın karmaşık doğasını ve etik sınırları yeniden düşünmemiz için derin bir mesele olarak önümüzde durmaktadır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "İnsanı Anlamanın Labirentleri",
+      "body": "Hayvan davranışlarını inceleyerek insan doğasını çözmeye çalışan karşılaştırmalı psikolojinin derinlerine iniyoruz.",
+      "highlight_box": "Davranışlarımızın ne kadarı ortak, ne kadarı bize özgü?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Ortak Tepkiler ve İçgüdüler",
+      "body": "Köpekler, fareler ve maymunlar üzerinden kurulan teoriler, insan psikolojisinin temel mekanizmalarına ışık tuttu.",
+      "highlight_box": "Öğrenme yasaları tüm türler için aynı mı?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Kritik Bağlanma Dönemi",
+      "body": "Harlow ve Lorenz'in çalışmaları, erken dönem ayrılıkların yaratabileceği kalıcı sosyal ve duygusal hasarları gözler önüne serdi.",
+      "highlight_box": "Bebeklikteki mahrumiyet, yetişkinliği nasıl şekillendirir?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "İnsan Bilincinin Sınırları",
+      "body": "Hayvanlar içgüdüleriyle hareket ederken, insanlar bilinçli kararlar alır ve sembolik bir dil kullanır.",
+      "highlight_box": "Bizi ayıran en büyük özellik dil ve soyut düşüncedir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Etik ve Bilim Arasındaki Çizgi",
+      "body": "Geçmişteki deneylerin getirdiği acılar ve elde edilen bulgular, bilimin etik sınırlarını sorgulamamızı zorunlu kılar.",
+      "highlight_box": "Amaç, her zaman aracı meşru kılar mı?",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış ve İçsel Hatırlatma",
+      "body": "Davranışlarımızın kökenini ararken, hem doğamızı hem de etik sorumluluklarımızı unutmamak gerekir.",
+      "highlight_box": "Bu analizi insan doğasını anlamak adına kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Hayvanlar üzerinde yapılan deneyler insan psikolojisi hakkında bize gerçekten ne söylüyor?",
+    "konusma_metni": "Geçmişten bugüne psikoloji bilimi, insan davranışını çözebilmek için hayvan deneylerine başvurdu. Pavlov'un koşullanmasından Harlow'un maymun deneylerine kadar pek çok araştırma, bağlanma ve öğrenme süreçlerimizin kökenini aradı. Peki, insanı diğer canlılardan ayıran o bilinç ve dil sınırı nerede başlıyor? Hayvanlar üzerinden insanı anlamaya çalışmak ne kadar doğru?"
+  },
+  "caption": "Karşılaştırmalı psikoloji, insan davranışlarının kökenini anlamak için uzun yıllar boyunca hayvanlar üzerinde yapılan deneyleri incelemiştir. Öğrenme yasalarından erken dönem bağlanma teorilerine kadar birçok kavram bu temeller üzerine kurulmuştur. Ancak insan bilinci, dili ve kararları bu genellemelerin ötesinde bambaşka bir karmaşıklık barındırır. Bilimin ve insan doğasının sınırlarını tartışmak üzere bu içeriği kaydedebilir ve düşündüklerinizi bizimle paylaşabilirsiniz.\n\n#Psikoloji #KarşılaştırmalıPsikoloji #DavranışBilimleri #BağlanmaTeorisi #İnsanDoğası #Bilinç #Etik",
+  "processed_at": "2026-09-26 17:45:20"
+}

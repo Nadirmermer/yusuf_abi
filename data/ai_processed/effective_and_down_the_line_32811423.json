@@ -1,0 +1,193 @@
+{
+  "id": "effective_and_down_the_line_32811423",
+  "original_title": "New research finds medication helpful in mild and moderate depression",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/in-practice/201611/effective-and-down-the-line",
+  "published_date": "2016-11-04T09:45:46-04:00",
+  "read_time_minutes": 43,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/Untitled_19.jpg?itok=fxhLB7Br",
+      "alt": "Image 9: Peter D Kramer",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/faces2%20mck%20original%20sketch_0.jpg?itok=M9VnRKyD",
+      "alt": "Image 15: image by Matthew C. Kramer",
+      "caption": null,
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/thumbnail_115x140/public/field_user_blogger_photo/Untitled_19.jpg?itok=kovd_byn",
+      "alt": "Image 21: Peter D Kramer",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/zilchzeronada_-_white_0.jpg?itok=MpaD85wu",
+      "alt": "Image 22: wikicommons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/Medicine_Drug_Pills_on_Plate_0.png.jpg?itok=3BuCZ6q3",
+      "alt": "Image 23: Katefreedman/Wikimedia Commons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/kinsella__1__0.jpg?itok=R8UIGzED",
+      "alt": "Image 24: website of W P Kinsella",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/faces2_mck_original_sketch_0.jpg?itok=gDt_qvHn",
+      "alt": "Image 25: copyright Matthew C Kramer",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2021-10/shutterstock_524866864.jpg?itok=Q2qAAse0",
+      "alt": "Image 26: AlessandroBiascioli/Shutterstock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/2022-03/shutterstock_548770939.jpg?itok=h11u9o0b",
+      "alt": "Image 27: cheapbooks/Shutterstock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/hero_image/pt_self_test/2024-09/shutterstock_2492288091.jpg?itok=TFqG1Tw0",
+      "alt": "Image 28: New Africa / Shutterstock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/2022-10/surgical-instruments-81489_1280.jpg?itok=_8Q4GsnB",
+      "alt": "Image 30: 12019/Pixabay",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2024-05/sydney-sims-fZ2hMpHIrbI-unsplash_1.jpg?itok=p5bs1mRp",
+      "alt": "Image 31: Sydney Sims / Unsplash",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_images/2021-03/business-3230025_340.jpg?itok=p2YA_emC",
+      "alt": "Image 32: malikmccotterjordan/pixabay",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_images/2026-07/steven-van-loy-ouhsla4l_98-unsplash.jpg?itok=JkeE5UjR",
+      "alt": "Image 33: What we carry, we pass on, sometimes before we know we're carrying it.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-08/concept-improving-brain-function-through-training-exercise-improve-brain-function_large.jpeg.jpg?itok=rksuikIs",
+      "alt": "Image 34: meshcube / Magnific",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-08/keith-tanner-r4efle2r8ya-unsplash.jpg?itok=5ScBbf2Y",
+      "alt": "Image 35: The brain scans showed something nobody was looking for.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-08/alex-saks--tu9jm9tplo-unsplash.jpg?itok=XnO0_fzR",
+      "alt": "Image 36: Alex Saks / Unsplash",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/shutterstock_2654596555.jpg?itok=LECTMf4I",
+      "alt": "Image 37: Jelena Zelen/Shutterstock",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-07/brett-jordan-5ragyibuitu-unsplash.jpg?itok=rqqxNqF6",
+      "alt": "Image 38: The loop runs whether you notice it or not.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/default_images/counseling.jpg",
+      "alt": "Image 39: Counselling",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 8630,
+  "turkce_baslik": "Hafif ve Orta Dereceli Depresyonda İlaç Tedavisi Gerçekten İşe Yarıyor mu?",
+  "kanca_sorusu": "Hafif veya orta düzeyde bir depresyonla baş etmeye çalışırken duyduğunuz çaresizlik hissi gerçekten sadece irade eksikliği mi, yoksa eksik bilinen bilimsel gerçekler mi?",
+  "score": 45,
+  "puan_nedeni": "Makale genel olarak psikofarmakoloji, klinik çalışmalar ve antidepresanların hafif-orta vakalardaki etkinliği gibi daha çok klinik psikiyatri ve tıp alanına giren verileri incelemektedir. @ya_da_psikoloji takipçilerinin doğrudan ilişkisel dinamikler, bağlanma stilleri ve sınır problemleri kadar anında içsel ayna tutan bir yapısı olmadığı için akademik ve mesafeli tonu nedeniyle düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Psikoloji ve psikiyatri dünyası uzun süredir depresyon tedavisinde ilaçların rolünü tartışıyor. 2010 yılında yayımlanan bazı çarpıcı çalışmalar, hafif ve orta dereceli depresyonda antidepresanların plasebodan, yani etkisiz ilaçlardan pek de farklı olmadığını öne sürmüştü. Bu durum, toplumda ilaçların yalnızca çok ağır vakalarda işe yaradığına dair yaygın bir algı yarattı. Ancak bilimsel araştırmalar statik değildir; yeni veriler, ilk yapılan dar kapsamlı çalışmaların metodolojik eksikliklerini ve göz ardı edilen hasta gruplarını gün yüzüne çıkarmaktadır. \n\nGünlük hayatta hafif ya da orta düzeyde ruhsal çöküntü yaşayan bireyler, genellikle bu durumu kendi içsel yetersizlikleri olarak yorumlama eğilimindedir. 'Kendi başıma aşmalıyım', 'Zayıf olmamalıyım' düşünceleri, kişiyi profesyonel destekten ve medikal yardımdan uzaklaştırabilir. Oysa ruhsal sancılar, tıpkı bedensel rahatsızlıklar gibi biyolojik temellere de sahip olabilir. \n\n@ya_da_psikoloji olarak temel yaklaşımımız, insanın iç dünyasını anlamlandırırken ne körü körüne tek bir yönteme bağlanmak ne de bilimsel gerçekleri göz ardı etmektir. İster terapi ister farmakolojik destek olsun, ruhsal iyileşme yolculuğu kişiye özeldir. Önemli olan, yaşanan sancının 'kafada biten' basit bir keyifsizlik olmadığını kabul etmek ve merhametle profesyonel bir rehberliğe alan açmaktır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Hafif ve Orta Dereceli Depresyon Hurafeleri",
+      "body": "Yıllardır duyduğumuz o ezber cümle: İlaçlar sadece çok ağır vakalarda işe yarar.",
+      "highlight_box": "Bilimsel veriler sürekli güncellenir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Geçmişteki Eksik Çalışmalar",
+      "body": "2010 yılında yayımlanan dar kapsamlı araştırmalar, hafif vakalarda ilaçların plasebodan farksız olduğunu öne sürmüştü.",
+      "highlight_box": "Bu algı toplumda nasıl yerleşti?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Metodolojik Yanılgılar",
+      "body": "Eski çalışmalardaki düşük dozlar ve dışarıda bırakılan hasta grupları, sonuçların hatalı yorumlanmasına yol açtı.",
+      "highlight_box": "Her araştırma tüm gerçeği yansıtmaz.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Bireysel Farklılıkların Önemi",
+      "body": "Her ruhsal sancı aynı düzeyde seyretmez; dolayısıyla tedavi yaklaşımları da kişiye özel olmalıdır.",
+      "highlight_box": "Tek tip bir çözüm yoktur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Profesyonel Desteğe Yaklaşım",
+      "body": "Ruhsal zorlanmaları yalnız başına göğüslemek zorunda değilsiniz. Uzman yardımı almak bir zayıflık değildir.",
+      "highlight_box": "Destek istemek cesaret gerektirir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İyileşme Yolculuğunda Gerçekçi Olmak",
+      "body": "Zihinsel sağlığınızı korumak için hurafelere değil, bütüncül ve bilimsel yaklaşımlara odaklanın.",
+      "highlight_box": "Bu bilgiyi saklayın ve gerektiğinde tekrar okuyun.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Hafif ve orta derece depresyonda ilaçlar gerçekten işe yarıyor mu, yoksa hepsi plasebo etkisinden mi ibaret?",
+    "konusma_metni": "Yıllarca antidepresanların sadece çok ağır vakalarda işe yaradığı, hafif durumlarda ise tamamen etkisiz olduğu söylendi. Ancak yeni araştırmalar bu ezberi bozuyor. Ruhsal sancılarımızı sadece irade zayıflığı olarak etiketlemek yerine, bilimin sunduğu objektif verilere ve tedavi seçeneklerine daha geniş bir pencereden bakmalıyız. İyileşme süreci tek bir doğruya sığdırılamayacak kadar kişiseldir."
+  },
+  "caption": "Depresyon tedavisinde ilaçların etkinliği üzerine bilinen yanlışlar ve klinik araştırmaların gösterdiği yeni gerçekler.\n\nHafif veya orta düzeyde yaşanan ruhsal çöküntüler, sıklıkla bireylerin kendilerini suçlamasına ya da profesyonel yardımdan kaçınmasına neden olur. Oysa psikolojik ve psikiyatrik yaklaşımlar, doğru tanı ve bütüncül yöntemlerle kişiye özel olarak planlanmalıdır.\n\nBu konudaki düşüncelerinizi yorumlarda paylaşabilir, bu analizi faydalı bulduğunuz kişilere gönderebilirsiniz.\n\n#psikoloji #depresyon #ruhsal_saglik #bilimsel_arastirma #klinik_psikoloji #terapi #zihin_sagligi",
+  "processed_at": "2026-09-26 17:45:47"
+}

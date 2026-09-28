@@ -1,0 +1,145 @@
+{
+  "id": "hippocampus_html_a464a79b",
+  "original_title": "Hippocampus",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/hippocampus.html",
+  "published_date": "2026-09-17T11:07:37+00:00",
+  "read_time_minutes": 16,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hippocampus2.jpg",
+      "alt": "Hippocampus",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hippocampus-location.jpeg",
+      "alt": "hippocampus location",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hippocampus-function.jpg",
+      "alt": "The outline of a brain with the hippocampus location highlighted. 5 functions of the hippocampus in a list next to it: 1. forms new memories, 2. builds mental maps for navigation, 3. transfers information to long-term storage, 4. connects memory with emotions, and 5 creates social maps to help navigate interactions.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/white-vs-grey-matter-2_med-300x182.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotions-brain-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurogenesis-300x164.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brodmanns-areas-300x169.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/hippocampus2.jpg",
+      "alt": "hippocampus2",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3124,
+  "turkce_baslik": "Zihinsel Haritalarımız ve Anılarımız: Hipokampusun Psikolojik Yükü",
+  "kanca_sorusu": "Geçmişin izlerini zihninizde taşırken, aslında beyninizin hangi karanlık koridorlarında kayboluyorsunuz?",
+  "score": 45,
+  "puan_nedeni": "Makale temel nöroloji ve biyopsikoloji üzerine kuruludur; hafıza ve hipokampus anatomisi ağırlıklı olduğu için doğrudan ilişkisel dinamiklere dokunmaz. Ancak mekansal hafıza ve sosyal haritalama kavramlarının bireyin içsel dünyasına uyarlanabilmesi potansiyeli nedeniyle ortalama bir akademik puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, sadece anıları saklayan bir arşiv değil, aynı zamanda geçmişin acılarını ve geleceğin kaygılarını haritalandıran karmaşık bir ekosistemdir. Beynin temporal lobunda yer alan hipokampus, yalnızca bilgiyi kodlamakla kalmaz; aynı zamanda hayatımızda kurduğumuz ilişkileri, yönümüzü ve duygusal tepkilerimizi de biçimlendirir. Londra taksi şoförleri üzerinde yapılan araştırmalar, yoğun zihinsel çabanın ve deneyimin beynin fiziksel yapısını bile değiştirebildiğini göstermektedir. Bu durum, travmaların, kayıpların ve tekrarlayan toksik döngülerin de zihnimizde kalıcı izler bırakarak yapısal birer gerçeğe dönüştüğünü kanıtlar niteliktedir. Anılar sadece geçmişte kalmaz; bugünkü kararlarımızı, kimlere güveneceğimizi ve hangi sınırsız döngülere tekrar tekrar hapsolacağımızı sessizce belirler.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihinsel Haritalar",
+      "body": "Geçmişte yaşadığınız her yoğun duygu, beyninizde silinmez bir coğrafya oluşturur.",
+      "highlight_box": "Anılar sadece geçmişte kalmaz, bugününüzü yönetir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Neden Unutamazsınız?",
+      "body": "Hipokampus ve amigdala ortak çalışarak travmatik ve yoğun anıları derinlemesine kaydeder.",
+      "highlight_box": "Canınızı yakan olaylar neden zihninizde sürekli dönüp duruyor?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Sosyal Haritalama",
+      "body": "Zihnimiz sadece yerleri değil, hayatımızdaki insanların bize yaşattığı duygusal mesafeleri de haritalandırır.",
+      "highlight_box": "Kiminle nerede kırıldığınızı asla unutmazsınız.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Yönünü Kaybetmek",
+      "body": "Geçmişin travmatik döngülerinde sıkışıp kalmak, şimdiki zamanda yönünüzü bulmanızı engeller.",
+      "highlight_box": "Aynı hatalı ilişki dinamiklerini tekrar yaşamanızın kökeni.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Yeni Bir Zihin Mimarisi",
+      "body": "Beyniniz deneyimlerle yeniden şekillenebilir; sınırlar koymak ve farkındalık bu yapıyı değiştirebilir.",
+      "highlight_box": "Unutmayın: Bu bir değişim ve iyileşme süreci.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizin haritasını yeniden çizmek sizin elinizdedir.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden bazı anıları asla unutamazken, bazı insanları hayatınızdan bir türlü silemiyorsunuz?",
+    "konusma_metni": "Beynimizin hafıza merkezi olan hipokampus, sadece bilgileri kaydetmez; aynı zamanda duygusal olarak yoğun olan deneyimleri etiketler. Bu yüzden canınızı yakan o ilişkiler zihninizde kalıcı birer haritaya dönüşür. Geçmişin coğrafyasında kaybolmamak için önce bu zihinsel kodları fark etmeniz gerekir."
+  },
+  "caption": "Zihnimizin derinliklerinde yer alan hipokampus, sadece anıları saklamakla kalmaz; aynı zamanda hayatımızda kurduğumuz ilişkilerin ve yaşadığımız travmaların haritasını çıkarır. Geçmişin acı veren coğrafyasında kaybolmamak, zihinsel döngülerimizi fark etmekten geçer. Bu süreci anlamlandırmak ve kendi içsel haritanızı yeniden çizmek için bu içeriği kaydedebilirsiniz.\n\n#psikoloji #nöropsikoloji #hafıza #zihin #travma #ilişkiler #farkındalık",
+  "processed_at": "2026-09-26 15:44:20"
+}

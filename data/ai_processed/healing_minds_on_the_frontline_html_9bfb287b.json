@@ -1,0 +1,127 @@
+{
+  "id": "healing_minds_on_the_frontline_html_9bfb287b",
+  "original_title": "Healing Minds on the Frontline",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/healing-minds-on-the-frontline.html",
+  "published_date": "2025-09-15T10:49:33+00:00",
+  "read_time_minutes": 4,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/police-response.jpg",
+      "alt": "Healing Minds on the Frontline",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adult-friendships-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/ptsd-300x243.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/disclosing-diagnosis-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mindfulness-yogi-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/ptsd-300x129.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/future-anxiety-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 884,
+  "turkce_baslik": "Zihnin Görünmez Vardiyası: Travmanın Ardında Kalanlar",
+  "kanca_sorusu": "Göreviniz bittiğinde, zihninizdeki sirenler de susuyor mu, yoksa karanlıkta çalmaya devam mı ediyor?",
+  "score": 45,
+  "puan_nedeni": "Metin, ilk yanıt verenlerin (sağlık çalışanları, itfaiyeciler, polisler) yaşadığı travmaları ve klinik müdahaleleri ele alıyor. Klinik yönü ağır ve genel mesleki krizlere odaklandığı için takipçinin günlük ilişkisel dinamikleriyle birebir örtüşmez; bu yüzden puanı akademik/kurumsal kategoride daha düşüktür.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "Hayat kurtarmak, yalnızca başkalarının yaralarını sarmak değil, kendi zihninizde açılan görünmez kesikleri sürekli bastırmaktır. İlk müdahale ekipleri, polisler, itfaiyeciler ve acil çağrı operatörleri, her vardiyada yaşam ve ölüm çizgisinde yürürler. Ancak vardiya bittiğinde, üniforma çıkarıldığında bile zihin o tehlikeli anı kaydetmeye ve yeniden oynatmaya devam eder. Sirenin sesi kulaklardan silinmez; çünkü beyin, maruz kaldığı dehşeti sindirecek güvenli alanı bulamaz.\n\nAraştırmalar, bu meslek gruplarının genel nüfusa oranla çok daha yüksek oranlarda depresyon, kaygı ve travma sonrası stres bozukluğu ile mücadele ettiğini gösteriyor. Bireyler bu yükü genellikle sessizce taşır, çünkü yardım istemek bir zayıflık, hatta mesleki bir yetersizlik olarak kodlanır. Oysa mesele sadece irade gücü değil, nörolojik olarak sıkışmış anıların beden ve zihin üzerindeki baskısıdır.\n\nTravma odaklı Bilişsel Davranışçı Terapi ve EMDR gibi kanıt temelli yaklaşımlar, bu sıkışmış anıların işlenmesinde en güvenilir limanlardır. Ancak asıl mesele, kriz patlak vermeden önceki o sessiz aşamada başlar. Erken müdahale, farkındalık pratikleri ve önleyici zihinsel hazırlık çalışmaları, henüz kronikleşmemiş yaraların derinleşmesini engellemek için kritik birer köprüdür. İyileşmek, yalnızca mesleğin getirdiği yükü taşımak değil, o yükün altında ezilmeden kendinize yabancılaşmamayı seçmektir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihnin Görünmez Vardiyası",
+      "body": "Göreviniz bittiğinde, zihninizdeki o tehlike sinyalleri gerçekten susuyor mu?",
+      "highlight_box": "Tehlike biter, ama zihin nöbet tutmaya devam eder.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Taşınan Görünmez Yük",
+      "body": "Sürekli krizlerle yüzleşmek, bedenin ve zihnin alarm sistemini kalıcı olarak değiştirebilir.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Anıların Sıkışması",
+      "body": "Travmatik olaylar beyinde doğru işlenemez ve tetikleyicilerle sürekli yeniden yaşanır.",
+      "highlight_box": "Geçmiş, şimdiki zaman gibi hissedilir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Sessiz Tükenmişlik",
+      "body": "Yardım istemekten kaçınmak, yükü yalnız taşımaya çalışırken yabancılaşmayı artırır.",
+      "highlight_box": "Güçlü görünmek zorunda hissetmek.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Bilimsel İyileşme Yolları",
+      "body": "Travma odaklı bilişsel terapiler ve EMDR, sıkışmış anıların çözülmesinde en güçlü araçlardır.",
+      "highlight_box": "İyileşmek mümkündür, yalnız değilsiniz.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış ve Hatırlatma",
+      "body": "Ruh sağlığınızı korumak bir zayıflık değil, profesyonel ve insani bir zorunluluktur.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Mesai biter ama zihninizdeki sirenler çalmaya devam eder.",
+    "konusma_metni": "Göreviniz bittiğinde tehlike de biter sanırsınız. Oysa polisler, itfaiyeciler, sağlık çalışanları ve acil yardım ekipleri için en zorlu vardiya üniformayı çıkardıklarında başlar. Zihin, yaşanan her trajik olayı arka planda kaydetmeye ve tekrarlamaya devam eder. Bu sadece bir yorgunluk değil, çözülmemiş travmanın bedendeki yankısıdır. İyileşmek için önce o sesin neden hiç susmadığını kabul etmek gerekir."
+  },
+  "caption": "Hayat kurtarmanın, başkalarının acısına tanıklık etmenin ve sürekli kriz ortamında kalmanın ruhsal bir bedeli vardır. Mesai biter, üniforma çıkarılır ancak zihin o tehlikeli anı kaydetmeye ve tekrarlamaya devam eder. Bu görünmez yük, zamanla kaygı, depresyon ve travma sonrası stres bozukluğu olarak kendini gösterir. İyileşme süreci, bastırılan anıların bilimsel ve güvenli yöntemlerle işlenmesiyle başlar. \n\npsikoloji, travma, zihinselsağlık, emdr, stresyönetimi, tükenmişlik, ruhsağlığı",
+  "processed_at": "2026-09-26 16:22:36"
+}

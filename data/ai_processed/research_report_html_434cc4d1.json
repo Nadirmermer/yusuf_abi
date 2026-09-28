@@ -1,0 +1,145 @@
+{
+  "id": "research_report_html_434cc4d1",
+  "original_title": "Research Paper Format: Step-by-Step Guide & Examples",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/research-report.html",
+  "published_date": "2023-11-10T12:07:40+00:00",
+  "read_time_minutes": 9,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/how-to-write-a-lab-report-1.jpg",
+      "alt": "Research Paper Format: Step-by-Step Guide & Examples",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/intro-funnel.jpg",
+      "alt": "The funnel structure of the introducion to a lab report",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/apa-abstract-example-300x209.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/apa-references-page-formatting-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/essay-structure-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/apa-title-page-format-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/how-to-synthesize-information-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/How-to-cite-a-YouTube-video-in-APA-format-1-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/scholar.jpg",
+      "alt": "google scholar search results",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/apa-reference.jpg",
+      "alt": "apa reference",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1739,
+  "turkce_baslik": "Bilimsel Araştırma Formatları ve Psikoloji Literatürünün Anatomisi",
+  "kanca_sorusu": "Bir araştırmanın metodolojisi, insan zihninin karmaşık mekanizmalarını anlamamıza nasıl rehberlik eder?",
+  "score": 40,
+  "puan_nedeni": "Metin, doğrudan ilişkisel dinamikler, bağlanma stilleri veya bireysel içsel iyileşme süreçleri yerine akademik bir lab raporu ve APA formatı rehberi sunduğu için kuru akademik kategoridedir.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Psikoloji yalnızca sezgisel bir anlama çabası değil, aynı zamanda sıkı kurallara ve metodolojik temellere dayanan ampirik bir bilim dalıdır. Bir araştırma makalesinin veya laboratuvar raporunun yapısı; girişten hipoteze, yöntemden bulgulara kadar insan davranışını tarafsız ve sistematik bir biçimde inceleme arzumuzun ürünüdür. Bu akademik yapı, teorik argümanların havada kalmasını engeller ve gözlemlerimizi somut verilere dönüştürür. Bilimsel metot, zihnimizin yanılsamalarını minimize ederek gerçeğe ulaşmamız için bize harita sunar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Bilimsel Araştırmanın Anatomisi",
+      "body": "Psikolojide her bulgu, sıkı bir metodolojik süzgeceden geçer.",
+      "highlight_box": "Akademik rigor ve metodoloji",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Giriş ve Huni Yapısı",
+      "body": "Araştırma, geniş bir teorik çerçeveden başlar ve spesifik hipoteze doğru daralır.",
+      "highlight_box": "Genelden özele mantıksal akış",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Katılımcılar ve Örneklem",
+      "body": "Araştırmanın kimler üzerinde ve nasıl yapıldığının şeffaf bir şekilde ortaya konması.",
+      "highlight_box": "Demografik temsil ve örneklem seçimi",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Tasarım ve Değişkenler",
+      "body": "Bağımsız ve bağımlı değişkenlerin net bir şekilde tanımlanması ve kontrolü.",
+      "highlight_box": "Nedensellik bağının kurulması",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Bulgular ve Tartışma",
+      "body": "Elde edilen verilerin istatistiksel analizi ve literatüre katkısının yorumlanması.",
+      "highlight_box": "Veriden anlam üretme süreci",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Bilimsel Düşünce Disiplini",
+      "body": "Araştırma formatları, insan davranışını nesnel bir gözle incelemenin temelidir.",
+      "highlight_box": "Daha sonra incelemek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Psikolojide bir araştırmanın arkasındaki gizli iskeleti hiç merak ettiniz mi?",
+    "konusma_metni": "Bugün psikoloji makalelerinin nasıl yazıldığına ve bilimsel metodolojinin kalbine bakıyoruz. Girişten hipoteze, yöntemden tartışmaya kadar her adım, insan zihnini tarafsızca okumamızı sağlar. Bilimsel disiplinin zihnimizdeki karşılığını keşfetmek için kaydetmeyi unutmayın."
+  },
+  "caption": "Psikoloji sadece sezgilerden ibaret değildir; güçlü bir metodolojik altyapıya ve ampirik araştırmalara dayanır. Bilimsel makale formatları, insan zihnini tarafsız bir şekilde anlamamız için bize sistematik bir rehber sunar. Akademik süreçler ve araştırma metodolojisi hakkında daha fazla bilgi için bu içeriği kaydedebilirsiniz.\n\npsikoloji, bilimselaraştırma, metodoloji, akademikaraştırma, psikolojieğitimi, bilim, zihin",
+  "processed_at": "2026-09-26 17:44:13"
+}

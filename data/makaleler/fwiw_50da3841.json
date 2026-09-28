@@ -1,0 +1,44 @@
+{
+  "id": "fwiw_50da3841",
+  "url": "https://www.psychologytoday.com/us/blog/in-practice/200906/fwiw",
+  "source": "Psychology Today",
+  "blog_name": "in-practice",
+  "title": "FWIW",
+  "subtitle": null,
+  "author": "Peter D Kramer",
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2009-06-17T07:36:19-04:00",
+  "date_modified": "2009-06-17T07:36:19-04:00",
+  "read_time_minutes": 1,
+  "word_count": 12,
+  "summary": "Looking at the press coverage that debunks the \"Gene for Depression\"",
+  "topics": [
+    "Genetics"
+  ],
+  "key_points": [],
+  "sections": [],
+  "images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/blogs/36/2009/06/29994-77372.jpg?itok=gPOHaGC9",
+      "alt": "FWIW",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/Untitled_19.jpg?itok=fxhLB7Br",
+      "alt": "Peter D Kramer",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/sites/default/files/styles/article-inline-half/public/blogs/36/2009/06/29994-77372.jpg?itok=nLScPs5x",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# FWIW\n\n> Looking at the press coverage that debunks the \"Gene for Depression\"\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-21T20:10:21.757115"
+}

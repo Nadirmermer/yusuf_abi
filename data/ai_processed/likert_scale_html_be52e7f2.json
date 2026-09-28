@@ -1,0 +1,139 @@
+{
+  "id": "likert_scale_html_be52e7f2",
+  "original_title": "Likert Scale In Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/likert-scale.html",
+  "published_date": "2026-09-17T11:33:15+00:00",
+  "read_time_minutes": 24,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Likert-Scale.jpeg",
+      "alt": "Likert Scale In Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Likert-Scale-1024x683.jpeg",
+      "alt": "Likert Scale",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Likert-agree.jpg",
+      "alt": "likert scale agreement ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Validity-Reliability-300x217.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-construction-reality-300x157.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/content-validity-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Qualitative-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/autism-research-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confirmability-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4722,
+  "turkce_baslik": "Rakamlara Sıkıştırılan Duygular: Likert Ölçeğinin Psikolojik Arkasındaki Gerçek",
+  "kanca_sorusu": "Bir teste verdiğiniz \"kesinlikle katılıyorum\" cevabı, iç dünyanızdaki karmaşayı gerçekten ne kadar yansıtabilir?",
+  "score": 42,
+  "puan_nedeni": "Metin kuru bir araştırma metodolojisini, Likert ölçeğinin tarihini ve istatistiksel tanımını ele almaktadır. Doğrudan ilişkisel çatışma, bağlanma veya travma barındırmadığı, akademik ve teorik düzeyde kaldığı için katı puanlama ilkemiz gereği düşük puan verilmiştir.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Modern psikoloji, insanın uçsuz bucaksız ve karmaşık iç dünyasını anlamak ve ölçümlemek için sürekli araçlar geliştirmiştir. Rensis Likert tarafından 1932 yılında ortaya atılan ve bugün anketlerin vazgeçilmezi olan derecelendirme ölçekleri, bu çabanın en somut örneklerindendir. Duyguları, tutumları ve inançları sayısal verilere dönüştüren bu sistem, bireyin karmaşık ruh halini beşli ya da yedili bir çizgiye indirger. Ancak burada sorulması gereken asıl soru şudur: İnsanın içsel çalkantıları, kaygıları ve ilişki dinamiklerindeki hassasiyetleri gerçekten bir rakamla ifade edilebilir mi? Bilim, ölçülebilir veriler elde etmek zorundadır; fakat her insan kendi hikayesinde, cetvellere sığmayacak kadar özgündür.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Rakamlara Sıkıştırılan Ruh Hallerimiz",
+      "body": "Psikolojik testlerdeki o 1'den 5'e kadar olan sıralama, iç dünyamızı ne kadar doğru anlatıyor?",
+      "highlight_box": "Duygular matematiksel bir çizgiye indirgenebilir mi?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Ölçülebilir Olan ile Hissedilen Arasındaki Uçurum",
+      "body": "Karmaşık ilişkisel sorunlarımızı ve içsel çatışmalarımızı standart ölçeklerle anlamaya çalışırız.",
+      "highlight_box": "Bunu sık sık testlerde veya anketlerde yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Tek Bir Maddenin Sınırı",
+      "body": "Tek başına bir \"kesinlikle katılıyorum\" ifadesi, o anki ruh halinizin sadece yüzeyini gösterir.",
+      "highlight_box": "Tek bir yanıt tüm gerçeği saklayabilir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Bütünsel Ölçüm Yanılsaması",
+      "body": "Birden fazla soruyu toplamak bir ortalama verir, ancak insanın derinindeki eşsizliği göz ardı edebilir.",
+      "highlight_box": "İnsan psikolojisi ortalamalardan ibaret değildir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Sayıların Ötesine Bakabilmek",
+      "body": "Kendimizi anlamaya çalışırken kalıplaşmış testlerin dışına çıkıp kendi iç sesimize kulak vermeliyiz.",
+      "highlight_box": "Unutmayın: Bu bir süreçtir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış & İçsel Hatırlatma",
+      "body": "Hiçbir test veya ölçek, sizin benzersiz yaşantınızı tek başına tam olarak temsil edemez.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Anketlerdeki o \"kesinlikle katılıyorum\" şıkkı, ruh halinizi gerçekten yansıtıyor mu?",
+    "konusma_metni": "Bugün psikolojide sıkça kullandığımız Likert ölçeğini konuşuyoruz. Duygularımızı, öfkemizi ya da sevgimizi 1'den 5'e kadar numaralandırarak ölçmeye çalışıyoruz. Peki ama insan ruhu gerçekten bu kadar çizgisel mi? Bir anket maddesine verdiğiniz o orta yolcu cevap, aslında içimizdeki hangi savunma mekanizmasının bir ürünü? Gelin, duyguların sayılara dönüştüğü o ince çizgiye birlikte bakalım."
+  },
+  "caption": "Psikolojide insan davranışını ve tutumlarını ölçmek için onlarca yıldır farklı ölçekler kullanılmaktadır. Rensis Likert'in 1932 yılında geliştirdiği yöntem, sübjektif hisleri sayısal verilere dönüştürerek araştırmacılara bir zemin sunar. Ancak klinik pratikte ve günlük hayatta unutmamamız gereken kritik bir detay vardır: İnsanın iç dünyası, hiçbir zaman düz bir çizgiye ya da basit bir rakam aralığına sığdırılamayacak kadar derindir ve katmanlıdır. Testler birer araçtır, asıl gerçek ise sizin öznel hikayenizde saklıdır.\n\nPsikoloji Araştırma Metodolojisi Likert Ölçeği Psikometrik Testler İçsel Farkındalık Zihin Yönetimi",
+  "processed_at": "2026-09-26 17:02:46"
+}

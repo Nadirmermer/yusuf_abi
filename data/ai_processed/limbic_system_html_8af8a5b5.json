@@ -1,0 +1,139 @@
+{
+  "id": "limbic_system_html_8af8a5b5",
+  "original_title": "What Is The Limbic System?",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/limbic-system.html",
+  "published_date": "2026-09-17T11:33:17+00:00",
+  "read_time_minutes": 16,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/limbic-system.jpg",
+      "alt": "What Is The Limbic System?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/limbic-system-1.jpg",
+      "alt": "Title reads: limbic system functions. outline of a brain with the limbic areas highlighted in purple with functions of the limbic system surrounding this image such as memory formation, fear response, and reward-seeking behavior",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotions-brain-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/basal-ganglia-1-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sympathetic-vs-parasympathetic-nervous-system-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Glial-Cells-300x206.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/limbic-system-structures.jpg",
+      "alt": "limbic system structures",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3249,
+  "turkce_baslik": "Beynin Hayatta Kalma Mekanizması: Duygularımız Neden Mantığımızı Yener?",
+  "kanca_sorusu": "Neden en mantıklı kararları almanız gerektiği anlarda bile korku ve kaygı tüm zihninizi ele geçiriyor?",
+  "score": 45,
+  "puan_nedeni": "Makale temel olarak nöroloji ve beyin anatomisi (amigdala, hipokampus, üçlü beyin teorisinin çürütülmesi vb.) üzerine kuruludur. Doğrudan ilişkisel bir patoloji veya günlük yaşam taktiği sunmadığı, katı biyopsikolojik terimler içerdiği için puanımız düşüktür.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Günlük hayatımızda yaşadığımız ani öfke patlamaları, mantıksız görünen korkular veya bir kokuyla aniden tetiklenen geçmiş anılar, aslında derinlerde çalışan hayatta kalma mekanizmalarımızın birer yansımasıdır. Neokorteks yani mantıklı düşünen beynimiz geleceği planlarken, limbik sistemimiz en eski kodlarıyla bizi korumaya çalışır. Çoğu zaman mantığımızın sesini bastıran bu yapı, ilişkilerde neden sürekli savunmaya geçtiğimizi veya neden bazı durumlarda mantıklı kararlar alamadığımızı açıklar.\n\nAmigdalanın tehlike çanlarını çalması ile hipokampusun geçmiş acı dolu anıları bugüne taşınması, insan psikolojisinin en temel çatışmalarından birini oluşturur. Güvende hissetmediğimiz anlarda mantıklı iletişim kuramamamızın sebebi, beynimizin hayatta kalma moduna geçerek üst bilişsel işlevleri geçici olarak devre dışı bırakmasıdır. Bu biyolojik gerçekliği anlamak, kendi duygusal tepkilerimizi yargılamadan karşılamamız için ilk adımdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Mantığınız Neden Devre Dışı Kalır?",
+      "body": "En sakin anınızda bile birden bire ortaya çıkan o yoğun kaygı ve öfke hissinin arkasında biyolojik bir gerçek yatıyor.",
+      "highlight_box": "Bilinçli zihnimiz her zaman dümende değildir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Limbik Sistem ve Hayatta Kalma",
+      "body": "Beynimizin derinliklerindeki bu eski ağ, modern dünyadaki duygusal krizlerimizi yöneten gizli aktördür.",
+      "highlight_box": "Tehdit anında mantık susar, içgüdüler konuşur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Amigdala: Alarm Zili",
+      "body": "Tehlikeyi henüz siz mantık süzgecinden geçiremeden algılar ve bedeni anında savaş veya kaç moduna sokar.",
+      "highlight_box": "Çoğu zaman gerçek olmayan tehlikelere bile aynı tepkiyi verir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Hipokampus: Geçmişin Arşivi",
+      "body": "Yaşadığınız bugünkü olayları geçmişteki acı dolu anılarla eşleştirerek tepkilerinizi şekillendirir.",
+      "highlight_box": "Bugünkü partnerinizde geçmişteki yaralarınızı aramanızın sebebi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Tepkileri Yönetebilmek",
+      "body": "Bu biyolojik mekanizmayı değiştiremezsiniz ancak onun sizi yönetmesine dur diyebilirsiniz.",
+      "highlight_box": "Güvende olduğunuzu bedeninize hatırlatın.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Duygusal fırtınalar anında verdiğiniz tepkiler bir kişilik kusuru değil, hayatta kalma çabasıdır.",
+      "highlight_box": "Kendinizi suçlamayı bırakın, anlamaya çalışın.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden mantıklı kararlar almaya çalışırken içimizdeki o korku dolu ses her seferinde kazanıyor?",
+    "konusma_metni": "Günlük hayatta yaşadığımız ani öfke patlamaları, kaygılar ve ilişki krizleri aslında mantığımızın değil, beynimizin en eski bölgesi olan limbik sistemin kontrolündedir. Amigdala tehlikeyi sezdiği an mantıklı düşünmeyi durdurur ve sizi sadece hayatta tutmaya odaklanır. Mantığınızla savaşmayı bırakın; önce beyninizin sizi neden korumaya çalıştığını anlamalısınız."
+  },
+  "caption": "İlişkilerde neden mantıklı konuşamadığımızı, ani öfke patlamalarının veya sebepsiz kaygıların nereden geldiğini hiç düşündünüz mü? Cevap neokortekste değil, beynin en derinlerinde, hayatta kalma içgüdülerini yöneten limbik sistemde saklıdır. Amigdala tehlike çanlarını çaldığında, mantıklı kararlar alma yeteneğimiz geçici olarak devre dışı kalır. Bu durum bir irade zayıflığı değil, biyolojik bir hayatta kalma refleksidir. Kendi içsel tepkilerinizi anlamak ve dönüştürmek için bu içeriği kaydedebilir ve daha fazlası için profili inceleyebilirsiniz.\n\n#limbisksistem #amigdala #nöropsikoloji #kaygıyonetimi #beyinfonksiyonları #duygusaltepkiler #ya_da_psikoloji",
+  "processed_at": "2026-09-26 17:02:38"
+}

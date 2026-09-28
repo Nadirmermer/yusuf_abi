@@ -1,0 +1,50 @@
+{
+  "id": "ai_reinforces_existing_stereotypes_in_he_9beb8824",
+  "url": "https://www.psychologytoday.com/us/blog/digital-world-real-world/202606/ai-reinforces-existing-stereotypes-in-healthcare",
+  "source": "Psychology Today",
+  "blog_name": "digital-world-real-world",
+  "title": "AI Reinforces Existing Stereotypes in Healthcare",
+  "subtitle": null,
+  "author": "Phil Reed D.Phil.",
+  "author_title": "D.Phil.",
+  "reviewer": "Reviewed by Ekua Hagan",
+  "published_date": "2026-06-23T10:33:48-04:00",
+  "date_modified": "2026-06-23T10:33:48-04:00",
+  "read_time_minutes": 1,
+  "word_count": 22,
+  "summary": "AI does not impartially observe reality—it mirrors human stereotypes. Operating at scale, it reinforces inequalities.",
+  "topics": [
+    "Artificial Intelligence"
+  ],
+  "key_points": [],
+  "sections": [],
+  "images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-06/pexels-michael-berdyugin-79377620-8704147.jpg?itok=O7Hdh5gm",
+      "alt": "AI Reinforces Existing Stereotypes in Healthcare",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/phil_reed.png.jpg?itok=BhiU99b5",
+      "alt": "Phil Reed D.Phil.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-09/joa70-medicine-9077108.jpg?itok=M0soXCDl",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/chatgpt_image_sep_17__2026__10_52_30_am.png.jpg?itok=zXBZo7uo",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# AI Reinforces Existing Stereotypes in Healthcare\n\n> AI does not impartially observe reality—it mirrors human stereotypes. Operating at scale, it reinforces inequalities.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-21T20:50:40.046583"
+}

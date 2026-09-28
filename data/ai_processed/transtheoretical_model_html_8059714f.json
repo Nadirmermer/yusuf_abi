@@ -1,0 +1,127 @@
+{
+  "id": "transtheoretical_model_html_8059714f",
+  "original_title": "Transtheoretical Model: Stages of Health Behavior Change",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/transtheoretical-model.html",
+  "published_date": "2023-11-09T12:55:44+00:00",
+  "read_time_minutes": 5,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/transtheoretical-model-1.jpg",
+      "alt": "Transtheoretical Model: Stages of Health Behavior Change",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sympathetic-vs-parasympathetic-nervous-system-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/basal-ganglia-1-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/anorexia-food-restrant-300x216.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/child-development-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitters-hormones-300x248.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/themes/generatepress_child/images/user-placeholder.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 945,
+  "turkce_baslik": "Değişim Neden Doğrusal Değildir: Alışkanlıkların ve İlişkilerin Döngüsel Doğası",
+  "kanca_sorusu": "Neden aynı kısır döngüye tekrar tekrar düşüyor ve her defasında bunu bir başarısızlık olarak adlandırıyorsunuz?",
+  "score": 78,
+  "puan_nedeni": "Her ne kadar kökeni davranış değiştirme modellerine dayansa da, modelin nüksetme (relapse) kavramına yaklaşımı ve değişimin döngüselliği, takipçilerin toksik ilişkilerden çıkma, sınır koyma veya kötü alışkanlıkları bırakma süreçleriyle birebir örtüşmektedir. Ayna etkisi yüksek bir konudur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan psikolojisinde değişim asla düz bir çizgi izlemez. Hayatımızdaki zararlı bir döngüyü, toksik bir ilişkiyi ya da yıkıcı bir alışkanlığı geride bırakmaya çalışırken düştüğümüz en büyük tuzak, süreci doğrusal bir başarı veya başarısızlık ekseninde değerlendirmektir. Oysa değişim; inkâr, fark ediş, hazırlık, eylem ve sürdürme evreleri arasında ileri geri hareket edilen spiral bir süreçtir. \n\nİlk aşamalarda kişi, ortada bir sorun olduğunu dahi kabul etmez ya da geçmişteki başarısız denemelerinin yarattığı tükenmişlikle sessiz bir kabulleniştedir. Zamanla farkındalık başlar ancak eyleme geçmek her zaman cesaret gerektirmez. En kritik nokta ise nüksetme anıdır. Eski davranışa geri dönmek bir karakter zayıflığı ya da iradesizlik değil, değişimin doğal döngüsel yapısının bir parçasıdır. \n\nBu modeli anlamak, bireyin kendi içsel süreçlerine karşı geliştirdiği acımasız eleştiriyi dindirir. Değişim, bir gecede verilen keskin kararlarla değil, eski kalıpların neden olduğu döngüleri sabırla tanımak ve her seferinde kaldığın yerden ama daha donanımlı bir bilinçle devam etmekle mümkündür.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Değişim Neden Düz Bir Çizgi Değildir?",
+      "body": "Hayatınızda bırakmak istediğiniz bir şeyi neden defalarca denemenize rağmen geri dönüyorsunuz?",
+      "highlight_box": "Sorun iradenizde değil, değişimin doğasını yanlış okumanızda.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Değişimin Sessiz Evreleri",
+      "body": "Zararlı bir döngüyü bitirmek ani bir karar değil, zihnin hazırlık evrelerinden oluşan uzun bir süreçtir.",
+      "highlight_box": "İnkâr, farkındalık, hazırlık, eylem ve sürdürme.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Evre: İnkâr ve Çelişki",
+      "body": "Kişi sorunun varlığını ya reddeder ya da geçmişteki başarısızlıkların yarattığı yorgunlukla eylemsizliğe sığınır.",
+      "highlight_box": "Bunu değiştiremem hissinin arkasındaki tükenmişlik.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Evre: Döngüsel Geri Dönüşler",
+      "body": "İlerleme kaydettiğinizi sandığınız anlarda eski alışkanlıklara veya toksik dinamiklere geri savrulursunuz.",
+      "highlight_box": "Geri düşmek bir başarısızlık değil, spiral sürecin bir parçasıdır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Süreci Yönetmek",
+      "body": "Eskiye dönme anlarını bir yıkım olarak görmek yerine, nerede zorlandığınızı gösteren bir rehber olarak okuyun.",
+      "highlight_box": "Kendinize karşı şefkatli ama kararlı bir mesafe koyun.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kalıcı Değişimin Gerçeği",
+      "body": "Kalıcı iyileşme, hata yapmamak değil; eski döngüye döndüğünü fark edip tekrar yola koyulabilme becerisidir.",
+      "highlight_box": "Bu yayını gerektiğinde hatırlamak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Eskiye döndüğünüz her an, her şeyi mahvettiğiniz anlamına gelmez.",
+    "konusma_metni": "Hayatınızda değiştirmek istediğiniz bir şeyi kaç kez bırakıp tekrar başladınız? Her geri dönüşünüzde kendinizi iradesizlikle suçladınız değil mi? Oysa psikolojik değişim doğrusal değil, döngüseldir. İnkârla başlar, farkındalıkla evrilir, eylemle devam eder ve düşmek bu sürecin en doğaldır. Kendinizi suçlamayı bırakın, çünkü döngüyü anlamak değişimin kendisidir."
+  },
+  "caption": "Değişim, düz bir çizgide ilerleyen kusursuz bir gelişim hikayesi değildir. Çoğu zaman ileri atılan adımların ardından gelen geri çekilmelerle, yani döngüsel bir yapıyla yol alır.\n\nEski alışkanlıklara, toksik ilişkilere veya bırakmak istediğimiz zararlı döngülere geri döndüğümüzde ilk yaptığımız şey kendimizi suçlamaktır. Iradesizlikle, zayıflıkla ya da başaramamakla suçlarız kendimizi. Oysa psikolojik değişim modelleri bize bunun tam aksini söyler: Nüksetmek, yani eski davranışa geçici bir dönüş yapmak, sürecin doğal ve kaçınılmaz bir parçasıdır.\n\nÖnemli olan, bu geri dönüşleri bir son olarak değil, sistemin nerede tıkanıp kaldığını gösteren birer sinyal olarak okuyabilmektir. Kendinize karşı gösterdiğiniz acımasız eleştiriyi durdurmadığınız sürece, hiçbir değişim kalıcı bir temele oturamaz.\n\n#psikoloji #kişiselgelişimdegil #farkındalık #zihinyönetimi #ilişkiler #özşefkat #ya_da_psikoloji",
+  "processed_at": "2026-09-26 17:44:44"
+}

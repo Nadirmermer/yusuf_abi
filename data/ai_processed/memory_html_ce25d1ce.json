@@ -1,0 +1,127 @@
+{
+  "id": "memory_html_ce25d1ce",
+  "original_title": "Memory Stages: Encoding Storage and Retrieval",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/memory.html",
+  "published_date": "2026-08-26T20:44:21+00:00",
+  "read_time_minutes": 7,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Stages-of-Memory-1.jpg",
+      "alt": "Memory Stages: Encoding Storage and Retrieval",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--300x97.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/State-Dependent-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-memory-300x111.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/schemas-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/episodic-memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1477,
+  "turkce_baslik": "Zihnimiz Geçmişi Nasıl Saklar: Kodlama, Depolama ve Hatırlama",
+  "kanca_sorusu": "Neden bazı anıları ömür boyu unutmazken, odaya neden girdiğinizi bir anda unutuverirsiniz?",
+  "score": 45,
+  "puan_nedeni": "Metin temel bir bilişsel psikoloji ve nöroloji konusunu (bellek aşamaları) ele almaktadır. Her ne kadar insan zihninin işleyişini açıklasaequations, doğrudan ilişkisel çatışmalar veya duygusal bağlar barındırmadığı, daha çok akademik bir teori olduğu için puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, dış dünyadan gelen uyaranları sürekli olarak işleyen, sınıflandıran ve saklayan karmaşık bir bilgi işlem merkezidir. Bilişsel psikolojide bellek; kodlama, depolama ve geri getirme olmak üzere üç temel aşamadan oluşur. Dışarıdan gelen bir bilginin zihnimizde kalıcı hale gelmesi, onun nasıl kodlandığıyla doğrudan ilişkilidir. Kimi bilgiler akustik, kimi bilgiler ise anlamsal olarak işlenir. Kısa süreli belleğin sınırlı kapasitesi karşısında, uzun süreli bellek neredeyse sınırsız bir potansiyele sahiptir. Ancak mesele sadece saklamak değil, doğru ipuçlarıyla o bilgiyi gerektiğinde geri çağırabilmektir. Unutma dediğimiz olgu, genellikle bilginin kaybolmasından değil, ona ulaşacak doğru anahtarın bulunamamasından kaynaklanır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihnin Gizli Arşivi",
+      "body": "Geçmişi hatırlama biçimimiz, bilgiyi zihnimizde nasıl yapılandırdığımızla başlar.",
+      "highlight_box": "Bellek sadece saklamak değil, doğru zamanda geri getirmektir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Üç Temel Aşama",
+      "body": "Bilgi sisteme girer, işlenir, saklanır ve gerektiğinde çağrılır.",
+      "highlight_box": "Kodlama, Depolama, Geri Getirme",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Kısa Süreli Belleğin Sınırı",
+      "body": "Çoğu yetişkin kısa süreli belleğinde sınırlı miktarda öğe tutabilir ve bu süre saniyelerle ölçülür.",
+      "highlight_box": "Miller'ın sihirli sayısı: 5 ile 9 arası.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Uzun Süreli Belleğin Sınırsızlığı",
+      "body": "Anlamlandırılan bilgiler uzun süreli belleğe geçer ve ömür boyu saklanabilir.",
+      "highlight_box": "Anlam temelli kodlama kalıcılığı artırır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Hatırlama İpuçları",
+      "body": "Unuttuğunuzu sandığınız anılar, doğru bağlamsal ipuçlarıyla yeniden çağrılabilir.",
+      "highlight_box": "Ortam değiştiğinde hafıza ipuçları da değişir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Zihinsel Yapılanma",
+      "body": "Bilgiyi kategorize etmek ve anlamlandırmak zihinsel yükü hafifletir.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Odaya niye girdiğinizi unuttuğunuz o an, beyniniz aslında çok net bir şey söylüyor.",
+    "konusma_metni": "Günlük hayatta sürekli bir şeyleri unuturuz. Kısa süreli belleğimiz sadece birkaç saniye ve sınırlı sayıda bilgiyi tutabilir. Miller'ın sihirli sayısı dediğimiz bu kapasite dolduğunda, yeni gelen bilgi eskisini iter. Ancak uzun süreli belleğimiz sınırsızdır. Unuttuğunuzu sandığınız şeyler aslında silinmemiştir, sadece doğru ipucunu bulamadığınız için oradan çıkaramıyorsunuzdur."
+  },
+  "caption": "Bilişsel psikolojide bellek süreçleri, zihnimizin dış dünyayı nasıl anlamlandırdığını ve geçmişi bugüne nasıl taşıdığını gösterir. Kodlama, depolama ve geri getirme aşamaları, günlük hayattaki odaklanma ve hatırlama sorunlarımızın temelini oluşturur. Belleğin kapasitesi ve işleyiş mekanizmaları hakkında daha fazlası için bu yayını kaydedebilir ve düşündüklerinizi yorumlarda paylaşabilirsiniz. #bilişselpsikoloji #bellek #hafıza #zihinyönetimi #nöropsikoloji #odaklanma",
+  "processed_at": "2026-09-26 17:11:24"
+}

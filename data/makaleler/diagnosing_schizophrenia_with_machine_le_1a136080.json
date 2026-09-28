@@ -1,0 +1,44 @@
+{
+  "id": "diagnosing_schizophrenia_with_machine_le_1a136080",
+  "url": "https://www.psychologytoday.com/us/blog/living-as-an-outlier/202602/diagnosing-schizophrenia-with-machine-learning",
+  "source": "Psychology Today",
+  "blog_name": "living-as-an-outlier",
+  "title": "Diagnosing Schizophrenia With Machine Learning",
+  "subtitle": null,
+  "author": "Sarah An Myers",
+  "author_title": null,
+  "reviewer": "Reviewed by Jessica Schrader",
+  "published_date": "2026-02-23T08:50:42-05:00",
+  "date_modified": "2026-02-23T08:50:42-05:00",
+  "read_time_minutes": 1,
+  "word_count": 25,
+  "summary": "Machine learning can predict many things, but can it predict who will develop schizophrenia years before the average diagnosis time?",
+  "topics": [
+    "Artificial Intelligence"
+  ],
+  "key_points": [],
+  "sections": [],
+  "images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-02/vitaly-gariev-tw-mAZXr6H4-unsplash.jpg?itok=JJnx28VY",
+      "alt": "Diagnosing Schizophrenia With Machine Learning",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-06/sarah_myers.png.jpg?itok=uuTys-8l",
+      "alt": "Sarah An Myers",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/vitaly-gariev-tw-mAZXr6H4-unsplash.jpg?itok=teQZ0ols",
+      "alt": "Vitaly Gariev/Unsplash",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Diagnosing Schizophrenia With Machine Learning\n\n> Machine learning can predict many things, but can it predict who will develop schizophrenia years before the average diagnosis time?\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-21T21:26:47.189179"
+}

@@ -1,0 +1,133 @@
+{
+  "id": "is_autism_a_learning_disability_html_269ac49d",
+  "original_title": "Is Autism A Learning Disability? The “Spiky Profile” And Why IQ Scores Miss The Mark",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/is-autism-a-learning-disability.html",
+  "published_date": "2025-11-20T14:03:53+00:00",
+  "read_time_minutes": 6,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brain-image.jpg",
+      "alt": "Is Autism A Learning Disability? The “Spiky Profile” And Why IQ Scores Miss The Mark",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/autism-spiky-profile.jpg",
+      "alt": "autism spiky profile",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/phd-student-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/making-excuses-autism-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/autism-workplace-strengths-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bottom-up-thinking-autism-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/unmask-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adhd-identity-mask-300x210.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1220,
+  "turkce_baslik": "Zeka Testlerinin Yanıltıcı Aynası: Otizm ve Çivili Profil Gerçeği",
+  "kanca_sorusu": "Çok iyi odaklanıp harika işler çıkarırken, en basit günlük rutinlerde neden tamamen tükeniyorsunuz?",
+  "score": 78,
+  "puan_nedeni": "Nörodalılığın günlük yaşamdaki yansımaları, maskeleme maliyeti ve 'yüksek işlevsellik' etiketlerinin birey üzerindeki ilişkisel ve psikolojik yükünü derinlemesine ele alması nedeniyle yüksek puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Otizm tanısı alan birçok kişi ve yakını, yıllardır yanlış bilinen etiketlerin ve kafa karıştırıcı terimlerin arasında yön bulmaya çalışıyor. Eski tanı kılavuzları ve toplumun dar kalıpları, otizmi bir öğrenme güçlüğü veya düşük zeka ile karıştırma eğilimindeydi. Oysa modern psikoloji ve nörobilim, otizmin temelinde zeka eksikliği değil, beynin dünyayı işleme biçimindeki köklü bir farklılık yattığını gösteriyor. Uzmanların 'Çivili Profil' (Spiky Profile) olarak adlandırdığı bu durum, bir alanda dahi düzeyinde yetenekler sergilerken, başka bir alanda yoğun duyusal ve işlevsel zorluklar yaşamak anlamına geliyor.\n\nToplumda sıkça yapılan büyük bir hata, yüksek IQ'ya veya güçlü sözel becerilere sahip kişilerin otizminin hafif olduğunu düşünmektir. 'Yüksek işlevselliğe' sahip olmak, zorlukların olmadığını değil, kişinin bu zorlukları gizlemek için devasa bir zihinsel enerji harcadığını gösterir. Maskeleme adı verilen bu süreçte birey, sosyal dinamikleri mantıksal olarak çözmeye çalışır, göz teması kurmak veya konuşmaları önceden tasarlamak için sürekli bir performans sergiler. Dışarıdan bakıldığında her şeyi kusursuz yöneten biri gibi görünmek, içeride yaşanan tükenmişlik, kaygı ve yalnızlık hissini daha da derinleştirir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zeka Testlerinin Kaçırdığı Gerçek",
+      "body": "Otizm bir öğrenme güçlüğü değildir; beynin dünyayı algılama ve işleme biçimidir.",
+      "highlight_box": "Yüksek zeka, otizmin zorluklarını ortadan kaldırmaz.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Çivili Profil Nedir?",
+      "body": "Düz bir çizgi yerine zirveler ve derin çukurlardan oluşan bir zihinsel mimari.",
+      "highlight_box": "Bazı konularda dâhilik, bazı günlük işlerde yoğun zorlanma.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Maskelemenin Bedeli",
+      "body": "Toplumsal uyum sağlamak için harcanan devasa zihinsel enerji.",
+      "highlight_box": "Göz temasını zorla sürdürmek, konuşmaları zihinde senaryolaştırmak.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Yüksek İşlevsellik Miti",
+      "body": "Dışarıdan her şeyi kusursuz yönetiyor görünmek, içerideki tükenmeyi gizler.",
+      "highlight_box": "Yetkin görünmek, destek ihtiyacınız olmadığı anlamına gelmez.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Eksiklik Değil, Uyumsuzluk",
+      "body": "Sorun sizin zihninizde değil; dünyanın size sunduğu standartların kalıbında.",
+      "highlight_box": "Kendinizi onarmaya değil, anlaşılmaya ihtiyacınız var.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Olduğunuz Gibi Kabul",
+      "body": "Zihninizin benzersiz yapısını saklamaktan vazgeçtiğinizde iyileşme başlar.",
+      "highlight_box": "Bu içgörüyü kaybetmemek için kaydet.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Zeki olmanız, otizmin getirdiği o tükenmeyi ve gizli yorgunluğu ortadan kaldırmaz.",
+    "konusma_metni": "Çok karmaşık problemleri saniyeler içinde çözerken neden en basit günlük rutinlerde tıkanıp kalıyorsunuz? Çünkü zeka ile otizm aynı şey değildir. Buna çivili profil diyoruz. Bazı alanlarda dahi seviyesindeyken, diğer alanlarda yoğun duyusal yükle baş etmeye çalışırsınız. Ve dışarıdan her şeyi harika yönetiyor gibi görünmeniz, içeride verdiğiniz o sessiz ve yorucu mücadeleyi kimseye göstermez."
+  },
+  "caption": "Otizm tanısı alan birçok kişi, zeka ile nörodalılığın birbirine karıştırıldığı yanlış bir algı labirentinde yol bulmaya çalışıyor. Eski kalıplar otizmin bir öğrenme güçlüğü olduğunu varsayarken, modern psikoloji bunun tamamen farklı bir zihinsel kablolama biçimi olduğunu ortaya koyuyor. Çivili profil dediğimiz bu yapıda birey, bazı alanlarda dahi seviyesinde yetenekler sergilerken, günlük rutinlerde veya duyusal işlemlemede yoğun zorlanmalar yaşayabilir. Toplumdaki 'yüksek işlevsellik' veya 'hafif otizm' mitleri, bireyin hayatını sürdürmek için arkada çevirdiği o gizli ve yorucu maskeleme çabasını görünmez kılar. Dışarıdan her şey yolunda görünürken içeride yaşanan tükenmişlik, doğru anlaşılmayı ve gerçek bir kabulü gerektirir. Bu konuyu kendi iç dünyanızda nasıl deneyimliyorsunuz? Yorumlarda buluşalım.\n\n#otizm #nörodalılık #çiviliprofil #psikoloji #zihin #farkındalık #ya_da_psikoloji",
+  "processed_at": "2026-09-26 17:21:49"
+}

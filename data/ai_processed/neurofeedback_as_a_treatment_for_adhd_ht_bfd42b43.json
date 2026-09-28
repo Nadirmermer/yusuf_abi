@@ -1,0 +1,127 @@
+{
+  "id": "neurofeedback_as_a_treatment_for_adhd_ht_bfd42b43",
+  "original_title": "Neurofeedback As A Treatment For ADHD",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/neurofeedback-as-a-treatment-for-adhd.html",
+  "published_date": "2024-03-12T17:29:49+00:00",
+  "read_time_minutes": 9,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Neurofeedback-ADHD-Treatment.jpg",
+      "alt": "Neurofeedback As A Treatment For ADHD",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adhd-problems-at-work-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/how-to-use-adhd-to-your-advantage-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/middle-age-adhd-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/anxious-woman-adhd-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adhd-anger-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adhd-friendships-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1708,
+  "turkce_baslik": "Dikkat Dağınıklığı ve Zihinsel Dağınıklık: Beyin Dalgalarını Yeniden Eğitmek Mümkün mü?",
+  "kanca_sorusu": "Zihniniz sürekli bir radyo frekansı gibi farklı istasyonlar arasında geziniyor ve bir türlü odaklanamıyor mu?",
+  "score": 48,
+  "puan_nedeni": "Metin nöroloji, EEG, beta ve theta dalgaları gibi teknik ve akademik bir konuyu işlediği için doğrudan ilişkisel dinamikler ve duygusal derinlik yerine klinik/tıbbi bir yaklaşım sunuyor. Takipçinin günlük ilişkisel dünyasına doğrudan dokunmadığı için puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Günümüz dünyasında odaklanmak, sadece dikkat eksikliği olan bireyler için değil, aşırı uyaran bombardımanına maruz kalan herkes için zorlu bir mücadeleye dönüştü. Beynimiz, durmaksızın gelen bildirimler, görevler ve bitmek bilmeyen düşünce akışları arasında kendini kaybetmiş hissediyor. Nöroloji ve psikoterapinin kesişim kümesinde yer alan nööröfeedback gibi yöntemler, beyin dalgalarını yeniden düzenleyerek bireylere kendi zihinsel duraklarını kontrol etme imkanı sunuyor. Bu durum, sadece klinik bir müdahale değil, aynı zamanda bireyin kendi içsel gürültüsünü susturma çabasının somut bir yansımasıdır.\n\nAncak unutulmamalıdır ki hiçbir teknik, bireyin kendi iç dünyasıyla kurduğu temastan daha güçlü bir dönüştürücü etkiye sahip değildir. Zihinsel dağınıklık, çoğu zaman sadece biyolojik bir kodlama değil, aynı zamanda modern hayatın yarattığı ruhsal bir yorgunluğun sonucudur. Beyin dalgalarını eğitmek bir araçtır, fakat asıl amaç bireyin kendi içsel ritmini bulması ve bu koşturmaca içinde kendine güvenli bir alan yaratabilmesidir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihinsel Sis ve Odaklanma Sorunu",
+      "body": "Sürekli bir şeyler yapmaya çalışıp hiçbir şeyi tamamlayamam hissiyatı.",
+      "highlight_box": "Zihniniz sürekli bir radyo frekansı gibi mi?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Beynin Arka Plan Gürültüsü",
+      "body": "Odaklanmayı sağlayan dalgalar ile yorgunluk üreten dalgalar arasındaki dengesizlik.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Düşük Beta Dalgaları",
+      "body": "Beta dalgaları dikkat ve odaklanma ile ilgilidir. Bu dalgaların düşüklüğü zihinsel uyuşukluk yaratır.",
+      "highlight_box": "Odaklanma çabası sonuç vermez.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Yüksek Theta Dalgaları",
+      "body": "Theta dalgaları hayal kurma ve dalgınlıkla ilişkilidir. Kontrol edilmediğinde sürekli bir zihinsel kaçış başlar.",
+      "highlight_box": "Gerçeklikten kopuş hissi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Öz-Düzenleme Becerisi",
+      "body": "Beyne doğru frekansı hatırlatmak ve kendi kendini dengelemesini sağlamak mümkündür.",
+      "highlight_box": "Unutmayın: Bu bir süreçtir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Dengeye Doğru",
+      "body": "Zihninizi suçlamak yerine onu anlamayı ve eğitmenin yollarını arayın.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Sürekli bir şeyleri unutuyor ve odaklanmakta zorlanıyorsanız, sorun iradenizde olmayabilir.",
+    "konusma_metni": "Gün içinde dikkatinizin sürekli dağılması, zihninizin aynı anda on farklı sekme açması sadece tembellik ya da iradesizlik değildir. Beynimiz bazen yanlış frekanslarda takılı kalır. Bilimsel olarak odaklanmayı sağlayan dalgalarla, yorgunluk üreten dalgalar arasındaki dengesizlik, zihinsel bir sis yaratır. Önemli olan bu mekanizmayı tanımak ve zihne yeniden odaklanmayı öğretmektir."
+  },
+  "caption": "Zihinsel dağınıklık ve odaklanma sorunları, modern insanın en yaygın içsel mücadelelerinden biridir. Sürekli bir şeyleri kaçırıyormuş hissiyatı, sadece irade eksikliğiyle açıklanamaz. Beynimizin çalışma mekanizmasını ve dalgalarını anlamak, bu döngüyü kırmak için atılacak ilk adımdır. Daha derinlemesine analizler ve zihin yönetimi üzerine içerikler için takipte kalın. #dikkatdağınıklığı #zihinYönetimi #nöroloji #odaklanma #psikoloji #farkındalık #ya_da_psikoloji",
+  "processed_at": "2026-09-26 17:40:28"
+}

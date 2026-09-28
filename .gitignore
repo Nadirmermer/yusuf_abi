@@ -22,12 +22,7 @@ Thumbs.db
 *.tmp
 *.bak
 
-# Large local content and generated output
-# Keep the folders in the repository with .gitkeep files if needed.
-data/makaleler/*.json
-data/makaleler/*.md
-data/ai_processed/*
-!data/ai_processed/.gitkeep
+# Generated carousel images are local output and do not need to be shared.
 data/carousels/*
 !data/carousels/.gitkeep
 

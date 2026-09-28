@@ -1,0 +1,151 @@
+{
+  "id": "interneuron_function_html_b7b2dc9d",
+  "original_title": "What Are Interneurons And Their Functions?",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/interneuron-function.html",
+  "published_date": "2025-07-04T08:22:36+00:00",
+  "read_time_minutes": 5,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/interneuron-function.jpg",
+      "alt": "What Are Interneurons And Their Functions?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-motor-relay-neurons-300x253.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cns-pns-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurons-vs-glial-cells-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/excitatory-vs-inhibitory-neurotransmitters-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/electrical-synapse-1-300x251.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/interneuron.jpg",
+      "alt": "interneuron",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurons.jpg",
+      "alt": "neurons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Interneuron-1.jpg",
+      "alt": "Interneuron 1",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/relay-neuron.jpg",
+      "alt": "relay neuron",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1071,
+  "turkce_baslik": "Beynin Sessiz Mimarları: Düşüncelerimiz Arasındaki Görünmez Bağlar",
+  "kanca_sorusu": "Hayatınızda her şey üstünüze gelirken zihninizi durduran, sizi frenleyen o içsel sesin nereden geldiğini hiç düşündünüz mü?",
+  "score": 40,
+  "puan_nedeni": "Metin tamamen nörobiyolojik ve akademik temelli interneuron (ara nöron) mekanizmalarını, GABA reseptörlerini ve beyin anatomisini anlatmaktadır. Doğrudan ilişkisel bir içgörü veya duygusal bir ayna etkisi sunmadığı için puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, dış dünyadan gelen uyarıcılara karşı sürekli bir tepki halindedir. Ancak bu karmaşık ağın içinde, gelen bilgiyi işleyen, ne zaman durmamız veya ne zaman harekete geçmemiz gerektiğini belirleyen görünmez ileticiler vardır. Nörobiyolojide ara nöronlar olarak bilinen bu yapılar, beyindeki uyarıcı ve durdurucu sinyallerin dengesini sağlar. Günlük hayatta yaşadığımız ani öfke patlamaları, durduramadığımız kaygı döngüleri veya aşırı düşünme halleri, zihnimizdeki bu hassas modülasyon mekanizmasının birer yansımasıdır. Beyin, sürekli bir uyarı bombardımanı altındaken, onu dengeleyen ve aşırı yüklenmeden koruyan bu biyolojik frenler olmadan sağlıklı bir karar verme süreci yürütülemez.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Görünmez Bağlantılar",
+      "body": "Zihnimizdeki her düşünce ve duygu, anlık bir reaksiyon değildir; arka planda çalışan karmaşık bir ağın eseridir.",
+      "highlight_box": "Tepkilerimizin arkasındaki biyolojik denge",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Zihinsel Fren Sistemi",
+      "body": "Beynimiz sadece uyaranları almaz; aynı zamanda hangi uyarıcının durdurulması gerektiğine de karar verir.",
+      "highlight_box": "Durabilmek, harekete geçmekten daha zordur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Aşırı Uyarılma Hali",
+      "body": "Fren mekanizması zayıfladığında, en küçük olaylar bile zihinde devasa krizlere dönüşebilir.",
+      "highlight_box": "Sürekli tetikte olma hissi",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Duygusal Modülasyon",
+      "body": "Nörotransmitterlerin dengesi, olaylar karşısında sakin kalabilme veya paniğe kapılma kapasitemizi belirler.",
+      "highlight_box": "İçsel dengeyi korumak",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Farkındalık ve Sınır",
+      "body": "Zihinsel aşırı yüklenmeyi fark etmek, otomatikten çıkıp bilinçli bir durma alanı yaratmanın ilk adımıdır.",
+      "highlight_box": "Refleksleri durdurma gücü",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Denge",
+      "body": "Zihin, ancak kendi içindeki uyarıcı ve durdurucu sesleri dengeleyebildiği ölçüde huzur bulur.",
+      "highlight_box": "Bu derinlemesine analizi kaydetmeyi unutmayın.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Zihninizdeki o durmak bilmeyen karmaşayı yöneten gizli bir mekanizma var.",
+    "konusma_metni": "Gün içinde yaşadığınız onca olay karşısında neden bazen ani tepkiler verirken bazen sessiz kalıyorsunuz? Beynimizdeki ara nöronlar, yani bağlantı hücreleri, dışarıdan gelen uyaranlarla verdiğimiz tepkiler arasında bir köprü kurar. Eğer bu biyolojik fren sistemi düzgün çalışmazsa, zihin sürekli bir alarm halinde kalır. Aşırı düşünme ve kaygı nöbetlerinin temelinde de bu sinyal dengesizliği yatar."
+  },
+  "caption": "Zihnimiz, dış dünyadan gelen uyaranlarla başa çıkabilmek için karmaşık bir denge ağına ihtiyaç duyar. Beynimizdeki ara nöronlar ve nörotransmitterler, sadece biyolojik ileticiler değil; aynı zamanda verdiğimiz tepkileri frenleyen, duygularımızı modüle eden görünmez yöneticilerdir. Aşırı düşünme ve sürekli tetikte olma halleri, bu içsel denge mekanizmasının zorlandığının bir göstergesidir. Zihinsel süreçlerinizi daha derinlemesine anlamak ve bu bülteni kaydetmek için profildeki diğer içeriklere göz atabilirsiniz.\n\n#zihin #nöroloji #psikoloji #kaygı #bilişselfarkındalık #sinirbilim #içseldenge",
+  "processed_at": "2026-09-26 15:51:52"
+}

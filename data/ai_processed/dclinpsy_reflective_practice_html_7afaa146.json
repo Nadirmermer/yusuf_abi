@@ -1,0 +1,127 @@
+{
+  "id": "dclinpsy_reflective_practice_html_7afaa146",
+  "original_title": "DClinPsy Reflective Practice",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/dclinpsy-reflective-practice.html",
+  "published_date": "2026-09-17T11:00:45+00:00",
+  "read_time_minutes": 19,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mental-health-journal-writing.jpeg",
+      "alt": "DClinPsy Reflective Practice",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Personal-Statment-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/gibbs-reflective-cycle-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/clinical-psychology-interview-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/what-so-what-now-what-300x252.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/essay-structure-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/how-to-synthesize-information-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Dapo-Olafimihan.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3780,
+  "turkce_baslik": "Kendi Görünmez Bagajımız: Terapist Odasından Günlük Hayata Yansıyanlar",
+  "kanca_sorusu": "Karşınızdaki insanın öfkesi ya da neşesi, aslında sizin içsel yaralarınıza mı dokunuyor, farkında mısınız?",
+  "score": 82,
+  "puan_nedeni": "Metin her ne kadar klinik psikoloji eğitiminden ve süpervizyondan bahsetse de, özünde aktarım, karşı aktarım ve insanın kendi iç sesini dürüstçe dinlemesi (öz-gözlem) gibi doğrudan ilişkisel dinamiklere odaklanıyor. Takipçinin kendi ilişkilerindeki kör noktalarını sorgulaması için yüksek bir ayna etkisi yaratıyor.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "İlişkilerimizde sıkça düştüğümüz bir tuzak vardır: Karşımızdaki insanın bugünkü hareketine tepki verdiğimizi zannederiz, oysa aslında kendi geçmişimizin, sönmemiş yangınlarımızın ya da çözülmemiş meselelerimizin sesine kulak veriyoruzdur. Klinik psikolojide karşı aktarım olarak bilinen bu durum, sadece terapi odalarına mahsus değildir. Hayatın her alanında, en yakınlarımızla kurduğumuz bağlarda da devrededir. Karşımızdaki insan bizi, ailemizden birine benzetebilir; onun kullandığı bir savunma mekanizması (örneğin her şeyi şakaya vurması) bizim kendi kaçıngan taraflarımızı tetikleyebilir.\n\nGerçek bir içsel olgunlaşma, başkalarını değiştirmeye çalışmakla değil, kendi iç dünyamızın motorunu incelemekle başlar. Bir tartışmada hissettiğimiz o ani sıkışma, o haklı çıkma arzusu ya da kontrolü kaybetme korkusu kime aittir? Karşıdakine mi, yoksa bizim içeride taşıdığımız ve kimseye gösteremediğimiz yaralı çocuğa mı? Sınırlarımızı çizebilmek ve sağlıklı ilişkiler kurabilmek için önce kendi zihnimizin görünmez tuzaklarını fark etmemiz gerekir.\n\nÖz-gözlem, insanın kendiyle yüzleşme cesaretidir. Bir karar alırken veya bir ilişkiyi bitirirken ya da sürdürürken, hareketin arkasındaki asıl motivasyonu sorgulamak zordur. Kurallara, formüllere veya dışsal doğrulara sığınmak her zaman daha kolaydır çünkü belirsizlikle yüzleşmektense bir şablona tutunmak insana güvende hissettirir. Oysa hayatın gerçekleri ortalamalara sığmaz; tıpkı ilişkilerin standart reçetelerinin olmaması gibi. Kendi iç sesimizi ve duygusal maliyetlerimizi dürüstçe incelemediğimiz sürece, başkalarıyla kurduğumuz bağlar sadece tekrarlayan döngülerden ibaret kalır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Görünmez Bagaj",
+      "body": "İlişkilerimizde yaşadığımız çatışmaların çoğu, karşımızdakinin ne yaptığıyla değil, bizim içeride ne taşıdığımızla ilgilidir.",
+      "highlight_box": "Her tepki, geçmişin bir yansıması olabilir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Aktarım ve Gerçeklik",
+      "body": "Karşımızdaki insan bize geçmişimizden birini hatırlattığında, onu olduğu gibi değil, hafızamızın filtreleriyle görmeye başlarız.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Savunma Mekanizmaları",
+      "body": "Örneğin mizah ya da aşırı mantığa bürünme, bazen aradaki bağı korumak için değil, yoğun duygulardan kaçmak için birer basınç valfi gibi çalışır.",
+      "highlight_box": "Kahkaha bazen söylenmeyenin üzerini örter.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Kurallara Sığınmak",
+      "body": "Belirsizlikle başa çıkamadığımızda, ilişkilerde veya hayatta katı kurallara ve reçetelere sığınırız. Oysa insan tektir ve reçetelere sığmaz.",
+      "highlight_box": "Doğru olanı yapmak mı, kaygıyı bastırmak mı?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Durup Düşünme Cesareti",
+      "body": "Tepki vermeden önce durabilmek, kendi rahatsızlığımızın kaynağını dışarıda değil içeride aramak olgunlaşmanın ilk adımıdır.",
+      "highlight_box": "Unutmayın: Bu bir süreçtir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Dürüstlük",
+      "body": "Kendi kör noktalarınızla yüzleşmek cesaret ister. Başkalarını anlamak, önce kendi iç sesinizi dürüstçe dinlemekle başlar.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Karşınızdaki insana verdiğiniz o keskin tepki, aslında kime ait biliyor musunuz?",
+    "konusma_metni": "Çoğu zaman ilişkilerimizde karşımızdaki kişinin bugünkü haline değil, kendi geçmişimizden taşıdığımız yaralara tepki veririz. Buna psikolojide karşı aktarım diyoruz. Bir tartışmada yükseldiğinizde veya bir konudan kaçındığınızda kendinize şu soruyu sorun: Bu hissim gerçekten şu anki duruma mı ait, yoksa içeride sessizce bekleyen eski bir hikayenin tekrarı mı? Kendi iç sesinizi incelemediğiniz sürece, sadece eski filmleri farklı yüzlerle izlemeye devam edersiniz."
+  },
+  "caption": "İlişkilerimizde kurduğumuz bağların derinliği, kendi iç dünyamıza bakma cesaretimiz kadardır. Çoğu zaman karşımızdaki insanın davranışlarına verdiğimiz tepkiler, kendi geçmişimizden, sönmemiş meselelerimizden ve çözülmemiş kör noktalarımızdan beslenir.\n\nPsikolojide karşı aktarım olarak ele alınan bu durum, günlük hayatımızda da bizi sürekli test eder. Bir tartışmada hissettiğimiz ani öfke, bir konudan kaçma isteğimiz ya da her şeyi şakaya vurma eğilimimiz kime aittir? Karşımızdakine mi, yoksa içimizde taşıdığımız o eski hikayeye mi?\n\nKendi zihnimizin tuzaklarını fark etmek, başkalarını suçlamaktan vazgeçip içerideki sesle yüzleşmeyi gerektirir. Bu kolay bir yol değildir ancak ilişkilerde kalıcı bir değişim yaratmanın tek yolu budur.\n\n#psikoloji #ilişkiler #kişiselgelişim #farkındalık #özşefkat #içgörü #ya_da_psikoloji",
+  "processed_at": "2026-09-26 17:07:38"
+}

@@ -1,0 +1,225 @@
+# Biological Theories of Gender
+
+- **Kaynak Platform**: Simply Psychology
+- **Orijinal URL**: https://www.simplypsychology.org/gender-biology.html
+- **Yayın Tarihi**: 2023-06-15T15:49:16+00:00
+- **Okuma Süresi / Kelime**: ~12 dk (2341 kelime)
+- **Çekilme Zamanı**: 2026-09-22T12:42:12.917957
+
+---
+
+## 📌 Giriş / Özet
+Psychology»Child Psychology
+
+
+## 🖼️ Konuyla İlgili Görseller (Arka Plan & Tasarım İçin)
+- ![Biological Theories of Gender](https://www.simplypsychology.org/wp-content/uploads/as-gender.jpg) - *Header Image*
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/epigenetics-300x207.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/freud-in-sepia-300x210.jpeg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/continuous-vs-discontinuous-300x141.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/piaget-stages-300x163.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/kohlberg-moral-development-300x300.jpeg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg)
+
+
+## 📝 Makale Bölümleri ve Detaylı İçerik
+
+### Giriş
+
+Psychology»Child Psychology
+
+### What is the biological basis of being male or female?
+
+Sex chromosomes primarily determine the biological basis of being male or female. In humans, males have one X and one Y chromosome (XY), while females have two X chromosomes (XX).
+
+This chromosomal difference leads to the development of different sexual organs in the womb: XY leads to testes, and XX leads to ovaries.
+
+Hormones produced by these organs (mainly testosterone for XY, and estrogen and progesterone for XX) drive the development of secondary sexual characteristics like body shape, voice pitch, and body hair during puberty.
+
+### Sex vs Gender
+
+People often get confused between the termssex and gender. Sex refers to biological differences between males and females. For example, chromosomes (female XX, male XY), reproductive organs (ovaries, testes), hormones (oestrogen, testosterone).
+
+Gender refers to the cultural differences expected (by society/culture) of men and women according to their sex. A person’s sex does not change from birth, but their gender can.
+
+In the past, people tended to have very clear ideas about what was appropriate for each sex, and anyone behaving differently was regarded as deviant.
+
+Today, we accept a lot more diversity and see gender as a continuum (i.e., scale) rather than two categories. So men are free to show their “feminine side” and women are free to show their “masculine traits”.
+
+Thebiological approachsuggests there is no distinction between sex & gender, thus biological sex creates gendered behavior. Gender is determined by two biological factors: hormones and chromosomes.
+
+- Chromosomes
+
+- Evolutionary  Theory
+
+- Biosocial Approach
+
+### Hormones
+
+Hormones are chemical substances secreted by glands throughout the body and carried in the bloodstream. The same sex hormones occur in both men and women, but differ in amounts and the effect they have upon different body parts.
+
+Testosterone is a sex hormone, which is more present in males than females, and affects development and behavior both before and after birth.
+
+Testosterone, when released in the womb, causes the development of male sex organs (at 7 weeks) and acts upon the hypothalamus which results in the masculinization of the brain.
+
+Testosterone can typically cause male behaviors such as aggression, competitiveness, Visuospatial abilities, higher sexual drive etc. An area of the hypothalamus at the base of the brain called the sexually dimorphic nucleus is much larger in male than in females.
+
+At the same time testosterone acts on the developing brain. The brain is divided into two hemispheres, left and right. In all humans the left side of the brain is more specialized for language skills and the right for non-verbal and spatial skills.
+
+Shaywitz et al (1995) used MRI scans to examine brain whilst men and women carried out language tasks and found that women used both hemispheres, left only used by men.
+
+It appears that in males, brain hemispheres work more independently than in females, and testosterone influences thisbrain lateralization.
+
+### Empirical Evidence
+
+The effects of testosterone have been confirmed in animal studies.
+
+Quadango et al. (1977) found that female monkeys who were deliberately exposed to testosterone during prenatal development later engaged in more rough and tumble play than other females.
+
+Young (1966) changed the sexual behavior of both male and female rats by manipulating the amount of male and female hormones that the rats received during their early development.
+
+They displayed “reversed” sexual behavior and the effects were unchangeable. A number of non-reproductive behaviors in rats are also effected by testosterone exposure around birth. These included exploratory behavior, aggression and play.
+
+Young believed that the exposure had changed the sexually dimorphic nucleus (SDN) in the brain, as male rats had a larger SDN than females. The results have proven to be highly replicable.
+
+### Critical Evaluation
+
+Because this study was conducted in a lab it has low ecological validity. For example, in the lab hormones are injected in one single high dose. Whereas in real life, hormones tend to be released by the body in pulses, in a graduated fashion. Therefore, the results might not be generalizable outside of the lab, to a more naturalistic setting.
+
+This study also raises the issue of whether it’s morally and/or scientifically right to use animals in research.
+
+Ultimately psychologists must ask themselves whether in their research the ends justify the means. By this we mean that all research using human or non-human animals must be considered in terms of the value of the results when compared to the cost (both moral and financial) of carrying out the work.
+
+The main criterion is that benefits must outweigh costs. But benefits are almost always to humans and costs to animals.
+
+We should be cautious when extrapolating the results of animal research to a human population. This is because the physiologies (e.g. brains) of humans and animals species are not identical. Also, the social and cultural variables within a human population are more complex when compared to social interactions between rats.
+
+The consequence of this means the external validity of the research is uncertain. However, a study by Hines (1982) suggests it might be possible to generalize the results to humans.
+
+Hines (1982) studied female babies born to mothers who had been given injections of male hormones during pregnancy to prevent miscarriage. They were found to be more aggressive than normal female children. Hines concluded that the extra testosterone in the womb had affected later behavior.
+
+### Chromosomes
+
+The normal human body contains 23 pairs of chromosomes. A chromosome is a long thin structure containing thousands of genes, which are biochemical units of heredity and govern the development of every human being.
+
+Each pair of chromosomes controls different aspects of development, and biological sex is determined by the 23rd chromosome pair. Chromosomes physically resemble the letters X and Y.
+
+- Females = XX
+
+### SRY Gene(Sex-determining Region Y gene)
+
+At about 6 weeks, the SRY gene on the Y chromosome causes the gonads (sex organs) of the embryo to develop as testes.
+
+If the embryo has no Y chromosome, it will not have the SRY gene, without the SRY gene, the gonads will develop as ovaries.
+
+Sometimes the SRY gene is missing from the Y chromosome, or doesn’t activate. The foetus grows, is born, and lives as a little girl, and later as a woman, but her chromosomes are XY. Such people are, usually, clearly women to themselves and everyone else.
+
+Koopman et al. (1991) found that mice that were genetically female developed into male mice if the SRY gene was implanted.
+
+One of the most controversial uses of this discovery was as a means for gender verification at the Olympic Games, under a system implemented by the International Olympic Committee in 1992. Athletes with a SRY gene were not permitted to participate as females.
+
+### Atypical Chromosomes
+
+Individuals with atypical chromosomes develop differently than individuals with typical chromosomes – socially, physically and cognitively.
+
+Studying people with Turner’s syndrome and Klinefelter’s syndrome might help our understanding of gender because by studying people with atypical sex chromosomes and comparing their development with that of people with typical sex chromosomes, psychologists are able to establish which types of behavior are genetic (e.g. determined by chromosomes).
+
+### Turner’s Syndrome
+
+Turner’s syndrome (XO) occurs when females develop with only one X chromosome on chromosome 23 (1 in 5000 chance).
+
+The absence of the second X chromosome results in a child with a female external appearance but whose ovaries have failed to develop.
+
+The physical characteristics of individuals with Turner’s syndrome include lack of maturation at puberty and webbing of the neck.
+
+In addition to physical differences, there are differences in cognitive skills and behavior compared with typical chromosome patterns.
+
+The affected individuals have higher than average verbal ability but lower than average spatial ability, visual memory and mathematical skills. They also have difficulty in social adjustment at school and generally have poor relationships with their peers.
+
+### Klinefelter’s Syndrome
+
+Klinefelter’s syndrome (XXY) affects 1 in every 750 males. In addition to having a Y chromosome, these men also have an additional X on the 23rd chromosome, leading to the arrangement XXY.
+
+Physically they appear male, though the effect of the additional X chromosome causes less body hair and under-developed genitals. The syndrome becomes noticeable in childhood, as the boy has poor language skills. At three years of age, the child may still not talk. At school, their poor language skills affect reading ability.
+
+When they are babies, their temperament is described as passive and co-operative. This calmness and shyness remains with them throughout their lives.
+
+This suggests that level of aggression have a biological rather than environmental component.
+
+### Evolutionary Explanations of Gender
+
+As the evolutionary approach is a biological one, it suggests that aspects of human behavior have been coded by our genes because they were or are adaptive.
+
+A central claim of evolutionary psychology is that the brain (and therefore the mind) evolved to solve problems encountered by our hunter-gatherer ancestors during the upper Pleistocene period over 10,000 years ago.
+
+The evolutionary approach argues that gender role division appears as an adaptation to the challenges faced by the ancestral humans in the EEA (the environment of evolutionary adaptation).
+
+The mind is therefore equipped with ‘instincts’ that enabled our ancestors to survive and reproduce.
+
+The two sexes developed different strategies to ensure their survival and reproductive success. This explains why men and women differ psychologically: They tend to occupy different social roles.
+
+To support the evolutionary perspective, the division of labour was shown to be an advantage. 10,000 years ago there was division of labour between males and females. Men were the hunter gathers, breadwinners, while the mother was at home acting as the ‘angel of the house’ and looking after the children.
+
+Hunting for food required speed, agility, good visual perception. So men developed this skill.
+
+If a women was to hunt, this would reduce the group’s reproductive success, as the woman was the one who was pregnant or producing milk. Although, the women could contribute to the important business of growing food, making clothing and shelter and so on.
+
+This enhances reproductive success but it also important in avoiding starvation – an additional adaptive advantage.
+
+### Critical Evaluation
+
+Deterministic approach which implies that men and women have little choice or control over their behaviors: women are natural ‘nurturers’ and men are naturally aggressive and competitive.
+
+The consequence are that in modern society equal opportunities policies are doomed to fail as men are ‘naturally’ more competitive, risk taking and likely to progress up the career ladder.
+
+### Biosocial Approach to Gender
+
+The biosocial approach (Money & Ehrhardt, 1972) is an interactionist approach where bynature and nurtureboth play a role in gender development.
+
+John Money’s (1972) theorywas that once a biological male or female is born, social labeling and differential treatment of boys and girls interact with biological factors to steer development. This theory was an attempt to integrate the influences of nature and nurture.
+
+Gender role preferences determined by a series of critical events:
+
+Prenatal: exposure to hormones on the womb (determined by chromosomes). It states that biology caused by genetics, XY for a boy and XX for a girl will give them a physical sex.
+
+Postnatal: Parents and others label and react towards a child on the basis of his or her genitals.
+
+- Parents and other people label and begin to react to the child based on his or her genitals. It is when their sex has been labelled through external genitals, they gender development will begin.
+
+- The social labeling of a baby as a boy or girl leads to different treatment which produce the childs sense of gender identity.
+
+- Western Societies view gender as having two categories, masculine and feminine, and see man and women as different species.
+
+The way they are treated socially in combination with their biological sex will determine the child’s gender.
+
+The approach assumes that gender identity is neutral before the age of 3, and can be changed, e.g. a biological boy raised as a girl will develop the gender identity of a girl. This is known as the theory of neutrality.
+
+### Empirical Evidence
+
+Rubin et al., 1974, interviewed 30 parents and asked them to use adjective pairs to describe their babies. Although there were no measurable differences in size between the babies, parents consistently described boy babies as better coordinated, stronger and more alert than daughters. This shows that parents label their babies.
+
+McLeod, S. (2023). Biological Theories of Gender. Simply Psychology. https://www.simplypsychology.org/gender-biology.html
+
+McLeod, Saul. "Biological Theories of Gender." Simply Psychology, 15 June 2023, https://www.simplypsychology.org/gender-biology.html.
+
+McLeod, S. (2023) Biological Theories of Gender. Simply Psychology. Available at: https://www.simplypsychology.org/gender-biology.html (Accessed: 22 September 2026).
+
+### References
+
+Feder, H. H., Phoenix, C. H., & Young, W. C. (1966). Suppression of feminine behavior by administration of testosterone propionate to neonatal rats.Journal of Endocrinology, 34(1), 131-132.
+
+Hines, M. (1982). Prenatal gonadal hormones and sex differences in human behavior.Psychological Bulletin, 92(1), 56.
+
+Koopman, P., Gubbay, J., Vivian, N., Goodfellow, P., & Lovell-Badge, R. (1991). Male development of chromosomally female mice transgenic for Sry.Nature, 351(6322), 117-121.
+
+Money, J., & Ehrhardt, A. A. (1972). Man and woman, boy and girl: Differentiation and dimorphism of gender identity from conception to maturity.
+
+Quadagno, D. M., Briscoe, R., & Quadagno, J. S. (1977). Effect of perinatal gonadal hormones on selected nonsexual behavior patterns: a critical assessment of the nonhuman and human literature.Psychological Bulletin, 84(1), 62.
+
+Shaywitz, B. A., Shaywltz, S. E., Pugh, K. R., Constable, R. T., Skudlarski, P., Fulbright, R. K., … & Gore, J. C. (1995).Sex differences in the functional organization of the brain for language.
+
+BSc (Hons) Psychology, MRes, PhD, University of Manchester
+
+Chartered Psychologist (CPsychol)
+
+Saul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.

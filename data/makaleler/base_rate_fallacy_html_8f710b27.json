@@ -1,0 +1,219 @@
+{
+  "id": "base_rate_fallacy_html_8f710b27",
+  "url": "https://www.simplypsychology.org/base-rate-fallacy.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Base Rate Fallacy",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2026-03-13T10:14:29+00:00",
+  "date_modified": null,
+  "read_time_minutes": 11,
+  "word_count": 2206,
+  "summary": "Psychology»Cognitive Psychology",
+  "topics": [],
+  "key_points": [
+    "The Representativeness Heuristic",
+    "The Natural Frequency Hypothesis",
+    "1. The Taxi-Cab Problem (Kahneman & Tversky, 1972)",
+    "2. The Student Stereotype (Tom W.) (Kahneman & Tversky, 1973)",
+    "3. Medical Diagnoses and Causal Context (Krynski & Tenenbaum, 2007)",
+    "The Influence of Causal Context",
+    "The Role of Missing Context"
+  ],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Cognitive Psychology\n\nThe base-rate fallacy, also known as base-rate neglect, is a cognitive phenomenon where individuals ignore general statistical information in favor of specific, vivid details.\n\nIn psychology, base-rate information refers to the relative frequency of an event or attribute within a given population.\n\nWhen people are presented with a general baseline and a specific description, they consistently underweight the math.\n\nTo reach an accurate conclusion, one should ideally use Bayes’ theorem, which is a mathematical formula used to update the probability of a hypothesis as more evidence is provided.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Why it happens",
+      "content": "Several psychological frameworks explain why the human mind struggles with statistical logic. These range from how we categorize people to how our brains conserve energy.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "The Representativeness Heuristic",
+      "content": "Psychologists Daniel Kahneman and Amos Tversky argue that this error stems from the representativeness heuristic.\n\nThis is a mental shortcut where people judge probability based on how well a description matches a mental prototype or stereotype.\n\nThis can lead to errors in judgment, as people do not take the time to process all of the available information and weigh it up properly.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Dual-Process Thinking",
+      "content": "This bias serves as a primary example of the tension between two distinct modes of human thought.\n\nSystem 1is our fast, automatic, and intuitive processing mode. In contrast,System 2is our slow, analytical, and effortful mode of reasoning.\n\nBase-rate neglect occurs when the “lazy” System 2 fails to monitor the flawed suggestions of System 1.\n\nWhile System 1 leaps to conclusions based on vivid details, System 2 is required to perform the difficult work of statistical integration.\n\nIf no descriptive details are provided, people use base rates accurately.\n\nHowever, the moment distracting details appear, analytical thinking is often abandoned.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "The Natural Frequency Hypothesis",
+      "content": "Evolutionary psychologists Gerd Gigerenzer and Ulrich Hoffrage suggest that humans are not “bad at math.”\n\nInstead, they argue our brains evolved fornatural sampling.\n\nThis is the process of encountering real-world instances one by one over time.\n\nOur ancestors did not process abstract percentages or fractions.\n\nResearch shows that when base-rate problems usenatural frequencies(e.g., “10 out of 100 people”) instead of percentages (e.g., “10%”), accuracy improves.\n\nEven medical students perform better when data is presented as raw counts rather than abstract probabilities.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Examples",
+      "content": "The base-rate fallacy is a decision-making error in which information about the rate of occurrence of some trait in a population (the base-rate information) is ignored or not given appropriate weight.\n\nThe fallacy often appears in our daily assumptions about the people we encounter.\n\n- The Subway Reader:If you see someone readingThe New York Timeson a subway, you might guess they have a PhD. However, statistically, there are vastly more people without college degrees on the subway than people with PhDs.\n\n- The “Californian” Student:You might meet a blond, “mellow” student named Brian who loves the beach. While he fits a California stereotype, if the university has a much higher base rate of New Yorkers, it is statistically wiser to guess Brian is from New York.\n\n- Steve the Librarian:Steve is described as a “meek and tidy soul.”While this fits the librarian stereotype, there are significantly more male farmers in the population than male librarians.\n\nThe Subway Reader:If you see someone readingThe New York Timeson a subway, you might guess they have a PhD. However, statistically, there are vastly more people without college degrees on the subway than people with PhDs.\n\nSteve the Librarian:Steve is described as a “meek and tidy soul.”While this fits the librarian stereotype, there are significantly more male farmers in the population than male librarians.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Empirical Validation: Classic Experiments",
+      "content": "The following studies demonstrate how this fallacy persists even when participants are given the correct statistical data.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "1. The Taxi-Cab Problem (Kahneman & Tversky, 1972)",
+      "content": "- Aim:To observe how participants weigh eyewitness testimony against known population statistics.\n\n- Procedure:Participants imagined a city where 85% of cabs are Green and 15% are Blue. A witness identified a hit-and-run cab as “Blue.” The witness was tested to be 80% accurate.\n\n- Findings:Most participants estimated the probability the cab was Blue at roughly 80%. They focused almost entirely on the witness and ignored the 85% base rate of Green cabs.\n\n- Conclusions:People prioritize specific evidence over base rates. According to Bayesian logic, the true probability the cab was Blue is actually only 41%.\n\nAim:To observe how participants weigh eyewitness testimony against known population statistics.\n\nProcedure:Participants imagined a city where 85% of cabs are Green and 15% are Blue. A witness identified a hit-and-run cab as “Blue.” The witness was tested to be 80% accurate.\n\nFindings:Most participants estimated the probability the cab was Blue at roughly 80%. They focused almost entirely on the witness and ignored the 85% base rate of Green cabs.\n\nConclusions:People prioritize specific evidence over base rates. According to Bayesian logic, the true probability the cab was Blue is actually only 41%.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "2. The Student Stereotype (Tom W.) (Kahneman & Tversky, 1973)",
+      "content": "- Aim:To test if people prioritize descriptive stereotypes over known population statistics.\n\n- Procedure:Participants read a description of “Tom W,” a student described as “dull,” “neat,” and “tidy.” Researchers explicitly informed them that 80% of the student body studied humanities.\n\n- Findings:Over 95% of participants guessed Tom was a computer science major. Their guesses remained unchanged despite the overwhelming base-rate advantage of humanities students.\n\n- Conclusions:The description matched the computer scientist stereotype so perfectly that participants abandoned statistical logic.\n\nAim:To test if people prioritize descriptive stereotypes over known population statistics.\n\nProcedure:Participants read a description of “Tom W,” a student described as “dull,” “neat,” and “tidy.” Researchers explicitly informed them that 80% of the student body studied humanities.\n\nFindings:Over 95% of participants guessed Tom was a computer science major. Their guesses remained unchanged despite the overwhelming base-rate advantage of humanities students.\n\nConclusions:The description matched the computer scientist stereotype so perfectly that participants abandoned statistical logic.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "3. Medical Diagnoses and Causal Context (Krynski & Tenenbaum, 2007)",
+      "content": "- Aim:To investigate if providing a causal explanation helps people utilize base rates.\n\n- Procedure:Participants judged the likelihood of cancer after a positive mammogram. One group received only the statistics. A second group was told that “dense but harmless cysts” could also cause a positive result.\n\n- Findings:Accuracy jumped from 8% to 46% when the alternative causal explanation (the cyst) was provided.\n\n- Conclusions:People neglect base rates when the relevance is unclear. They use them more effectively when the data maps to their intuitive causal knowledge.\n\nAim:To investigate if providing a causal explanation helps people utilize base rates.\n\nProcedure:Participants judged the likelihood of cancer after a positive mammogram. One group received only the statistics. A second group was told that “dense but harmless cysts” could also cause a positive result.\n\nFindings:Accuracy jumped from 8% to 46% when the alternative causal explanation (the cyst) was provided.\n\nConclusions:People neglect base rates when the relevance is unclear. They use them more effectively when the data maps to their intuitive causal knowledge.\n\n- Use Frequencies:Always translate percentages into raw counts to help visualize the actual numbers involved.\n\n- Identify Causes:Look for alternative explanations for the evidence that might explain the specific details you are seeing.\n\n- Think Like a Statistician:Deliberately engage System 2 by slowing down and questioning the “story” you are telling yourself.\n\n- Assess Evidence Quality:Recognize that if specific details are flimsy or stereotypical, you should let the base rate dominate your decision.\n\nUse Frequencies:Always translate percentages into raw counts to help visualize the actual numbers involved.\n\nIdentify Causes:Look for alternative explanations for the evidence that might explain the specific details you are seeing.\n\nThink Like a Statistician:Deliberately engage System 2 by slowing down and questioning the “story” you are telling yourself.\n\nAssess Evidence Quality:Recognize that if specific details are flimsy or stereotypical, you should let the base rate dominate your decision.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "The Influence of Causal Context",
+      "content": "Not all base rates are ignored equally.\n\nThe human mind is “hungry for causal stories,” meaning we prefer information that explainswhysomething happened.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Statistical vs. Causal Base Rates",
+      "content": "Kahneman and Tversky distinguished between two types of data.Statistical base ratesare mere facts about a population that lack a narrative.\n\nThese are generally underweighted.\n\nHowever,causal base rateschange our view of how an individual case came to be.\n\nFor example, if you hear that 80% of accidents involve “Company A” drivers because they are reckless, you are more likely to use that data than a dry statistic.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "The Role of Missing Context",
+      "content": "Researchers Krynski and Tenenbaum argue that people ignore base rates primarily when their relevance is not explicitly clear.\n\n- Aim:To see if providing a causal explanation helps people use base-rate information.\n\n- Procedure:Participants judged the likelihood of cancer after a positive mammogram. One group was given just the statistics. Another group was told that “harmless cysts” can cause false positives.\n\n- Findings:Without the “cyst” explanation, only 8% used the base rate correctly. With the causal explanation, accuracy jumped to 46%.\n\n- Conclusions:Humans are better at statistical reasoning when they have an intuitive causal model to follow.\n\nAim:To see if providing a causal explanation helps people use base-rate information.\n\nProcedure:Participants judged the likelihood of cancer after a positive mammogram. One group was given just the statistics. Another group was told that “harmless cysts” can cause false positives.\n\nFindings:Without the “cyst” explanation, only 8% used the base rate correctly. With the causal explanation, accuracy jumped to 46%.\n\nConclusions:Humans are better at statistical reasoning when they have an intuitive causal model to follow.",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "Conclusion: Bounded Rationality",
+      "content": "While the base-rate fallacy leads to errors, it does not mean humans are fundamentally irrational.\n\nInstead, we operate underbounded rationality, which is the idea that we make the best possible decisions given our cognitive limits.\n\nHeuristics like representativeness are highly efficient in a complex world.\n\nWe only see their flaws in specific, laboratory-designed scenarios where abstract logic is prioritized over practical, everyday intuition.",
+      "order": 14,
+      "items": []
+    },
+    {
+      "heading": "",
+      "content": "Nickerson, C. (2026). Base Rate Fallacy. Simply Psychology. https://www.simplypsychology.org/base-rate-fallacy.html\n\nNickerson, Charlotte. \"Base Rate Fallacy.\" Simply Psychology, 13 March 2026, https://www.simplypsychology.org/base-rate-fallacy.html.\n\nNickerson, C. (2026) Base Rate Fallacy. Simply Psychology. Available at: https://www.simplypsychology.org/base-rate-fallacy.html (Accessed: 21 September 2026).",
+      "order": 15,
+      "items": []
+    },
+    {
+      "heading": "References",
+      "content": "Bar-Hillel, M. (1980). The base-rate fallacy in probability judgments.Acta Psychologica, 44(3), 211-233.\n\nBarbey, A. K., & Sloman, S. A. (2007).Base-rate respect: From ecological rationality to dual processes.Behavioral and Brain Sciences,30(3), 241-254.\n\nBar-Hillel, M. (1983). The base rate fallacy controversy.In Advances in Psychology(Vol. 16, pp. 39-61). North-Holland.\n\nGigerenzer, G., & Hoffrage, U. (1995). How to improve Bayesian reasoning without instruction: Frequency formats.Psychological Review, 102(4), 684–704.\n\nHeller, R. F., Saltzstein, H. D., & Caspe, W. B. (1992). Heuristics in medical and non-medical decision-making.The Quarterly Journal of Experimental Psychology Section A, 44(2), 211-235.\n\nKahneman, D. (2011).Thinking, fast and slow. Farrar, Straus and Giroux.\n\nKahneman, D., Slovic, S. P., Slovic, P., & Tversky, A. (Eds.). (1982).Judgment under uncertainty: Heuristics and biases. Cambridge university press.\n\nKahneman, D., & Tversky, A. (1972).Subjective probability: A judgment of representativeness.Cognitive psychology,3(3), 430-454.\n\nKahneman, D., & Tversky, A. (1973). On the psychology of prediction.Psychological review,80(4), 237.\n\nKoehler, J. J. (1996).The base rate fallacy reconsidered: Descriptive, normative, and methodological challenges.Behavioral and brain sciences, 19(1), 1-17.\n\nKrynski, T. R., & Tenenbaum, J. B. (2007). The role of causal models in reasoning under uncertainty.Psychological Science, 18(5), 430–436.\n\nMacchi, L. (1995). Pragmatic aspects of the base-rate fallacy.The Quarterly Journal of Experimental Psychology, 48(1), 188-207.\n\nTversky, A., &l Kahneman, D. (1973).Availability: A heuristic for judging frequency and probability.Cognitive psychology,5(2), 207-232.\n\nTversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases.Science, 185(4157), 1124–1131.\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nWriter and Cognitive Engineer\n\nAB History, Harvard University\n\nCharlotte Nickerson is a Harvard graduate and cognitive engineer whose work sits at the intersection of social psychology, human behaviour, and technology design. She contributed over 100 articles to Simply Psychology and holds a Master's in Cognitive Engineering from ENSC.",
+      "order": 16,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/base-rate-fallacy0.jpg",
+      "alt": "Base Rate Fallacy",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/availability-heuristic-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/heuristics-cognitive-bias-300x239.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/framing-effect-300x166.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Prospect-Theory-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/anchoring-effect-bias-300x240.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/necker-cube2-300x101.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/base-rate-fallacy.jpg",
+      "alt": "base rate fallacy",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/base-rate-fallacy-1.jpg",
+      "alt": "base rate fallacy 1",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/base-rate-fallacy-2.jpg",
+      "alt": "base rate fallacy 2",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/base-rate-fallacy-3.jpg",
+      "alt": "base rate fallacy 3",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/base-rate-fallacy-4.jpg",
+      "alt": "base rate fallacy 4",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/headshot.webp",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Base Rate Fallacy\n\n> Psychology»Cognitive Psychology\n\n### Önemli Noktalar / Metotlar\n- The Representativeness Heuristic\n- The Natural Frequency Hypothesis\n- 1. The Taxi-Cab Problem (Kahneman & Tversky, 1972)\n- 2. The Student Stereotype (Tom W.) (Kahneman & Tversky, 1973)\n- 3. Medical Diagnoses and Causal Context (Krynski & Tenenbaum, 2007)\n- The Influence of Causal Context\n- The Role of Missing Context\n\n## Giriş\n\nPsychology»Cognitive Psychology\n\nThe base-rate fallacy, also known as base-rate neglect, is a cognitive phenomenon where individuals ignore general statistical information in favor of specific, vivid details.\n\nIn psychology, base-rate information refers to the relative frequency of an event or attribute within a given population.\n\nWhen people are presented with a general baseline and a specific description, they consistently underweight the math.\n\nTo reach an accurate conclusion, one should ideally use Bayes’ theorem, which is a mathematical formula used to update the probability of a hypothesis as more evidence is provided.\n\n## Why it happens\n\nSeveral psychological frameworks explain why the human mind struggles with statistical logic. These range from how we categorize people to how our brains conserve energy.\n\n## The Representativeness Heuristic\n\nPsychologists Daniel Kahneman and Amos Tversky argue that this error stems from the representativeness heuristic.\n\nThis is a mental shortcut where people judge probability based on how well a description matches a mental prototype or stereotype.\n\nThis can lead to errors in judgment, as people do not take the time to process all of the available information and weigh it up properly.\n\n## Dual-Process Thinking\n\nThis bias serves as a primary example of the tension between two distinct modes of human thought.\n\nSystem 1is our fast, automatic, and intuitive processing mode. In contrast,System 2is our slow, analytical, and effortful mode of reasoning.\n\nBase-rate neglect occurs when the “lazy” System 2 fails to monitor the flawed suggestions of System 1.\n\nWhile System 1 leaps to conclusions based on vivid details, System 2 is required to perform the difficult work of statistical integration.\n\nIf no descriptive details are provided, people use base rates accurately.\n\nHowever, the moment distracting details appear, analytical thinking is often abandoned.\n\n## The Natural Frequency Hypothesis\n\nEvolutionary psychologists Gerd Gigerenzer and Ulrich Hoffrage suggest that humans are not “bad at math.”\n\nInstead, they argue our brains evolved fornatural sampling.\n\nThis is the process of encountering real-world instances one by one over time.\n\nOur ancestors did not process abstract percentages or fractions.\n\nResearch shows that when base-rate problems usenatural frequencies(e.g., “10 out of 100 people”) instead of percentages (e.g., “10%”), accuracy improves.\n\nEven medical students perform better when data is presented as raw counts rather than abstract probabilities.\n\n## Examples\n\nThe base-rate fallacy is a decision-making error in which information about the rate of occurrence of some trait in a population (the base-rate information) is ignored or not given appropriate weight.\n\nThe fallacy often appears in our daily assumptions about the people we encounter.\n\n- The Subway Reader:If you see someone readingThe New York Timeson a subway, you might guess they have a PhD. However, statistically, there are vastly more people without college degrees on the subway than people with PhDs.\n\n- The “Californian” Student:You might meet a blond, “mellow” student named Brian who loves the beach. While he fits a California stereotype, if the university has a much higher base rate of New Yorkers, it is statistically wiser to guess Brian is from New York.\n\n- Steve the Librarian:Steve is described as a “meek and tidy soul.”While this fits the librarian stereotype, there are significantly more male farmers in the population than male librarians.\n\nThe Subway Reader:If you see someone readingThe New York Timeson a subway, you might guess they have a PhD. However, statistically, there are vastly more people without college degrees on the subway than people with PhDs.\n\nSteve the Librarian:Steve is described as a “meek and tidy soul.”While this fits the librarian stereotype, there are significantly more male farmers in the population than male librarians.\n\n## Empirical Validation: Classic Experiments\n\nThe following studies demonstrate how this fallacy persists even when participants are given the correct statistical data.\n\n## 1. The Taxi-Cab Problem (Kahneman & Tversky, 1972)\n\n- Aim:To observe how participants weigh eyewitness testimony against known population statistics.\n\n- Procedure:Participants imagined a city where 85% of cabs are Green and 15% are Blue. A witness identified a hit-and-run cab as “Blue.” The witness was tested to be 80% accurate.\n\n- Findings:Most participants estimated the probability the cab was Blue at roughly 80%. They focused almost entirely on the witness and ignored the 85% base rate of Green cabs.\n\n- Conclusions:People prioritize specific evidence over base rates. According to Bayesian logic, the true probability the cab was Blue is actually only 41%.\n\nAim:To observe how participants weigh eyewitness testimony against known population statistics.\n\nProcedure:Participants imagined a city where 85% of cabs are Green and 15% are Blue. A witness identified a hit-and-run cab as “Blue.” The witness was tested to be 80% accurate.\n\nFindings:Most participants estimated the probability the cab was Blue at roughly 80%. They focused almost entirely on the witness and ignored the 85% base rate of Green cabs.\n\nConclusions:People prioritize specific evidence over base rates. According to Bayesian logic, the true probability the cab was Blue is actually only 41%.\n\n## 2. The Student Stereotype (Tom W.) (Kahneman & Tversky, 1973)\n\n- Aim:To test if people prioritize descriptive stereotypes over known population statistics.\n\n- Procedure:Participants read a description of “Tom W,” a student described as “dull,” “neat,” and “tidy.” Researchers explicitly informed them that 80% of the student body studied humanities.\n\n- Findings:Over 95% of participants guessed Tom was a computer science major. Their guesses remained unchanged despite the overwhelming base-rate advantage of humanities students.\n\n- Conclusions:The description matched the computer scientist stereotype so perfectly that participants abandoned statistical logic.\n\nAim:To test if people prioritize descriptive stereotypes over known population statistics.\n\nProcedure:Participants read a description of “Tom W,” a student described as “dull,” “neat,” and “tidy.” Researchers explicitly informed them that 80% of the student body studied humanities.\n\nFindings:Over 95% of participants guessed Tom was a computer science major. Their guesses remained unchanged despite the overwhelming base-rate advantage of humanities students.\n\nConclusions:The description matched the computer scientist stereotype so perfectly that participants abandoned statistical logic.\n\n## 3. Medical Diagnoses and Causal Context (Krynski & Tenenbaum, 2007)\n\n- Aim:To investigate if providing a causal explanation helps people utilize base rates.\n\n- Procedure:Participants judged the likelihood of cancer after a positive mammogram. One group received only the statistics. A second group was told that “dense but harmless cysts” could also cause a positive result.\n\n- Findings:Accuracy jumped from 8% to 46% when the alternative causal explanation (the cyst) was provided.\n\n- Conclusions:People neglect base rates when the relevance is unclear. They use them more effectively when the data maps to their intuitive causal knowledge.\n\nAim:To investigate if providing a causal explanation helps people utilize base rates.\n\nProcedure:Participants judged the likelihood of cancer after a positive mammogram. One group received only the statistics. A second group was told that “dense but harmless cysts” could also cause a positive result.\n\nFindings:Accuracy jumped from 8% to 46% when the alternative causal explanation (the cyst) was provided.\n\nConclusions:People neglect base rates when the relevance is unclear. They use them more effectively when the data maps to their intuitive causal knowledge.\n\n- Use Frequencies:Always translate percentages into raw counts to help visualize the actual numbers involved.\n\n- Identify Causes:Look for alternative explanations for the evidence that might explain the specific details you are seeing.\n\n- Think Like a Statistician:Deliberately engage System 2 by slowing down and questioning the “story” you are telling yourself.\n\n- Assess Evidence Quality:Recognize that if specific details are flimsy or stereotypical, you should let the base rate dominate your decision.\n\nUse Frequencies:Always translate percentages into raw counts to help visualize the actual numbers involved.\n\nIdentify Causes:Look for alternative explanations for the evidence that might explain the specific details you are seeing.\n\nThink Like a Statistician:Deliberately engage System 2 by slowing down and questioning the “story” you are telling yourself.\n\nAssess Evidence Quality:Recognize that if specific details are flimsy or stereotypical, you should let the base rate dominate your decision.\n\n## The Influence of Causal Context\n\nNot all base rates are ignored equally.\n\nThe human mind is “hungry for causal stories,” meaning we prefer information that explainswhysomething happened.\n\n## Statistical vs. Causal Base Rates\n\nKahneman and Tversky distinguished between two types of data.Statistical base ratesare mere facts about a population that lack a narrative.\n\nThese are generally underweighted.\n\nHowever,causal base rateschange our view of how an individual case came to be.\n\nFor example, if you hear that 80% of accidents involve “Company A” drivers because they are reckless, you are more likely to use that data than a dry statistic.\n\n## The Role of Missing Context\n\nResearchers Krynski and Tenenbaum argue that people ignore base rates primarily when their relevance is not explicitly clear.\n\n- Aim:To see if providing a causal explanation helps people use base-rate information.\n\n- Procedure:Participants judged the likelihood of cancer after a positive mammogram. One group was given just the statistics. Another group was told that “harmless cysts” can cause false positives.\n\n- Findings:Without the “cyst” explanation, only 8% used the base rate correctly. With the causal explanation, accuracy jumped to 46%.\n\n- Conclusions:Humans are better at statistical reasoning when they have an intuitive causal model to follow.\n\nAim:To see if providing a causal explanation helps people use base-rate information.\n\nProcedure:Participants judged the likelihood of cancer after a positive mammogram. One group was given just the statistics. Another group was told that “harmless cysts” can cause false positives.\n\nFindings:Without the “cyst” explanation, only 8% used the base rate correctly. With the causal explanation, accuracy jumped to 46%.\n\nConclusions:Humans are better at statistical reasoning when they have an intuitive causal model to follow.\n\n## Conclusion: Bounded Rationality\n\nWhile the base-rate fallacy leads to errors, it does not mean humans are fundamentally irrational.\n\nInstead, we operate underbounded rationality, which is the idea that we make the best possible decisions given our cognitive limits.\n\nHeuristics like representativeness are highly efficient in a complex world.\n\nWe only see their flaws in specific, laboratory-designed scenarios where abstract logic is prioritized over practical, everyday intuition.\n\n## \n\nNickerson, C. (2026). Base Rate Fallacy. Simply Psychology. https://www.simplypsychology.org/base-rate-fallacy.html\n\nNickerson, Charlotte. \"Base Rate Fallacy.\" Simply Psychology, 13 March 2026, https://www.simplypsychology.org/base-rate-fallacy.html.\n\nNickerson, C. (2026) Base Rate Fallacy. Simply Psychology. Available at: https://www.simplypsychology.org/base-rate-fallacy.html (Accessed: 21 September 2026).\n\n## References\n\nBar-Hillel, M. (1980). The base-rate fallacy in probability judgments.Acta Psychologica, 44(3), 211-233.\n\nBarbey, A. K., & Sloman, S. A. (2007).Base-rate respect: From ecological rationality to dual processes.Behavioral and Brain Sciences,30(3), 241-254.\n\nBar-Hillel, M. (1983). The base rate fallacy controversy.In Advances in Psychology(Vol. 16, pp. 39-61). North-Holland.\n\nGigerenzer, G., & Hoffrage, U. (1995). How to improve Bayesian reasoning without instruction: Frequency formats.Psychological Review, 102(4), 684–704.\n\nHeller, R. F., Saltzstein, H. D., & Caspe, W. B. (1992). Heuristics in medical and non-medical decision-making.The Quarterly Journal of Experimental Psychology Section A, 44(2), 211-235.\n\nKahneman, D. (2011).Thinking, fast and slow. Farrar, Straus and Giroux.\n\nKahneman, D., Slovic, S. P., Slovic, P., & Tversky, A. (Eds.). (1982).Judgment under uncertainty: Heuristics and biases. Cambridge university press.\n\nKahneman, D., & Tversky, A. (1972).Subjective probability: A judgment of representativeness.Cognitive psychology,3(3), 430-454.\n\nKahneman, D., & Tversky, A. (1973). On the psychology of prediction.Psychological review,80(4), 237.\n\nKoehler, J. J. (1996).The base rate fallacy reconsidered: Descriptive, normative, and methodological challenges.Behavioral and brain sciences, 19(1), 1-17.\n\nKrynski, T. R., & Tenenbaum, J. B. (2007). The role of causal models in reasoning under uncertainty.Psychological Science, 18(5), 430–436.\n\nMacchi, L. (1995). Pragmatic aspects of the base-rate fallacy.The Quarterly Journal of Experimental Psychology, 48(1), 188-207.\n\nTversky, A., &l Kahneman, D. (1973).Availability: A heuristic for judging frequency and probability.Cognitive psychology,5(2), 207-232.\n\nTversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases.Science, 185(4157), 1124–1131.\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nWriter and Cognitive Engineer\n\nAB History, Harvard University\n\nCharlotte Nickerson is a Harvard graduate and cognitive engineer whose work sits at the intersection of social psychology, human behaviour, and technology design. She contributed over 100 articles to Simply Psychology and holds a Master's in Cognitive Engineering from ENSC.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-21T19:06:30.228389"
+}

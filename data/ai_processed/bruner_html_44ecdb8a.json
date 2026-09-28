@@ -1,0 +1,127 @@
+{
+  "id": "bruner_html_44ecdb8a",
+  "original_title": "Jerome Bruner Theory of Cognitive Development",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/bruner.html",
+  "published_date": "2026-09-17T10:56:25+00:00",
+  "read_time_minutes": 27,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/children-learning.jpg",
+      "alt": "Jerome Bruner Theory of Cognitive Development",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/piaget-stages-300x163.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Vygotsky-vs-Piaget-300x174.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/ZPD-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Bronfenbrenner-Ecological-Systems-Theory-300x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/child-development-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/schemas-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 5314,
+  "turkce_baslik": "Zihinsel Yapımız Nasıl Şekillenir: Bilginin Eylemsiz Kodlanmasından Sembolik Gerçekliğe",
+  "kanca_sorusu": "Yetişkinlikte bile kendinizi aynı kısır döngüleri tekrar ederken bulmanızın zihinsel temeli nereden geliyor?",
+  "score": 45,
+  "puan_nedeni": "Makale temel olarak Jerome Bruner'ın bilişsel gelişim teorisini, temsil modlarını (eylemsel, ikonik, sembolik) ve öğrenme sarmalını anlatmaktadır. Doğrudan ilişkisel çatışmalar, bağlanma stilleri veya toksik dinamikler içermediği, daha çok genel gelişim psikolojisi ve öğrenme teorisi odaklı olduğu için katı puanlama kriterimize göre düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Jerome Bruner'ın bilişsel gelişim teorisi, insan zihninin dünyayı nasıl anlamlandırdığını ve bilgiyi nasıl kodladığını anlamak için derin bir çerçeve sunar. Bruner'a göre zihnimiz tek bir çizgide ya da katı yaş evrelerinde büyümez; aksine sarmal bir yapıda, geçmişte öğrendiğimiz temel kavramları her defasında daha üst düzey bir karmaşıklıkla yeniden ziyaret ederek gelişir. Bilginin depolanma biçimleri olan eylemsel, ikonik ve sembolik modlar, hayatımız boyunca karşılaştığımız yeni bilgileri işleme biçimimizi belirler. Bebeklikteki kas hafızasından, çocukluktaki görsel imgelere ve yetişkinlikteki soyut dil ve sembol kullanımına uzanan bu süreç, sadece akademik bir öğrenme modeli değil, aynı zamanda insanın iç dünyasını ve travmalarını anlamlandırma biçiminin de bir aynasıdır. Yetişkin bir bireyin soyut sembollerle kurduğu bağ, geçmişteki eylemsel ve görsel kodların süzgecinden geçerek bugünkü tepkilerini şekillendirir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihnimiz Bilgiyi Nasıl Kodlar?",
+      "body": "Yaşadığımız her deneyim, zihnimizde farklı katmanlarda depolanır ve bugünkü tepkilerimizi sessizce yönetir.",
+      "highlight_box": "Geçmişin kalıntıları bugünün kararlarını nasıl etkiler?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Üç Zihinsel Temsil Modu",
+      "body": "Bruner'a göre bilgi sırasıyla eylem, imge ve semboller aracılığıyla zihne yerleşir ve bu süreç ömür boyu sürer.",
+      "highlight_box": "Eylemsel, ikonik ve sembolik katmanlar",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Eylemsel Mod",
+      "body": "Bilginin kas hafızası ve fiziksel hareketlerle depolandığı dönemdir. Kelimelerle ifade edilemeyen bedensel tepkiler burada saklanır.",
+      "highlight_box": "Beden bilir ama kelimelere dökmekte zorlanır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. İkonik ve Sembolik Mod",
+      "body": "Görsel imgelerin ve nihayetinde dilin devreye girmesiyle soyut düşünce başlar. Kelimeler artık dünyayı algılayışımızı şekillendirir.",
+      "highlight_box": "Semboller dünyayı yeniden yaratır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Sarmal Bir Gelişim Süreci",
+      "body": "Zihinsel gelişim düz bir çizgi değildir. Aynı meseleleri hayatın farklı evrelerinde daha derin bir farkındalıkla yeniden ele alırız.",
+      "highlight_box": "Unutmayın: Her tekrar yeni bir katman ekler.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizin kodlarını çözmek, otomatik tepkilerinizi durdurup bilinçli tercihler yapmanızı sağlar.",
+      "highlight_box": "Bu analizi kendi zihinsel döngülerinizi fark etmek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Zihninizdeki eski kayıtlar bugün hayatınızı nasıl yönetiyor?",
+    "konusma_metni": "Jerome Bruner'ın bilişsel gelişim teorisine göre zihnimiz bilgiyi üç farklı yolla kodlar: Eylemlerimiz, görsel imgelerimiz ve kelimeler yani semboller. Çocuklukta öğrendiğimiz temel tepkiler, bugün yetişkin hayatımızda karşılaştığımız krizler karşısında hala devrede. Kendinizi sürekli aynı döngüde buluyorsanız, belki de sorun bugünde değil, zihninizin geçmişte kurduğu o eski temsil biçimindedir."
+  },
+  "caption": "Zihnimizin bilgiyi işleme biçimi, sadece öğrenme süreçlerimizi değil, ilişkilerimizi ve hayata karşı geliştirdiğimiz savunma mekanizmalarını da belirler. Jerome Bruner'ın bilişsel gelişim teorisi, eylemlerimizden soyut sembollere uzanan bu yolculuğun ardındaki mekanizmayı gözler önüne seriyor. Kendinizi sürekli aynı fiziksel veya zihinsel döngü içinde bulduğunuzda, sorunun kaynağını zihninizin hangi katmanında aramanız gerektiğini düşünün.\n\n#psikoloji #bilişselgelişim #zihin #farkındalık #kişiselgelişim #öğrenme #içgörü",
+  "processed_at": "2026-09-26 02:43:55"
+}

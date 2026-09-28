@@ -1,0 +1,127 @@
+{
+  "id": "mirror_neurons_function_html_f518934b",
+  "original_title": "Mirror Neurons",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/mirror-neurons-function.html",
+  "published_date": "2026-09-17T11:35:11+00:00",
+  "read_time_minutes": 15,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mirror-neurons.jpg",
+      "alt": "Mirror Neurons",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/basal-ganglia-1-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Motor-Cortex-300x174.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brodmanns-areas-300x169.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sympathetic-vs-parasympathetic-nervous-system-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3085,
+  "turkce_baslik": "Ayna Nöronlar ve Zihinsel Bulaşma: Karşımızdakinin Acısını Neden Kendi İçimizde Hissederiz?",
+  "kanca_sorusu": "Neden bazı insanların yanında oturduğunuz anda onların gerginliğini kendi omuzlarınızda taşımaya başlarsınız?",
+  "score": 45,
+  "puan_nedeni": "Makale ağırlıklı olarak maymun deneyleri ve fMRI/EEG gibi nörolojik ve biyopsikolojik mekanizmaları ele almaktadır. @ya_da_psikoloji okuyucusunun doğrudan bağ kuracağı ilişkisel bir kriz veya kişilik çatışması barındırmadığı, daha çok akademik bir altyapı sunduğu için puanı orta-düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Günlük hayatta karşımızdaki insanın sadece ne söylediğine değil, nasıl baktığına, nasıl durduğuna ve yaydığı enerjiye istemsizce tepki veririz. Beynimizdeki ayna nöron sistemi, çevremizdeki insanların eylemlerini ve duygularını adeta kendi içimizde simüle eder. Biz farkında bile olmadan, karşımızdaki kişinin zihinsel ve fiziksel duruşu bizim motor korteksimizde yankı bulur. Bu durum, insan ilişkilerinde derin bir sezgisel anlayış sağlarken, aynı zamanda yanlış kişilerin yanında tükenmiş hissetmemizin de nörolojik temelini oluşturur. Toksik bir ortamda ya da kaygılı bir partnerin yanında uzun süre kalmanın ruhsal olarak bizi sömürmesinin arkasında bu içsel simülasyon yatar. Kendi sınırlarınızı koruyamadığınızda, başkalarının duygusal yüklerini kendi zihninizde taşımaya başlarsınız.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Neden Başkalarının Stresi Bize Bulaşır?",
+      "body": "Bazı ortamlara girdiğiniz an o ağırlığı hissetmeniz tesadüf değildir.",
+      "highlight_box": "Beynimiz, karşısındakini anlama mekanizmasıyla çalışır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Zihinsel Simülasyon ve Ayna Nöronlar",
+      "body": "Ayna nöronlar, başka bir insanın eylemini ve niyetini kendi motor sistemimizde içsel olarak taklit etmemizi sağlar.",
+      "highlight_box": "Farkında olmadan başkasının duygusunu kopyalarsınız.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Sürekli Tetikte Olma Hali",
+      "body": "Kaygılı birinin yanında uzun süre kalmak, kendi sinir sisteminizi de savaş ya da kaç moduna sokar.",
+      "highlight_box": "Kendi duygularınızla başkasınınkini karıştırmaya başlarsınız.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Duygusal Tükenmişlik",
+      "body": "Ortada hiçbir fiziksel yorgunluk yokken hissedilen tükenme hali, başkalarının yükünü zihnen sırtlamaktan kaynaklanır.",
+      "highlight_box": "Empati ile duygusal sömürü arasındaki çizgi silikleşir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Sınır Çizmek Neden Hayatidir?",
+      "body": "Empati kurmak ile başkasının duygusal çöpünü toplamak aynı şey değildir. Zihinsel alanınızı korumayı öğrenmelisiniz.",
+      "highlight_box": "Unutmayın: Her duyguyu taşımak zorunda değilsiniz.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizin bu kadar hassas bir sisteme sahip olduğunu unutmayın. Kimi dinlediğinize ve kime kapı açtığınıza dikkat edin.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Yanına gittiğiniz an enerjinizi emen o insanın sırrı, aslında sizin kendi beyninizde saklı.",
+    "konusma_metni": "Beynimizde ayna nöron adı verilen özel hücreler vardır. Bu hücreler, başkalarının ne hissettiğini ve ne yaptığını sanki kendi başımıza geliyormuş gibi içsel olarak simüle eder. Eğer sürekli kaygılı, eleştirel veya toksik insanlarla vakit geçirirseniz, zihniniz onların duygusal yükünü taşımaya başlar. Empati kurmak güzeldir ancak kendi sınırlarınızı çizmeyi bilmezseniz, başkalarının stresini kendi hayatınız gibi yaşarsınız."
+  },
+  "caption": "İnsan ilişkilerinde neden bazı insanların enerjisi üzerimize yapışır? Beynimizdeki ayna nöron sistemi, karşımızdakinin eylemlerini ve niyetlerini adeta kendi içimizde simüle eder. Bu durum derin bir bağ kurmamızı sağlarken, yanlış insanlarla çevrili olduğumuzda ruhsal olarak tükenmemize de yol açar. Kendi sınırlarınızı belirlemediğinizde, başkalarının taşıyamadığı yükleri kendi sinir sisteminizde taşımaya başlarsınız. Bu konuyu kiminle paylaşmak istiyorsanız etiketleyin.\n\n#aynanöronlar #ilişkipsikolojisi #duygusalsınırlar #empati #zihinseldağınıklık #tükenmişlik #ya_da_psikoloji",
+  "processed_at": "2026-09-26 17:02:11"
+}

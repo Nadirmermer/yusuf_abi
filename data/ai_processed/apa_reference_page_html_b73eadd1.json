@@ -1,0 +1,133 @@
+{
+  "id": "apa_reference_page_html_b73eadd1",
+  "original_title": "APA References Page Formatting and Example",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/apa-reference-page.html",
+  "published_date": "2026-09-17T10:52:13+00:00",
+  "read_time_minutes": 6,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/apa-references-page-formatting-1.jpg",
+      "alt": "APA References Page Formatting and Example",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/apa-reference-page.png",
+      "alt": "An Example of an APA Format Reference List",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/apa-title-page-format-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/how-to-write-a-lab-report-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/apa-abstract-example-300x209.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/citing-multiple-authors-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/How-to-cite-a-YouTube-video-in-APA-format-1-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/how-to-synthesize-information-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1179,
+  "turkce_baslik": "Akademik Biçimciliğin Gölgesinde İnsan Zihni: APA Kuralları Neden Düşük Puan Alır?",
+  "kanca_sorusu": "İnsan ilişkilerinin derinlikli acılarını konuşurken neden kuru akademik formatları ele alıyoruz?",
+  "score": 40,
+  "puan_nedeni": "Metin tamamen APA 7 kaynakça yazım kuralları, akademik atıf biçimleri ve teknik yönergeler içermektedir. Takipçinin iç dünyasına, ilişkilerine veya duygusal dinamiklerine hitap etmediği için klinik olarak düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Psikoloji bilimi dışarıdan bakıldığında yalnızca kurallardan, formatlardan ve akademik atıf biçimlerinden ibaret sanılır. Oysa insan zihninin karmaşası, yaşanan travmalar ve ilişkilerdeki sessiz çatışmalar hiçbir şablona sığmaz. Bu makale, akademik yazımın teknik detaylarını sunarken bize başka bir gerçeği hatırlatır: Gerçek psikoloji, tırnak işaretleri arasında veya DOI numaralarında değil, iki insan arasındaki bağın kopuşunda ya da onarılışında gizlidir. Klinik pratiklerimizde hayatın kendisini konuşuruz, referans formatlarını değil.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Akademik Biçimcilik",
+      "body": "Psikoloji sadece kurallardan ve atıf biçimlerinden ibaret bir akademik disiplin değildir.",
+      "highlight_box": "Biçim özün önüne geçemez.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Gerçek Hayat ve Kurallar",
+      "body": "Hayatın karmaşık ilişkisel problemleri hiçbir kılavuza veya formata sığmaz.",
+      "highlight_box": "İç dünyamız formüllerle açıklanamaz.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Teknik Detayların Tuzağı",
+      "body": "Zihinsel enerjimizi insanı anlamak yerine şekil şartlarına harcamak.",
+      "highlight_box": "Özden kopuş belirtisi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Akademik Mesafe",
+      "body": "Duyguları laboratuvar ortamına indirgeyip mekanikleştirme çabası.",
+      "highlight_box": "Acıların formülü yoktur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Öze Dönüş",
+      "body": "Bilimi ve teknik bilgiyi insani deneyimi anlamak için bir araç olarak kullanmak.",
+      "highlight_box": "Önce insan, sonra yöntem.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış",
+      "body": "Yaşantınızı bir akademik makale gibi düzenleyemezsiniz; onu yaşamanız gerekir.",
+      "highlight_box": "Gerçek farkındalık içeriden gelir.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "İlişkilerinizi düzeltmek için akademik makale formatı öğrenmenize gerek yok.",
+    "konusma_metni": "Bugün önümüzde APA kaynakça kuralları var. Evet, bilimsel yazım önemli ancak günün sonunda insan kalbi bir makale formatıyla açıklanamaz. İlişkilerdeki kopuşları, kaygılı bağlanmayı ve sınır çizmeyi konuşmak yerine parantezleri ve italik yazıları tartışıyorsak, insanı unutmuşuz demektir."
+  },
+  "caption": "Psikoloji biliminin akademik yönü ne kadar önemliyse, insanın iç dünyasının o kadar kuralsız ve özgün olduğunu unutmamak gerekir. Hayatın karmaşası hiçbir formata sığmaz.\n\n#psikoloji #akademikpsikoloji #bilim #zihin #insan #farkındalık #ruhsağlığı",
+  "processed_at": "2026-09-26 17:10:40"
+}

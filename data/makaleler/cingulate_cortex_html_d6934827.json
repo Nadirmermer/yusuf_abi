@@ -1,0 +1,151 @@
+{
+  "id": "cingulate_cortex_html_d6934827",
+  "url": "https://www.simplypsychology.org/cingulate-cortex.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Cingulate Cortex",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2025-08-18T14:59:53+00:00",
+  "date_modified": null,
+  "read_time_minutes": 5,
+  "word_count": 1014,
+  "summary": "Psychology»Biopsychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Biopsychology\n\nThecingulate cortexis a paired region located on the medial surface of thecerebral hemispheres,arching above the corpus callosum. It encompasses both the cingulategyrusand the cingulate sulcus, and is often regarded as part of the limbic lobe andlimbic system.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Takeaways",
+      "content": "- Location: The cingulate cortex sits on the medial surface of the brain above the corpus callosum, acting as a bridge between higher thought, memory, and emotional systems.\n\n- Functions: It regulates emotion, attention, memory, and motivation, making it central to how we process experiences and respond to challenges.\n\n- Disorders: Dysfunction is linked to depression, anxiety, OCD, Alzheimer’s disease, chronic pain, and other psychiatric and neurological conditions.\n\n- Research: Scientists study it with brain imaging, electrophysiology, and connectivity mapping to understand its roles in cognition and emotion.\n\n- Everyday impact: It shapes empathy, decision-making, motivation, and stress responses, influencing how we connect with others and pursue goals.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Anterior vs. Posterior Cingulate Cortex",
+      "content": "Theanterior cingulate cortex (ACC)occupies the front portion (Brodmann areas 24, 32, and 33) and is crucial for cognitive functions such as attention, conflict monitoring, emotion, and decision-making.\n\nTheposterior cingulate cortex (PCC), situated behind the ACC (areas 23 and 31), is a central hub in the brain’sdefault mode network.\n\nIt is highly metabolically active and plays key roles inepisodic memoryretrieval, awareness, and pain processing.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Connections with Other Brain Regions and the Limbic System",
+      "content": "The cingulate cortex is deeply interconnected withinthe limbic system:it receives input from thalamic nuclei and neocortex, and communicates with the entorhinal cortex via the cingulum bundle.\n\nThe ACC has strong connections toorbitofrontal cortex,amygdala, and other limbic-related structures, allowing integration of emotion and reward signals.\n\nMeanwhile, the PCC links extensively with medialtemporalmemory regions (e.g.,hippocampus, parahippocampal gyrus) and association cortices, supporting memory, self-awareness, and high-level cognitive integration.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Emotion Regulation and Processing",
+      "content": "The cingulate cortex—especially its anterior part (ACC)—plays a central role inemotion regulationby integrating emotional input with cognitive control.\n\nIt responds to rewards, monitors conflict and errors, and helps modulate emotional experiences such as empathy, pain, and social evaluation.\n\nThe ACC also influences autonomic functions like heart rate and blood pressure in emotional contexts.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Attention, Focus, and Decision-Making",
+      "content": "The ACC is vital forattention allocation, performance monitoring, and decision-making.\n\nIt detects conflicts—such as during theStroopor Flanker tasks—evaluates errors, and adjusts behavior accordingly.\n\nMeanwhile, the posterior cingulate cortex (PCC) plays a key role in default-mode activities such as internal focus, episodic memory retrieval, and balancing internal versus external attention through its role in the default mode network.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Memory, Learning, and Spatial Awareness",
+      "content": "The PCC receivesspatial and action-related informationfromparietal regionsand exchanges information with the hippocampal system via the parahippocampal and entorhinal cortices, supporting spatial awareness, episodic memory retrieval, and action–outcome learning.\n\nThe cingulate cortex acts as a bridge between neocortical input (both “what” and “where” streams) and the hippocampus, facilitating associative learning and memory formation.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Disorders and Dysfunctions of the Cingulate Cortex",
+      "content": "Signs of cingulate cortex damage may include the following:\n\n- Autonomic changes– Irregular heart rate, blood pressure, or digestion.\n\n- Flat affect– Reduced emotional expression.\n\n- Loss of empathy– Difficulty resonating with others’ feelings.\n\n- Poor decisions– Impaired judgment and risk-reward evaluation.\n\n- Attention deficits– Trouble focusing or resolving conflict.\n\n- Emotional instability– Impulsivity or inappropriate reactions.\n\n- Akinetic mutism– Severe reduction in speech and movement.\n\n- Memory and spatial problems– Difficulty retrieving memories or navigating environments.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Mental and Psychiatric Disorders",
+      "content": "- Thesubgenual anterior cingulate cortex (sgACC)is heavily implicated inmajor depression, and it’s a target for deep-brain stimulation in treatment-resistant cases.\n\n- InOCD, the ACC shows abnormal neurochemistry (e.g., altered glutamate/GABA balance) and structural changes like reducedgrey matter.\n\n- Schizophreniapatients often have reduced ACC volume and lower metabolic activity in both anterior and posterior segments.\n\n- Anxietyand other neuropsychiatric disorders are associated with dysfunction in cingulate-related networks.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Neurodegenerative and Neurological Conditions",
+      "content": "- EarlyAlzheimer’s diseaseinvolves atrophy and disrupted connectivity in the posterior cingulate and cingulum bundle.\n\n- Autism Spectrum Disorder (ASD)features functional differences and reduced connectivity in the PCC.\n\n- Dysfunction within the cingulate is also implicated inADHD, affecting attention and executive function via default-mode network instability.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "How do researchers study the cingulate cortex?",
+      "content": "Researchers explore the cingulate cortex using a range of advanced techniques combining structure, function, and computation:\n\n- Functional MRI (fMRI): Offers spatial mapping of activity via the BOLD signal—identifying cingulate engagement during tasks or at rest, especially within the default mode network.\n\n- Diffusion MRI (DTI/tractography)andparcellation methods: Reveal structural connectivity within cingulate subregions and with other brain areas.\n\n- Functional MRS (fMRS): Measures dynamic metabolite changes—like glutamate or GABA—in the anterior cingulate during activation or pain studies.\n\n- Electrophysiology & Electrocorticography (ECoG): Provide high-resolution, direct recordings of neural activity from the cortical surface or depth electrodes, offering unparalleled temporal and spatial detail.\n\n- MEG and EEG: Noninvasive ways to map temporal brain dynamics, especially useful for oscillatory and synchrony studies.\n\n- Functional ultrasound (fUS): Emerging technology that maps blood flow—and thus activity—with high spatial-temporal precision, currently most advanced in animal and neonatal brain studies.\n\nThese tools collectively enable researchers to dissect the cingulate cortex’s anatomy, functionality, metabolism, connectivity, and real-time neural dynamics with increasing precision.\n\nGuy-Evans, O. (2025). Cingulate Cortex. Simply Psychology. https://www.simplypsychology.org/cingulate-cortex.html\n\nGuy-Evans, Olivia. \"Cingulate Cortex.\" Simply Psychology, 18 August 2025, https://www.simplypsychology.org/cingulate-cortex.html.\n\nGuy-Evans, O. (2025) Cingulate Cortex. Simply Psychology. Available at: https://www.simplypsychology.org/cingulate-cortex.html (Accessed: 21 September 2026).\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.",
+      "order": 11,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cingulate-cortex.jpg",
+      "alt": "Cingulate Cortex",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/limbic-system-structures.jpg",
+      "alt": "limbic system structures",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/dorsolateral-prefrontal-cortex-300x228.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brodmanns-areas-300x169.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotions-brain-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-1-300x186.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Cingulate Cortex\n\n> Psychology»Biopsychology\n\n## Giriş\n\nPsychology»Biopsychology\n\nThecingulate cortexis a paired region located on the medial surface of thecerebral hemispheres,arching above the corpus callosum. It encompasses both the cingulategyrusand the cingulate sulcus, and is often regarded as part of the limbic lobe andlimbic system.\n\n## Key Takeaways\n\n- Location: The cingulate cortex sits on the medial surface of the brain above the corpus callosum, acting as a bridge between higher thought, memory, and emotional systems.\n\n- Functions: It regulates emotion, attention, memory, and motivation, making it central to how we process experiences and respond to challenges.\n\n- Disorders: Dysfunction is linked to depression, anxiety, OCD, Alzheimer’s disease, chronic pain, and other psychiatric and neurological conditions.\n\n- Research: Scientists study it with brain imaging, electrophysiology, and connectivity mapping to understand its roles in cognition and emotion.\n\n- Everyday impact: It shapes empathy, decision-making, motivation, and stress responses, influencing how we connect with others and pursue goals.\n\n## Anterior vs. Posterior Cingulate Cortex\n\nTheanterior cingulate cortex (ACC)occupies the front portion (Brodmann areas 24, 32, and 33) and is crucial for cognitive functions such as attention, conflict monitoring, emotion, and decision-making.\n\nTheposterior cingulate cortex (PCC), situated behind the ACC (areas 23 and 31), is a central hub in the brain’sdefault mode network.\n\nIt is highly metabolically active and plays key roles inepisodic memoryretrieval, awareness, and pain processing.\n\n## Connections with Other Brain Regions and the Limbic System\n\nThe cingulate cortex is deeply interconnected withinthe limbic system:it receives input from thalamic nuclei and neocortex, and communicates with the entorhinal cortex via the cingulum bundle.\n\nThe ACC has strong connections toorbitofrontal cortex,amygdala, and other limbic-related structures, allowing integration of emotion and reward signals.\n\nMeanwhile, the PCC links extensively with medialtemporalmemory regions (e.g.,hippocampus, parahippocampal gyrus) and association cortices, supporting memory, self-awareness, and high-level cognitive integration.\n\n## Emotion Regulation and Processing\n\nThe cingulate cortex—especially its anterior part (ACC)—plays a central role inemotion regulationby integrating emotional input with cognitive control.\n\nIt responds to rewards, monitors conflict and errors, and helps modulate emotional experiences such as empathy, pain, and social evaluation.\n\nThe ACC also influences autonomic functions like heart rate and blood pressure in emotional contexts.\n\n## Attention, Focus, and Decision-Making\n\nThe ACC is vital forattention allocation, performance monitoring, and decision-making.\n\nIt detects conflicts—such as during theStroopor Flanker tasks—evaluates errors, and adjusts behavior accordingly.\n\nMeanwhile, the posterior cingulate cortex (PCC) plays a key role in default-mode activities such as internal focus, episodic memory retrieval, and balancing internal versus external attention through its role in the default mode network.\n\n## Memory, Learning, and Spatial Awareness\n\nThe PCC receivesspatial and action-related informationfromparietal regionsand exchanges information with the hippocampal system via the parahippocampal and entorhinal cortices, supporting spatial awareness, episodic memory retrieval, and action–outcome learning.\n\nThe cingulate cortex acts as a bridge between neocortical input (both “what” and “where” streams) and the hippocampus, facilitating associative learning and memory formation.\n\n## Disorders and Dysfunctions of the Cingulate Cortex\n\nSigns of cingulate cortex damage may include the following:\n\n- Autonomic changes– Irregular heart rate, blood pressure, or digestion.\n\n- Flat affect– Reduced emotional expression.\n\n- Loss of empathy– Difficulty resonating with others’ feelings.\n\n- Poor decisions– Impaired judgment and risk-reward evaluation.\n\n- Attention deficits– Trouble focusing or resolving conflict.\n\n- Emotional instability– Impulsivity or inappropriate reactions.\n\n- Akinetic mutism– Severe reduction in speech and movement.\n\n- Memory and spatial problems– Difficulty retrieving memories or navigating environments.\n\n## Mental and Psychiatric Disorders\n\n- Thesubgenual anterior cingulate cortex (sgACC)is heavily implicated inmajor depression, and it’s a target for deep-brain stimulation in treatment-resistant cases.\n\n- InOCD, the ACC shows abnormal neurochemistry (e.g., altered glutamate/GABA balance) and structural changes like reducedgrey matter.\n\n- Schizophreniapatients often have reduced ACC volume and lower metabolic activity in both anterior and posterior segments.\n\n- Anxietyand other neuropsychiatric disorders are associated with dysfunction in cingulate-related networks.\n\n## Neurodegenerative and Neurological Conditions\n\n- EarlyAlzheimer’s diseaseinvolves atrophy and disrupted connectivity in the posterior cingulate and cingulum bundle.\n\n- Autism Spectrum Disorder (ASD)features functional differences and reduced connectivity in the PCC.\n\n- Dysfunction within the cingulate is also implicated inADHD, affecting attention and executive function via default-mode network instability.\n\n## How do researchers study the cingulate cortex?\n\nResearchers explore the cingulate cortex using a range of advanced techniques combining structure, function, and computation:\n\n- Functional MRI (fMRI): Offers spatial mapping of activity via the BOLD signal—identifying cingulate engagement during tasks or at rest, especially within the default mode network.\n\n- Diffusion MRI (DTI/tractography)andparcellation methods: Reveal structural connectivity within cingulate subregions and with other brain areas.\n\n- Functional MRS (fMRS): Measures dynamic metabolite changes—like glutamate or GABA—in the anterior cingulate during activation or pain studies.\n\n- Electrophysiology & Electrocorticography (ECoG): Provide high-resolution, direct recordings of neural activity from the cortical surface or depth electrodes, offering unparalleled temporal and spatial detail.\n\n- MEG and EEG: Noninvasive ways to map temporal brain dynamics, especially useful for oscillatory and synchrony studies.\n\n- Functional ultrasound (fUS): Emerging technology that maps blood flow—and thus activity—with high spatial-temporal precision, currently most advanced in animal and neonatal brain studies.\n\nThese tools collectively enable researchers to dissect the cingulate cortex’s anatomy, functionality, metabolism, connectivity, and real-time neural dynamics with increasing precision.\n\nGuy-Evans, O. (2025). Cingulate Cortex. Simply Psychology. https://www.simplypsychology.org/cingulate-cortex.html\n\nGuy-Evans, Olivia. \"Cingulate Cortex.\" Simply Psychology, 18 August 2025, https://www.simplypsychology.org/cingulate-cortex.html.\n\nGuy-Evans, O. (2025) Cingulate Cortex. Simply Psychology. Available at: https://www.simplypsychology.org/cingulate-cortex.html (Accessed: 21 September 2026).\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-21T19:05:41.096542"
+}

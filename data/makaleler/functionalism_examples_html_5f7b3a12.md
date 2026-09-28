@@ -1,0 +1,268 @@
+# 9 Functionalism Examples (in Schools, Families & Religion)
+
+- **Kaynak Platform**: Simply Psychology
+- **Orijinal URL**: https://www.simplypsychology.org/functionalism-examples.html
+- **Yayın Tarihi**: 2024-02-13T17:36:08+00:00
+- **Okuma Süresi / Kelime**: ~13 dk (2690 kelime)
+- **Çekilme Zamanı**: 2026-09-22T12:37:56.912014
+
+---
+
+## 📌 Giriş / Özet
+According to functionalism, the three main functions of social institutions are:
+
+
+## 🎯 Ana Maddeler & Odak Noktaları (Carousel / Post Çekirdeği)
+1. 1. The Family
+2. 2. Education
+3. 3. Religion
+4. 4. Government
+5. 5. Healthcare
+6. 6. Crime
+7. 7. Media
+8. 8. Sport
+9. 9. Culture
+
+
+## 🖼️ Konuyla İlgili Görseller (Arka Plan & Tasarım İçin)
+- ![9 Functionalism Examples (in Schools, Families & Religion)](https://www.simplypsychology.org/wp-content/uploads/functionalism-examples.jpeg) - *Header Image*
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/functionalist-perspective-300x200.jpeg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/nuclear-family-300x200.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/value-consensus-300x169.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/social-norms-300x158.jpeg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/social-facts-300x154.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/american-dream-300x240.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/headshot.webp)
+
+
+## 📝 Makale Bölümleri ve Detaylı İçerik
+
+### Giriş
+
+According to functionalism, the three main functions of social institutions are:
+
+- Socialization: Social institutions provide the structure within which individuals learn the norms and values of society. For example, schools teach children how to behave appropriately in society.
+
+- Social control: Social institutions help to maintain stability and order within society. For example, families teach children what is right and wrong, and religion teaches people about morality.
+
+- Social inequality: Social institutions help to create and maintain unequal relationships between groups of people in society. For example,  the education system provides opportunities to separate people into higher and lower-paying occupations.
+
+Socialization: Social institutions provide the structure within which individuals learn the norms and values of society. For example, schools teach children how to behave appropriately in society.
+
+Social control: Social institutions help to maintain stability and order within society. For example, families teach children what is right and wrong, and religion teaches people about morality.
+
+Social inequality: Social institutions help to create and maintain unequal relationships between groups of people in society. For example,  the education system provides opportunities to separate people into higher and lower-paying occupations.
+
+### 1. The Family
+
+The familyis a microcosm of society. Each member of the family has a specific role to play which contributes to the smooth functioning of society as a whole.
+
+Radcliffe-Brown argued that most societies that lack centralized institutions are based on the association of people who are related to each other; families (Radcliffe-Brown, 1940).
+
+Murdock claimed that thenuclear familyperforms four functions that benefit society because they reduce the potential for chaos and conflict and consequently bring about relatively well-ordered, structured and predictable societies
+
+- Socialization: The family is theprimary socializing agentfor children. Parents teach their children the norms and values of society.
+
+- Economic stability: The family provides economic stability for its members. In many families, both parents work to earn an income.
+
+- Reproductive/Procreative: The nuclear family provides new members of society, without which society would cease to exist.
+
+- Sexual relationships: The family as an institution also regulates sexual behavior. Many societies, for example, have historically forbade sex outside the family-creating bond of marriage.
+
+Marxists believe that the family is a tool of capitalism and its main function is tomaintain capitalismand reinforce social inequalities.
+
+According to Marx, the family also gives individuals property rights and allows for the assignment and maintenance of kinship order.
+
+Emotional support: The family provides emotional support for its members. Family members can rely on each other for love and comfort in times of need (Parson, 1951).
+
+Additionally, the family provides importantascribed statusessuch as social class and ethnicity to new members, as well as replacing dying members through reproduction.
+
+### 2. Education
+
+Like families, schools function to socialize children with thevalues,norms, and beliefs of society.
+
+They also teach them the skills and knowledge they need to perform their role in society. Sociologists contend that Education has several manifest functions (Gewirtz & Cribb, 2009):
+
+- Socialization: The education system socializes children to practice social roles. In fact, Durkheim called schools “socialization agencies that teach children how to get along with others and prepare them for adult economic roles” (Durkheim, 1898)
+
+- Cultural Transmission: The education system transmits the dominant culture to children. It does this through teaching the history, language and literature of the majority group. In this way, children learn the dominant ideology (a set of shared beliefs and values) and become functioning members of society.
+
+- Teaching Job-Related Skills: The education system teaches job-related skills, as well as determining who is able to pursue certain occupations. This is done through vocational training and professional qualifications.
+
+For example, in order to become a doctor, one must first study medicine at university. The process of allowing individuals of all social backgrounds to gain credentials that will broaden their prospects in the future is commonly called social placement.
+
+Education also fulfills various latent functions, such as providing children with exposure to social networks and teaching students to work with others in small groups (Gewirtz & Cribb, 2009).
+
+### 3. Religion
+
+One of the main purposes of religion is to differentiate between the sacred (things that are special because they are the product of a higher power or supernatural being) and the profane (things that are ordinary, average and have no special meaning or purpose).
+
+Religion provides comfort and hope in times of trouble, and helps people to deal with death. It also teaches people about right and wrong, and how they should behave towards each other.
+
+All in all, religion is a conservative force that reinforces social norms and promotes social solidarity (Burhenn, 1980).
+
+Religion has several functions:
+
+- Social control: Religion teaches people about right and wrong behavior. This helps to maintain order and stability in society.
+
+- Social cohesion: Religion brings people together and gives them a sense of community. This increases social cohesion and makes it less likely that people will engage indeviant behavior.
+
+- Socialization: Religion socializes people into the norms and values of society. For example, many religions teach that it is important to be honest and truthful.
+
+- Hope and comfort: Religion provides hope and comfort in times of trouble. For example, when people are sick or dying, religion offers them hope for a better life after death. Additionally, religious rituals such as funerals provide emotional support for grieving individuals (Malinowski, 1979)
+
+### 4. Government
+
+According to the functionalist perspective, the government has four main manifest purposes (Domhoff, 2011):
+
+- Planning and directing society:  The government makes decisions about how society should be run. They do this by making laws, setting taxes and creating policies.
+
+- Meeting social needs: The government provides goods and services that benefit the entire community, such  as healthcare, education and infrastructure. In times of need, such as during a natural disaster, the government is also able to distribute resources across areas to minimize damage.
+
+- Maintaining law and order: The government works to maintain social order by enforcing laws and maintaining a police force. Government representatives are also responsible for drafting and legislating laws that regulate what people can and cannot do within a society.
+
+- Managing international relations: governments provide a structure for managing international relations between countries. They do this by maintaining diplomatic relations, signing treaties and participating in international organizations.
+
+The government also has a number oflatent functions, such as providing opportunities for social mobility and creating a sense of national identity (Domhoff, 2011).
+
+### 5. Healthcare
+
+In the view of functionalism, good health and effective health care are essential for a society’s ability to function.
+
+The physician and patient have a hierarchical relationship in which the physician is the expert and the patient is the client.
+
+The role of the physician is to diagnose, treat and prevent illnesses. The role of the patient is to follow the physician’s orders and to cooperate in their own treatment.
+
+In order for this system to work effectively, there must be trust between the physician and the patient (University of Minnesota, 2022).
+
+Talcott Parsons (1951), one of the leading thinkers in functionalism, saw the main objective of healthcare as preventing premature death, which prevents individuals from fully carrying out all their social roles after a society has invested large amounts of resources in carrying, birthing, caring for, and socializing the dying individual.
+
+Parsons considers patients who are legitimately sick to follow the expectations of the “sick role,” which includes having a confirmed illness, not being seen as having caused the illness, and having a desire to get well.
+
+Health care also has a number of latent functions, such as providing employment opportunities and stimulating economic activity. For example, the construction of hospitals and clinics creates jobs for builders, engineers and architects.
+
+Additionally, the purchase of medical supplies and equipment provides a boost to businesses that produce these items.
+
+### 6. Crime
+
+Functionalists believe that crime is inevitable and even beneficial for society.  On the other hand, uncontrolled crime can bring about the collapse of society.
+
+Hence, functionalists argue that institutions of social control are necessary to keep levels of crime at a functional level.
+
+Socialization is not always successful. Some people do not learn the correct values and norms, or they may learn them but choose to defy them. In either case, these individuals are more likely to engage in deviant and criminal behavior.
+
+Even in a society where everyone is “well-socialized,” the standard for crime, sociologists argue, would simply be adjusted so that the smallest slip would be considered a serious offense (Downes et al., 2016).
+
+Crime performs several important functions.
+
+- Firstly, it can be a form ofsocial cohesion. For example, when two gangs are fighting over turf, they are actually reaffirming the existence of their group and their territory.
+
+- Secondly, crime can act as asafety valve, allowing people to release their frustrations in a non-destructive way. For example, when two young men get into a fistfight, they are releasing their aggression in a way that does not involve serious harm to the people who are not fighting (Downes et al., 2016).
+
+- Thirdly, crime can serve as a form ofsocial change. For example, when civil rights activists engage in sit-ins and protests, they are breaking the law but they are also bringing about social change.
+
+### 7. Media
+
+The mass media includes television, social media, movies, books, etc. Its functions include:
+
+- Entertainment: Firstly, media often has entertainment value, and people who consume media often say that they enjoy it. This entertainment can come in manifold forms, ranging from online gaming to meeting new friends and scrolling through aesthetically-pleasing photos (Anderson & Meyer, 1975).
+
+- Commercial functions: The media provides a way for businesses to advertise their products and services. This is done through paid advertisements, which are typically broadcast during prime-time hours when there is a large audience. Sponsors can use data gathered by network and cable companies to target their advertising to the people most likely to watch a certain programme (Anderson & Meyer, 1975).
+
+- Socialization: The media socializes individuals into thenorms and values of society. For example, television programs often depict families that are traditional in nature, with the father working and the mother staying at home to care for the children. This teaches viewers that this is the ideal family structure.
+
+There is controversy over the extent and impact of media socialization (Anderson & Bushman, 2002), especially when it leads todysfunctional behaviors, such as violence.
+
+Psychologists have alternatingly argued that violent media does and does not provoke physical and relational aggression (Krahe et al., 2011; Gentile, Mathieson, & Crick, 2011).
+
+- Information: The media provides individuals with information about current events happening both locally and internationally. For example, news programs report on stories such as natural disasters, political unrest, or new scientific discoveries (Anderson & Meyer, 1975).
+
+### 8. Sport
+
+Sports are used to promote common values that are essential for the integration of society. They are also used as a way to socialize children and teach them important life skills, such as teamwork and fair play.
+
+In addition, sports can be used to promote national pride and unity. For example, when a country”s team does well in an international competition, the citizens of that country often feel a sense of pride and unity.
+
+Finally, sports can be used to generate revenue for businesses and organizations. For example, professional sports teams generate revenue through ticket sales, merchandise sales and television contracts (Loy & Booth, 2000).
+
+### 9. Culture
+
+Functionalists view culture as a reflection of societal values.  Culture provides cohesion between institutions and practices. It behaves as an interrelated whole, rather than a collection of isolated traits.
+
+Culture is a functional institution. Notions of culture help people to navigate through both norms and everyday interactions.
+
+Most notably, membership in a culture, a subculture, or a counterculture brings camaraderie and social cohesion and benefits the larger society by providing places for people who share similar ideas (White, 1945).
+
+Functionalists study culture in terms of values. For example, the culture of healthcare in much of the world — including material resources such as hospitals,  staff, and equipment — is organized around the values of efficiency and cost-effectiveness.
+
+This reflects the fact that most societies have a limited amount of resources, so it is necessary to use them in the most efficient way possible.
+
+In contrast, the culture of healthcare in some cultures may be organized around the value of individualized care. This reflects the fact that these cultures place a higher value on the individual than on efficiency (White, 1945).
+
+Nickerson, C. (2024). 9 Functionalism Examples (in Schools, Families & Religion). Simply Psychology. https://www.simplypsychology.org/functionalism-examples.html
+
+Nickerson, Charlotte. "9 Functionalism Examples (in Schools, Families & Religion)." Simply Psychology, 13 February 2024, https://www.simplypsychology.org/functionalism-examples.html.
+
+Nickerson, C. (2024) 9 Functionalism Examples (in Schools, Families & Religion). Simply Psychology. Available at: https://www.simplypsychology.org/functionalism-examples.html (Accessed: 22 September 2026).
+
+### References
+
+Anderson, J. A., & Meyer, T. P. (1975). Functionalism and the mass media.Journal of Broadcasting & Electronic Media, 19(1), 11-22.
+
+Burhenn, H. (1980). Functionalism and the Explanation of Religion.Journal for the scientific study of religion, 350-360.
+
+Bushman, B. J., & Anderson, C. A. (2002). Violent video games and hostile expectations: A test of the general aggression model.Personality and social psychology bulletin, 28(12), 1679-1686.
+
+Domhoff, G. William. 2011. “Who Rules America?” Sociology Department at University of California, Santa Cruz.
+
+Downes, D. M., Rock, P. E., & McLaughlin, E. (2016).Understanding deviance: A guide to the sociology of crime and rule-breaking. Oxford University Press.
+
+Durkheim, E. (1898). Individual representations and collective representations.Review of Metaphysics and Morals, 6(3), 273-302.
+
+Gewirtz, S., & Cribb, A. (2009).Understanding education: A sociological perspective. Polity.
+
+Kingsbury, N., & Scanzoni, J. (2009). Structural-functionalism.In Sourcebook of family theories and methods(pp. 195-221). Springer.
+
+Krahé, B., Möller, I., Huesmann, L. R., Kirwil, L., Felber, J., & Berger, A. (2011). Desensitization to media violence: links with habitual media violence exposure, aggressive cognitions, and aggressive behavior.Journal of personality and social psychology, 100(4), 630.
+
+Levin, J. (2004). Functionalism.
+
+Loy, J. W., & Booth, D. (2000). Functionalism, sport and society.Handbook of sports studies, 8-27.
+
+Malinowski, B. (1979). The role of magic and religion.Reader in comparative religion,86.
+
+Mathieson, L. C., Murray-Close, D., Crick, N. R., Woods, K. E., Zimmer-Gembeck, M., Geiger, T. C., & Morales, J. R. (2011). Hostile intent attributions and relational aggression: The moderating roles of emotional sensitivity, gender, and victimization.Journal of abnormal child psychology, 39(7), 977-987.
+
+Radcliffe-Brown, A. R. (1940). On social structure.The Journal of the Royal Anthropological Institute of Great Britain and Ireland, 70(1), 1-12.
+
+Murdock, G. P. (1949).Social structure.
+
+Parsons, T. (1951). Illness and the role of the physician: a sociological perspective.American Journal of orthopsychiatry, 21(3), 452.
+
+Parsons, T. E., & Shils, E. A. (1951).Toward a general theory of action.
+
+Stern, B. J. (1948). Engels on the Family.Science & Society, 42-64.
+
+White, L. A. (1945). History, evolutionism, and functionalism: Three types of interpretation of culture.Southwestern Journal of Anthropology, 1(2), 221-248.
+
+BSc (Hons) Psychology, MRes, PhD, University of Manchester
+
+Chartered Psychologist (CPsychol)
+
+Saul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.
+
+Olivia Guy-Evans, MSc
+
+BSc (Hons) Psychology, MSc Psychology of Education
+
+Associate Editor for Simply Psychology
+
+Olivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.
+
+Writer and Cognitive Engineer
+
+AB History, Harvard University
+
+Charlotte Nickerson is a Harvard graduate and cognitive engineer whose work sits at the intersection of social psychology, human behaviour, and technology design. She contributed over 100 articles to Simply Psychology and holds a Master's in Cognitive Engineering from ENSC.

@@ -1,0 +1,127 @@
+{
+  "id": "memory_bias_and_belief_bias_may_share_a__e3aa4dba",
+  "original_title": "Memory Bias and Belief Bias May Share a Common Brain Mechanism",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/memory-bias-and-belief-bias-may-share-a-common-brain-mechanism.html",
+  "published_date": "2025-07-09T15:22:26+00:00",
+  "read_time_minutes": 5,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/decision-making-1.jpg",
+      "alt": "Memory Bias and Belief Bias May Share a Common Brain Mechanism",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/decision-making-1-1024x661.jpg",
+      "alt": "decision making 1",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mindfulness-yogi-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/disclosing-diagnosis-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/future-anxiety-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-anxiety-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/creative-child-and-parent-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1050,
+  "turkce_baslik": "Neden Sadece Duymak İstediklerimizi Hatırlar ve İnanırız?",
+  "kanca_sorusu": "Geçmişteki inançlarınızla çelişen bir gerçeği kabul etmek neden zihinsel bir acı gibi hissettirir?",
+  "score": 45,
+  "puan_nedeni": "Makale, nörolojik altyapılara ve medial prefrontal korteks gibi beyin bölgelerine odaklanan, klinik pratikten ziyade bilişsel nörobilim temelli bir derleme olduğu için editoryal puanımız orta-düşük seviyededir.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, belirsizlikle başa çıkabilmek ve enerjisini korumak için geçmişte öğrendiklerine tutunma eğilimindedir. Araştırmalar, hafızamızın ve inançlarımızın aslında aynı nörolojik mekanizmalar tarafından yönlendirildiğini gösteriyor. Bildiğimizle uyuşan bilgiyi daha çabuk hatırlarken, inancımıza ters düşen verileri görmezden gelme ya da unutma eğilimi gösteririz. Bu durum sadece bir inatçılık değil, beynin aşina olduğu güvenli şemalara sığınma refleksidir.\n\nBeynimizdeki medial prefrontal korteks bölgesi, yeni gelen bilginin daha önceki kabullerimizle uyumlu olup olmadığını sürekli denetler. Uyumlu bulduğunda ödül mekanizmalarını devreye sokar ve bizi rahatlatır. Ancak bu durum, büyümemizi, yeni bakış açıları kazanmamızı ve hatalarımızdan ders çıkarmamızı engelleyen görünmez bir zihinsel duvara dönüşebilir. Fikir değiştirmenin neden bu kadar zor olduğu, beynin onaylanma arzusuna karşı koymanın neden enerji gerektirdiği tam olarak bu mekanizmayla ilgilidir.\n\nKendi yargılarımızı ve inançlarımızı esnetebilmek, ancak beynimizin bu otomatik onay mekanizmasının farkına varmamızla mümkündür. Konfor alanımızı koruyan bu nörolojik eğilimleri fark etmek, ezber bozan bir farkındalığın ilk adımıdır. Gerçek gelişim, sadece bildiğimizi doğrulayanı aramak değil, çelişkili olanla yüzleşebilme cesaretini gösterebilmektir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Neden Sadece Duymak İstediklerimizi Hatırlarız?",
+      "body": "Zihnimiz, geçmişteki kabullerimizle uyuşan bilgileri kaydetmeye ve hatırlamaya programlanmıştır.",
+      "highlight_box": "Bildiklerimiz, neyi hatırlayacağımızı belirler.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Onaylama Yanılgısının Kökeni",
+      "body": "İnançlarımızı destekleyen bilgileri kabul eder, çelişenleri ise hızla reddeder ya da unuturuz.",
+      "highlight_box": "Bu bir irade zayıflığı değil, nörolojik bir reflekstir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Güvenli Şemalar",
+      "body": "Beyin, mevcut zihinsel çerçevesine uyan bilgileri çok daha az enerji harcayarak işler.",
+      "highlight_box": "Uyumlu bilgi, beyin tarafından ödüllendirilir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Fikir Değiştirmenin Zorluğu",
+      "body": "Aksini kanıtlayan güçlü delillere rağmen eski inançlarda diretmek, zihnin konfor alanından çıkma korkusudur.",
+      "highlight_box": "Beyin, yanlış çıkmaktan nefret eder.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Otomatik Pilottan Çıkmak",
+      "body": "Yeni bir bilgiyle karşılaştığınızda kendinize şu soruyu sorun: Bu bilgiyi gerçekten tarafsız mı değerlendiriyorum?",
+      "highlight_box": "Farkındalık, otomatik tepkileri durdurur.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizin sizi korumak için ürettiği bu nyangıların farkında olun ve bildiklerinizi sorgulama cesareti gösterin.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Beyniniz, yanlış olduğunu bildiğiniz halde neden eski inançlarınıza sıkı sıkıya sarıldığınızı saklıyor.",
+    "konusma_metni": "Neden bazı şeyleri çok net hatırlarken bazılarını hemen unuttuğunuzu hiç merak ettiniz mi? Araştırmalar, hafızamızla inançlarımızın aynı beyin merkezi tarafından yönetildiğini söylüyor. Zihnimiz, önceden bildikleriyle uyuşan bilgiyi adeta ödüllendirirken, aksi kanıtları görmezden geliyor. Yani inatçılığınız sadece bir karakter özelliği değil, beyninizin sizi güvende tutma yanılma biçimi."
+  },
+  "caption": "İnsan zihni, belirsizlikle başa çıkabilmek ve enerjisini korumak için geçmişte öğrendiklerine tutunma eğilimindedir. Araştırmalar, hafızamızın ve inançlarımızın aynı nörolojik mekanizmalar tarafından yönlendirildiğini gösteriyor. Bildiğimizle uyuşan bilgiyi daha çabuk hatırlarken, inancımıza ters düşen verileri görmezden gelme eğilimi gösteririz. Bu durum sadece bir inatçılık değil, beynin aşina olduğu güvenli şemalara sığınma refleksidir. Fikir değiştirmenin neden bu kadar zor olduğunu anlamak, bu zihinsel döngüyü kırmanın ilk adımıdır. \n\n#psikoloji #bilişselnyangı #nörobilim #hafıza #inanç #zihin #farkındalık",
+  "processed_at": "2026-09-26 17:29:50"
+}

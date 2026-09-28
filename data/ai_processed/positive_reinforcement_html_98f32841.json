@@ -1,0 +1,151 @@
+{
+  "id": "positive_reinforcement_html_98f32841",
+  "original_title": "Positive Reinforcement: What Is It and How Does It Work?",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/positive-reinforcement.html",
+  "published_date": "2026-09-17T11:39:15+00:00",
+  "read_time_minutes": 23,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Operant-Conditioning-Reinforcement-1.jpeg",
+      "alt": "Positive Reinforcement: What Is It and How Does It Work?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/negative-reinforcement.jpeg",
+      "alt": "negative reinforcement",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/skinner-box-300x253.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Operant-Conditioning-Reinforcement-1-300x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/skinner-box-1-300x185.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/reinforcement_schedules-300x221.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Premack-principle-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-cognitive-theory-300x145.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/skinner-box-1024x865.jpg",
+      "alt": "Skinner box or operant conditioning chamber experiment outline diagram. Labeled educational laboratory apparatus structure for mouse or rat experiment to understand animal behavior vector illustration",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/reinforcement_schedules.jpg",
+      "alt": "Reinforcement Schedules Graph",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/headshot.webp",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4626,
+  "turkce_baslik": "İlgi Görmek İçin Neden Cezalandırılmayı Seçiyoruz: Pekiştirme Yanılgısı",
+  "kanca_sorusu": "Size zarar veren bir davranışı, sırf size ilgi getirdiği için neden bırakamıyorsunuz?",
+  "score": 42,
+  "puan_nedeni": "Makale, klasik B.F. Skinner operant şartlandırma ve davranışçı öğrenme teorilerini ele almaktadır. Kuru akademik nöroloji/laboratuvar teorisi kategorisinde kaldığı ve doğrudan ilişkisel dinamiklerin derin bir 'ayna etkisi'ne odaklanmadığı için editoryal puanımız düşüktür.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Günlük hayatta ilişkilerimizi yönetirken sıkça düştüğümüz bir tuzak vardır: Bir davranışı sadece 'iyi niyetli bir ödül' olarak görürüz ancak insan psikolojisi bu kadar düz bir çizgide çalışmaz. B.F. Skinner'ın temellerini attığı pekiştirme teorisi, dışsal sonuçların davranışlarımızı nasıl şekillendirdiğini gösterir. Ancak ödül ile pekiştirme aynı şey değildir. Bir şeyin ödül olarak tasarlanmış olması, onun davranışı artıracağı anlamına gelmez. Özellikle çocukluktan itibaren karşılanmamış ilgi ve onay ihtiyaçlarımız, bizi cezalandırılmaya veya olumsuz tepki almaya bile razı edebilir. Bir çocuk, ebeveyninin ya da partnerinin ilgisini çekebilmek için azarlanmayı veya eleştirilmeyi bile zihinsel bir pekişteç olarak kodlayabilir. Çünkü insan psişesi için en büyük ceza, yok sayılmaktır; kötü ilgi bile tamamen görünmez olmaktan daha katlanılabilirdir. İlişkilerimizde toksik döngüleri tekrarlamamamızın temel sebebi, hangi davranışlarımızın hangi görünmez ödüllerle beslendiğini fark edemeyişimizdir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Ödül Sandığınız Şeyler Aslında Sizi Tutsak Ediyor",
+      "body": "İlişkilerinizde neden sürekli aynı kısır döngüleri tekrar ettiğinizi hiç düşündünüz mü?",
+      "highlight_box": "Her hoşunuza giden şey masum bir ödül değildir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Ödül ve Pekiştirme Aynı Şey Değildir",
+      "body": "Bir davranışın sonucunda aldığınız tepki, o davranışı istemeden de olsa körüklüyor olabilir.",
+      "highlight_box": "Davranışı belirleyen niyet değil, sonuçtur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Negatif İlgi Çekme Tuzağı",
+      "body": "Sevgisizlikten ziyade ilgi görmemekten korktuğunuz için tartışma çıkarır, olumsuz tepkiyi onay olarak alırsınız.",
+      "highlight_box": "Hiç yoktan iyidir hissi toksik döngü yaratır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Premack İlkesi ve Alışkanlıklar",
+      "body": "Yapmak istemediğiniz ama sizi tüketen ilişki kalıplarını, ucundaki küçük bir kırıntı için sürdürürsünüz.",
+      "highlight_box": "Değersiz hissettiren bir ilişki neden bırakılamaz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Döngüyü Kırmak İçin Soru Sorun",
+      "body": "Bu davranış bana ne kazandırıyor? Bu gerçekten sevgi mi, yoksa sadece tanıdık bir acı mı?",
+      "highlight_box": "Farkındalık, otomatik pilotu durdurur.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel İyileşme Hatırlatması",
+      "body": "Kendi pekiştireçlerinizin farkına vardığınızda, yanlış insanların yanlış davranışlarına muhtaç olmaktan vazgeçersiniz.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Bazen ilişkilerde kavga etmek istemezsiniz ama o tartışma bittikten sonra gelen ilgi size tatlı gelir.",
+    "konusma_metni": "Psikolojide pekiştirme dediğimiz şey tam olarak budur. Bir davranışın tekrarlanması için onun dışarıdan ne kadar hoş göründüğü önemli değildir. Önemli olan size ne kazandırdığıdır. Çocukluğunuzda ilgi görmek için eleştirilmeyi öğrendiyseniz, yetişkinliğinizde de toksik partnerlerin sizi azarlamasını bir şekilde çekici bulursunuz çünkü bu size görünür olduğunuzu hissettirir. Ödül ile pekiştirme arasındaki bu ince farkı çözerseniz, döngülerinizi kırmaya başlarsınız."
+  },
+  "caption": "İlişkilerimizde tekrarladığımız bazı davranışların kökeninde, dışarıdan masum görünen ama içeride bizi tüketen pekiştireçler yatar. Ödül ile pekiştirme arasındaki o hassas çizgiyi fark edemediğimiz sürece, aynı toksik döngüleri farklı yüzlerle yaşamaya devam ederiz. Bazen sırf ilgi görebilmek ya da görünür hissedebilmek adına, eleştirilmeyi, kavga etmeyi ya da cezalandırılmayı zihinsel bir ödül olarak kodlarız. Bu içerik size kendi otomatik kalıplarınızı sorgulatmak için hazırlandı. Psikolojik kör noktalarınızı fark etmek ve bu döngüyü kırmak için gönderiyi kaydetmeyi ve bir adım geriden bakmayı unutmayın.\n\n#psikoloji #ilişkiler #toksikiçgörü #davranışbilimi #farkındalık #bağlanma #ya_da_psikoloji",
+  "processed_at": "2026-09-26 17:01:36"
+}

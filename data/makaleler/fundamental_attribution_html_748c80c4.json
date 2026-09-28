@@ -1,0 +1,162 @@
+{
+  "id": "fundamental_attribution_html_748c80c4",
+  "url": "https://www.simplypsychology.org/fundamental-attribution.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Fundamental Attribution Error in Psychology",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2026-09-17T11:06:09+00:00",
+  "date_modified": null,
+  "read_time_minutes": 10,
+  "word_count": 2018,
+  "summary": "Psychology»Social Psychology",
+  "topics": [],
+  "key_points": [
+    "The Just-World Hypothesis and Blaming the Victim",
+    "The Castro Speech Study (Jones and Harris, 1967)",
+    "The Quiz-Master Study (Ross, Amabile and Steinmetz, 1977)",
+    "The Two-Step Model and Cognitive Load"
+  ],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Social Psychology\n\n[preferred_source_button]\n\nThe fundamental attribution error (also called correspondence bias or the over-attribution effect) is the tendency to over-emphasize personality-based explanations for someone’s behavior. It downplays the situational forces that actually shaped it.\n\nIn other words, people have acognitive biasto assume that someone’s actions reflect what “kind” of person they are. We rely less on the social and environmental forces shaping their behavior.\n\nThe term was coined by Lee Ross some years after the now-classic experiment by Jones and Harris. Ross (1977) arguedin a popular paperthat the fundamental attribution error forms the conceptual bedrock for the field of social psychology.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Takeaways",
+      "content": "- Definition:The fundamental attribution error is the tendency to overemphasize a person’s disposition and underemphasize their situation when explaining their behavior.\n\n- Coined By Ross:Lee Ross named the error in 1977, building on the classic Castro speech experiment by Jones and Harris (1967).\n\n- Two Mechanisms:Perceptual salience and an effortful “two-step” correction process both help explain why the bias happens.\n\n- Just-World Link:The related just-world hypothesis explains why we sometimes blame victims for their own misfortune.\n\n- Cultural Limits:The bias is weaker in collectivist cultures and develops with age, so it may not be truly universal.\n\n- Modifiable, Not Fixed:Newer research shows the bias shrinks under cognitive-load correction or when free-will belief is weakened.\n\nWe tend to see others as internally motivated and responsible for their behavior. This may be because of perceptual salience: the other person is simply what we see most when we look at them. It may also be that we lack detailed information about what actually caused their behavior.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "The Just-World Hypothesis and Blaming the Victim",
+      "content": "Blaming the victim is a stark example.\n\nIf giving someone our sympathy, or blaming the true culprit, would cause us discomfort, we may instead hold the victim responsible for their own suffering. “He had it coming” and “she was asking for it” are all-too-common phrases.\n\nThis reflects a related idea: the just-world hypothesis (Lerner, 1965, 1980). The logic is simple.\n\nIt holds that people want to believe the world is fair, so good people are rewarded and bad people are punished. That belief pushes us to blame victims rather than accept that misfortune can strike anyone.\n\nBelieving the world is just gives people a comforting sense of control: if you are “good,” only good things will happen to you.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Key Studies",
+      "content": "Two classic experiments demonstrate the fundamental attribution error in action. Both explain why we default to blaming personality over circumstance.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "The Castro Speech Study (Jones and Harris, 1967)",
+      "content": "Aim:Jones and Harris (1967) tested an assumption. Would people attribute freely chosen behavior to personality, but chance-directed behavior to the situation?\n\nMethod:Participants read or listened to a Castro speech. They then estimated the speaker’s true attitude toward Castro.\n\nIn the choice condition, participants were told the speaker had freely chosen their position. In the no-choice condition, they were told the position had been assigned, for example by a coin toss.\n\nResults:In the choice condition, they rated pro-Castro speakers favorably. But in the no-choice condition, they still rated pro-Castro speakers more favorably than anti-Castro speakers, on average, despite knowing the assignment was random.\n\nThe result was surprising.\n\nConclusion:The participants were unable to see the speakers as mere debaters coldly performing a task chosen for them by circumstance. They could not refrain from attributing some disposition of sincerity to the speakers.\n\nIt contradicted the researchers’ original, more rational prediction and became the classic demonstration of the fundamental attribution error.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "The Quiz-Master Study (Ross, Amabile and Steinmetz, 1977)",
+      "content": "Aim:To show the fundamental attribution error appears even when a social role hands someone an obvious, openly random advantage.\n\nMethod:Pairs were randomly assigned to play questioner or contestant in a quiz. Questioners wrote ten hard questions from their own personal knowledge, and contestants tried to answer them.\n\nObservers also watched. Afterward, everyone rated how knowledgeable the questioner and the contestant seemed.\n\nResults:Questioners naturally looked knowledgeable. Their role let them show off expertise, while contestants predictably got many answers wrong.\n\nYet everyone missed it.\n\nContestants and observers still rated questioners as far more knowledgeable, forgetting that the role, not intelligence, had rigged the contest. Only the questioners themselves resisted this bias, since they alone knew their role had given them the edge.\n\nConclusion:People failed to discount an advantage they could plainly see was handed out by random assignment (Ross, Amabile & Steinmetz, 1977).",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Why Does the Fundamental Attribution Error Happen?",
+      "content": "Psychologists point to two main mechanisms: perceptual salience and a two-step process for judging behavior. Both explain why we default to blaming personality over circumstance.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Perceptual Salience: Why Behavior Draws the Eye",
+      "content": "Heider (1958), the founder of attribution theory, compared behavior to a “figure” standing out against a “ground” of context and situational pressures. A person’s actions are vivid and easy to notice. The surrounding situation is not.\n\nWe rarely know what happened to someone earlier in the day, so their visible behavior becomes the obvious explanation. Taylor and Fiske (1975) tested this directly.\n\nAim:To test whether perceptual salience alone shapes attribution, by controlling who observers could actually see.\n\nMethod:Two people held a scripted conversation. Some observers faced one speaker, some faced the other, and some could see both equally.\n\nResults:Observers consistently rated whichever speaker they could see more clearly as the one who “set the tone” and led the conversation. This held true even though everyone heard identical dialogue.\n\nConclusion:Causal attribution tracks what is visually prominent, not what is actually true. This confirms Heider’s figure-ground idea with a controlled experiment (Taylor & Fiske, 1975).",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "The Two-Step Model and Cognitive Load",
+      "content": "Gilbert and Malone (1995) proposed that dispositional judgments happen in two stages. First, we make an automatic, effortless guess about someone’s personality. Only afterward, in a slower and more effortful second step, do we adjust that guess to fit the situation.\n\nBecause the second step takes mental effort, people often skip it. Gilbert, Pelham and Krull (1988) tested what happens when that effort is unavailable.\n\nAim:To test whether mental busyness increases dispositional bias.\n\nMethod:Participants formed impressions of a target whose behavior was clearly constrained by the situation. Some participants were kept “cognitively busy” with a second task while watching; others were left free to focus.\n\nResults:Busy participants made more extreme dispositional judgments and ignored the situational constraint. Unburdened participants adjusted for the situation as expected.\n\nConclusion:Dispositional inference is quick and automatic. Correcting for the situation is effortful, so distraction, time pressure, and multitasking all make the fundamental attribution error worse (Gilbert, Pelham & Krull, 1988).\n\nTogether, these mechanisms show why the error is less a fixed law of thought than a predictable by-product of how attention works.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Critical Evaluation",
+      "content": "The fundamental attribution error may not be universal across cultures. Miller (1984) compared how Hindus in India and Americans explained the same kinds of everyday behavior.\n\nAmerican adults leaned on disposition. Indian adults favored situational explanations instead. A control ruled out an obvious confound: when Americans explained behaviors the Indian participants had generated, they still explained them dispositionally. The difference lay in the perceivers, not in what was being explained.\n\nMiller also tested children aged 8, 11 and 15 from both cultures. The youngest children were indistinguishable across cultures. The gap between American and Indian explanations only widened with age.\n\nThis suggests the dispositional habit is learned, not innate. Culture gradually shapes how children come to explain behavior.\n\nThis finding is consistent with the idea that individualist cultures, like the U.S., encourage anindividualistic self-concept. People raised in a society that prizes individual achievement and uniqueness learn to focus on personal characteristics when explaining someone’s actions.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Contemporary Research",
+      "content": "Malle (2006) pooled effect sizes across decades of research on a related pattern: the actor-observer asymmetry, where observers blame disposition and actors blame the situation.\n\nThe result surprised many. His meta-analysis found this asymmetry to be much smaller and more conditional than textbooks usually claim, holding up mainly for negative or intentional behavior.\n\nThis does not erase the fundamental attribution error’s own direct demonstrations, such as the Castro speech and quiz-master studies. It simply tempers “fixed law” claims about it.\n\nA newer study asks a different question: does belief itself shape the bias? Genschow, Rigoni and Brass (2017) ran six studies, mixing correlational and experimental designs.\n\nTwo studies experimentally weakened participants’ belief in free will.\n\nEvery study found the same link. The more someone believed in free will, the larger their bias toward blaming disposition.\n\nWeakening that belief reduced the bias.\n\nA stronger bias also predicted harsher punishment of others. The fundamental attribution error, this suggests, is a habit of thought that can be changed, not a fixed law of cognition.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "References",
+      "content": "Genschow, O., Rigoni, D., & Brass, M. (2017). Belief in free will affects causal attributions when judging others’ behavior.Proceedings of the National Academy of Sciences, 114(38), 10071– 10076. https://doi.org/10.1073/pnas.1701916114\n\nGilbert, D. T., & Malone, P. S. (1995). The correspondence bias.Psychological Bulletin, 117(1), 21–38. https://doi.org/10.1037/0033-2909.117.1.21\n\nGilbert, D. T., Pelham, B. W., & Krull, D. S. (1988). On cognitive busyness: When person perceivers meet persons perceived.Journal of Personality and Social Psychology, 54(5), 733–740.\n\nHeider, F. (1958).The psychology of interpersonal relations. John Wiley & Sons. https://doi.org/10.1037/10628-000\n\nJones, E. E., & Harris, V. A. (1967). The attribution of attitudes.Journal of Experimental Social Psychology, 3(1), 1–24.\n\nLerner, M. J. (1965). Evaluation of performance as a function of performer’s reward and attractiveness.Journal of Personality and Social Psychology, 1(4), 355–360.\n\nLerner, M. J. (1980).The belief in a just world: A fundamental delusion. Plenum Press. https://doi.org/10.1007/978-1-4899-0448-5\n\nMalle, B. F. (2006). The actor–observer asymmetry in attribution: A (surprising) meta-analysis.Psychological Bulletin, 132(6), 895–919. https://doi.org/10.1037/0033-2909.132.6.895\n\nMiller, J. G. (1984). Culture and the development of everyday social explanation.Journal of Personality and Social Psychology, 46(5), 961–978.\n\nRoss, L. (1977). The intuitive psychologist and his shortcomings: Distortions in the attribution process.Advances in Experimental Social Psychology, 10, 173–220. https://doi.org/10.1016/S0065-2601(08)60357-3\n\nRoss, L., Amabile, T. M., & Steinmetz, J. L. (1977). Social roles, social control, and biases in social-perception processes.Journal of Personality and Social Psychology, 35(7), 485–494.\n\nTaylor, S. E., & Fiske, S. T. (1975). Point of view and perceptions of causality.Journal of Personality and Social Psychology, 32(3), 439–445.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Further Information",
+      "content": "Target Article:The Really Fundamental Attribution Error in Social Psychological Research\n\nMcLeod, S. (2026). Fundamental Attribution Error in Psychology. Simply Psychology. https://www.simplypsychology.org/fundamental-attribution.html\n\nMcLeod, Saul. \"Fundamental Attribution Error in Psychology.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/fundamental-attribution.html.\n\nMcLeod, S. (2026) Fundamental Attribution Error in Psychology. Simply Psychology. Available at: https://www.simplypsychology.org/fundamental-attribution.html (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 13,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/fundamental-attribution-error-1.jpg",
+      "alt": "Fundamental Attribution Error in Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-identity-theory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-cognitive-theory-300x145.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hofstede-cultural-dimensions-300x144.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/frustration-aggression-hypothesis-300x139.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/scapegoat-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cultural-relativism-300x168.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Fundamental Attribution Error in Psychology\n\n> Psychology»Social Psychology\n\n### Önemli Noktalar / Metotlar\n- The Just-World Hypothesis and Blaming the Victim\n- The Castro Speech Study (Jones and Harris, 1967)\n- The Quiz-Master Study (Ross, Amabile and Steinmetz, 1977)\n- The Two-Step Model and Cognitive Load\n\n## Giriş\n\nPsychology»Social Psychology\n\n[preferred_source_button]\n\nThe fundamental attribution error (also called correspondence bias or the over-attribution effect) is the tendency to over-emphasize personality-based explanations for someone’s behavior. It downplays the situational forces that actually shaped it.\n\nIn other words, people have acognitive biasto assume that someone’s actions reflect what “kind” of person they are. We rely less on the social and environmental forces shaping their behavior.\n\nThe term was coined by Lee Ross some years after the now-classic experiment by Jones and Harris. Ross (1977) arguedin a popular paperthat the fundamental attribution error forms the conceptual bedrock for the field of social psychology.\n\n## Key Takeaways\n\n- Definition:The fundamental attribution error is the tendency to overemphasize a person’s disposition and underemphasize their situation when explaining their behavior.\n\n- Coined By Ross:Lee Ross named the error in 1977, building on the classic Castro speech experiment by Jones and Harris (1967).\n\n- Two Mechanisms:Perceptual salience and an effortful “two-step” correction process both help explain why the bias happens.\n\n- Just-World Link:The related just-world hypothesis explains why we sometimes blame victims for their own misfortune.\n\n- Cultural Limits:The bias is weaker in collectivist cultures and develops with age, so it may not be truly universal.\n\n- Modifiable, Not Fixed:Newer research shows the bias shrinks under cognitive-load correction or when free-will belief is weakened.\n\nWe tend to see others as internally motivated and responsible for their behavior. This may be because of perceptual salience: the other person is simply what we see most when we look at them. It may also be that we lack detailed information about what actually caused their behavior.\n\n## The Just-World Hypothesis and Blaming the Victim\n\nBlaming the victim is a stark example.\n\nIf giving someone our sympathy, or blaming the true culprit, would cause us discomfort, we may instead hold the victim responsible for their own suffering. “He had it coming” and “she was asking for it” are all-too-common phrases.\n\nThis reflects a related idea: the just-world hypothesis (Lerner, 1965, 1980). The logic is simple.\n\nIt holds that people want to believe the world is fair, so good people are rewarded and bad people are punished. That belief pushes us to blame victims rather than accept that misfortune can strike anyone.\n\nBelieving the world is just gives people a comforting sense of control: if you are “good,” only good things will happen to you.\n\n## Key Studies\n\nTwo classic experiments demonstrate the fundamental attribution error in action. Both explain why we default to blaming personality over circumstance.\n\n## The Castro Speech Study (Jones and Harris, 1967)\n\nAim:Jones and Harris (1967) tested an assumption. Would people attribute freely chosen behavior to personality, but chance-directed behavior to the situation?\n\nMethod:Participants read or listened to a Castro speech. They then estimated the speaker’s true attitude toward Castro.\n\nIn the choice condition, participants were told the speaker had freely chosen their position. In the no-choice condition, they were told the position had been assigned, for example by a coin toss.\n\nResults:In the choice condition, they rated pro-Castro speakers favorably. But in the no-choice condition, they still rated pro-Castro speakers more favorably than anti-Castro speakers, on average, despite knowing the assignment was random.\n\nThe result was surprising.\n\nConclusion:The participants were unable to see the speakers as mere debaters coldly performing a task chosen for them by circumstance. They could not refrain from attributing some disposition of sincerity to the speakers.\n\nIt contradicted the researchers’ original, more rational prediction and became the classic demonstration of the fundamental attribution error.\n\n## The Quiz-Master Study (Ross, Amabile and Steinmetz, 1977)\n\nAim:To show the fundamental attribution error appears even when a social role hands someone an obvious, openly random advantage.\n\nMethod:Pairs were randomly assigned to play questioner or contestant in a quiz. Questioners wrote ten hard questions from their own personal knowledge, and contestants tried to answer them.\n\nObservers also watched. Afterward, everyone rated how knowledgeable the questioner and the contestant seemed.\n\nResults:Questioners naturally looked knowledgeable. Their role let them show off expertise, while contestants predictably got many answers wrong.\n\nYet everyone missed it.\n\nContestants and observers still rated questioners as far more knowledgeable, forgetting that the role, not intelligence, had rigged the contest. Only the questioners themselves resisted this bias, since they alone knew their role had given them the edge.\n\nConclusion:People failed to discount an advantage they could plainly see was handed out by random assignment (Ross, Amabile & Steinmetz, 1977).\n\n## Why Does the Fundamental Attribution Error Happen?\n\nPsychologists point to two main mechanisms: perceptual salience and a two-step process for judging behavior. Both explain why we default to blaming personality over circumstance.\n\n## Perceptual Salience: Why Behavior Draws the Eye\n\nHeider (1958), the founder of attribution theory, compared behavior to a “figure” standing out against a “ground” of context and situational pressures. A person’s actions are vivid and easy to notice. The surrounding situation is not.\n\nWe rarely know what happened to someone earlier in the day, so their visible behavior becomes the obvious explanation. Taylor and Fiske (1975) tested this directly.\n\nAim:To test whether perceptual salience alone shapes attribution, by controlling who observers could actually see.\n\nMethod:Two people held a scripted conversation. Some observers faced one speaker, some faced the other, and some could see both equally.\n\nResults:Observers consistently rated whichever speaker they could see more clearly as the one who “set the tone” and led the conversation. This held true even though everyone heard identical dialogue.\n\nConclusion:Causal attribution tracks what is visually prominent, not what is actually true. This confirms Heider’s figure-ground idea with a controlled experiment (Taylor & Fiske, 1975).\n\n## The Two-Step Model and Cognitive Load\n\nGilbert and Malone (1995) proposed that dispositional judgments happen in two stages. First, we make an automatic, effortless guess about someone’s personality. Only afterward, in a slower and more effortful second step, do we adjust that guess to fit the situation.\n\nBecause the second step takes mental effort, people often skip it. Gilbert, Pelham and Krull (1988) tested what happens when that effort is unavailable.\n\nAim:To test whether mental busyness increases dispositional bias.\n\nMethod:Participants formed impressions of a target whose behavior was clearly constrained by the situation. Some participants were kept “cognitively busy” with a second task while watching; others were left free to focus.\n\nResults:Busy participants made more extreme dispositional judgments and ignored the situational constraint. Unburdened participants adjusted for the situation as expected.\n\nConclusion:Dispositional inference is quick and automatic. Correcting for the situation is effortful, so distraction, time pressure, and multitasking all make the fundamental attribution error worse (Gilbert, Pelham & Krull, 1988).\n\nTogether, these mechanisms show why the error is less a fixed law of thought than a predictable by-product of how attention works.\n\n## Critical Evaluation\n\nThe fundamental attribution error may not be universal across cultures. Miller (1984) compared how Hindus in India and Americans explained the same kinds of everyday behavior.\n\nAmerican adults leaned on disposition. Indian adults favored situational explanations instead. A control ruled out an obvious confound: when Americans explained behaviors the Indian participants had generated, they still explained them dispositionally. The difference lay in the perceivers, not in what was being explained.\n\nMiller also tested children aged 8, 11 and 15 from both cultures. The youngest children were indistinguishable across cultures. The gap between American and Indian explanations only widened with age.\n\nThis suggests the dispositional habit is learned, not innate. Culture gradually shapes how children come to explain behavior.\n\nThis finding is consistent with the idea that individualist cultures, like the U.S., encourage anindividualistic self-concept. People raised in a society that prizes individual achievement and uniqueness learn to focus on personal characteristics when explaining someone’s actions.\n\n## Contemporary Research\n\nMalle (2006) pooled effect sizes across decades of research on a related pattern: the actor-observer asymmetry, where observers blame disposition and actors blame the situation.\n\nThe result surprised many. His meta-analysis found this asymmetry to be much smaller and more conditional than textbooks usually claim, holding up mainly for negative or intentional behavior.\n\nThis does not erase the fundamental attribution error’s own direct demonstrations, such as the Castro speech and quiz-master studies. It simply tempers “fixed law” claims about it.\n\nA newer study asks a different question: does belief itself shape the bias? Genschow, Rigoni and Brass (2017) ran six studies, mixing correlational and experimental designs.\n\nTwo studies experimentally weakened participants’ belief in free will.\n\nEvery study found the same link. The more someone believed in free will, the larger their bias toward blaming disposition.\n\nWeakening that belief reduced the bias.\n\nA stronger bias also predicted harsher punishment of others. The fundamental attribution error, this suggests, is a habit of thought that can be changed, not a fixed law of cognition.\n\n## References\n\nGenschow, O., Rigoni, D., & Brass, M. (2017). Belief in free will affects causal attributions when judging others’ behavior.Proceedings of the National Academy of Sciences, 114(38), 10071– 10076. https://doi.org/10.1073/pnas.1701916114\n\nGilbert, D. T., & Malone, P. S. (1995). The correspondence bias.Psychological Bulletin, 117(1), 21–38. https://doi.org/10.1037/0033-2909.117.1.21\n\nGilbert, D. T., Pelham, B. W., & Krull, D. S. (1988). On cognitive busyness: When person perceivers meet persons perceived.Journal of Personality and Social Psychology, 54(5), 733–740.\n\nHeider, F. (1958).The psychology of interpersonal relations. John Wiley & Sons. https://doi.org/10.1037/10628-000\n\nJones, E. E., & Harris, V. A. (1967). The attribution of attitudes.Journal of Experimental Social Psychology, 3(1), 1–24.\n\nLerner, M. J. (1965). Evaluation of performance as a function of performer’s reward and attractiveness.Journal of Personality and Social Psychology, 1(4), 355–360.\n\nLerner, M. J. (1980).The belief in a just world: A fundamental delusion. Plenum Press. https://doi.org/10.1007/978-1-4899-0448-5\n\nMalle, B. F. (2006). The actor–observer asymmetry in attribution: A (surprising) meta-analysis.Psychological Bulletin, 132(6), 895–919. https://doi.org/10.1037/0033-2909.132.6.895\n\nMiller, J. G. (1984). Culture and the development of everyday social explanation.Journal of Personality and Social Psychology, 46(5), 961–978.\n\nRoss, L. (1977). The intuitive psychologist and his shortcomings: Distortions in the attribution process.Advances in Experimental Social Psychology, 10, 173–220. https://doi.org/10.1016/S0065-2601(08)60357-3\n\nRoss, L., Amabile, T. M., & Steinmetz, J. L. (1977). Social roles, social control, and biases in social-perception processes.Journal of Personality and Social Psychology, 35(7), 485–494.\n\nTaylor, S. E., & Fiske, S. T. (1975). Point of view and perceptions of causality.Journal of Personality and Social Psychology, 32(3), 439–445.\n\n## Further Information\n\nTarget Article:The Really Fundamental Attribution Error in Social Psychological Research\n\nMcLeod, S. (2026). Fundamental Attribution Error in Psychology. Simply Psychology. https://www.simplypsychology.org/fundamental-attribution.html\n\nMcLeod, Saul. \"Fundamental Attribution Error in Psychology.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/fundamental-attribution.html.\n\nMcLeod, S. (2026) Fundamental Attribution Error in Psychology. Simply Psychology. Available at: https://www.simplypsychology.org/fundamental-attribution.html (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:18:02.623220"
+}

@@ -1,0 +1,133 @@
+{
+  "id": "golem_effect_html_32a6e97a",
+  "original_title": "Golem Effect",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/golem-effect.html",
+  "published_date": "2026-09-22T12:23:36+00:00",
+  "read_time_minutes": 15,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/golem-effect.jpeg",
+      "alt": "Golem Effect",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hidden-curriculum-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Dramaturgy-300x202.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Interpretivism-sociology-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Cultural-Capital-300x157.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-norms-300x158.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/picpocket-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Ayesh-Perera.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2989,
+  "turkce_baslik": "Başkalarının Sana Dair Sessiz İnancı, Kaderine Nasıl Dönüşür?",
+  "kanca_sorusu": "Birinin senin hakkında beslediği olumsuz beklenti, zamanla senin gerçeğin haline geldi mi?",
+  "score": 85,
+  "puan_nedeni": "İlişkisel dinamikler, beklentilerin benlik algısı üzerindeki yıkıcı etkisi ve özsaygı kaybı gibi konular, takipçilerin günlük yaşamda ve partner/ebeveyn ilişkilerinde birebir yaşadığı derin bir içsel yaraya dokunduğu için çok yüksek puan almıştır.",
+  "category": "Sınırlar & Özsaygı",
+  "editoryal_genis_metin": "Golem Etkisi, bireyler üzerine kurulan düşük beklentilerin ve olumsuz inançların, bir kehanetin gerçekleşmesi gibi kiş performansını gerçekten düşürmesi durumunu ifade eder. Adını Yahudi mitolojisindeki yaratıcısına zarar veren çamurdan figür golemden alan bu psikolojik olgu, otorite figürlerinin veya yakın ilişkideki partnerlerin bizim potansiyelimize dair besledikleri şüphelerin içselleştirilme sürecini inceler. Çevremizdeki insanların bize daha soğuk davranması, daha az geri bildirim vermesi ve bize alan tanımaması, zamanla kendi öz-yeterliliğimizi sorgulamamıza neden olur. Bu durum, başkalarının sınırlayıcı yargılarının bizim tavanımız haline gelmesiyle sonuçlanır. İlişkilerde ve iş yaşamında maruz kaldığımız bu sessiz küçümseme, kişinin kendi potansiyelinden şüphe etmesine ve nihayetinde beklentileri doğrultusunda sönümlenmesine yol açar. Bu döngüyü kırabilmek, başkalarının inancını değil, kendi içsel gerçekliğimizi merkeze almayı öğrenmekle başlar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Beklentilerin Gölgesi",
+      "body": "Bir insanın sana dair beslediği olumsuz beklenti, zamanla senin sınırların haline gelebilir.",
+      "highlight_box": "Başkalarının inancı senin gerçekliğin mi oluyor?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Golem Etkisi Nedir?",
+      "body": "Düşük beklentiler, kişinin performansını düşüren görünmez bir kehanete dönüşür.",
+      "highlight_box": "Olumsuz inançlar eyleme dönüşür.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Sessiz Mesafe ve Soğukluk",
+      "body": "Sana inancı olmayan otorite veya partner, iletişimde daha soğuk bir iklim yaratır ve geri bildirimi keser.",
+      "highlight_box": "Desteklenmediğin yerde sönümlenirsin.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Öz-Yeterliliğin Aşınması",
+      "body": "Sürekli eleştirilen veya beklenti duyulmayan birey, zamanla kendi yeteneklerinden şüphe etmeye başlar.",
+      "highlight_box": "Onların şüphesi senin şüphen olur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Döngüyü Kırmak",
+      "body": "Başkalarının senin hakkındaki yargılarının sana ait olmadığını fark etmek bu zinciri kırar.",
+      "highlight_box": "Sen onların beklentilerinden ibaret değilsin.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Potansiyelini başkalarının bakış açısına teslim etme. Kendi gerçekliğini kendin kur.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Etrafındaki insanların senin hakkında inandığı o sessiz olumsuzluk, zamanla senin tavanın haline geldi.",
+    "konusma_metni": "Psikolojide Golem Etkisi dediğimiz bir durum var. Bir insan senin başaramayacağına, potansiyelinin sınırlı olduğuna inandığında, sana istemsizce daha mesafeli yaklaşır, daha az fırsat verir. Zamanla sen de bu sessiz mesafeyi içselleştirir ve kendi potansiyelinden şüphe etmeye başlarsın. Başkalarının düşük beklentileri senin kaderin olmak zorunda değil. Bu zinciri kırmak, onların yargılarını reddetmekle başlar."
+  },
+  "caption": "Golem Etkisi, başkalarının bizim hakkımızda beslediği olumsuz beklentilerin ve düşük inançların, zamanla bizim performansımızı ve benlik algımızı nasıl aşağı çektiğini inceler. Bir otorite figürünün, bir ebeveynin ya da bir partnerin bize olan inançsızlığı; ilişkideki mesafeyi artırır, geri bildirimi azaltır ve nihayetinde bizim de kendi potansiyelimizden şüphe etmemize yol açar. Başkalarının sınırlayıcı yargılarını kendi kaderiniz gibi yaşamamak için bu döngüyü fark etmek ilk adımdır. \n\n#golemetkisi #özsaygı #ilişkipsikolojisi #kişiselgelişimdegilbilim #benlikalgısı #sınırlar #toksikiçgörü",
+  "processed_at": "2026-09-26 16:50:31"
+}

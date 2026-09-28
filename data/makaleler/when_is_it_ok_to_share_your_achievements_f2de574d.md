@@ -1,0 +1,33 @@
+# When Is It OK to Share Your Achievements?
+
+- **Kaynak Platform**: Psychology Today
+- **Blog / Kategori**: connected-leadership
+- **Orijinal URL**: https://www.psychologytoday.com/us/blog/connected-leadership/202401/when-is-it-ok-to-share-your-achievements
+- **Yazar / Uzman**: Andy Lopata
+- **Hakem / Editör**: Reviewed by Hara Estroff Marano
+- **Yayın Tarihi**: 2024-01-24T16:05:27-05:00
+- **Son Güncelleme**: 2024-01-24T16:05:27-05:00
+- **Okuma Süresi / Kelime**: ~1 dk (32 kelime)
+- **Konu Etiketleri**: Confidence
+- **Çekilme Zamanı**: 2026-09-21T20:36:58.743260
+
+---
+
+## 📌 Giriş / Özet
+Social perfectionism and the social media revolution have amplified the desire to share achievements with the world. But when is it OK to brag?
+
+
+## 🖼️ Konuyla İlgili Görseller (Arka Plan & Tasarım İçin)
+- ![When Is It OK to Share Your Achievements?](https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/arrogance_adobestock_184351752.jpeg.jpg?itok=ZTzqyVQd) `[Kapak Görseli]` - *Cover Image*
+- ![Andy Lopata](https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-01/andy_lopata.png.jpg?itok=mQdN1zl1)
+- ![Javier brosch/Adobe Stock](https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2024-01/Arrogance%20AdobeStock_184351752_0.jpeg.jpg?itok=tsTXb949)
+- ![Görsel](https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-05/frank-flores-qykwhejmdfo-unsplash.jpg?itok=GpVGE_ZJ)
+- ![Görsel](https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-02/pexels-polina-zimmerman-3958400.jpg?itok=bH7CoO7Z)
+
+
+## 📝 Makale Bölümleri ve Detaylı İçerik
+
+# When Is It OK to Share Your Achievements?
+
+> Social perfectionism and the social media revolution have amplified the desire to share achievements with the world. But when is it OK to brag?
+

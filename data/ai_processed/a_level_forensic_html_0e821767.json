@@ -1,0 +1,127 @@
+{
+  "id": "a_level_forensic_html_0e821767",
+  "original_title": "Forensic Psychology Revision Notes",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/a-level-forensic.html",
+  "published_date": "2026-06-09T14:30:21+00:00",
+  "read_time_minutes": 35,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/criminal-offender.jpeg",
+      "alt": "Forensic Psychology Revision Notes",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Freud-Therapy-300x228.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/aggression-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/approaches3-300x228.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/issues-and-debates-in-psychology-1-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/My-project-1-46-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/anorexia-food-restrant-300x216.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Deb-Gajic.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 7007,
+  "turkce_baslik": "Suçun Zihinsel Mimarisi: Suçlu Profillemesinde Bilim ve Sezgi",
+  "kanca_sorusu": "Bir suç mahalline baktığınızda gördüğünüz şey sadece deliller mi, yoksa failin karanlık zihninin bıraktığı izler mi?",
+  "score": 45,
+  "puan_nedeni": "Metin, adli psikoloji ve akademik sınav notlarına dayandığı, doğrudan günlük ilişkisel çatışmalara veya bireyin içsel dünyasına (bağlanma, travma, toksik dinamikler) hitap etmediği için klinik ve akademik düzeyde kalmaktadır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Adli psikoloji ve suçlu profilleme çalışmaları, insan zihninin en karanlık köşelerini aydınlatmaya çalışan zorlu bir bilim dalıdır. FBI menşeli yukarıdan aşağıya (top-down) yaklaşım, sezgilere ve FBI ajanlarının seri katillerle yaptığı mülakatlara dayanırken; David Canter'ın geliştirdiği aşağıdan yukarıya (bottom-up) yaklaşım, istatistiki analizlere ve coğrafi verilere yaslanır. İnsan davranışının karmaşıklığı, ne tamamen sezgisel tiplemelerle ne de katı istatistiklerle tek başına açıklanabilir. Suçlunun zihnini anlamak, bireyin karar verme mekanizmalarındaki kırılmaları, bilişsel çarpıtmaları ve ahlaki gelişim basamaklarını incelemeyi gerektirir. Bu durum, psikolojinin sadece klinik odalarda değil, insan doğasının en uç sınırlarında dahi ne denli kritik bir rol oynadığını gözler önüne serer.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Suçun Arkasındaki Zihin",
+      "body": "Adli psikoloji, suçluların neden bu yola girdiğini anlamak için zihinsel süreçleri ve davranış kalıplarını inceler.",
+      "highlight_box": "Her davranışın gerisinde bir zürih yatar.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "İki Farklı Profilleme Yolu",
+      "body": "Sezgilere dayanan FBI ekolü ile istatistiki verilerle çalışan bilimsel yaklaşım arasındaki ince çizgi.",
+      "highlight_box": "Sezgi mi, veri mi?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Yukarıdan Aşağıya Yaklaşım",
+      "body": "Suçluları organize ve deorganize olarak sınıflandıran, FBI mülakatlarına dayanan sezgisel model.",
+      "highlight_box": "Geçmiş mülakatların analizi",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Aşağıdan Yukarıya Yaklaşım",
+      "body": "David Canter'ın geliştirdiği, istatistiki analiz ve coğrafi profillemeye dayanan daha nesnel yaklaşım.",
+      "highlight_box": "Veriye dayalı davranış örüntüleri",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kısıtlar ve Gerçekler",
+      "body": "Hiçbir model tek başına kusursuz değildir; insan davranışı her zaman kalıpların dışına çıkabilir.",
+      "highlight_box": "Hiçbir yaklaşım kesin bir kanıt sunmaz.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Zihni Okumak Değil Anlamak",
+      "body": "Adli psikoloji, suçluyu cezalandırmaktan öte insan doğasının karanlık mekanizmalarını çözmeyi amaçlar.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Bir suçlunun zihni, dışarıdan göründüğü kadar karmaşık ama bir o kadar da tahmin edilebilirdir.",
+    "konusma_metni": "Adli psikolojide suçlu profillemesi ikiye ayrılır. Biri FBI'ın sezgilere dayanan yukarıdan aşağıya yaklaşımı, diğeri ise tamamen istatistik ve veri odaklı aşağıdan yukarıya yaklaşımıdır. Peki bir insan suç işlemeye nasıl karar verir? Zihinsel süreçler ve bilişsel çarpıtmalar, bireyi adım adım o karanlık noktaya taşır."
+  },
+  "caption": "Adli psikoloji, insan zihninin en karanlık ve karmaşık sınırlarını anlamaya çalışır. Suçlu profillemesinde kullanılan yukarıdan aşağıya ve aşağıdan yukarıya yaklaşımlar, bireyin davranış kalıplarını çözmek için farklı yöntemler sunar. Sezgiler mi yoksa istatistiksel veriler mi insanı daha iyi açıklar? Bu derinlemesine analizi kaydetmeyi ve düşüncelerinizi bizimle paylaşmayı unutmayın. \n\n#adlipsikoloji #suçluprofili #zihin #davranışbilimleri #psikolojikanaliz #insandoğası",
+  "processed_at": "2026-09-26 15:44:59"
+}

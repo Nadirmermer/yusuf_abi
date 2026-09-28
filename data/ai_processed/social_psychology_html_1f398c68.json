@@ -1,0 +1,115 @@
+{
+  "id": "social_psychology_html_1f398c68",
+  "original_title": "Social Psychology: Definition, Theories, Scope, & Examples",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/social-psychology.html",
+  "published_date": "2026-09-17T11:45:29+00:00",
+  "read_time_minutes": 27,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/zimbardo-guards.jpg",
+      "alt": "Social Psychology: Definition, Theories, Scope, & Examples",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-identity-theory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-cognitive-theory-300x145.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-constructivism-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-impact-300x205.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/normative-social-influence-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hofstede-cultural-dimensions-300x144.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 5431,
+  "turkce_baslik": "Kalabalıklar İçinde Kaybolmak: Toplumun Sizi Nasıl Şekillendirdiği ve İç Sesinizin Aslında kime Ait Olduğu",
+  "kanca_sorusu": "Yalnız başınayken bile başkalarının kurallarına göre yaşamanızın nedeni nedir?",
+  "score": 45,
+  "puan_nedeni": "Metin genel hatlarıyla akademik sosyal psikoloji tanımları, klasik deneyler ve teorik altyapı üzerine kuruludur. Doğrudan toksik ilişki, bağlanma veya spesifik bir bireysel kriz dinamiklerinden ziyade akademik bir çerçeve sunduğu için orta-düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan, sosyal bir varlık olarak başkalarının varlığından yalnızca fiziksel olarak değil, zihinsel olarak da sürekli etkilenir. Gordon Allport'un klasik tanımında belirttiği gibi, yalnız olduğumuz anlarda bile içselleştirilmiş kuralların, toplumsal bakışların ve onay arayışlarının tutsağı oluruz. Boş bir yolda hız sınırına uymamız ya da toplumun kabul görmüş kalıplarına göre giyinmemiz, görünmeyen bir otoritenin zihnimizdeki yankısıdır. Sosyal psikoloji, bireyin iç dünyası ile dış dünyanın kalabalıklar arasındaki görünmez savaşını inceler. Kendi kararlarımızı verdiğimizi sandığımız anlarda bile, aslında toplumsal normların, bilişsel tutarlılık çabalarının ve gruba ait olma dürtüsünün ipini çeken görünmez eller tarafından yönetiliriz. Bu döngüyü fark etmek, bireyselleşmenin ilk ve en keskin adımıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Görünmeyen Seyirci",
+      "body": "Yalnız olduğunuzu düşündüğünüz anlarda bile zihninizde kimin onayını arıyorsunuz?",
+      "highlight_box": "Toplum yalnızken bile sizinle odadadır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "İçselleştirilmiş Kurallar",
+      "body": "Hiç kimse sizi izlemiyorken bile kurallara uymanızın arkasındaki psikolojik baskı.",
+      "highlight_box": "Yasa dışı veya kural dışı hissetme korkusu.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Ait Olma Dürtüsü",
+      "body": "Grubun dışında kalma korkusu, bireysel kararları ve inançları nasıl sessizce esnetir?",
+      "highlight_box": "Uyum sağlama baskısı iradeyi yener.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Bilişsel Tutarlılık",
+      "body": "Düşüncelerimiz ile davranışlarımız çeliştiğinde yaşadığımız rahatsızlığı bastırmak için gerçeği bükeriz.",
+      "highlight_box": "Zihin, çelişkiden nefret eder.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kendi Sesini Bulmak",
+      "body": "Toplumsal beklentiler ile kendi gerçek istekleriniz arasındaki çizgiyi yeniden çizin.",
+      "highlight_box": "Bu karar kime ait: Size mi, çevreye mi?",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Kalabalıkların gürültüsü sustuğunda geriye kalan sesin size ait olduğundan emin olun.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Kimse sizi izlemiyorken bile neden hâlâ başkalarının kurallarına göre yaşıyorsunuz?",
+    "konusma_metni": "Sosyal psikoloji bize çok çarpıcı bir gerçek fısıldar: Yalnız olduğunuzu sandığınız anlarda bile zihninizde toplumun gözü vardır. Gordon Allport der ki, diğer insanların hayali veya ima edilen varlığı bile davranışlarımızı belirler. Boş bir yolda hız sınırına uymanız, kimse bakmazken bile doğru olanı yapma çabanız değil, içselleştirilmiş toplumsal denetimdir. Kendi kararlarınız olduğunu sandığınız kaç şey aslında size ait?"
+  },
+  "caption": "Yalnız olduğunuzu sandığınız anlarda bile zihninizde kimin onayını arıyorsunuz? Sosyal psikoloji, bireyin iç dünyasının dış dünyadaki kalabalıklar tarafından nasıl sessizce şekillendirildiğini inceler. Gordon Allport'un klasik tanımına göre, diğer insanların hayali veya ima edilen varlığı bile davranışlarımızı yönetir. Boş bir yoldaki hız sınırından, sosyal medyada paylaştığımız anılara kadar pek çok şey aslında içselleştirilmiş toplumsal denetimin birer ürünüdür. Kendi kararlarınız olduğunu sandığınız kaç şey gerçekten size ait? Bu konuyu derinlemesine incelemek ve farkındalık kazanmak için gönderiyi kaydetmeyi unutmayın. \n\n#sosyalpsikoloji #gordonallport #davranışbilimleri #zihinvesoplum #bireyve toplum #psikolojianalizleri #ya_da_psikoloji",
+  "processed_at": "2026-09-26 03:24:33"
+}

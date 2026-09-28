@@ -1,0 +1,121 @@
+{
+  "id": "why_negative_moods_spill_over_new_insigh_98295d04",
+  "original_title": "Why Negative Moods Spill Over",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/why-negative-moods-spill-over-new-insights-on-depression.html",
+  "published_date": "2025-12-01T12:26:59+00:00",
+  "read_time_minutes": 5,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sad-woman.jpg",
+      "alt": "Why Negative Moods Spill Over",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/depression-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-media-harm-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/interpersonal-emotion-regulation-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/school-psychologist-300x197.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-anxiety-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1067,
+  "turkce_baslik": "Zihinsel Arka Plan Gürültüsü: Negatif Ruh Hali Neden Her Şeye Sızar?",
+  "kanca_sorusu": "Tamamen sıradan bir mesajı okurken neden birdenbire içinizi açıklanamaz bir ağırlık kaplar?",
+  "score": 88,
+  "puan_nedeni": "Depresif belirtiler ve overthinking yaşayan bireylerin günlük hayatta sıklıkla deneyimlediği arka plan kaygısının ve negatif sızıntının nöropsikolojik kökenine değindiği için yüksek puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Günlük hayatı adeta bir boşlukta yaşamıyoruz. Çevremizdeki uyarıcılar, arka planda akıp giden haberler, bitmek bilmeyen bildirimler ve zihinsel sekizler ruh halimizi görünmez bir şekilde zehirliyor. Yapılan son araştırmalar, depresif eğilimleri veya yoğun kaygısı olan bireylerin, etraftaki 'alakasız' negatif uyarıcıları filtrelemekte zorlandığını ve bu arka plan gürültüsünün tamamen nötr olayları bile kararttığını gösteriyor. Sıradan bir iş e-postası veya nötr bir fotoğraf, ekranın köşesinde beliren kötü bir haber yüzünden birdenbire ağır ve bunaltıcı gelebiliyor. Daha da çarpıcı olanı, pozitif telkinlerin bu negatif sızıntıyı durdurmaya yetmemesi; tıpkı bir kaşık balın bir varil katranı temizleyememesi gibi. Bu nedenle zihinsel sekmeleri kapatmak ve somut gerçeğe odaklanmak, bu bulaşıcı ruh halinden korunmanın ilk adımıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihinsel Sızıntı",
+      "body": "Tamamen nötr bir olay, arka plandaki olumsuzluklar yüzünden neden birdenbire ağırlaşır?",
+      "highlight_box": "Negatif ruh hali her şeye sızar.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Arka Plan Gürültüsü",
+      "body": "Zihnimiz dünyayı bir vakum içinde deneyimlemez. Etraftaki olumsuz uyarıcılar nötr anlarımızı boyar.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Zihinsel Sekmeler",
+      "body": "Açık kalan bildirimler, arka planda çalan olumsuz haberler enerjinizi sessizce tüketir.",
+      "highlight_box": "Gereksiz uyarıcıları kapatın.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Somut Düşünme",
+      "body": "Soyut ve felaketleştirici hisler yerine, elinizdeki somut gerçeğe odaklanın.",
+      "highlight_box": "Şu an tam olarak neye bakıyorum?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kaynağı Etiketlemek",
+      "body": "Hissettiğiniz ağırlığın size mi ait olduğunu, yoksa dışarıdan mı sızdığını ayırt edin.",
+      "highlight_box": "Bu duygu gerçekten benim mi?",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Pozitif telkinler katranı temizlemez; önemli olan maruz kaldığınız çevreyi sadeleştirmektir.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Sıradan bir mesajı okurken bile neden birden içiniz kararıyor biliyor musunuz?",
+    "konusma_metni": "Çünkü zihniniz arka plandaki negatif gürültüyü filtreleyemiyor. Araştırmalar gösteriyor ki, özellikle kaygılı ve depresif dönemlerde, etrafta dönen olumsuz uyarıcılar nötr anlarımıza sızar. Ekranda beliren kötü bir haber, okuduğunuz sıradan bir maili bile ağırlaştırır. Pozitif düşünmek bu yüzden işe yaramaz. Önce arka plandaki o zihinsel sekmeleri kapatmanız gerekir."
+  },
+  "caption": "Bazen hiçbir sebep yokken içimize çöken o ağır bulutun nereden geldiğini bilemeyiz. Oysa cevap çok yakındadır: Zihnimiz, etrafta uçuşan negatif arka plan gürültüsünü filtrelemekte zorlanıyordur. \n\nSıradan bir an, ekranın köşesindeki kötü bir haber ya da arka planda akıp giden olumsuzluklar yüzünden zehirlenebilir. Araştırmalar, pozitif telkinlerin bu sızıntıyı durdurmaya yetmediğini, çünkü beynin olumsuzluğa karşı daha baskın bir filtreleme hatası yaptığını gösteriyor. \n\nZihninizdeki açık sekmeleri fark edin, arka plandaki gürültüyü kısmayı öğrenin ve duygularınızın kaynağını sorgulayın.\n\n#ya_da_psikoloji #zihinsekyönetimi #overthinking #kaygı #psikolojinotları #duygusalsızıntı #sınırlar",
+  "processed_at": "2026-09-26 15:50:13"
+}

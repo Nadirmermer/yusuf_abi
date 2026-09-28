@@ -1,0 +1,97 @@
+{
+  "id": "p_value_calculator_from_t_html_45d10fae",
+  "url": "https://www.simplypsychology.org/p-value-calculator-from-t.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "P Value Calculator from T Score",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2024-07-01T19:16:52+00:00",
+  "date_modified": null,
+  "read_time_minutes": 1,
+  "word_count": 225,
+  "summary": "Psychology»Statistics",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Statistics\n\nFor a one-sample or paired t-test, df = N – 1. For an independent samples t-test, df = (N₁ – 1) + (N₂ – 1), where N is the sample size.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Further Information",
+      "content": "- p-values and statistical significance\n\n- confidence intervals",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "When to use t-test vs chi-square?",
+      "content": "McLeod, S. (2024). P Value Calculator from T Score. Simply Psychology. https://www.simplypsychology.org/p-value-calculator-from-t.html\n\nMcLeod, Saul. \"P Value Calculator from T Score.\" Simply Psychology, 1 July 2024, https://www.simplypsychology.org/p-value-calculator-from-t.html.\n\nMcLeod, S. (2024) P Value Calculator from T Score. Simply Psychology. Available at: https://www.simplypsychology.org/p-value-calculator-from-t.html (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 3,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/SIMPLY-PSYCHOLOGY-FINAL-LOGO-1.jpg",
+      "alt": "P Value Calculator from T Score",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/chi-squared-equation-300x169.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Chi-Square-Test-of-Independence-300x186.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/anova-calculator-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-table-287x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# P Value Calculator from T Score\n\n> Psychology»Statistics\n\n## Giriş\n\nPsychology»Statistics\n\nFor a one-sample or paired t-test, df = N – 1. For an independent samples t-test, df = (N₁ – 1) + (N₂ – 1), where N is the sample size.\n\n## Further Information\n\n- p-values and statistical significance\n\n- confidence intervals\n\n## When to use t-test vs chi-square?\n\nMcLeod, S. (2024). P Value Calculator from T Score. Simply Psychology. https://www.simplypsychology.org/p-value-calculator-from-t.html\n\nMcLeod, Saul. \"P Value Calculator from T Score.\" Simply Psychology, 1 July 2024, https://www.simplypsychology.org/p-value-calculator-from-t.html.\n\nMcLeod, S. (2024) P Value Calculator from T Score. Simply Psychology. Available at: https://www.simplypsychology.org/p-value-calculator-from-t.html (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:35:30.836649"
+}

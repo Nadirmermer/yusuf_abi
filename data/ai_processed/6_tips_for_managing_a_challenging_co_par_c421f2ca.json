@@ -1,0 +1,178 @@
+{
+  "id": "6_tips_for_managing_a_challenging_co_par_c421f2ca",
+  "original_title": "Tips to help you communicate more effectively with your co-parent.",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/unhitched/202601/6-tips-for-managing-a-challenging-co-parent-relationship",
+  "published_date": "2026-01-17T11:01:00-05:00",
+  "read_time_minutes": 5,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-05/007_METZ_240915-removebg-preview.jpg?itok=Qld0vMMg",
+      "alt": "Image 9: Oona Metz LICSW",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-01/joseph-gonzalez-wNeuMUuGiPM-unsplash.jpg?itok=t6CEfgG8",
+      "alt": "Image 15: Joseph Gonzalez/Unsplash",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/pexels-pavel-danilyuk-8057360.jpg?itok=r-Y8kNt_",
+      "alt": "Image 16: Pavel Danilyuk / Pexels ",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/pexels-ron-lach-10643464.jpg?h=0616b8de&itok=tIBnP8s0",
+      "alt": "Image 17: Ron Lach / Pexels",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/thumbnail_115x140/public/2025-05/007_METZ_240915-removebg-preview.jpg?itok=zI9yxI_q",
+      "alt": "Image 23: Oona Metz LICSW",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-09/d-ng-h-u-ccjgyjuudxe-unsplash.jpg?h=7f505fb5&itok=n3FV23zN",
+      "alt": "Image 24: Duong Huu/Unsplash",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-04/beth-hope-e4n8lphp22i-unsplash.jpg?h=16719037&itok=ygs3OsUT",
+      "alt": "Image 25: Beth Hope/Unsplash",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-01/mitch-nJupV3AOP-U-unsplash.jpg?h=99641f00&itok=tT-G50Mw",
+      "alt": "Image 26: Mitch/Unsplash",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-01/austin-pacheco-FtL07GM9Q7Y-unsplash.jpg?h=2bab2a7d&itok=9OHAzMG0",
+      "alt": "Image 27: Austin Pacheco/Unsplash",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2024-12/AdobeStock_714299809.jpeg.jpg?itok=qlvDg1rv",
+      "alt": "Image 28: Olga Rai / Adobe Stock",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/pexels-cottonbro-4691511.jpg?itok=SNd3Nu2T",
+      "alt": "Image 29: cottonbro studio/Pexels",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/hero_image/pt_self_test/2024-10/shutterstock_283667042_0.jpg?itok=N6l5if0T",
+      "alt": "Image 30: Monkey Business Images/Shutterstock",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/angry_girl_fists_jithin-murali-ihxmptesp7s-unsplash.jpg?itok=ipfXI9og",
+      "alt": "Image 31: Jithin Murali/Unsplash",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/mother-adult_child_conflict_pexels-karola-g-6134958_0.jpg?itok=c1SZWo8o",
+      "alt": "Image 32: Karola G.-6134958/Pexels",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-08/pexels-cottonbro-9577016.jpg?h=994ed47c&itok=iSyKgt0a",
+      "alt": "Image 33: Cottonbro Studio / Pexels",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2025-11/adult_child_bathroon_christopher-ott-cf0p2idqute-unsplash.jpg?itok=M6fv1jjd",
+      "alt": "Image 34: Christopher Ott/Unsplash ",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2024-03/shutterstock_2137327855.jpg?itok=8UbnyiXB",
+      "alt": "Image 35: fizkes/Shutterstock",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/pexels-karola-g-8147393.jpg?itok=dMAcBYv1",
+      "alt": "Image 38: Kaboompics/Pexels",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/pexels-karola-g-4379907.jpg?itok=e2hcHGCf",
+      "alt": "Image 39: Kaboompics/Pexels",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/jon-torres-87vdg-a3p4g-unsplash.jpg?h=d10cc9d8&itok=W-uMu85g",
+      "alt": "Image 40: Jon Torres / Unsplash",
+      "caption": null
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/default_images/counseling.jpg",
+      "alt": "Image 41: Counselling",
+      "caption": null
+    }
+  ],
+  "word_count": 0,
+  "turkce_baslik": "Eski Eşle Ebeveynlik Savaşları: Çatışma Ortasında Sınır Çizmek",
+  "kanca_sorusu": "Çocuklarınızın diğer evdeki kuralları yüzünden sürekli içten içe öfke duyuyor ama sessiz mi kalıyorsunuz?",
+  "score": 88,
+  "puan_nedeni": "Boşanma sonrası ilişkisel dinamikler, toksik iletişim ve ebeveynlik çatışmaları doğrudan takipçinin günlük duygusal yüküne hitap ettiği ve yüksek ayna etkisi yarattığı için yüksek puan almıştır.",
+  "category": "İlişkiler & İletişim",
+  "editoryal_genis_metin": "Boşanma ya da ayrılık sonrasında, eski eşle çocuk büyütmeye devam etmek zorunda kalmak, psikolojik olarak en yıpratıcı süreçlerden biridir. Ortak ebeveynlik (co-parenting) kavramı, teoride ideal görünse de pratikte eski yaraların, öfkenin ve kontrol savaşlarının en sık yaşandığı alandır. Karşı tarafın kurallarını beğenmemek, tutarsızlıklarıyla baş etmeye çalışmak ve çocuk adına endişelenmek, bireyi sürekli bir tetikte olma haline sürükler.\n\nAraştırmalar, çocukların iki farklı evde iki farklı kural sistemine uyum sağlayabildiğini, asıl hasarın ise ebeveynler arasındaki çatışmadan kaynaklandığını gösteriyor. Burada odak noktası, eski eşi değiştirmeye çalışmak değil; kendi sınırlarınızı korumak ve suçlayıcı olmayan bir iletişim dili kurmaktır. Çocukların sağlıklı bir gelişme göstermesi için her zaman iki kusursuz eve değil, en azından bir adet duygusal olarak güvenli ve tutarlı ebeveyne ihtiyacı vardır.\n\nSürekli sürtüşme yaşanan durumlarda teknolojiden ya da üçüncü taraflardan destek almak, iletişimi işlevsel bir düzleme çekmek için hayati önem taşır. Kendi bütünlüğünüzü ve etik duruşunuzu koruduğunuz sürece, karşı tarafın eksikliklerini dengeleyebilir ve çocuğunuza güvenli bir liman sunabilirsiniz. Unutmayın ki bu süreçte verilen mücadele, eski eşi eğitmek değil, çocuğunuzun ruh sağlığını korumak içindir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Ayrı Evler, Ortak Savaşlar",
+      "body": "Boşanma sonrasında eski eşle çocuk büyütmek, bitmeyen bir çatışma alanına dönüşebilir.",
+      "highlight_box": "Kontrol edemediğiniz şeyler için tükeniyorsunuz.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Gerçek Tehlike Kim?",
+      "body": "Çocukların farklı kurallara sahip iki evde yaşaması değil, ebeveynler arasındaki çatışma asıl hasarı yaratır.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Suçlamadan Konuşmak",
+      "body": "Endişelerinizi karşı tarafa aktarırken suçlayıcı bir ton kullanmak savunmaya ve kavgaya yol açar.",
+      "highlight_box": "Dili suçlamadan uzak tutun.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Sınırları Net Çizmek",
+      "body": "Eski eşinizle olan ilişkinizde kişisel konuları kapatıp sadece ebeveynlik rolüne odaklanan sert sınırlar koyun.",
+      "highlight_box": "İletişim sadece çocukla sınırlı kalmalı.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Teknoloji ve Üçüncü Taraflar",
+      "body": "Yüz yüze iletişim tıkanıyorsa mesajlaşma uygulamaları veya yasal aracıları kullanmaktan çekinmeyin.",
+      "highlight_box": "Duygusal teması minimuma indirin.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Güvenli Liman Olmak",
+      "body": "Tek bir sağlıklı ve dengeli ebeveyn, diğer tarafın eksikliklerini dengelemek için fazlasıyla yeterlidir.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Boşandığınız kişiyle çocuk büyütürken yaşadığınız o tükenmişlik hissinin tek bir nedeni var.",
+    "konusma_metni": "Eski eşinizin evindeki kurallara müdahale edemediğiniz için duyduğunuz o kontrol kaybı hissi, sizi ve çocukları yıpratıyor. Sürekli çatışmak yerine, enerjinizi karşı tarafı değiştirmeye değil, kendi sınırlarınızı korumaya ve çocuk için güvenli tek bir liman olmaya odaklamalısınız. Çocuklar farklı evlerde farklı kurallara uyum sağlayabilirler; asıl yara alan yer, aranızdaki gerginliğe tanık oldukları andır. Sınır çizin, iletişimi profesyonel tutun ve kendi iç bütünlüğünüzü koruyun."
+  },
+  "caption": "Boşanma veya ayrılık sonrası çocuk büyütmek, iki ev arasında mekik dokuyan sadece lojistik bir süreç değildir; aynı zamanda bitmemiş hesaplaşmaların ve kontrol savaşlarının sahnesidir.\n\nEski eşinizin evindeki düzeni beğenmediğinizde, geç saatlere kadar uyumasına ya da sağlıksız beslenmesine öfkelendiğinizde hissettiğiniz çaresizlik çok gerçektir. Ancak psikolojik araştırmalar bize net bir şey söylüyor: Çocuklar iki farklı evde iki farklı kurala uyum sağlayabilirler. Onları zedeleyen şey kuralların farklılığı değil, anne ve baba arasındaki sürekli çatışma halidir.\n\nBu süreçte enerjinizi karşı tarafı değiştirmeye harcamak yerine, kendi evinizde kurduğunuz güvenli ve tutarlı bağa odaklanmalısınız. Suçlayıcı olmayan bir iletişim dili kullanmak, net sınırlar çizmek ve gerektiğinde araya mesafeli iletişim araçları koymak ruh sağlığınızı korumanın anahtarıdır.\n\nBu konuyu deneyimleyen biriyle paylaşmak ya da dönüp tekrar okumak için bu gönderiyi kaydetmeyi unutmayın.\n\n#İlişkiler #Boşanma #OrtakEbeveynlik #Sınırlar #Toksikİletişim #ÇocukPsikolojisi #YaDaPsikoloji",
+  "processed_at": "2026-09-26 19:08:44"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "sensory_memory_html_4aef2e25",
+  "original_title": "Sensory Memory",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/sensory-memory.html",
+  "published_date": "2026-09-21T11:37:04+00:00",
+  "read_time_minutes": 27,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-memory-1024x379.png",
+      "alt": "Sensory Memory",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-memory.jpeg",
+      "alt": "Five human senses surrounding brain. Vision, hearing, smell, touch, taste.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/sensory-memory.png",
+      "alt": "sensory memory registers.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--300x97.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/echoic-memory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Declarative-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/flashbulb-memories-300x171.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/sperling-experiment.png",
+      "alt": "Sperling Sensory Memory  Experiments (1960) ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Ayesh-Perera.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 5435,
+  "turkce_baslik": "Zihnin Sessiz Bekleme Odası: Duyusal Bellek ve Anlık İzler",
+  "kanca_sorusu": "Göz kırptığınız o salisede dünyayı kaybetmemenizi sağlayan şeyin ne olduğunu hiç düşündünüz mü?",
+  "score": 45,
+  "puan_nedeni": "Metin, bilişsel psikolojinin temel yapı taşlarından olan duyusal bellek (sensory memory) ve nörolojik işlem süreçlerini inceleyen akademik bir makaledir. Doğrudan ilişkisel çatışmalar veya bağlanma stilleri içermediğinden, takipçinin günlük duygusal dünyasına doğrudan ayna tutmakta zorlanır. Bu nedenle akademik teorik yapısı gereği daha düşük bir puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İçinde yaşadığımız dünya, duyularımıza her an milyonlarca uyaran fırlatır. Sesler, görüntüler, dokunuşlar ve kokular zihnimizin kapısını aynı anda çalar. Ancak bilişsel sistemimiz bu devasa veri akışını doğrudan işleyemeyecek kadar yavaştır. İşte bu noktada duyusal bellek, dış dünya ile iç dünyamız arasında kusursuz bir bekleme odası görevi görür. Gözlerimizi her kırptığımızda veya ani bir ses duyduğumuzda, geride kalan o saliselik izler bu mekanizma sayesinde korunur. \n\nAncak bu koruma kalıcı değildir. Dikkatimizi yöneltmediğimiz her an, bu ham veriler hızla silinir gider. Tıpkı hayatımızdaki pek çok geçici detay gibi, odaklanmadığımız hiçbir şey kalıcı belleğimize, yani bilinçli farkındalığımıza ulaşamaz. Duyusal bellek bize gösterir ki, neye dikkat ettiğimiz, aslında dünyayı nasıl deneyimlediğimizi doğrudan belirler.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihnin Bekleme Odası",
+      "body": "Dış dünyadan gelen milyonlarca uyaran, bilincimize ulaşmadan önce zihnin gizli bir arşivinde milisaniyelerle ölçülen bir süre saklanır.",
+      "highlight_box": "Algıladığımız her şey bir an için burada asılı kalır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Algının Ham Hali",
+      "body": "Duyusal bellek, dünyayı henüz anlam yüklemeden, etiketlemeden kaydettiğimiz ilk ve en kısa duraktır.",
+      "highlight_box": "Henüz filtrelenmemiş, saf bir uyarandır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Görsel Kayıt (İkonik Bellek)",
+      "body": "Gözlerimizle yakaladığımız anlık kareler, uyaran bittikten sonra bile milisaniyeler boyunca zihinsel ekranda kalmaya devam eder.",
+      "highlight_box": "Göz kırpma aralarındaki o kusursuz süreklilik.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "İşitsel Kayıt (Ekoik Bellek)",
+      "body": "Biri bize seslendiğinde bir an duymamazlıktan gelip ardından kelimeleri kafamızda tamamlamamızın sebebi işitsel bellektir.",
+      "highlight_box": "Ses tonunun zihnimizde yankılanmaya devam etmesi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Seçici Dikkat",
+      "body": "Bu devasa veri akışından kalıcı belleğe ne kalacağı tamamen dikkatinizi nereye yönelttiğinizle ilgilidir.",
+      "highlight_box": "Neye odaklanıyorsanız, gerçeğiniz odur.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihniniz her an binlerce uyaranı elemekle meşgul. Dikkatinizi neye verdiğinizin farkında olun.",
+      "highlight_box": "Bu derinlemesine analizi kaydetmeyi unutmayın.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Göz kırptığınız o salisede dünya neden kararmıyor biliyor musunuz?",
+    "konusma_metni": "Zihnimiz, dış dünyadan gelen devasa bilgi akışını anında işleyemez. Bu yüzden duyusal bellek dediğimiz kusursuz bir bekleme odası kullanır. Gördüğümüz, duyduğumuz her şey önce bu saliselik tampon bölgeye düşer. Eğer dikkatimizi vermezsek, tıpkı hayatımızdaki pek çok detay gibi anında buharlaşır gider. Neye odaklandığınız, gerçekliğinizi belirler."
+  },
+  "caption": "Zihnimiz dış dünyadan gelen devasa bilgi yükünü doğrudan işleyemez. Duyusal bellek, bu yoğun akışı yönetmek için kullanılan ilk ve en kısa süreli kayıt sistemidir. Göz kırpma anlarında bile dünyayı kesintisiz algılamamızı sağlayan bu mekanizma, dikkatin ne kadar hayati bir filtre olduğunu bize gösterir. \n\n#psikoloji #bilişselpsikoloji #zihin #farkındalık #nöroloji #bilinç",
+  "processed_at": "2026-09-26 16:56:39"
+}

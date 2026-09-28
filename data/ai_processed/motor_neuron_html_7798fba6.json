@@ -1,0 +1,157 @@
+{
+  "id": "motor_neuron_html_7798fba6",
+  "original_title": "Motor Neuron: Function, Types, And Structure",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/motor-neuron.html",
+  "published_date": "2026-09-17T11:35:32+00:00",
+  "read_time_minutes": 14,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/motor-neuron.jpg",
+      "alt": "Motor Neuron: Function, Types, And Structure",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/motor-neuron-function.jpg",
+      "alt": "An infographic titled \"Motor neuron: main functions\" with an image of a neuron with brief descriptions of voluntary, involuntary, and automatic functions.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Motor-Cortex-300x174.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-motor-relay-neurons-300x253.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/basal-ganglia-1-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Glial-Cells-300x206.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cns-pns-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/motor-neuron.jpg",
+      "alt": "motor neuron",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/upper-lower-motor-neurons.jpg",
+      "alt": "upper lower motor neurons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/motor-neuron-disease.jpg",
+      "alt": "motor neuron disease",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/motor-neuron.jpeg",
+      "alt": "structure of a motor neuron. Includes dendrites, cell body with nucleus, axon, myelin sheath, nodes of Ranvier and muscle fiber",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2782,
+  "turkce_baslik": "Sinirsel İletim ve Motor Nöronlar: Beynin Emri Kasların Hareketi",
+  "kanca_sorusu": "Zihninizin niyet ettiği bir hareketi bedeninizin gerçekleştirme sürecinde görünmeyen sinirsel köprüler nasıl kurulur?",
+  "score": 45,
+  "puan_nedeni": "Metin tamamen biyopsikoloji, nöron anatomisi ve motor ünitelerin fizyolojik işleyişini ele almaktadır. İlişkisel dinamikler, duygusal örüntüler veya içsel psikolojik çatışmalar barındırmadığı, tamamen akademik nöroloji temelli olduğu için katı puanlama kuralına göre düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan psikolojisinin ve davranışlarının temelinde, somut bedensel hareketleri mümkün kılan karmaşık bir nörolojik altyapı yatar. Motor nöronlar, merkezi sinir sisteminden kaslara ve bezlere mesajlar taşıyan kritik elçilerdir. İstemli hareketlerden oturuş dengesine kadar her an bedensel uyumu sağlayan bu sistem, üst ve alt motor nöronlar olmak üzere iki temel gruba ayrılır. Üst motor nöronlar beyin korteksinden omuriliğe emir iletirken, alt motor nöronlar bu emirleri kas liflerine ulaştırarak somut bir eyleme dönüştürür. Nörolojik mekanizmaların anlaşılması, bedensel ve zihinsel bütünlüğün kavranmasında temel bir basamaktır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Beden ve Zihin Arasındaki Köprü",
+      "body": "Düşüncelerimizin fiziksel eylemlere dönüşmesini sağlayan nörolojik sistem nasıl çalışır?",
+      "highlight_box": "Motor nöronların temel işlevi",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Üst ve Alt Nöron Ayrımı",
+      "body": "Beyinden çıkan emirlerin kaslara ulaşana kadar izlediği yol iki temel aşamadan oluşur.",
+      "highlight_box": "Merkezi sinir sisteminin iletim hattı",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Üst Motor Nöronlar",
+      "body": "Motor kortekste başlayan bu yapılar, istemli hareketleri planlar ve omuriliğe sinyal gönderir.",
+      "highlight_box": "Piramidal ve ekstrapiyramidal yollar",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Alt Motor Nöronlar",
+      "body": "Sinir sistemini kas liflerine bağlayan son halkadır ve kasılmaları doğrudan kontrol eder.",
+      "highlight_box": "Somatik ve otonom sinir sistemi bağlantısı",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kimyasal İletim",
+      "body": "Nöromüsküler kavşakta salgılanan asetilkolin maddesi kasların kasılmasını tetikler.",
+      "highlight_box": "Hücresel düzeyde hareketin başlangıcı",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Nörolojik Bütünlük",
+      "body": "Bedenin kusursuz işleyişi, milyarlarca nöronun saniyelik uyumu sayesinde mümkündür.",
+      "highlight_box": "Bilimsel farkındalık için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Beynimizin verdiği bir kararın kaslarımızda gerçeğe dönüşmesi saniyenin çok küçük bir kısmında gerçekleşir.",
+    "konusma_metni": "Zihnimiz bir hareketi planladığı an, merkezi sinir sistemimizden kaslarımıza uzanan görünmez bir mesaj ağını devreye sokar. Üst motor nöronlar bu emri başlatırken, alt motor nöronlar kas lifleriyle doğrudan iletişim kurarak eylemi tamamlar. Biyolojik düzeyde işleyen bu mekanizma, zihin ve beden arasındaki kusursuz iş birliğinin en somut kanıtıdır."
+  },
+  "caption": "Bedenimizin her an gerçekleştirdiği istemli ve istemsiz hareketler, merkezi sinir sistemimiz ile kaslarımız arasındaki kusursuz iletişime dayanır. Motor nöronlar, zihinsel niyetleri fiziksel gerçeğe dönüştüren en temel biyolojik ileticilerdir. Nörolojik altyapının işleyiş biçimi, insan bedeninin karmaşıklığını ve zihin-beden bütünlüğünü anlamak adına kritik bir perspektif sunar. #biyopsikoloji #nöroloji #motornöronlar #sinirsistemi #beyinvebeden #bilimselpsikoloji",
+  "processed_at": "2026-09-26 17:02:12"
+}

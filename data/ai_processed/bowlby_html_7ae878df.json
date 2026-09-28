@@ -1,0 +1,139 @@
+{
+  "id": "bowlby_html_7ae878df",
+  "original_title": "John Bowlby’s Attachment Theory",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/bowlby.html",
+  "published_date": "2026-07-27T07:10:37+00:00",
+  "read_time_minutes": 44,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/internal-working-model.jpg",
+      "alt": "John Bowlby’s Attachment Theory",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/romantic-attachment-styles-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bowlby-attachment-phases-300x251.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/attachment-conditioning-300x267.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/attachment-working-models-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/loving-mom-300x249.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/internal-working-model-300x207.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/circle-of-attachment-security.png",
+      "alt": "Circle of security diagram showing the secure base and safe haven cycle",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/internal-working-model.jpg",
+      "alt": "internal working model of attachment",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 8871,
+  "turkce_baslik": "İçimizdeki Çocuk ve İlişkilerimiz: John Bowlby ve Bağlanma Teorisi",
+  "kanca_sorusu": "Bugünkü ilişkilerinizde yaşadığınız o açıklanamaz terk edilme korkusu, aslında bebeklikte kurulamayan hangi güvenli bağın izini taşıyor?",
+  "score": 92,
+  "puan_nedeni": "Konu doğrudan yetişkin ilişkilerindeki bağlanma stillerini, içsel çalışma modellerini ve terk edilme hassasiyetlerini açıkladığı için takipçilerde derin bir ayna etkisi yaratır.",
+  "category": "Bağlanma & Ayrılık",
+  "editoryal_genis_metin": "John Bowlby’nin bağlanma teorisi, sadece bebeklerin hayatta kalma mücadelesini inceleyen akademik bir çalışma değildir; bugün yetişkin olarak partnerlerimizi seçme biçimimizden, kriz anlarında gösterdiğimiz tepkilere kadar her şeyi belirleyen görünmez bir haritadır. Bebeklik döneminde birincil bakım verenimizle kurduğumuz bağ, zihnimizde 'içsel bir model' oluşturur. Eğer o dönemde güvenli bir sığınak bulabildiysek, bugün de dünyayı keşfetmekten ve yakın kurmaktan korkmayız. Ancak bu bağ yara aldıysa, gelecekteki tüm ilişkilerimizde ya aşırı kaygılı bir yapışma hali ya da tamamen kaçıngan bir mesafe koyma çabası gözlemleriz.\n\nBowlby’nin yıllar önce ortaya koyduğu bu teorinin en çarpıcı yanı, geçmişin bugünkü seçimlerimizi nasıl sessizce yönettiğini kanıtlamasıdır. İlişkilerinizde sürekli aynı kısır döngüyü yaşıyor, partnerinizin anlık mesafesini bir tehdit olarak algılıyorsanız, bu durum yetişkin halinizin değil, içindeki güvenli limanı arayan o kırılgan çocuğun çığlığıdır. İyileşme, bu içsel modellerin farkına varmak ve kendi kendimizin güvenli üssü olmayı öğrenmekle başlar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "İlişkilerinizin Görünmez Mimarisi",
+      "body": "Bugünkü partner seçimlerimiz ve kriz anındaki tepkilerimiz, yıllar önce kurduğumuz ilk bağın birer yansımasıdır.",
+      "highlight_box": "Geçmiş, bugünkü ilişkilerinizi sessizce yönetir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "İçsel Çalışma Modeli Nedir?",
+      "body": "Çocuklukta geliştirilen zihinsel prototipler, gelecekteki tüm sosyal ilişkilerimiz için beklentilerimizi ve korkularımızı belirler.",
+      "highlight_box": "Bunu ilişkilerinizde sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Monotropi ve Tekil Bağ",
+      "body": "Çocuk, sonraki tüm ilişkilerinin temelini oluşturan ve niteliksel olarak diğerlerinden farklı olan birincil bir figüre bağlanır.",
+      "highlight_box": "İlk bağ, sonraki bağların provasıdır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Güvenli Üs İhtiyacı",
+      "body": "Çocuk, tehlike anında sığınabileceği ve oradan cesaret alarak dünyayı keşfedebileceği tutarlı bir bakım verene ihtiyaç duyar.",
+      "highlight_box": "Güvenli sığınak olmadan bağımsızlık gelişmez.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Döngüyü Değiştirmek",
+      "body": "Geçmişin yarattığı otomatik tepkileri fark etmek ve kendi içsel güvenli üssümüzü inşa etmek uzun soluklu bir farkındalık sürecidir.",
+      "highlight_box": "Unutmayın: Bu bir bilinçli farkındalık sürecidir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "İlişkilerinizde tekrarlayan yaraları sarmak için önce o yaraların kökenine şefkatle bakabilmeniz gerekir.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Partneriniz bir an olsun uzaklaştığında dünyanız başınıza yıkılıyormuş gibi hissediyorsanız, bunun cevabı bebekliğinizde saklı.",
+    "konusma_metni": "John Bowlby'nin bağlanma teorisine göre, ilk bakım verenimizle kurduğumuz bağ, bugün yetişkin ilişkilerimizin kaderini çizer. Eğer o dönemde tutarlı bir şefkat görmediysek, bugün partnerlerimizin mesafesini bir terk edilme tehdidi olarak algılarız. İçimizdeki o korkmuş çocuk, hâlâ güvenli bir liman arıyor. Kendi bağlanma stilinizi anlamak, bu döngüyü kırmanın ilk adımıdır."
+  },
+  "caption": "John Bowlby’nin bağlanma teorisi, insan psikolojisinin en temel gerçeklerinden birini gözler önüne serer: Hayatta kalmak için kurduğumuz ilk bağlar, yetişkinlikteki sevgi biçimimizin taslağını oluşturur. Çocuklukta yaşanan tutarsızlıklar veya yoksunluklar, bugün ilişkilerimizde yaşadığımız kaygıların ve savunmaların temel nedenidir. Bu döngüyü kırmak, geçmişi suçlamakla değil, içimizdeki o güven arayan çocuğun sesini duymakla başlar.\n\nBağlanma teorisi hakkındaki düşünceleriniz neler? Yorumlarda buluşalım.\n\n#baglanmateteorisi #johnbowlby #iliskipsikolojisi #icselcocuk #guvenlibaglanma #kaygilibaglanma #psikolojianaliz",
+  "processed_at": "2026-09-26 03:19:40"
+}

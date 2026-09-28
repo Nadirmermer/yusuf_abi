@@ -1,0 +1,97 @@
+{
+  "id": "social_media_use_adhd_and_early_trauma_bdfb821f",
+  "original_title": "Social Media Use, ADHD, and Early Trauma",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/digital-world-real-world/202509/social-media-use-adhd-and-early-trauma",
+  "published_date": "2025-09-07T12:30:12-04:00",
+  "read_time_minutes": 1,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-09/pexels-tara-winstead-8378747.jpg?itok=RzPEmHxI",
+      "alt": "Social Media Use, ADHD, and Early Trauma",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/phil_reed.png.jpg?itok=BhiU99b5",
+      "alt": "Phil Reed D.Phil.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/chenspec-neuron-6640512.jpg?itok=ocoPDyCP",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/pexels-pavel-danilyuk-7653316.jpg?itok=vPO33J_k",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 29,
+  "turkce_baslik": "Bildirim Sesine Kaçan Zihinler: Sosyal Medya, Dikkat Eksikliği ve Geçmişin İzleri",
+  "kanca_sorusu": "Telefonunuzu elinizden her bıraktığınızda içinizde yükselen o huzursuzluk, aslında geçmişten gelen hangi kapatılmamış yaranın çığlığı?",
+  "score": 48,
+  "puan_nedeni": "Makale her ne kadar güncel ve popüler bir popülasyonu ilgilendirse de, erken dönem travmalar ile dikkat eksikliği (ADHD) ve sosyal medya kullanımı arasındaki korelasyonu oldukça klinik ve genel bir akademik dille ele almaktadır. Doğrudan ilişkisel bir çatışma veya derin bir bağlanma dinamiği sunmadığı, daha çok nörobiyolojik ve epidemiyolojik bir düzlemde kaldığı için puanı orta-alt seviyede tutulmuştur.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "Günümüz insanının elinden düşmeyen o akıllı telefonlar ve ekranda kaybolan saatler, çoğunlukla basit bir irade zayıflığı ya da tembellik olarak açıklanır. Oysa klinik düzlemde, sosyal medyanın o hipnotik cazibesi ile dikkat eksikliği belirtileri arasında derin ve sarsıcı bir köprü bulunur. Araştırmalar, bu dijital kaçışın temelinde sıklıkla erken çocukluk dönemi olumsuzluklarının, çözülmemiş travmaların ve regüle edilememiş bir sinir sisteminin yattığını gösteriyor.\n\nÇocukluk döneminde duygusal olarak güvenli bir liman bulamamış, sürekli tetikte kalmak zorunda hissetmiş bir zihin, yetişkinlikte aniden gelen boşluk hissiyle baş etmekte zorlanır. Sosyal medyanın sunduğu o kesintisiz, hızlı ve çaba gerektirmeyen dopamin akışı, tam da bu kronik içsel huzursuzluğu ve odaklanma güçlüğünü bastıran geçici bir anestezik işlevi görür. Beyin, geçmişin o çözülmemiş yükünden kaçmak için sürekli bir sonraki uyarıcıya koşar.\n\nBu durum sadece bir odaklanma sorunu değil, aynı zamanda kişinin kendi iç sesinden ve geçmişinden kaçma çabasıdır. Ekran süresini azaltmaya çalışırken asıl bakılması gereken yer, o zihnin neden sessizlikle baş başa kalmaktan bu kadar çok korktuğudur. İyileşme, ekrana sınır koymakla değil, o ekrana sığınma ihtiyacı duyan yaralı çocukla yüzleşmekle başlar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Bildirimlerin Sessizleştirdiği Yaralar",
+      "body": "Telefonu elinizden bıraktığınız anda başlayan o iç sıkıntısı, sıradan bir can sıkıntısı değildir.",
+      "highlight_box": "Kaçtığınız şey ekran değil, kendi iç sesinizdir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Dijital Dünyanın Anestezik Etkisi",
+      "body": "Erken dönemde güvenli bağlanamamış ve regüle olamamış sinir sistemi, yetişkinlikte sürekli bir uyarıcı arayışına girer.",
+      "highlight_box": "Dikkat eksikliği ve sosyal medya kullanımı aynı kökten beslenir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Hızlı Dopamin Döngüsü",
+      "body": "Derinlemesine odaklanmayı gerektiren işlerden kaçıp sürekli kısa ve hızlı içeriklere yönelmek.",
+      "highlight_box": "Zihin, sabretmeyi unuttuğu için değil, acıyla baş edemediği için hız arar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Kronik Huzursuzluk Hissi",
+      "body": "Hiçbir şey yapmadan durulduğunda bedende beliren o açıklanamaz sıkıntı ve kaçma dürtüsü.",
+      "highlight_box": "Sessizlik, travmatik hafıza için tehlikeli bir alan gibi algılanır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Gerçek Çözüm Nereden Başlar?",
+      "body": "Ekran süresini kısıtlamak geçici bir yamadır. Asıl şifa, o ekranın arkasına sığınan yaralı tarafı anlamaktan geçer.",
+      "highlight_box": "Unutmayın: Bu bir süreçtir ve sabır gerektirir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihniniz dağıldığında kendinizi suçlamak yerine, neye karşı tetikte olduğunuzu sormayı deneyin.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Sosyal medyada saatlerinizi harcamanızın sebebi iradesizlik değil, geçmişinize dayanan derin bir uyarıcı açlığıdır.",
+    "konusma_metni": "Sürekli elinizde telefonla akışta gezinirken aslında neyden kaçıyorsunuz? Yapılan araştırmalar, sosyal medya bağımlılığı ve dikkat dağınıklığının arkasında genellikle erken dönemde yaşanan travmaların ve giderilmemiş duygusal ihtiyaçların olduğunu gösteriyor. Zihin, çocukluktan kalan o huzursuzlukla baş edemediğinde, dijital dünyanın sunduğu ucuz dopamine sığınır. Asıl mesele odaklanamamak değil, geçmişin gürültüsünden kaçmaktır."
+  },
+  "caption": "Sosyal medya kullanımı ve dikkat eksikliği, modern dünyanın en sık konuşulan iki meselesi gibi görünse de kökleri çok daha derinlere, geçmişin gizli kalmış yaralarına uzanıyor. Erken dönemde güvenli bir alan bulamamış sinir sistemi, yetişkinlikte dijital dünyanın sunduğu hızlı uyarıcılara sığınarak bir nevi anestezi uygular.\n\nSürekli akışta kalma isteği, odaklanma sorunundan ziyade içsel huzursuzluktan kaçma çabasıdır. Zihninizin neden bu kadar çok uyarana ihtiyaç duyduğunu fark etmek, iyileşmenin ilk adımıdır.\n\nPsikoloji, travma, dikkat eksikliği, sosyal medya bağımlılığı, içsel iyileşme, sinir sistemi, farkındalık",
+  "processed_at": "2026-09-28 02:34:20"
+}

@@ -1,0 +1,157 @@
+{
+  "id": "attachment_style_quiz_html_5a96c083",
+  "original_title": "Attachment Style Quiz",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/attachment-style-quiz.html",
+  "published_date": "2026-09-17T10:52:35+00:00",
+  "read_time_minutes": 11,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/attachment-style-graph.jpeg",
+      "alt": "Attachment Style Quiz",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/attachment-working-models-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/fearful-attachment-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/anxious-preoccupied-attachment-1-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/attachment-style-conflict-300x258.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/secure-attachment-300x263.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/avoidant-attachment-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/attachment-style-quiz.jpg",
+      "alt": "attachment style quiz",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/attachment-style-quiz-1.jpg",
+      "alt": "attachment style quiz 1",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/attachment-style-quiz-2.jpg",
+      "alt": "attachment style quiz 2",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/attachment-style-quiz-3.jpg",
+      "alt": "attachment style quiz 3",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/attachment-style-quiz-4.jpg",
+      "alt": "attachment style quiz 4",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2239,
+  "turkce_baslik": "Görünmeyen İpler: Yetişkinlikte Bağlanma Biçimlerimiz ve İlişkisel Tekrarlarımız",
+  "kanca_sorusu": "Neden hep aynı insanı buluyor ama her seferinde farklı bir yara alıyorsunuz?",
+  "score": 95,
+  "puan_nedeni": "Konu doğrudan yetişkin bağlanma stillerini, ilişkilerdeki terk edilme korkusunu ve kaçıngan dinamikleri ele aldığı için @ya_da_psikoloji kitlesinde maksimum ayna etkisi yaratacak ve yüksek etkileşim alacaktır.",
+  "category": "Bağlanma & Ayrılık",
+  "editoryal_genis_metin": "Çocuklukta birincil bakım verenimizle kurduğumuz ilk bağ, yetişkinlikteki ilişkilerimizin görünmeyen mimarıdır. ECR-RS gibi bilimsel temelli araçlar bize gösteriyor ki; yakınlık kurma isteğimiz ile incinme korkumuz arasındaki savaş, aslında geçmişin bugünkü tekrarıdır. Kimi zaman karşımızdakinin en küçük mesafesini bir terk ediliş provaları olarak yaşar, kimi zaman da en güvenli anlarda dahi içsel bir duvara çekilerek uzaklaşırız. İlişkilerinizde sürekli aynı kısır döngüyü yaşıyorsanız, sorun ne bugünkü partnerinizdedir ne de sizde; sorun, çözülmemiş bağlanma yaralarınızın hâlâ direksiyonda olmasındadır. İyileşme, bu kalıpları suçlamakla değil, onların nereden geldiğini fark etmekle başlar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Görünmeyen İpler",
+      "body": "Bugünkü ilişkilerinizde yaşadığınız krizler, aslında yıllar önce kapandığını sandığınız kapıların yankısıdır.",
+      "highlight_box": "İlişkiler kader değil, tekrar eden bağlanma provalarıdır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Ayna Etkisi",
+      "body": "Neden en çok sevdiğiniz insan sizi en çok yaralar ve aynı zamanda tek sığınak gibi hissettirir?",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Kaygılı Bağlanma",
+      "body": "Sürekli onay arayışı, en ufak mesafede hissedilen yoğun panik ve partnerin ruh halini okumaya çalışmak.",
+      "highlight_box": "Giderek tükenen bir duygusal efor.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Kaçıngan Bağlanma",
+      "body": "Duygusal yakınlık tehlikeli hissettirdiğinde sığınılan tek yer olan aşırı bağımsızlık ve zihinsel duvarlar.",
+      "highlight_box": "Yakınlaştıkça uzaklaşma dürtüsü.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Döngüyü Kırmak",
+      "body": "Geçmişin refleksleriyle bugün kararlar almak yerine, tetiklendiğiniz anlarda durup kalabilmeyi öğrenmek.",
+      "highlight_box": "Unutmayın: Bu bir farkındalık ve dönüşüm sürecidir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış",
+      "body": "İlişkilerinizdeki yaraları suçlamayı bırakın; onlar size duyulmamış çocukluk ihtiyaçlarınızı anlatıyor.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Partneriniz sizden biraz uzaklaştığında dünyanız başınıza yıkılıyor gibi hissediyorsanız, dinleyin.",
+    "konusma_metni": "Yetişkinlikteki ilişkilerimiz aslında çocuklukta öğrenilmiş bağlanma stillerinin birer kopyasıdır. Kaygılı bir bağlanmaya sahipseniz, en ufak bir mesafe size terk edilme olarak gelir. Kaçıngan bağlandığınızda ise biri size yaklaştığında tek hissettiğiniz şey kaçma isteğidir. Sorun partneriniz değil, içimizdeki o yaralı çocuğun hâlâ güvende hissetmemesidir. Bu döngüyü kırmanın ilk yolu, neyi neden tetiklediğinizi fark etmektir."
+  },
+  "caption": "Yetişkinlikteki ilişkilerimiz, çocuklukta öğrendiğimiz bağlanma stillerinin bugünkü sahnede yeniden oynanmasından ibarettir. Kaygılı ya da kaçıngan örüntülerimiz, aslında güvende hissetme çabamızın birer sonucudur. Bu döngüleri fark etmek ve değiştirmek mümkündür. İlişkilerinizde sürekli aynı kısır döngüyü yaşıyorsanız, bu metni kaydetmeyi unutmayın.\n\n#baglanmastilleri #kaygilibaglanma #kacinganbaglanma #iliskipsikolojisi #icselcocuk #yetiskinbaglanmasi #yasamadair",
+  "processed_at": "2026-09-26 15:59:25"
+}

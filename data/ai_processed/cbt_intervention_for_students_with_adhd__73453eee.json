@@ -1,0 +1,127 @@
+{
+  "id": "cbt_intervention_for_students_with_adhd__73453eee",
+  "original_title": "Effectiveness of CBT Intervention for Students with ADHD",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/cbt-intervention-for-students-with-adhd.html",
+  "published_date": "2024-03-11T13:03:35+00:00",
+  "read_time_minutes": 10,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adhd-student-intervention.jpeg",
+      "alt": "Effectiveness of CBT Intervention for Students with ADHD",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/disclosing-diagnosis-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/future-anxiety-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/therapy-session-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-media-harm-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/autism-burnout-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/homeless-youth-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2064,
+  "turkce_baslik": "Zihinsel Dağınıklık Değil Yürütücü İşlev Bozukluğu: Neden Hep Yetişmeye Çalışıp Hep Geç Kalıyorsunuz?",
+  "kanca_sorusu": "Her şeyi son güne bırakıp sonra kendinizi suçlamaktan ne zaman vazgeçeceksiniz?",
+  "score": 78,
+  "puan_nedeni": "Her ne kadar makale klinik bir ADHD araştırması olsa da, odaklanma, kronik erteleme, zaman yönetimi beceriksizliği ve içsel motivasyon eksikliği modern çağda geniş bir kitlenin aşırı düşünme ve yetersizlik hissiyle doğrudan örtüşmektedir.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Günlük hayatın içinde sürekli bir şeyleri organize etmeye çalışıp başarısız hissetmek, sadece tembellik ya da iradesizlik olarak açıklanamaz. Beynin yürütücü işlevler merkezi; planlama yapma, çalışma belleğini kullanma ve eyleme geçme süreçlerinde aksadığında, ortada derin bir duygusal tükenmişlik ve suçluluk döngüsü başlar. İlaçlar semptomları hafifletse bile, bu bilişsel tıkanıklığı aşmak için bireyin kendi zihinsel haritasını yeniden tanıması ve yapılandırılmış baş etme stratejileri geliştirmesi şarttır. Erteleme davranışı çoğu zaman bir irade zayıflığı değil, o anki zihinsel yükün beyne çok ağır gelmesinin yarattığı kaçış mekanizmasıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihinsel Tıkanıklık",
+      "body": "Neden her şeyi planlayıp hiçbirini uygulayamıyorsunuz?",
+      "highlight_box": "Sorun iradenizde değil, yürütücü işlevlerinizde.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Ertelemenin Gerçek Yüzü",
+      "body": "Ertelemek bir tembellik değil, beynin bunalma anında gösterdiği savunma refleksidir.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Kronik Zaman Körlüğü",
+      "body": "Zamanın nasıl geçtiğini fark edememek ve her yere son anda yetişmeye çalışmak.",
+      "highlight_box": "Zamanı ölçmek yerine onunla savaşmak.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Çalışma Belleği Aşınması",
+      "body": "Küçük detayları unutmak, basit gibi görünen organizasyon işlerinde kilitlenmek.",
+      "highlight_box": "Zihinsel masaüstü daima doludur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Yapılandırılmış Çözüm",
+      "body": "Hedefleri küçük parçalara bölmek ve dışsal hatırlatıcılarla zihne alan açmak.",
+      "highlight_box": "Unutmayın: Bu bir süreçtir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış",
+      "body": "Kendinizi suçlamayı bırakın ve zihninizin çalışma biçimine uygun sınırlar çizin.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Sürekli bir şeyleri erteleyip sonunda kendinizi tembel olmakla suçluyorsanız, durun ve bunu dinleyin.",
+    "konusma_metni": "Yetişkinlikte odaklanma sorunları ve kronik erteleme, genellikle irade eksikliğinden değil, beynin yürütücü işlevlerindeki bir tıkanıklıktan kaynaklanır. Her şeyi son ana bırakıp gece yarısı panikle iş yetiştirmeye çalışmak bir karakter kusuru değil, zihinsel bir aşırı yüklenme belirtisidir. Kendinizi suçlamayı bırakıp bu döngünün nereden beslendiğine bakma vaktiniz gelmedi mi?"
+  },
+  "caption": "Kronik erteleme ve odaklanma güçlüğü çekenlerin düştüğü en büyük tuzak, durumu sürekli bir irade zayıflığı olarak görmektir. Oysa mesele, beynin planlama ve organizasyon merkezinin aşırı yüklenmesidir. Kendinizi acımasızca eleştirmek yerine, zihinsel kapasitenize uygun stratejiler geliştirmeyi denediniz mi?\n\n#zihinyönetimi #erteleme #odaklanma #psikoloji #yürütücüişlevler #klinikpsikoloji #ya_da_psikoloji",
+  "processed_at": "2026-09-26 17:40:02"
+}

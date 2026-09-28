@@ -1,0 +1,133 @@
+{
+  "id": "broca_area_html_aa21adcd",
+  "original_title": "Broca’s Area of the Brain: Function and Location",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/broca-area.html",
+  "published_date": "2026-09-17T10:56:05+00:00",
+  "read_time_minutes": 12,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brocas-area-1.jpg",
+      "alt": "Broca’s Area of the Brain: Function and Location",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brodmanns-areas-300x169.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Broca_Wernicke-300x185.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Motor-Cortex-300x174.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/dorsolateral-prefrontal-cortex-300x228.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brocas-area.jpeg",
+      "alt": "brocas area",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2402,
+  "turkce_baslik": "Kelimelerin Boğazda Düğümlendiği Yer: Beynimiz Konuşamadığımızda Ne Yaşar?",
+  "kanca_sorusu": "Çok şey söylemek isteyip de sadece birkaç kesik kelime çıkarabildiğiniz o anlarda, beyninizde aslında ne kopuyor?",
+  "score": 45,
+  "puan_nedeni": "Metin saf nöroloji, Broca alanı anatomisi ve aphasia üzerine akademik bir incelemedir. İlişkisel dinamiklerden veya günlük psikolojik örüntülerden uzak olduğu için katı puanlama kuralına göre düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, düşünceleri kelimelere dökerken kusursuz bir mekanizma gibi çalışır gibi görünür. Ancak bu akış sekteye uğradığında, ne kadar çok şey bildiğimizin veya hissettiğimizin bir önemi kalmaz. Sol frontal lobda yer alan Broca alanı, sadece dil üretmekle kalmaz; düşüncelerimizin o ham halini düzenli bir sıraya sokarak dış dünyaya aktarır. Hasar gördüğünde kaslarımız felç olmaz ama o akışın arkasındaki plan paramparça olur. Bu durum, insan ilişkilerinde ifade edemediğimiz, boğazımıza düğümlenen o kronik sessizlik hallerinin nörolojik birer yansıması gibidir. Kelimeler yetersiz kaldığında, zihin en temel anlatım araçlarını bile yeniden kurmak zorunda kalır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Kelimelerin Kaybolduğu An",
+      "body": "Zihnimiz yüzlerce cümle kurarken, dışarıya dökülenlerin neden sadece birkaç kırık kelimeden ibaret kaldığını hiç düşündünüz mü?",
+      "highlight_box": "İfade edemediğimiz her şey bedende ve zihinde birikir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Zihnin Dil Fabrikası",
+      "body": "Sol frontal lobda bulunan Broca alanı, düşüncelerimizi sıraya sokan, grameri organize eden ve konuşmayı planlayan merkezdir.",
+      "highlight_box": "Konuşmak sadece ses çıkarmak değil, zihinsel bir mimaridir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Planın Çökmesi",
+      "body": "Bu bölgede bir aksaklık olduğunda ağız kasları çalışmaya devam eder ancak kelimeleri bir araya getiren o görünmez plan bozulur.",
+      "highlight_box": "Aklınızdakiler susar, geriye sadece çaba kalır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Sözcüklerin Arasındaki Mesafe",
+      "body": "Gramatik olarak karmaşık yapıları anlamak ve uzun cümleleri akılda tutmak sözel çalışma belleğinin bu bölgeyle olan bağına dayanır.",
+      "highlight_box": "Zihin, cümleleri kurmadan önce onları sessizce inşa eder.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Ayna Sistem ve Bağlantı",
+      "body": "Broca alanı sadece konuşmaz; aynı zamanda başkalarının eylemlerini izlerken de aktifleşir. Dil, hareketten ve temastan doğmuştur.",
+      "highlight_box": "İletişim, biyolojimizin en derin katmanlarında başlar.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Sessizliğin Anatomisi",
+      "body": "Kelimelerin bittiği yerde başlayan o zihinsel yorgunluğu anlamak, kendimizle kurduğumuz iletişimin ilk adımıdır.",
+      "highlight_box": "Bu analizi zihinsel sınırlarınız için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden bazen en çok şey söylemek istediğimiz anlarda kelimeler boğazımıza düğümlenir?",
+    "konusma_metni": "Beynimizin sol lobunda, tam olarak Broca alanı adı verilen küçük ama hayati bir bölge var. Bu bölge sadece konuşmamızı sağlamaz; düşündüklerimizi gramere, sıraya ve anlama dökmenin mimarıdır. Burası zarar gördüğünde kaslarımız çalışır ama kelimelerin arkasındaki o görünmez plan çöker. Tıpkı bazen hayatımızda hissettiklerimizi dışarıya aktaramayıp sadece birkaç kopuk cümleyle kalakalmamız gibi. Zihin konuşmak ister, ama yol haritası kaybolur."
+  },
+  "caption": "Zihnimizin derinliklerinde, düşünceleri sese ve kelimelere dönüştüren karmaşık bir mimari var. Broca alanı, sadece dil üretmekle kalmaz; içimizdeki o yoğun karmaşayı dış dünyaya taşıyan köprüyü inşa eder. Ancak bu köprü sarsıldığında, ne kadar çok şey hissedersek hissedelim, kelimeler boğazımızda düğümlenir. İfade edemediğimiz her duygunun ardında, beyin haritamızın sessiz ve yorucu bir mücadelesi yatar. \n\nNöroloji, Psikoloji, BeyinMimarisi, Biyopsikoloji, İletişim, ZihinYönetimi",
+  "processed_at": "2026-09-26 17:10:23"
+}

@@ -1,0 +1,157 @@
+{
+  "id": "12_cranial_nerves_html_e8ad89d2",
+  "original_title": "Summary of the Cranial Nerves",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/12-cranial-nerves.html",
+  "published_date": "2026-09-17T10:48:09+00:00",
+  "read_time_minutes": 22,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/12-cranial-nerves.jpg",
+      "alt": "Summary of the Cranial Nerves",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cranial-nerves.jpg",
+      "alt": "cranial nerves",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/12-Cranial-Nerves-1.jpg",
+      "alt": "12 Cranial Nerves 1",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olfactory-Nerve.png",
+      "alt": "Olfactory Nerve",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Diagram_of_the_spinal_cord-300x276.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cns-pns-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brainstem-anatomy-293x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Motor-Cortex-300x174.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brodmanns-areas-300x169.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Cranial-Nerves-1.jpg",
+      "alt": "The 12 cranial nerves",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Cranial-Nerves-2.jpg",
+      "alt": "Cranial Nerves 2",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4442,
+  "turkce_baslik": "Kranial Sinirler ve Biyopsikolojik Altyapı",
+  "kanca_sorusu": "Bedenimizin ve zihnimizin görünmez kabloları ruh halimizi nasıl yönetiyor?",
+  "score": 45,
+  "puan_nedeni": "Metin tamamen nöroloji ve biyopsikoloji temelli akademik bir özet niteliği taşıdığı ve doğrudan ilişkisel dinamiklere veya içsel psikolojik süreçlere dokunmadığı için düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Kranial sinirler, beynimiz ile bedenimiz arasındaki en kritik ve doğrudan iletişimi sağlayan özel sinir demetleridir. Omuriliği baypas ederek doğrudan baş, boyun ve gövdeye uzanan bu yapılar, algıladığımız dünyayı anlamlandırmamızda temel bir rol oynar. Özellikle Vagus siniri gibi istisnai yapılar, iç organlarımızla zihnimiz arasındaki köprüyü kurarak stres, sakinleşme ve hayatta kalma mekanizmalarımızı doğrudan etkiler. Biyopsikolojik açıdan bu sinirlerin işleyişini anlamak, bedensel tepkilerimizin zihinsel durumlarımızla nasıl iç içe geçtiğini kavramamıza olanak tanır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Bedenin Gizli Kabloları",
+      "body": "Kranial sinirler beyninizi doğrudan baş, boyun ve organlarınıza bağlayan özel sinir demetleridir.",
+      "highlight_box": "Omuriliği baypas eden doğrudan iletişim ağı.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Algı ve Motor Kontrol",
+      "body": "Bu sinirler duyusal bilgileri beyne taşır ve kaslar ile organlara komutlar gönderir.",
+      "highlight_box": "Duyu, hareket ve otonom sistemlerin birleşimi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Duyusal Modaliteler",
+      "body": "Görme, işitme, koku, tat, dokunma ve denge gibi temel duyular bu sinirler aracılığıyla işlenir.",
+      "highlight_box": "Çevreyi anlamlandırmanın sinirsel temeli.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Vagus Sinirinin Rolü",
+      "body": "Göğüs ve karın bölgesine kadar uzanan Vagus siniri, kalp ve sindirim sistemi gibi hayati organları düzenler.",
+      "highlight_box": "Bedenin otonom denge merkezi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Biyopsikolojik Bütünlük",
+      "body": "Zihinsel süreçler ile bedensel tepkiler birbirinden ayrı düşünülemez; her ikisi de bu sinir ağlarıyla birbirine bağlıdır.",
+      "highlight_box": "Unutmayın: Beden ve zihin bir bütündür.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış ve Hatırlatma",
+      "body": "Sinir sistemimizin karmaşık yapısını anlamak, kendi bedensel ve zihinsel farkındalığımızı artırmanın ilk adımıdır.",
+      "highlight_box": "Bu bilgilendirici içeriği kaydetmeyi unutmayın.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Beyniniz ile bedeniniz arasındaki bu gizli bağlantıyı biliyor musunuz?",
+    "konusma_metni": "Kranial sinirler omuriliği baypas ederek beyninizi doğrudan bedeninize bağlar. Görmeden sindirime, kas hareketlerinden duygusal tepkilere kadar her şey bu sinir ağının kontrolü altındadır. Biyopsikoloji bize zihnin bedenden bağımsız olmadığını, tam aksine bu sinir yolları üzerinden sürekli bir diyalog halinde olduğunu gösterir."
+  },
+  "caption": "Kranial sinirler, beynimiz ile bedenimiz arasındaki en doğrudan iletişim yollarını oluşturur. Biyopsikolojik perspektiften bakıldığında, zihinsel durumumuz ile bedensel tepkilerimiz bu sinir ağları üzerinden sürekli bir etkileşim halindedir. Bedenin bu karmaşık yapısını anlamak, insanın içsel dünyasını ve tepkilerini kavramasında temel bir adımdır. Nöroloji, Biyopsikoloji, SinirSistemi, BeyinVeBeden, Psikoloji, Bilim, Farkındalık",
+  "processed_at": "2026-09-26 02:44:03"
+}

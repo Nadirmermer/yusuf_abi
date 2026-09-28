@@ -1,0 +1,109 @@
+{
+  "id": "your_brains_emotional_map_a6fdbdd3",
+  "original_title": "Your Brain's Emotional Map",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/best-practices-in-health/202605/your-brains-emotional-map",
+  "published_date": "2026-05-27T13:19:43-04:00",
+  "read_time_minutes": 1,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-05/pexels-satyampixels-35887010.jpg?itok=FF9EhhWj",
+      "alt": "Your Brain's Emotional Map",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/billhaseltinephoto.jpg?itok=a76H5bCT",
+      "alt": "William A. Haseltine Ph.D.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/unnamed.png.jpg?itok=Ngj4970d",
+      "alt": " Ma, Yumeng, and Philip A. Kragel. / Nature Communications 17",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/unnamed__1_.png.jpg?itok=2ExmWmfK",
+      "alt": " Ma, Yumeng, and Philip A. Kragel. / Nature Communications 17",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/shutterstock_2598352263.jpg?itok=pCZ8Xc_X",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-08/grok___xai.jpg?itok=UosW2GpW",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 25,
+  "turkce_baslik": "Zihninizin Duygusal Haritası ve İlişkilerdeki Yeri",
+  "kanca_sorusu": "Neden bazı anlarda hissettiğiniz öfke ya da korku size tamamen mantıksız gelir ama yine de içinizdeki o dalgayı durduramazsınız?",
+  "score": 45,
+  "puan_nedeni": "Makale temel nöroloji ve beynin duygusal sistem organizasyonuna odaklandığı, doğrudan ilişkisel dinamikler veya bireysel klinik patolojiler yerine genel beyin haritalaması sunduğu için akademik düzeyde kalmış, bu nedenle takipçi karşılığı orta seviyede değerlendirilmiştir.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Duygularımız dışarıdan bakıldığında sıklıkla anlık, öngörülemez ve hatta mantıksız fırtınalar gibi hissedilir. Oysa nörobilimsel araştırmalar, beynin bu karmaşık dalgalanmaları hayatta kalabilmek ve çevreyi anlamlandırabilmek için son derece tutarlı bir sistem içinde organize ettiğini gösteriyor. Zihnimiz, geçmiş deneyimleri ve çevresel uyaranları baz alarak sürekli bir duygusal harita çıkarır. Bu harita, daha siz ne olduğunu fark etmeden hangi duruma nasıl tepki vereceğinizi fısıldar.\n\nAncak bu durum, özellikle kronik kaygı yaşayan veya geçmişte güvenlik ihlalleri deneyimlemiş bireylerde güncel gerçeklikle bağdaşmayan tepkilere yol açabilir. Beyninizin oluşturduğu o eski harita, bugünkü güvenli alanınızda bile sizi savaş ya da kaç modunda tutmaya devam edebilir. İlişkilerde yaşanan ani patlamalar veya nedensiz geri çekilmeler, aslında bu içsel haritanın yanlış okunmasından başka bir şey değildir.\n\nBu mekanizmayı dönüştürmenin yolu, duygularınızla savaşmak değil, beyne güvende olduğunu yeniden hatırlatabilmektir. Zihninizin çıkardığı o otomatik haritayı fark etmek, otomatik pilotta verilen tepkileri durdurmanın ilk ve en kritik adımıdır. Duygusal düzenleme, hissettiğiniz o yoğun baskının altında yatan asıl çevresel ya da ilişkisel tetikleyiciyi görmekle başlar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihninizin Duygusal Haritası",
+      "body": "Duygularınız rastgele patlamalar değil, beyninizin çevreyi anlamlandırma çabasıdır.",
+      "highlight_box": "Her duygunun arkasında çalışan görünmez bir sistem vardır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Eski Haritalarla Yeni Yollar",
+      "body": "Beyin, geçmişte yaşadığı tehditleri bugünkü ilişkilere kopyalar.",
+      "highlight_box": "Bugün yaşadığınız tepki, dünün korkusu olabilir mi?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Otomatik Tepki Döngüsü",
+      "body": "Mantıksız görünen öfke veya geri çekilmeler, beynin hayatta kalma refleksidir.",
+      "highlight_box": "Tehdit algılandığında mantık devre dışı kalır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Çevresel Tetikleyiciler",
+      "body": "En ufak bir belirsizlik, zihnin en eski ve karanlık haritasını masaya getirebilir.",
+      "highlight_box": "Küçük olaylar büyük tepkiler doğuruyorsa zihin geçmiştedir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Haritayı Yeniden Çizmek",
+      "body": "Duygularınızı susturmak yerine, onların size ne anlatmaya çalıştığını inceleyin.",
+      "highlight_box": "Farkındalık, otomatik pilotu durdurmanın tek yoludur.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizin haritasını tanıdığınızda, artık geçmişin kölesi olmazsınız.",
+      "highlight_box": "Bu bilgiyi zihninize ve sevdiklerinize not edin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Beyninizin her gün habersizce çizdiği o görünmez harita, bütün ilişkilerinizi yönetiyor.",
+    "konusma_metni": "Duygularınızın rastgele ve kontrol edilemez olduğunu düşünüyorsanız yanılıyorsunuz. Nörobilim, beynin her an çevrenizi tarayarak gizli bir duygusal harita çıkardığını söylüyor. Bu harita, geçmişteki yaralarınızı bugünkü partnerinize yansıtmanıza neden oluyor. Eğer bu otomatik haritayı okumayı öğrenmezseniz, geçmişin korkularıyla bugünün hayatını yaşamak zorunda kalırsınız."
+  },
+  "caption": "Duygularımız çoğu zaman kontrolümüz dışında gelişen fırtınalar gibi hissedilir. Oysa nörobilim, beynin çevremizi anlamlandırmak ve bizi korumak için karmaşık bir duygusal harita çıkardığını gösteriyor. Sorun şu ki; bu harita çoğunlukla geçmişin acı dolu deneyimleriyle çizilmiştir ve bugünkü ilişkilerimizde bize yanlış yollar gösterir. Otomatik pilotta verilen tepkilerin ardındaki bu mekanizmayı anlamak, ilişkisel döngüleri kırabilmek için atılacak en önemli adımdır. \n\n#psikoloji #nörobilim #duygudüzenleme #zihinyönetimi #ilişkiler #farkındalık #klinikpsikoloji",
+  "processed_at": "2026-09-28 02:31:03"
+}

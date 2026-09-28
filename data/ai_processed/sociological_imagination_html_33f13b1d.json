@@ -1,0 +1,133 @@
+{
+  "id": "sociological_imagination_html_33f13b1d",
+  "original_title": "Sociological Imagination",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/sociological-imagination.html",
+  "published_date": "2026-09-17T11:45:48+00:00",
+  "read_time_minutes": 24,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Sociological-Imagination.jpg",
+      "alt": "Sociological Imagination",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/karl-marx-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/functionalist-perspective-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-facts-300x154.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Mansfield-Nottinghamshire-300x201.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Verstehen-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-construction-reality-300x157.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/headshot.webp",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4741,
+  "turkce_baslik": "Özel Sanılan Yalnızlıkların Toplumsal Kökleri: Bireysel Dertler mi, Sistemik Çıkmazlar mı?",
+  "kanca_sorusu": "Yaşadığınız tükenmişliği, işsizliği veya ilişkisel çıkmazları sadece kendi kişisel yetersizliğiniz olarak görmekten ne zaman vazgeçeceksiniz?",
+  "score": 45,
+  "puan_nedeni": "Metin, C. Wright Mills'in sosyolojik hayal gücü kavramını ve makro sosyolojik yapıları ele almaktadır. Bireysel iç dünyadan ziyade toplumsal yapıya ve ekonomik krizlere odaklandığı için, @ya_da_psikoloji takipçilerinin doğrudan ilişkisel dinamiklerine ve içsel şifasına hitap eden yüksek puanlı psikolojik konulara kıyasla daha akademik ve mesafeli kalmaktadır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Günlük hayatımızda karşılaştığımız pek çok krizi, ekonomik sıkıntıyı veya tükenmişliği tamamen kendi kişisel beceriksizliğimiz ya da irade zayıflığımız olarak kodlamaya oldukça meyilliyizdir. Oysa C. Wright Mills'in sosyolojik hayal gücü kavramı, bireysel biyografimiz ile tarihin ve toplumsal yapıların kesiştiği noktayı görmemizi sağlar. İşsiz kalmayı sadece kendi başarısızlığınız olarak gördüğünüzde, aslında küresel ekonomik dalgalanmaları ve sistemik eşitsizlikleri gözden kaçırırsınız. Bireysel dertler ile toplumsal meseleler arasındaki bu ince çizgiyi ayırt edebilmek, insanın omuzlarındaki yersiz suçluluk yükünü hafifletir ve içsel bir özgürleşme alanı yaratır. Kendi hayatınızda yaşadığınız sıkışmışlıkların ne kadarının size ait olduğunu, ne kadarının ise içinde yaşamak zorunda bırakıldığınız sistemin bir ürünü olduğunu fark etmek, pasif bir kabullenişten çıkıp bilinçli bir farkındalığa evrilmenin ilk adımıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Yalnız Olduğunuzu Sandığınız Dertler",
+      "body": "Hayatınızda yaşadığınız krizleri sadece kendi kişisel seçimlerinizin bir sonucu mu sanıyorsunuz?",
+      "highlight_box": "Bireysel görünen her sorunun arkasında görünmez bir yapı vardır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Biyografi ve Tarihin Kesişimi",
+      "body": "Kişisel hayat hikayeniz ile içinde bulunduğunuz dönemin toplumsal ve ekonomik koşulları birbirinden bağımsız değildir.",
+      "highlight_box": "Kendi hikayenizi daha büyük bir resmin parça olarak okuyun.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Kişisel Dert mi, Toplumsal Mesele mi?",
+      "body": "Tek bir kişinin işsiz kalması kişisel bir derttir; fakat milyonlarca insanın işsiz olması yapısal ve toplumsal bir krizdir.",
+      "highlight_box": "Suçluluk duygusunu bırakın, sistemi sorgulayın.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Aşırı Uyum ve Yabancılaşma",
+      "body": "Sistemin beklentilerine uyum sağlamaya çalışırken kendi insanî özünüzden ve doğal ritminizden ne kadar uzaklaşıyorsunuz?",
+      "highlight_box": "Bürokrasi ve modern yaşam insanı yalnızlaştırır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Perspektif Değişimi",
+      "body": "Olayları sadece kendi pencerenizden değil, sizi çevreleyen geniş sosyal yapıların ve güç ilişkilerinin ışığında değerlendirin.",
+      "highlight_box": "Eleştirel düşünce en güçlü savunma mekanizmanızdır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Özgürleşme",
+      "body": "Üzerinize yıkılan haksız suçluluk yükünden arınmak için hayatınızı daha geniş bir perspektifle yeniden okuyun.",
+      "highlight_box": "Derinlemesine düşünmek ve kaydetmek için dokunun.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Sürekli kendinizi suçlamaktan vazgeçin çünkü yaşadığınız krizlerin çoğu aslında size ait değil.",
+    "konusma_metni": "Hayatınızda işler kötü gittiğinde, işinizi kaybettiğinizde ya da ilişkileriniz tükendiğinde ilk olarak nerede hata ararsınız? Muhtemelen aynaya bakıp kendi yetersizliklerinizi sorgularsınız. C. Wright Mills'in sosyolojik hayal gücü tam da bu noktada devreye girer. Yalnız sandığınız dertlerin aslında görünmez toplumsal iplerle nasıl yönetildiğini fark etmediğiniz sürece, sistemin yarattığı yükü tek başınıza sırtlamaya devam edersiniz. Bireysel olanın politik ve toplumsal köklerini görmek, sizi suçluluk duygusundan kurtarıp gerçek bir farkındalığa ulaştırır."
+  },
+  "caption": "Hayatımızda ters giden bir şeyler olduğunda ilk refleksimiz hatayı kendimizde aramak olur. İşsiz kalmayı, ilişkilerimizin tükenmesini veya yaşadığımız ekonomik sıkışmışlığı tamamen kişisel başarısızlıklar olarak kodlarız. Oysa C. Wright Mills'in tabiriyle sosyolojik hayal gücü, bireysel biyografimiz ile toplumsal tarih arasındaki bağı kurmamızı sağlar. Yaşadığınız sıkıntıların ne kadarının gerçekten size ait olduğunu, ne kadarının ise içinde bulunduğunuz sistemin dayatmaları olduğunu ayırt etmek büyük bir zihinsel özgürleşmedir. Bu derinlemesine analizi faydalı bulduysanız kaydedebilir, düşüncelerinizi bizimle paylaşabilirsiniz.\n\nSosyolojikHayalGücü, Psikoloji, ToplumsalYapı, BireyVeToplum, Farkındalık, EleştirelDüşünce, Ya_Da_Psikoloji",
+  "processed_at": "2026-09-26 02:42:25"
+}

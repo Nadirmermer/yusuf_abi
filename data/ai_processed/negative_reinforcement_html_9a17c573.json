@@ -1,0 +1,133 @@
+{
+  "id": "negative_reinforcement_html_9a17c573",
+  "original_title": "Negative Reinforcement",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/negative-reinforcement.html",
+  "published_date": "2026-08-27T07:41:28+00:00",
+  "read_time_minutes": 15,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Operant-Conditioning-Reinforcement-1.jpeg",
+      "alt": "Negative Reinforcement",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/negative-reinforcement.jpeg",
+      "alt": "negative reinforcement",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/skinner-box-300x253.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Operant-Conditioning-Reinforcement-1-300x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/behaviorist-approach-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/skinner-box-1-300x185.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Pavlovs-Dogs-Experiment-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/drive-reduction-theory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/headshot.webp",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3094,
+  "turkce_baslik": "İlişkilerde Kaçış Döngüsü: Rahatlama Hissi Aslında Neyi Besliyor?",
+  "kanca_sorusu": "Bir tartışmadan veya rahatsız edici bir konudan kaçarak elde ettiğiniz o anlık rahatlama, aslında hangi kördüğümü her seferinde daha da güçlendiriyor?",
+  "score": 82,
+  "puan_nedeni": "Metin temel operant koşullanma kavramına dayansa da, konunun insan ilişkilerindeki 'kaçınma davranışları' ve 'sessiz kalma / ortamı terk etme' dinamiklerine uyarlanması, takipçilerde yüksek bir ayna etkisi yarattığı için yüksek puan almıştır.",
+  "category": "İlişkiler & İletişim",
+  "editoryal_genis_metin": "Günlük hayatımızda ve en yakın ilişkilerimizde, bizi rahatsız eden bir durumdan kaçındığımızda hissettiğimiz o anlık rahatlama, psikolojide negatif pekiştirme olarak adlandırılır. Buradaki 'negatif' kelimesi bir cezalandırmayı değil, ortamdan nahoş bir uyaranın eksiltilmesini temsil eder. Partnerimizle girmek istemediğimiz o ağır tartışmadan kaçmak, telefonu sessize alıp bildirimleri görmezden gelmek ya da duygusal bir mesafenin arkasına saklanmak, beynimize geçici bir huzur vadeder. Ancak bu kaçışlar tekrarlandıkça, beyin o davranışı bir kurtarıcı olarak kodlar ve gelecekte benzer bir gerilimle karşılaştığımızda aynı kaçış refleksini göstermemizi kaçınılmaz kılar.\n\nSorun da tam burada başlar. İlişkilerde problemlerin üzerine gitmek yerine sürekli kaçış veya kaçınma stratejileriyle rahatlama aramak, kısa vadede anksiyeteyi düşürse de uzun vadede aradaki bağı kemirir. Çözülmeyen her mesele, ilişki dinamiklerinde biriktirilen sessiz birer husumete ve tükenmişliğe dönüşür. Sürekli olarak rahatsız edici duygulardan kaçarak yaşamak, bireyin kendi duygusal dayanıklılığını zayıflatır ve en ufak bir zorlukta dahi aynı döngünün içine sıkışıp kalmasına neden olur.\n\nBu döngüyü kırmanın yolu, o anlık rahatlamanın getirdiği geçici konfordan vazgeçmeyi göze alabilmektir. Rahatsız edici konuşmaların, yüzleşmelerin veya sınır koyma çabalarının yarattığı ilk gerginliği tolere edebildiğimiz ölçüde ilişkilerimiz derinleşir. Kaçarak elde edilen huzur gerçek bir çözüm değil, sadece ertelenmiş bir faturadır. Gerçek iyileşme, kaçma dürtüsü belirdiğinde orada kalabilme cesaretini gösterebilmekle başlar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Rahatlama Tuzağı",
+      "body": "Zor bir konudan kaçtığınızda hissettiğiniz o ani huzur, aslında sizi aynı döngüye mahkum eden görünmez bir bağdır.",
+      "highlight_box": "Kaçış her zaman bir çözüm değildir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Negatif Pekiştirme Nedir?",
+      "body": "Psikolojide negatif kelimesi cezayı değil, kötü bir durumu ortamdan eksiltmeyi ifade eder. Rahatsız edici bir uyarıcıyı ortadan kaldırdığınızda gelen rahatlama, o davranışı tekrarlama olasılığınızı artırır.",
+      "highlight_box": "Beynimiz rahatlamayı ödül olarak kodlar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "İlişkilerde Kaçınma Döngüsü",
+      "body": "Partnerinizle bir tartışma tırmandığında ortamı terk etmek veya konuyu değiştirmek o anki gerilimi bitirir. Ancak bu durum, gelecekteki en ufak krizde bile aynı kaçış mekanizmasını tetikler.",
+      "highlight_box": "Zorlukla yüzleşmek yerine uzaklaşırsınız.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Tükenen Duygusal Dayanıklılık",
+      "body": "Sürekli rahatsızlıktan kaçma stratejisi kullanmak, zamanla duygusal toleransınızı düşürür. Artık en küçük bir problem bile gözünüzde devasa bir dağa dönüşür.",
+      "highlight_box": "Kaçtıkça korkunuz büyür.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Döngüyü Kırmak",
+      "body": "Gerçek değişim, kaçma dürtüsü belirdiğinde bir adım geri atıp o rahatsız edici duyguyla baş başa kalabilme cesaretini göstermekle başlar.",
+      "highlight_box": "Geçici gerginlik, kalıcı huzurun bedelidir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Kaçarak elde ettiğiniz huzur gerçek bir çözüm değildir, yalnızca ertelenmiş bir faturadır. Bu farkındalığı kaybetmeyin.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Tartışmalardan kaçarak elde ettiğiniz o anlık rahatlama, aslında neyi besliyor biliyor musunuz?",
+    "konusma_metni": "İlişkinizde ya da hayatınızda bir gerginlik olduğunda ortamı terk etmek, konuyu kapatmak veya sessizliğe gömülmek size anlık bir rahatlama hissettirir. Beyniniz bu rahatlamayı bir ödül olarak kaydeder ve bir sonraki krizde yine aynı kaçış yoluna başvurmanızı sağlar. Buna psikolojide negatif pekiştirme denir. Kısa vadede anksiyetenizi düşürür ama uzun vadede çözülmemiş sorunların altında kalmanıza neden olur. Kaçarak kazandığınızı sandığınız huzur, aslında aranızdaki bağı her geçen gün biraz daha zayıflatır. Ne zaman kaçmayı bırakıp orada kalmayı göze alacaksınız?"
+  },
+  "caption": "İlişkilerde ya da günlük hayatımızda rahatsız edici durumlardan kaçındığımızda hissettiğimiz o anlık rahatlama, beynimiz tarafından ödül olarak algılanır. Buna psikolojide negatif pekiştirme denir. \n\nZor bir konuşmadan kaçmak, bir tartışmayı sessizlikle kapatmak veya sorumlulukları ertelemek kısa vadede anksiyetemizi düşürür. Ancak uzun vadede bu kaçışlar, duygusal dayanıklılığımızı tüketir ve çözülmemiş meselelerin altında kalmamıza yol açar. Kaçarak kazandığımızı sandığımız huzur, aslında aramızdaki bağları ve içsel gücümüzü zayıflatan görünmez bir prangadır.\n\nKaçma dürtünüzün arkasındaki rahatlama arayışını fark edin. \n\n#psikoloji #ilişkiler #kaçınmabağlanma #kişiselgelişim #farkındalık #ya_da_psikoloji #duygusaldayanıklılık",
+  "processed_at": "2026-09-26 02:44:09"
+}

@@ -1,0 +1,151 @@
+{
+  "id": "hindbrain_html_0b055758",
+  "original_title": "Hindbrain: Parts & Function",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/hindbrain.html",
+  "published_date": "2026-09-21T11:46:03+00:00",
+  "read_time_minutes": 10,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hindbrain.jpeg",
+      "alt": "Hindbrain: Parts & Function",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hindbrain.jpg",
+      "alt": "hindbrain",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Brain-pons-853x1024.jpeg",
+      "alt": "Brain pons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brainstem-anatomy-293x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cns-pns-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/basal-ganglia-1-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Motor-Cortex-300x174.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebellum-1024x1024.jpg",
+      "alt": "cerebellum",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Medulla-oblongata-1024x1024.jpeg",
+      "alt": "Medulla oblongata",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1981,
+  "turkce_baslik": "Vücudun Sessiz Otoparkı: Hayatta Kalmanın Derin Anatomisi",
+  "kanca_sorusu": "Tehlike anında mantığınız devreye girmeden önce, bedeniniz hayatta kalmak için hangi sessiz kararları alıyor?",
+  "score": 40,
+  "puan_nedeni": "Metin saf biyopsikoloji ve nöroloji temelli olduğundan, doğrudan ilişkisel çatışmalar veya bağlanma stilleri içermez. Klasik akademik bir organ incelemesi olduğu için katı puanlama kuralımız gereği düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan beyni, karmaşık düşüncelerin ve sosyal ilişkilerin çok ötesinde, milyonlarca yıllık evrimsel bir temele dayanır. Beyin sapının tabanında yer alan arka beyin, yani hindbrain, günlük yaşamda nadiren farkına vardığımız ancak hayatta kalmamızı sağlayan en temel sistemlerin merkezidir. Nefes almaktan kalp atışına, dengeden uykuya kadar hiçbir bilinçli çaba gerektirmeyen bu otomatik süreçler, aslında bedenimizin en eski koruyucusudur. Modern dünyada sıklıkla zihinsel kaygılarla boğuşurken, bu temel biyolojik yapının hayatımızı sessizce ve kesintisiz bir şekilde taşımaya devam ettiğini unuturuz. Bedensel tepkilerimizin ve reflekslerimizin arkasındaki bu derin anatomi, ne kadar rasyonel varlıklar olduğumuzu iddia etsek de, özünde hayatta kalmaya programlı birer canlı olduğumuzu bize hatırlatır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Bedenin Otopilotu",
+      "body": "Zihnimiz karmaşık düşüncelerle meşgulken, en temel hayatta kalma mekanizmalarımız sessizce çalışmaya devam eder.",
+      "highlight_box": "Milyonlarca yıllık evrimsel miras",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Bilinçaltının Ötesindeki Kontrol",
+      "body": "Nefes alma, kalp atışı ve denge gibi hayati fonksiyonlar bilinçli bir çaba gerektirmez, tamamen arka beyin tarafından yönetilir.",
+      "highlight_box": "Bunu siz kontrol etmiyorsunuz",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Pons: İletişim Köprüsü",
+      "body": "Beynin farklı bölgeleri arasında mesajları ileten pons, uyku düzeninden yüz ifadelerine kadar pek çok otomatik süreci koordine eder.",
+      "highlight_box": "Geçişleri sağlayan merkez",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Cerebellum: Denge ve Uyum",
+      "body": "Sadece fiziksel hareketleri değil, aynı zamanda motor öğrenmeyi ve dikkati de ince bir şekilde ayarlayan temel yapıdır.",
+      "highlight_box": "Kusursuz denge ve koordinasyon",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Bedensel Farkındalık",
+      "body": "Anksiyete ve stres anında bedeninizin verdiği otomatik tepkileri fark etmek, zihinsel kontrolü yeniden kazanmanın ilk adımıdır.",
+      "highlight_box": "Beden her zaman hatırlar",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Sessiz Gücü Anlamak",
+      "body": "Hayatta kalmanızı sağlayan bu antik yapıları anlamak, bedeninize ve onun verdiği tepkilere daha şefkatle yaklaşmanızı sağlar.",
+      "highlight_box": "Derinlemesine düşünmek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Siz hiçbir şey düşünmezken bile bedeniniz hayatta kalmak için savaşmaya devam ediyor.",
+    "konusma_metni": "Günlük hayatın koşturmacasında zihnimizi ve duygularımızı yönetmeye çalışırken, aslında arka planda kusursuz çalışan milyonlarca yıllık bir sistem var. Arka beyin dediğimiz bu yapı; nefesimizden kalp atışımıza, dengemizden uykumuza kadar her şeyi biz fark etmeden idare ediyor. İlişkilerde ya da kriz anlarında verdiğimiz ani bedensel tepkilerin kökeninde de bu en eski beyin bölgesi yatıyor. Peki, bedeninizin sizin adınıza verdiği bu sessiz kararların ne kadar farkındasınız?"
+  },
+  "caption": "Hayatta kalmamızın en temel mekanizması olan arka beyin, milyarlarca yıldır değişmeyen yapısıyla bedenimizin otopilot görevini üstlenir. Bilinçli zihnimiz karmaşık ilişkiler ve modern dünyanın stresiyle meşgulken, bu antik yapılar nefes almamızı, dengede kalmamızı ve hayatta kalmamızı sağlar. Bedensel tepkilerimizi anlamak, zihinsel süreçlerimizi kavramanın da ilk adımıdır. #biyopsikoloji #nöroloji #arkabeyin #bedenselfarkındalık #psikoloji #evrim #zihinyönetimi",
+  "processed_at": "2026-09-26 16:56:28"
+}

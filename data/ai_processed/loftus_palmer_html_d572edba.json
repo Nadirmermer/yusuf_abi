@@ -1,0 +1,145 @@
+{
+  "id": "loftus_palmer_html_d572edba",
+  "original_title": "Loftus and Palmer Car Crash Experiment",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/loftus-palmer.html",
+  "published_date": "2026-09-17T11:33:31+00:00",
+  "read_time_minutes": 21,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/loftus.jpg",
+      "alt": "Loftus and Palmer Car Crash Experiment",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/loftus.jpg",
+      "alt": "Loftus and Palmer (1974) Car Crash Study",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/loftus-results.jpg",
+      "alt": "Loftus and Palmer (1974) Results",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/pozzulo-300x164.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/patient-hm-brain-300x243.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/serial-position-effect-300x215.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/asch-experiment-300x213.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/milgram-study-300x236.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Western-Electric-Hawthorne-Plant-300x233.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/loftus-results2.jpg",
+      "alt": "Loftus and Palmer (1974) Results of Experiment Two",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4204,
+  "turkce_baslik": "Zihnimizdeki Kurgusal Gerçeklik: Hatıralarımız Ne Kadar Güvenilir?",
+  "kanca_sorusu": "Geçmişte yaşanan bir tartışmayı iki farklı kişinin tamamen zıt şekillerde hatırlaması sizce nasıl mümkündür?",
+  "score": 45,
+  "puan_nedeni": "Her ne kadar klasik ve büyüleyici bir bellek deneyi olsa da, laboratuvar ortamında yapılmış ve doğrudan ilişkisel dinamikler yerine bilişsel psikoloji/nöroloji temelli olduğundan katı puanlama kriterimize göre orta-düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, yaşananları bir video kaseti gibi kaydetmez; her hatırlama anında o anıyı adeta yeniden inşa eder. Elizabeth Loftus'un çığır açan çalışmaları, dışarıdan gelen masum gibi görünen yönlendirici kelimelerin bile geçmişe dair inançlarımızı ve hafızamızı nasıl kökten değiştirebildiğini kanıtlamıştır. Bir olay sırasında kullanılan tek bir fiil, zihnimizdeki şemaları tetikler ve olmayan detayları bile sanki gerçekten yaşanmış gibi kafamızda yaratmamıza neden olur. İlişkilerde ve günlük hayatta sıkça karşılaştığımız 'Ben öyle demek istemedim' ya da 'Sen bunu yanlış hatırlıyorsun' kavgalarının kökeninde işte bu yeniden kurulan bellek yatar. Kendi anılarımızın bile ne kadar esnek ve manipülasyona açık olduğunu fark etmek, karşımızdakinin anlattığı gerçeğe karşı biraz daha mesafeli ve kapsayıcı yaklaşmamızı gerektirir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Hatırladığımız Her Şey Gerçek mi?",
+      "body": "Geçmişin tozlu raflarında sakladığımız anılar, sandığımız kadar tarafsız ve sabit değildir.",
+      "highlight_box": "Bellek bir kayıt cihazı değil, bir yapım stüdyosudur.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Yönlendirilen Kelimeler ve Değişen Zihin",
+      "body": "Soruluş şekli veya seçilen tek bir kelime, zihnimizin olayı kodlama biçimini tamamen manipüle edebilir.",
+      "highlight_box": "Sadece bir kelime bütün gerçeği bükebilir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Çarpıtılmış Algı",
+      "body": "Araştırmalar, yoğun kelimeler kullanıldığında insanların asla var olmayan detayları bile gördüklerine yemin edebildiklerini gösteriyor.",
+      "highlight_box": "Zihin, boşlukları kendi varsayımlarıyla doldurur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "İlişkilerdeki 'Haklılık' Çatışması",
+      "body": "İki insanın aynı olayı tamamen farklı hatrlayıp ikisinin de buna yüzde yüz inanması bu bilişsel esneklikten kaynaklanır.",
+      "highlight_box": "İkisi de kendi zihnindeki kurguya inanmaktadır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Zihinsel Kesinlikten Vazgeçmek",
+      "body": "Kendi hafızanızın dahi yanıltıcı olabileceğini kabul etmek, başkalarıyla olan çatışmalarda en büyük şifadır.",
+      "highlight_box": "Mutlak hakikat iddiası esnekliği engeller.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Geçmişinize ve anılarınıza körü körüne inanmak yerine, onların da birer zihinsel yorum olduğunu fark edin.",
+      "highlight_box": "Daha sonra tekrar göz atmak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Partnerinizle yaşadığınız bir tartışmayı ikinizin de tamamen farklı hatırlamasının sinir bozucu nedenini biliyor musunuz?",
+    "konusma_metni": "Geçmişte yaşanan bir olayı anlatırken hepimiz gerçeği birebir hatırladığımızı zannederiz. Oysa hafıza, sabit bir video kaydı değildir; her hatırlayışımızda yeniden yazılır. Dışarıdan gelen yönlendirici tek bir cümle ya da kelime, zihnimizdeki boşlukları doldurur ve olmayan detayları bile olmuş gibi inandırır bize. İlişkilerdeki 'sen yanlış hatırlıyorsun' kavgalarının temelinde bu yatar. Zihnimiz bize oyun oynar."
+  },
+  "caption": "Geçmişe ait bir olayı veya tartışmayı hatırlarken ne kadar eminsiniz? Elizabeth Loftus'un klasik bellek deneyleri, insan hafızasının sabit bir kamera kaydı olmadığını, aksine her hatırlayışta yeniden kurulan esnek bir yapı olduğunu defalarca kanıtladı. Dışarıdan gelen yönlendirici tek bir kelime ya da soru, zihnimizde hiç gerçekleşmemiş olayları bile gerçekmiş gibi yaratabiliyor. İlişkilerde yaşanan 'Ben öyle demedim' ya da 'Sen yanlış hatırlıyorsun' gerginliklerinin temelinde bu bilişsel yanılsama yatar. Kendi hafızamızın bile manipülasyona bu kadar açık olduğunu bilmek, olaylara bakış açımızı kökten değiştirebilir. Bu konuyu kiminle tartıştıysanız ya da kiminle paylaşmak istiyorsanız etiketlemeyi ve kaydetmeyi unutmayın. psikoloji bellek zihin hafıza ilişkiler farkındalık",
+  "processed_at": "2026-09-26 17:02:30"
+}

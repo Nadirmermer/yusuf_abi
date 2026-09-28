@@ -1,0 +1,127 @@
+{
+  "id": "burnout_or_depression_html_995f27db",
+  "original_title": "Distinguishing Burnout from Depression: A Clinical Guide",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/burnout-or-depression.html",
+  "published_date": "2026-02-04T14:48:36+00:00",
+  "read_time_minutes": 10,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/burnout.jpg",
+      "alt": "Distinguishing Burnout from Depression: A Clinical Guide",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adhd-burnout-vs-regular-burnout-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/everything-is-overwhelming-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Signs-of-Emotion-Dysregulation-in-ADHD-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/feeling-overwhelmed-causes-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/empathy-fatigue-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotion-dysregulation-help-adhd-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1907,
+  "turkce_baslik": "Tükenmişlik mi, Yoksa Klinik Depresyon mu: Hayatın Hangi Alanında Kayboldunuz?",
+  "kanca_sorusu": "İşten eve geldiğinizde hissettiğiniz bu derin tükenmişlik gerçekten sadece yorgunluk mu, yoksa ruhunuzun başka bir yere taşındığının habercisi mi?",
+  "score": 82,
+  "puan_nedeni": "Konu doğrudan modern insanın günlük yaşamında en çok karıştırdığı iki psikolojik durumu (tükenmişlik ve depresyon) ele alıyor. İlişkisel ve bağlamsal tükenmişlik hissi takipçilerde yüksek düzeyde ayna etkisi yarattığı için puanı oldukça yüksek.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Günümüz insanının en sık düştüğü hatalardan biri, kronik iş veya bakım verme stresini klinik depresyonla karıştırmaktır. Oysa tükenmişlik, belirli bir role, ortama veya aşırı yüklenmeye karşı gelişen bağlamsal bir tepkidir. Tatil testine baktığımızda, ortamdan uzaklaşıldığında hafifleyen semptomların tükenmişliğe işaret ettiğini görürüz. Ancak bu durum çözülmediğinde ve fizyolojik regülasyon bozulduğunda, tükenmişlik zamanla tüm yaşam alanlarını saran klinik bir depresyona dönüşebilir. 'Yorgun ama tetikte' hissetmek, dopamin tükenmesi ve kortizol ritminin bozulması bedenin bize verdiği en net dur alarmıdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Tükenmişlik ve Depresyon Aynı Şey Değildir",
+      "body": "Benzer belirtiler gösteren bu iki durumun ruhumuzdaki yansımaları oldukça farklıdır.",
+      "highlight_box": "Hangi sınırdasınız?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Bağlamsal mi, Yoksa Evrensel mi?",
+      "body": "Depresyon hayatınızın her alanını renksizleştirirken, tükenmişlik belirli bir role veya ortama sıkışır.",
+      "highlight_box": "Tatil testi aradaki en net çizgidir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Duygusal Tükenme Hali",
+      "body": "Verecek hiçbir duygusal kalıntınızın kalmadığı, kemiklerinize kadar yorgun hissettiğiniz o an.",
+      "highlight_box": "Hafta sonu dinlenmek bu yorgunluğu geçirmez.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Duyarsızlaşma ve Kinizm",
+      "body": "Çevrenizdeki insanlara, işinize ya da sevdiklerinize karşı geliştirdiğiniz ani tahammülsüzlük ve uzaklaşma.",
+      "highlight_box": "İnsanları birer sorun olarak görmeye başlarsınız.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Görünmeyen Tehlike: Depresyona Evrilme",
+      "body": "Kronikleşen tükenmişlik, anlamlı bağlardan kopmanıza ve nihayetinde depresyona zemin hazırlar.",
+      "highlight_box": "Bedenin 'dur' sinyalini duymak zorundasınız.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kendi Sınırlarınızı Gözden Geçirin",
+      "body": "Tükenmişlik bir zayıflık değil, uzun süredir kapasitenizin üzerinde yaşadığınızın kanıtıdır.",
+      "highlight_box": "Bu analizi ihtiyacı olan birine göndermek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "İşten eve geldiğinde hiçbir şey yapmak istemiyorsan, bu sadece yorgunluk olmayabilir.",
+    "konusma_metni": "Her akşam eve geldiğinde pilden düşmüş gibi hissediyorsan, kendine şu soruyu sormalısın: Bu his tatile gittiğinde geçiyor mu, yoksa gittiğin her yere seninle geliyor mu? Tükenmişlik belirli bir ortama ve aşırı yüke aittir, bağlamsaldır. Depresyon ise tüm hayatına sızar. Eğer bu tükenmişliği görmezden gelmeye devam edersen, beden bir süre sonra pes eder ve bu durum klinik depresyona evrilebilir. Sınır koymadığın roller, ruhunun en büyük yükü haline gelir."
+  },
+  "caption": "Tükenmişlik ve depresyon sıkça birbirine karıştırılır ancak kökenleri ve ruhumuzda bıraktıkları izler tamamen farklıdır. İş yerinde, ilişkilerde veya bakım verme rollerinde yaşanan aşırı yüklenme, bir süre sonra bedeni kabullenilemez bir noktaya getirir. Eğer bu durum zamanında fark edilmezse, sadece belirli bir ortama ait olan tükenmişlik tüm yaşam alanlarınızı saran bir depresyona dönüşebilir. Kendi sınırlarınızı ne kadar zorladığınızı fark etmek iyileşmenin ilk adımıdır. Psikoloji, tükenmişlik, depresyon, sinir sistemi, sınır koymak, mental yorgunluk, içsel denge.",
+  "processed_at": "2026-09-26 02:45:50"
+}

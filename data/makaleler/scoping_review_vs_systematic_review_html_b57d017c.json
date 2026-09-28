@@ -1,0 +1,151 @@
+{
+  "id": "scoping_review_vs_systematic_review_html_b57d017c",
+  "url": "https://www.simplypsychology.org/scoping-review-vs-systematic-review.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Scoping Review vs Systematic Review",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2024-08-01T14:11:50+00:00",
+  "date_modified": null,
+  "read_time_minutes": 9,
+  "word_count": 1738,
+  "summary": "Psychology»Research Methodology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Research Methodology\n\n- Systematic reviewsare designed to answer specific research questions with the goal of synthesizing evidence to inform clinical practice or policy decisions, such as determining the effectiveness of an intervention.\n\n- Scoping reviewsare valuable tools for exploring broader research landscapes, clarifying concepts, and identifying research gaps.\n\n- Difference in Research Questions\n\n- Difference in Synthesis of Findings\n\n- How to Choose the Best Review for your Research Topic\n\n- Key Differences",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Difference in Research Questions: Broad vs Narrow",
+      "content": "The most fundamental difference between the research questions in scoping and systematic reviews is their breadth.\n\n- Scoping reviews:These reviews explorebroadresearch questions to map the existing literature, identify key concepts, types of evidence, and research gaps. They’re exploratory in nature and aim to provide a broad overview of the field\n\n- Systematic reviews: These reviews addressnarrowand specific research questions, aiming to provide precise answers based on a thorough analysis of the available evidence. Their focus on specific interventions and outcomes allows for a detailed synthesis of findings to inform practice, policy, and further research.\n\nThis distinction in research question scope is evident in the sources’ explanations and examples:",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Scoping Review Question Examples:",
+      "content": "- “What is known about HIV and rehabilitation?” This question explores a broad concept (“rehabilitation”) in the context of a specific health condition (HIV).\n\n- “What is known from the existing literature about the effectiveness and cost-effectiveness of services to support carers of people with mental health problems?” This question seeks to understand the existing research landscape on a specific topic.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Systematic Review Question Examples:",
+      "content": "- “For women who have experienced domestic violence, how effective are advocacy programmes compared to other treatments on improving the quality of life?”\n\nScoping reviews, with their broad research questions, are beneficial when:\n\n- Determining the feasibility of a systematic review:By mapping the breadth of evidence, researchers can assess whether there’s sufficient literature to warrant a full systematic review.\n\n- Identifying research gaps:Scoping reviews can highlight areas where little or no research has been conducted, informing future research priorities.\n\n- Clarifying key concepts and definitions:In fields with inconsistent terminology, scoping reviews can map out how different concepts are used, potentially proposing a unified understanding.\n\nSystematic reviews are better suited for addressing well-defined clinical questions where the goal is to synthesize evidence to inform decision-making.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Difference in Synthesis of Findings: Descriptive vs Interpretative",
+      "content": "The key element of reviews is the synthesis: that is the process that brings together the findings from the set of included studies in order to draw conclusions based on the body of evidence.\n\nWhile both types of reviews involve collecting and summarizing data, systematic reviews aim to combine and analyze the results from different studies to answer the specific research question.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Scoping reviews",
+      "content": "Scoping reviews provide a descriptive account of the available research, identifying key concepts, themes, and gaps in the existing knowledge base.\n\nData synthesis in a scoping review involves collating, combining, and summarizing findings from the included studies.\n\nThis process aims to provide a reliable and comprehensive answer to the review question by considering the strength of the evidence, examining the consistency of observed effects, and investigating any inconsistencies.Scoping reviews organize the included studies into meaningful categories based on factors like research design, population characteristics, intervention types, outcome measures, or theoretical frameworks.\n\nThis categorization helps to make sense of a potentially large and diverse body of literature.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Systematic reviews",
+      "content": "Systematic reviews provide a narrative synthesis that goes beyond simply summarizing individual studies.\n\nBy integrating and interpreting the available evidence in a systematic and transparent way, you aim to create a new understanding.\n\nInterpreting results in context:\n\n- The strength of the evidence: Conclusions should be drawn based on the overall quality and certainty of the evidence, considering factors like risk of bias, inconsistency, and imprecision.\n\n- Potential biases:Systematic reviews explicitly address potential biases in the review process itself, such as limitations in the search strategy, study selection, or data extraction.\n\n- Consistency with other evidence: Findings are discussed in the context of existing knowledge, comparing and contrasting with other systematic reviews or relevant research17.\n\nDrawing conclusions and implications:The final step involves summarizing the key findings and their implications for practice, policy, and future research. The conclusions should directly answer the research question, highlighting the strength of the evidence and any remaining uncertainties.\n\nMeta-analysis:When appropriate, systematic reviews use statistical methods (meta-analysis) to combine the numerical results of similar studies, producing a pooled estimate of the intervention’s effect.\n\nThis quantitative synthesis allows for a more precise estimation of the effect size and helps address inconsistencies across individual studies.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "How to Choose the Best Review for your Research Topic",
+      "content": "TheCochrane Handbookstates that the primary factor in deciding between a systematic review and a scoping review is the authors’ intention:\n\nDo they aim to use the review’s results to answer a clinically meaningful question or to inform practice?\n\nA systematic review is recommended if the objective is to evaluate the feasibility, appropriateness, meaningfulness, or effectiveness of a treatment or practice.\n\nFor example, “Is treatment A more effective than treatment B for condition C in population D?”\n\nThe goal is to produce a comprehensive, unbiased summary of the available evidence that can be directly applied to clinical decision-making.\n\nSystematic reviews can address various aspects of healthcare beyond just effectiveness, including patient experiences and economic considerations.\n\nThey are often the foundation for developing evidence-based clinical practice guidelines.\n\nConversely, a scoping review is suitable when the focus is on identifying and discussing specific characteristics or concepts within the literature rather than generating direct clinical or policy recommendations.\n\nScoping reviews can be an excellent way for postgraduate students to gain a broad understanding of a field or to identify potential areas for more in-depth research.\n\nIf a research area has inconsistent terminology or definitions, a scoping review can map out how different concepts are used and potentially propose a unified understanding. This can help refine the focus and scope of a subsequent systematic review.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Key Differences:",
+      "content": "- Systematic reviews aim to answer a specific question and typically involve a more rigorous, comprehensive search and analysis of the literature, including a detailed quality assessment of included studies.\n\n- Scoping reviews aim to map the key concepts and types of evidence available on a topic. While they follow a systematic approach, they typically do not include the same level of critical appraisal as systematic reviews.\n\n- Scoping reviews often have broader, more exploratory objectives than the focused question(s) in systematic reviews.\n\n- Scoping reviews map the available evidence, while systematic reviews synthesize and evaluate the evidence.\n\n- Scoping reviews typically use narrative synthesis, while systematic reviews may include meta-analysis.\n\n- Scoping reviews often identify research gaps, while systematic reviews focus on informing practice and policy.\n\n- Unlike scoping reviews, systematic reviews aim to be exhaustive within their defined scope, capturing all relevant evidence on a particular question.\n\n- Critical appraisal of individual studies is optional in scoping reviews but essential in systematic reviews.\n\n- Scoping reviews can be used as a preliminary step to asystematic review, helping to identify the types of evidence available, potential research questions, and relevant inclusion criteria.\n\n- Due to their rigorous methodology, systematic reviews are generally more time-consuming, often taking 12-24 months to complete, while scoping reviews can usually be completed more rapidly, typically within 2-6 months.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "If the goal is to determine the effectiveness of an intervention:",
+      "content": "Systematic reviews evaluate the effectiveness of a particular intervention for a specific condition while scoping reviews map the research landscape by:\n\n- Examining the range of interventions for a health condition.\n\n- Identifying types of studies conducted.\n\n- Noting populations studied.\n\n- Summarizing outcomes measured.\n\nScoping reviews help identify areas needing further research, whereas systematic reviews aim to draw conclusions about intervention effectiveness.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Standardized Reporting Guidelines",
+      "content": "ThePRISMA(Preferred Reporting Items for Systematic Reviews and Meta-Analyses) checklist is tailored for reporting systematic reviews and meta-analyses.\n\nIt consists of 27 items covering aspects such as the rationale, objectives, eligibility criteria, search strategy, study selection process, data extraction methods, risk of bias assessment, data synthesis, and reporting of finding.\n\nPRISMA helps researchers communicate their methods and findings more effectively, ultimately improving the reliability and usefulness of systematic reviews for informing healthcare decisions.\n\nThePRISMA-ScR(Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews) checklist builds upon the PRISMA checklist but is specifically designed for reporting scoping reviews.\n\nIt includes additional items relevant to scoping reviews, such as charting methods, stakeholder consultation, and the presentation of a broader range of evidence sources beyond empirical studies.\n\nMcLeod, S. (2024). Scoping Review vs Systematic Review. Simply Psychology. https://www.simplypsychology.org/scoping-review-vs-systematic-review.html\n\nMcLeod, Saul. \"Scoping Review vs Systematic Review.\" Simply Psychology, 1 August 2024, https://www.simplypsychology.org/scoping-review-vs-systematic-review.html.\n\nMcLeod, S. (2024) Scoping Review vs Systematic Review. Simply Psychology. Available at: https://www.simplypsychology.org/scoping-review-vs-systematic-review.html (Accessed: 22 September 2026).",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "References:",
+      "content": "Arksey, H., & O’Malley, L. (2005). Scoping studies: towards a methodological framework. InternationalJournal of Social Research Methodology, 8(1), 19-32.\n\nCentre for Reviews and Dissemination (CRD). (2001).Undertaking systematic reviews of research on effectiveness: CRD’s guidance for those carrying out or commissioning reviews.York: University of York.\n\nHiggins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, Welch VA (editors).Cochrane Handbook for Systematic Reviews of Interventionsversion 6.4 (updated August 2023). Cochrane, 2023. Available from www.training.cochrane.org/handbook.\n\nLevac, D., Colquhoun, H., & O’Brien, K. K. (2010). Scoping studies: advancing the methodology.Implementation Science, 5(1), 69.\n\nMunn, Z., Pollock, D., Khalil, H., Alexander, L., Mclnerney, P., Godfrey, C. M., … & Tricco, A. C. (2022).What are scoping reviews? Providing a formal definition of scoping reviews as a type of evidence synthesis.JBI evidence synthesis,20(4), 950-952.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 12,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/scoping-vs-systematic-review.png",
+      "alt": "Scoping Review vs Systematic Review",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Validity-Reliability-300x217.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confirmability-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Qualitative-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Reflexivity-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-construction-reality-300x157.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/audit-trail-300x200.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Scoping Review vs Systematic Review\n\n> Psychology»Research Methodology\n\n## Giriş\n\nPsychology»Research Methodology\n\n- Systematic reviewsare designed to answer specific research questions with the goal of synthesizing evidence to inform clinical practice or policy decisions, such as determining the effectiveness of an intervention.\n\n- Scoping reviewsare valuable tools for exploring broader research landscapes, clarifying concepts, and identifying research gaps.\n\n- Difference in Research Questions\n\n- Difference in Synthesis of Findings\n\n- How to Choose the Best Review for your Research Topic\n\n- Key Differences\n\n## Difference in Research Questions: Broad vs Narrow\n\nThe most fundamental difference between the research questions in scoping and systematic reviews is their breadth.\n\n- Scoping reviews:These reviews explorebroadresearch questions to map the existing literature, identify key concepts, types of evidence, and research gaps. They’re exploratory in nature and aim to provide a broad overview of the field\n\n- Systematic reviews: These reviews addressnarrowand specific research questions, aiming to provide precise answers based on a thorough analysis of the available evidence. Their focus on specific interventions and outcomes allows for a detailed synthesis of findings to inform practice, policy, and further research.\n\nThis distinction in research question scope is evident in the sources’ explanations and examples:\n\n## Scoping Review Question Examples:\n\n- “What is known about HIV and rehabilitation?” This question explores a broad concept (“rehabilitation”) in the context of a specific health condition (HIV).\n\n- “What is known from the existing literature about the effectiveness and cost-effectiveness of services to support carers of people with mental health problems?” This question seeks to understand the existing research landscape on a specific topic.\n\n## Systematic Review Question Examples:\n\n- “For women who have experienced domestic violence, how effective are advocacy programmes compared to other treatments on improving the quality of life?”\n\nScoping reviews, with their broad research questions, are beneficial when:\n\n- Determining the feasibility of a systematic review:By mapping the breadth of evidence, researchers can assess whether there’s sufficient literature to warrant a full systematic review.\n\n- Identifying research gaps:Scoping reviews can highlight areas where little or no research has been conducted, informing future research priorities.\n\n- Clarifying key concepts and definitions:In fields with inconsistent terminology, scoping reviews can map out how different concepts are used, potentially proposing a unified understanding.\n\nSystematic reviews are better suited for addressing well-defined clinical questions where the goal is to synthesize evidence to inform decision-making.\n\n## Difference in Synthesis of Findings: Descriptive vs Interpretative\n\nThe key element of reviews is the synthesis: that is the process that brings together the findings from the set of included studies in order to draw conclusions based on the body of evidence.\n\nWhile both types of reviews involve collecting and summarizing data, systematic reviews aim to combine and analyze the results from different studies to answer the specific research question.\n\n## Scoping reviews\n\nScoping reviews provide a descriptive account of the available research, identifying key concepts, themes, and gaps in the existing knowledge base.\n\nData synthesis in a scoping review involves collating, combining, and summarizing findings from the included studies.\n\nThis process aims to provide a reliable and comprehensive answer to the review question by considering the strength of the evidence, examining the consistency of observed effects, and investigating any inconsistencies.Scoping reviews organize the included studies into meaningful categories based on factors like research design, population characteristics, intervention types, outcome measures, or theoretical frameworks.\n\nThis categorization helps to make sense of a potentially large and diverse body of literature.\n\n## Systematic reviews\n\nSystematic reviews provide a narrative synthesis that goes beyond simply summarizing individual studies.\n\nBy integrating and interpreting the available evidence in a systematic and transparent way, you aim to create a new understanding.\n\nInterpreting results in context:\n\n- The strength of the evidence: Conclusions should be drawn based on the overall quality and certainty of the evidence, considering factors like risk of bias, inconsistency, and imprecision.\n\n- Potential biases:Systematic reviews explicitly address potential biases in the review process itself, such as limitations in the search strategy, study selection, or data extraction.\n\n- Consistency with other evidence: Findings are discussed in the context of existing knowledge, comparing and contrasting with other systematic reviews or relevant research17.\n\nDrawing conclusions and implications:The final step involves summarizing the key findings and their implications for practice, policy, and future research. The conclusions should directly answer the research question, highlighting the strength of the evidence and any remaining uncertainties.\n\nMeta-analysis:When appropriate, systematic reviews use statistical methods (meta-analysis) to combine the numerical results of similar studies, producing a pooled estimate of the intervention’s effect.\n\nThis quantitative synthesis allows for a more precise estimation of the effect size and helps address inconsistencies across individual studies.\n\n## How to Choose the Best Review for your Research Topic\n\nTheCochrane Handbookstates that the primary factor in deciding between a systematic review and a scoping review is the authors’ intention:\n\nDo they aim to use the review’s results to answer a clinically meaningful question or to inform practice?\n\nA systematic review is recommended if the objective is to evaluate the feasibility, appropriateness, meaningfulness, or effectiveness of a treatment or practice.\n\nFor example, “Is treatment A more effective than treatment B for condition C in population D?”\n\nThe goal is to produce a comprehensive, unbiased summary of the available evidence that can be directly applied to clinical decision-making.\n\nSystematic reviews can address various aspects of healthcare beyond just effectiveness, including patient experiences and economic considerations.\n\nThey are often the foundation for developing evidence-based clinical practice guidelines.\n\nConversely, a scoping review is suitable when the focus is on identifying and discussing specific characteristics or concepts within the literature rather than generating direct clinical or policy recommendations.\n\nScoping reviews can be an excellent way for postgraduate students to gain a broad understanding of a field or to identify potential areas for more in-depth research.\n\nIf a research area has inconsistent terminology or definitions, a scoping review can map out how different concepts are used and potentially propose a unified understanding. This can help refine the focus and scope of a subsequent systematic review.\n\n## Key Differences:\n\n- Systematic reviews aim to answer a specific question and typically involve a more rigorous, comprehensive search and analysis of the literature, including a detailed quality assessment of included studies.\n\n- Scoping reviews aim to map the key concepts and types of evidence available on a topic. While they follow a systematic approach, they typically do not include the same level of critical appraisal as systematic reviews.\n\n- Scoping reviews often have broader, more exploratory objectives than the focused question(s) in systematic reviews.\n\n- Scoping reviews map the available evidence, while systematic reviews synthesize and evaluate the evidence.\n\n- Scoping reviews typically use narrative synthesis, while systematic reviews may include meta-analysis.\n\n- Scoping reviews often identify research gaps, while systematic reviews focus on informing practice and policy.\n\n- Unlike scoping reviews, systematic reviews aim to be exhaustive within their defined scope, capturing all relevant evidence on a particular question.\n\n- Critical appraisal of individual studies is optional in scoping reviews but essential in systematic reviews.\n\n- Scoping reviews can be used as a preliminary step to asystematic review, helping to identify the types of evidence available, potential research questions, and relevant inclusion criteria.\n\n- Due to their rigorous methodology, systematic reviews are generally more time-consuming, often taking 12-24 months to complete, while scoping reviews can usually be completed more rapidly, typically within 2-6 months.\n\n## If the goal is to determine the effectiveness of an intervention:\n\nSystematic reviews evaluate the effectiveness of a particular intervention for a specific condition while scoping reviews map the research landscape by:\n\n- Examining the range of interventions for a health condition.\n\n- Identifying types of studies conducted.\n\n- Noting populations studied.\n\n- Summarizing outcomes measured.\n\nScoping reviews help identify areas needing further research, whereas systematic reviews aim to draw conclusions about intervention effectiveness.\n\n## Standardized Reporting Guidelines\n\nThePRISMA(Preferred Reporting Items for Systematic Reviews and Meta-Analyses) checklist is tailored for reporting systematic reviews and meta-analyses.\n\nIt consists of 27 items covering aspects such as the rationale, objectives, eligibility criteria, search strategy, study selection process, data extraction methods, risk of bias assessment, data synthesis, and reporting of finding.\n\nPRISMA helps researchers communicate their methods and findings more effectively, ultimately improving the reliability and usefulness of systematic reviews for informing healthcare decisions.\n\nThePRISMA-ScR(Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews) checklist builds upon the PRISMA checklist but is specifically designed for reporting scoping reviews.\n\nIt includes additional items relevant to scoping reviews, such as charting methods, stakeholder consultation, and the presentation of a broader range of evidence sources beyond empirical studies.\n\nMcLeod, S. (2024). Scoping Review vs Systematic Review. Simply Psychology. https://www.simplypsychology.org/scoping-review-vs-systematic-review.html\n\nMcLeod, Saul. \"Scoping Review vs Systematic Review.\" Simply Psychology, 1 August 2024, https://www.simplypsychology.org/scoping-review-vs-systematic-review.html.\n\nMcLeod, S. (2024) Scoping Review vs Systematic Review. Simply Psychology. Available at: https://www.simplypsychology.org/scoping-review-vs-systematic-review.html (Accessed: 22 September 2026).\n\n## References:\n\nArksey, H., & O’Malley, L. (2005). Scoping studies: towards a methodological framework. InternationalJournal of Social Research Methodology, 8(1), 19-32.\n\nCentre for Reviews and Dissemination (CRD). (2001).Undertaking systematic reviews of research on effectiveness: CRD’s guidance for those carrying out or commissioning reviews.York: University of York.\n\nHiggins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, Welch VA (editors).Cochrane Handbook for Systematic Reviews of Interventionsversion 6.4 (updated August 2023). Cochrane, 2023. Available from www.training.cochrane.org/handbook.\n\nLevac, D., Colquhoun, H., & O’Brien, K. K. (2010). Scoping studies: advancing the methodology.Implementation Science, 5(1), 69.\n\nMunn, Z., Pollock, D., Khalil, H., Alexander, L., Mclnerney, P., Godfrey, C. M., … & Tricco, A. C. (2022).What are scoping reviews? Providing a formal definition of scoping reviews as a type of evidence synthesis.JBI evidence synthesis,20(4), 950-952.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:35:03.986142"
+}

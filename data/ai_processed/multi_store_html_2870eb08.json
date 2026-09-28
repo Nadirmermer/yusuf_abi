@@ -1,0 +1,157 @@
+{
+  "id": "multi_store_html_2870eb08",
+  "original_title": "Multi-Store Memory Model: Atkinson and Shiffrin",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/multi-store.html",
+  "published_date": "2026-09-17T11:35:34+00:00",
+  "read_time_minutes": 28,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model-.jpg",
+      "alt": "Multi-Store Memory Model: Atkinson and Shiffrin",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--1024x333.jpg",
+      "alt": "Multi Store Model",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/types-of-memory.jpg",
+      "alt": "Types of memory - sensory, short-term and long-term, vector outline diagram. Sensory information transferred and stored as memories. Cognitive science",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-memory-300x111.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Declarative-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/episodic-memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Procedural-Memory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/State-Dependent-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/serial-position-effect.jpg",
+      "alt": "serial position effect",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Working-Memory-1-1024x420.jpg",
+      "alt": "Working Memory 1",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Working-Memory2-1-1024x760.jpg",
+      "alt": "Working Memory2 1",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 5569,
+  "turkce_baslik": "Zihnimizin Depolama Yanılsaması: Hafıza Modelleri ve Bilgiyi Nasıl İşlediğimiz",
+  "kanca_sorusu": "Geçmişte yaşanan bir olayı bugünkü hislerinizle mi hatırlıyorsunuz, yoksa hafızanız size oyun mu oynuyor?",
+  "score": 45,
+  "puan_nedeni": "Metin, bilişsel psikolojinin klasik bellek modellerini (Atkinson-Shiffrin) ve laboratuvar deneylerini inceleyen saf akademik bir derlemedir. İlişkisel dinamikler, bağlanma stilleri veya kişisel sınır süreçleri barındırmadığı için @ya_da_psikoloji okuyucu kitlesinin güncel iç dünyasına doğrudan dokunmaz; bu nedenle katı puanlama kuralımız gereği düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni dış dünyadan gelen uyaranları algılarken lineer bir süreç izler. Atkinson ve Shiffrin'in çoklu bellek modeli; duyusal kayıt, kısa süreli bellek ve uzun süreli bellek olmak üzere bilgiyi üç farklı aşamada işlediğimizi öne sürer. Bilginin duyusal bellekten kısa süreli belleğe geçebilmesi için seçici dikkate ihtiyacı vardır. Sürekli tekrarlanan ve anlam yüklenen bilgiler ise nihayetinde uzun süreli belleğe aktarılır. Ancak bu mekanizma kusursuz değildir. Travmatik anılar, duygusal yoğunluk ve bilişsel çarpıtmalar hafızanın kayıt ve geri çağrılma süreçlerini doğrudan etkiler. Yaşadığımız olayları tarafsız birer video kaydı olarak saklamayız; onları o anki duygusal durumumuzun süzgecinden geçirerek yeniden inşa ederiz. Bu durum, özellikle yakın ilişkilerdeki anlaşmazlıklarda geçmişin bugünün lensiyle yeniden yazılmasına neden olur.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Hafıza Nasıl Çalışır?",
+      "body": "Zihnimiz dış dünyadan gelen bilgileri düzensiz bir şekilde değil, belirli aşamalardan geçirerek depolar.",
+      "highlight_box": "Bellek saf bir kayıt cihazı değil, yeniden yapılandırma sürecidir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Üç Aşamalı Zihinsel Süzgeç",
+      "body": "Bilgi önce duyusal belleğe düşer, dikkat edilirse kısa süreli belleğe geçer ve tekrar yoluyla uzun süreli belleğe taşınır.",
+      "highlight_box": "Dikkatinizi vermediğiniz hiçbir şey hafızada kalıcı olmaz.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Duyusal Bellek Sınırı",
+      "body": "Gördüklerimiz ve duyduklarımız milisaniyeler içinde kaybolur; eğer odaklanmazsak izleri anında silinir.",
+      "highlight_box": "Çoğu uyaran fark edilmeden zihnimizden uçup gider.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Kısa Süreli Bellek Kapasitesi",
+      "body": "Aynı anda zihnimizde tutabileceğimiz bilgi miktarı oldukça sınırlıdır ve hızla bozulmaya uğrar.",
+      "highlight_box": "Aşırı zihinsel yük, kısa süreli belleğin kapasitesini zorlar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Anlam Yükleme ve Kodlama",
+      "body": "Bilgilerin kalıcı olması için sadece tekrar etmek yetmez; ona işlevsel bir anlam kazandırmak gerekir.",
+      "highlight_box": "Geçmişi hatırlama biçimimiz, bugünkü duygusal durumumuzdan beslenir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Hafızanızın size sunduğu her anının mutlak gerçeklik olmadığını fark edin.",
+      "highlight_box": "Bu akademik bilgiyi daha sonra incelemek üzere kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden bazı anıları unutmazken, bazılarını hafızamızdan tamamen siliyoruz?",
+    "konusma_metni": "Zihnimiz dış dünyadan gelen her bilgiyi kaydetmez. Atkinson ve Shiffrin'in bellek modeline göre bilgi; duyusal kayıt, kısa süreli bellek ve uzun süreli bellek basamaklarından geçer. Ancak buradaki en kritik eşik dikkattir. Duygusal olarak yoğun hissettiğimiz olaylar uzun süreli bellekte kalıcı izler bırakırken, önemsiz detaylar saniyeler içinde kaybolur. Peki sizin zihniniz en çok hangi anıları saklamayı seçiyor?"
+  },
+  "caption": "Zihnimiz dış dünyadan gelen uyaranları nasıl işler ve neden bazı anıları saklayıp bazılarını unuturuz? Bilişsel psikolojinin temel taşlarından biri olan çoklu bellek modeli, bilginin duyusal kayıt aşamasından uzun süreli depolamaya kadar geçirdiği evreleri inceler. Ancak bu süreç tamamen mekanik değildir; bugünkü duygusal durumumuz, dikkat düzeyimiz ve bilişsel süzgeçlerimiz geçmişi hatırlama biçimimizi doğrudan dönüştürür. Hafızanın işleyiş mekanizmasını anlamak, zihinsel yükümüzü yönetebilmek adına önemli bir adımdır.\n\nBilişsel Psikoloji, Bellek Modelleri, Zihin Yönetimi, Nöropsikoloji, Duyusal Bellek, Bilgi İşleme Süreci",
+  "processed_at": "2026-09-26 02:43:00"
+}

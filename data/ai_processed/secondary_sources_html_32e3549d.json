@@ -1,0 +1,127 @@
+{
+  "id": "secondary_sources_html_32e3549d",
+  "original_title": "How do I cite an indirect source in APA Style? (“as cited in”)",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/secondary-sources.html",
+  "published_date": "2023-10-04T15:09:54+00:00",
+  "read_time_minutes": 3,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/apa-secondary-citation-1.jpg",
+      "alt": "How do I cite an indirect source in APA Style? (“as cited in”)",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/apa-references-page-formatting-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/citing-multiple-authors-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/apa-title-page-format-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/how-to-write-a-lab-report-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/how-to-synthesize-information-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/How-to-cite-a-YouTube-video-in-APA-format-1-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 609,
+  "turkce_baslik": "İkincil Bilginin Tehlikesi: Başkasının Süzgecinden Geçen Gerçekler",
+  "kanca_sorusu": "Bir bilginin aslını hiç okumadan, başkasının aktardığı kadarıyla benimsediğiniz ve hayatınızı buna göre şekillendirdiğiniz anların farkında mısınız?",
+  "score": 40,
+  "puan_nedeni": "Metin tamamen akademik bir referans verme kuralı (APA stilinde ikincil kaynak gösterme) üzerine kuruludur. İlişkisel dinamikler, bağlanma stilleri veya duygusal derinlik barındırmadığı, tamamen teknik bir makale yazım kuralı olduğu için platformumuzun kuralı gereği düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Akademik dünyada 'ikincil kaynak' kullanımı, birincil kaynağa ulaşamadığımız durumlarda başkasının filtreginden geçmiş bilgiyi kabul etmemizi ifade eder. Psikolojik olarak bu durum, günlük hayattaki kulaktan kulağa yayılan bilgilere veya başkalarının bizim hakkımızdaki varsayımlarını mutlak gerçek sanmamıza oldukça benzer. Aslında kaynağın kendisine, yani gerçeğin kökenine bakmak yerine, bize sunulan ara formüllere inanmayı tercih ederiz. Oysa her aktarım, aktaranın süzgecinden, önyargılarından ve niyetinden geçer. Bir bilginin ya da ilişkinin aslını araştırmadan, başkasının aktardığı kadarıyla hüküm vermek, zihinsel bir yanılsamadan ibarettir. Sağlıklı bir zihin yönetimi ve eleştirel düşünce, bilgiyi ya da yaşantıyı ikinci elden değil, doğrudan kaynağından teyit etmeyi gerektirir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "İkincil Bilginin Tuzakları",
+      "body": "Aslına ulaşamadığımız her bilgi, başkasının penceresinden gördüğümüz birer illüzyondur.",
+      "highlight_box": "Gerçeği mi biliyoruz, yoksa aktarılanı mı?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Kaynak Safsatası",
+      "body": "Akademik yazımda ikincil kaynaklar zorunlu olmadıkça kullanılmaz. Çünkü her aktarım bilgiye kendi rengini katar.",
+      "highlight_box": "Filtrelenmiş bilgi yanıltıcıdır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Doğrulamadan İnanmak",
+      "body": "Bir konunun kökenini araştırmadan, duyumlar üzerinden kesin yargılara varmak zihinsel bir kestirmedir.",
+      "highlight_box": "Kanıtsız kabuller kaygı yaratır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Kişisel İlişkilerdeki Yansıması",
+      "body": "Başkalarının sizin hakkınızdaki dedikodularını veya varsayımlarını gerçek kabul edip savunmaya geçmek.",
+      "highlight_box": "Asıl kaynağa sormak yerine varsaymak.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kökene Dönüş",
+      "body": "Hayatınızdaki belirsizliklerde ve krizlerde başkalarının ne söylediğini değil, gerçeğin bizzat kendisini arayın.",
+      "highlight_box": "Bilgiyi kaynağından teyit edin.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış Hatırlatması",
+      "body": "Kendi hayatınızın ana kaynağı olun. Başkalarının süzgecinden geçen cümlelerle yönünüzü çizmeyin.",
+      "highlight_box": "Derinlemesine düşünmek için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Bir bilginin aslını hiç incelemeden başkasının aktardığına inandığınızda ne olur?",
+    "konusma_metni": "Akademide buna ikincil kaynak kullanımı denir. Yani orijinal kaynağa ulaşamadığınızda başkasının sözünü referans alırsınız. Ancak günlük hayatta da tam olarak bunu yaparız. Birinin bizim hakkımızda ne söylediğini ya da bir olayın aslını araştırmadan başkasından duyduğumuzla hayatımıza yön veririz. Gerçeğin kaynağına inmek yerine filtrelenmiş bilgilere inanmak, kendi zihinsel sınırlarımızı başkalarına devretmektir."
+  },
+  "caption": "Akademik yazımda ikincil kaynak göstermek, orijinal çalışmaya ulaşamadığımız durumlarda başvurulan teknik bir zorunluluktur. Ancak bu durum, psikolojik olarak hayatımızdaki bilgi kirliliğini ve varsayımlarla yaşama eğilimimizi bize ayna tutar. Gerçeğin aslını araştırmadan, başkalarının süzgecinden geçen aktarımlarla zihnimizi doldurmak bizi yanılgılara sürükler. Hayatınızdaki olayların ve ilişkilerin kaynağına inmek, zihinsel berraklık sağlar. Bu konuyu eleştirel bir gözle değerlendirmek istiyorsanız gönderiyi kaydedebilirsiniz.\n\n#psikoloji #zihinyönetimi #eleştireldüşünce #bilinç #farkındalık #akademikpsikoloji #kişiselgelişimdegilgerçekler",
+  "processed_at": "2026-09-26 17:46:01"
+}

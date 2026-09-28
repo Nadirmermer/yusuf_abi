@@ -1,0 +1,133 @@
+{
+  "id": "social_loafing_html_23b9579c",
+  "original_title": "Social Loafing in Psychology: Definition, Examples & Theory",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/social-loafing.html",
+  "published_date": "2026-09-17T11:45:21+00:00",
+  "read_time_minutes": 16,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-loafing-1.jpg",
+      "alt": "Social Loafing in Psychology: Definition, Examples & Theory",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-cognitive-theory-300x145.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-identity-theory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/groupthink-300x285.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Deindividuation-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-impact-300x205.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hofstede-cultural-dimensions-300x144.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/riley-hoffman.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3274,
+  "turkce_baslik": "Görünmez Yük: Kalabalıkta Kaybolan Çabamız ve Psikolojik Arka Planı",
+  "kanca_sorusu": "Ortak yapılan bir işte her şeyi sizin sırtlandığınızı, başkalarının ise arkaya yaslandığını hissettiğiniz o sessiz tükenmişliği hatırlıyor musunuz?",
+  "score": 45,
+  "puan_nedeni": "Makale ağırlıklı olarak sosyal psikoloji, grup dinamikleri ve verimlilik üzerine laboratuvar deneyleri (Ringelmann ip çekme deneyi gibi) barındırdığı için, bireyin doğrudan içsel ilişkisel çatışmalarına ve derin duygusal dünyasına hitap etme oranı sınırlıdır. Bu nedenle akademik tabanlı bir konu olarak orta-düşük puan almıştır.",
+  "category": "Sınırlar & Özsaygı",
+  "editoryal_genis_metin": "İnsan doğası gereği enerjisini korumaya meyillidir ve bir sorumluluk ortak bir havuza aktarıldığında zihin sessizce bir hesap yapmaya başlar. Bireysel katkının kaybolduğu, kimin ne kadar çaba sarf ettiğinin takip edilmediği ortamlarda motivasyon düşer. Sosyal kaytarma olarak bilinen bu durum, sadece iş yerindeki projelerde değil; aile içinde, arkadaş gruplarında hatta ikili ilişkilerdeki ortak sorumluluklarda bile kendini gösterir. Biri yükü omuzlamaktan kaçındığında, diğeri bu boşluğu doldurmak zorunda kalır ve bu durum kaçınılmaz bir öfke, tükenmişlik ve adaletsizlik hissine yol açar. Kalabalığın anonimliği, bireye sorumluluktan kaçma alanı tanırken, ilişkilerde sınır çizemeyen ve her şeyi sırtlanan taraf için derin bir içsel yorgunluk yaratır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Kalabalıkta Kaybolan Çaba",
+      "body": "Ortak bir amaç uğruna bir araya gelindiğinde, herkesin eşit katkı sağlaması beklenen o anlar neden hep hayal kırıklığıyla biter?",
+      "highlight_box": "Görünmeyen emek her zaman en çok yoran eylemdir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Sosyal Kaytarma Nedir",
+      "body": "Bireysel katkılar takip edilmediğinde, insan zihni enerjisini korumak için çabasını otomatik olarak azaltır.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Sorumluluğu Başkasına Yıkmak",
+      "body": "Grup büyüdükçe bireyin omuzlarındaki sorumluluk hissi seyrekleşir. Başkalarının çaba göstereceğine dair kör bir inanç başlar.",
+      "highlight_box": "Nasıl olsa başkası yapar düşüncesi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Tükenen Sınırlar",
+      "body": "Başkalarının çaba göstermediği noktada boşluğu dolduran kişi, zamanla kronik bir öfke ve tükenmişlik hissiyle baş başa kalır.",
+      "highlight_box": "Her şeyi ben yapmak zorundayım hissi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Sınır Çizmek ve Rolleri Ayırmak",
+      "body": "Bu döngüyü kırmanın yolu, kimin ne yapacağının net olarak belirlenmesinden ve ortak alanlarda bireysel sorumluluğun talep edilmesinden geçer.",
+      "highlight_box": "Unutmayın: Bu bir süreçtir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Herkesin sorumluluğunu kendi taşıdığı sağlıklı bağlar kurmak, başkalarının yükünü taşımaktan vazgeçmekle başlar.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden her ortak işte bütün yükü tek başına sırtlayan hep aynı kişi oluyorsunuz?",
+    "konusma_metni": "Çünkü kalabalıklar sorumluluğu eritir. Ringelmann deneyinin de kanıtladığı gibi, insanlar bir grup içine girdiği an bilinçaltı olarak daha az çaba harcamaya başlar. Bireysel katkınız görünmediğinde zihniniz enerjiyi saklar. Ancak bu durum, sınır koyamayan hassas bireyler için sürekli bir tükenmişlik döngüsüne dönüşür. Ortak alanlarda her şeyi tek başına sırtlıyorsanız, sorun sadece iş yükü değil, görünmeyen emek adaletsizliğidir."
+  },
+  "caption": "Ortak yapılan işlerde, ilişkilerde ya da projelerde her şeyi tek başına sırtladığınızı hissettiğiniz o anlar tesadüf değildir. Bireysel katkının kaybolduğu yerlerde zihin enerjiyi saklama eğilimindedir. Sosyal kaytarma olarak bilinen bu olgu, sadece iş verimliliğini düşürmez; aynı zamanda ilişkilerde sınır koyamayan, her yükü omuzlayan bireylerin tükenmesine neden olur. Kalabalıkların arkasına saklanan sorumluluklar, en çok sessiz kalanları yorar.\n\n#sosyalpsikoloji #sınırlar #tükenmişlik #ilişkiler #özsaygı #birey",
+  "processed_at": "2026-09-26 17:01:30"
+}

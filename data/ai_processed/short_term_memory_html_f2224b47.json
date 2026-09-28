@@ -1,0 +1,127 @@
+{
+  "id": "short_term_memory_html_f2224b47",
+  "original_title": "Short-Term Memory In Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/short-term-memory.html",
+  "published_date": "2026-09-17T11:43:39+00:00",
+  "read_time_minutes": 17,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/short-term-memory-1.jpg",
+      "alt": "Short-Term Memory In Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--300x97.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-memory-300x111.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/episodic-memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Declarative-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/flashbulb-memories-300x171.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3383,
+  "turkce_baslik": "Zihinsel Kapasitenin Sınırları: Kısa Süreli Bellek ve Hatırlayamamanın Psikolojisi",
+  "kanca_sorusu": "Neden bazı anılar zihninizde saniyeler içinde buharlaşıp giderken, bazıları orada kalmaya devam eder?",
+  "score": 45,
+  "puan_nedeni": "Metin genel olarak bilişsel psikolojinin laboratuvar temelli hafıza modellerini, kapasite deneylerini ve nörolojik altyapıyı incelemektedir. İlişkisel dinamiklerden ve doğrudan duygusal örüntülerden uzak, saf akademik bir teori olduğu için katı kuralımız gereği düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Bilişsel psikoloji bize zihnimizin çalışma odasını anlatırken aslında dikkatimizin ne kadar kırılgan olduğunu gösterir. Kısa süreli bellek, tıpkı yoğun bir günde masamızın üzerinde biriken kağıtlar gibidir. Eğer o bilgiyi işlemez, tekrar etmez veya anlamlı bir bütün haline getirmezsek, zihnimiz o alanı açmak için eski bilgiyi hızla siler. Brown-Peterson tekniği bize dikkatin dağıldığı anda bilginin nasıl kaybolduğunu gösterir. Günlük hayatta sürekli bir şeyleri unuttuğumuzdan şikayet etmemizin temelinde, zihnimizin aynı anda maruz kaldığı aşırı uyaran yükü ve dikkatin sürekli bölünmesi yatar. Zihin hafızayı korumak için bir elek gibi çalışır; her şeyi tutmak imkansızdır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihnin Geçici Odası",
+      "body": "Kısa süreli bellek, bilgiyi yalnızca saniyeler boyunca aktif tutabilen kırılgan bir alandır.",
+      "highlight_box": "Bilgi tekrar edilmezse hızla kaybolur.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Sihirli Sayı ve Sınırlar",
+      "body": "Zihnimiz aynı anda ortalama yedi unsuru tutabilir; ancak dikkat dağıldığında bu sayı hızla düşer.",
+      "highlight_box": "Kapasite sınırlıdır, dikkat ise seçicidir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Tekrar Edilmeyen Bilgi Silinir",
+      "body": "Araştırmalar, araya başka uyaranlar girdiğinde bilginin saniyeler içinde unutulduğunu gösteriyor.",
+      "highlight_box": "Zihin, yeni alan açmak için eskiyi siler.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Bilgi Yüklemesi ve Unutkanlık",
+      "body": "Gün içinde maruz kaldığımız aşırı uyaranlar, kısa süreli belleğin kapasitesini tamamen doldurur.",
+      "highlight_box": "Unutkanlık bir zeka sorunu değil, yüklenme sorunudur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Zihinsel Yükü Hafifletmek",
+      "body": "Bilgileri anlamlı bütünler haline getirmek ve dikkati tek bir noktaya toplamak hafızayı güçlendirir.",
+      "highlight_box": "Zihninize aynı anda çok fazla rol vermeyin.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Zihinsel Alanı Korumak",
+      "body": "Unuttuğunuz her detay için kendinizi suçlamayın; zihniniz sadece hayatta kalmaya çalışıyor.",
+      "highlight_box": "Bu bilgiyi zihinsel sınırlarınızı hatırlamak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Söylenenleri aklınızda tutamayışınızın sebebi dikkatsizliğiniz değil, zihninizin kapasite sınırı.",
+    "konusma_metni": "Kısa süreli belleğimiz sadece birkaç unsuru aynı anda tutabilir ve eğer o bilgiyi tekrar etmezsek, beyin onu saniyeler içinde siler. Günlük hayatta sürekli bir şeyleri unutuyorsanız, sorun hafızanızda değil, zihninizin maruz kaldığı uyaran kalabalığındadır. Dikkatimiz dağıldığı an, bilgiler zihnimizden uçup gider."
+  },
+  "caption": "Kısa süreli bellek ve zihinsel kapasite üzerine bilişsel bir bakış.\n\nZihnimiz her bilgiyi saklamak zorunda değildir. Aksine, gereksiz detayları silmek onun en temel savunma mekanizmalarından biridir. Günlük hayatta yaşadığınız unutkanlıkların kökeninde genellikle kapasite aşımı ve bölünmüş dikkat yer alır.\n\nBu konuyu zihinsel yorgunluk yaşayan biriyle paylaşın ve daha fazlası için takipte kalın.\n\n#bilişselpsikoloji #hafıza #zihin #nöropsikoloji #dikkat #psikoloji",
+  "processed_at": "2026-09-26 16:59:37"
+}

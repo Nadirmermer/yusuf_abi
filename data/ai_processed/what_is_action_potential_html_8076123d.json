@@ -1,0 +1,139 @@
+{
+  "id": "what_is_action_potential_html_8076123d",
+  "original_title": "What Is Action Potential?",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/what-is-action-potential.html",
+  "published_date": "2026-09-17T14:56:19+00:00",
+  "read_time_minutes": 12,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/action-potential.jpg",
+      "alt": "What Is Action Potential?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Action-Membrane-Potential.jpeg",
+      "alt": "an infographic with diagram of neurons and descriptions of how action potential works on the neurons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/electrical-synapse-1-300x251.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/excitatory-vs-inhibitory-neurotransmitters-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitter-formulas-300x152.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-motor-relay-neurons-300x253.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/basal-ganglia-1-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/nerve-impulse.jpg",
+      "alt": "Passage,Of,The,Nerve,Impulse,Through,The,Axon,Infographic,Diagram",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2372,
+  "turkce_baslik": "Aksiyon Potansiyeli ve Sinirsel İletimin Biyolojik Gerçekliği",
+  "kanca_sorusu": "Sinir sisteminiz bir uyarıyı tetiklediğinde, içerideki bu elektrik akımı hayatınızı nasıl yönetiyor?",
+  "score": 40,
+  "puan_nedeni": "Metin tamamen biyofiziksel ve nörolojik mekanizmaları (sodyum-potasyum pompası, aksiyon potansiyeli, milivolt değerleri) inceleyen akademik bir biyopsikoloji konusudur. İlişkisel dinamikler, bağlanma stilleri veya duygusal örüntüler barındırmadığı için hedef kitlemizin günlük iç dünyasına doğrudan hitap etmemektedir.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Aksiyon potansiyeli, nöronlar boyunca seyahat eden elektriksel bir sinir uyarısıdır ve sinir sistemimizin bilgiyi işleme iletim mekanizmasının temelini oluşturur. Hep ya da hiç prensibiyle çalışan bu süreç, tıpkı bir silahın tetiğini çekmek gibidir; eşik değerine ulaşıldığında sinyal ya tamamen ateşlenir ya da hiç ateşlenmez. Nöronal iletişimden kas kontrolüne, duyusal algılardan reflekslere kadar bedenimizin dış dünya ile kurduğu her temas bu elektriksel potansiyel üzerine kuruludur. Biyolojik düzeyde gerçekleşen bu mekanizma, aslında insan zihninin karmaşık tepkilerinin moleküler altyapısını gözler önüne serer.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Aksiyon Potansiyeli Nedir?",
+      "body": "Sinir hücreleri arasında akan elektriksel mesajların temel çalışma prensibi.",
+      "highlight_box": "Hep ya da hiç kuralı",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Eşik Değeri ve Tetiklenme",
+      "body": "Nöron yeterli uyarıyı aldığında membran potansiyeli kritik bir eşik olan eksi elli beş milivolta ulaşır.",
+      "highlight_box": "Kritik voltaj eşiği",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Depolarizasyon Evresi",
+      "body": "Pozitif sodyum iyonlarının hücre içine hızla akın etmesiyle hücre içi pozitif bir yüke kavuşur.",
+      "highlight_box": "Sodyum girişinin hızı",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Sinirsel İletimin Önemi",
+      "body": "Bu elektriksel akımlar kas kontrolünü, duyusal algıları ve hayatta kalmayı sağlayan refleksleri doğrudan yönetir.",
+      "highlight_box": "Beden koordinasyonu",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Biyolojik Denge",
+      "body": "Hücre ateşlendikten sonra potasyum iyonlarının dışarı çıkmasıyla yeniden dinlenme potansiyeline geri döner.",
+      "highlight_box": "Repolarizasyon süreci",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Nörolojik Temel",
+      "body": "Düşünce, duygu ve hareketlerimizin arkasında bu karmaşık biyofiziksel iletim yer alır.",
+      "highlight_box": "Bilimsel farkındalık için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Beyninizdeki sinyallerin nasıl çalıştığını hiç merak ettiniz mi?",
+    "konusma_metni": "Sinir sistemimiz, sürekli bir elektrik akımı ve kimyasal alışveriş üzerindedir. Aksiyon potansiyeli dediğimiz bu süreç, nöronların bir uyarıyı alıp iletmesini sağlayan hep ya da hiç kuralıyla çalışan bir mekanizmadır. Eşik değer aşıldığında sinyal tam güçle ilerler ve kaslarımızdan düşüncelerimize kadar her şeyi tetikler."
+  },
+  "caption": "Sinir sistemimizin temel taşı olan aksiyon potansiyeli, nöronlar arası iletişimin moleküler dilini oluşturur. Hep ya da hiç prensibiyle çalışan bu elektriksel akım, düşüncelerimizden kas hareketlerimize kadar bedenimizin her anını koordine eder. Biyolojik altyapımızı anlamak, zihnimizin mekanizmasını kavramanın ilk adımıdır.\n\nBiyopsikoloji, Nörobilim, SinirSistemi, Nöron, BeyinFonksiyonları, BilimselPsikoloji, BiyolojikTemeller",
+  "processed_at": "2026-09-26 16:57:17"
+}

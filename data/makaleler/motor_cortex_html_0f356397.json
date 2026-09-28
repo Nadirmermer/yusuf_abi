@@ -1,0 +1,202 @@
+{
+  "id": "motor_cortex_html_0f356397",
+  "url": "https://www.simplypsychology.org/motor-cortex.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Motor Cortex: Function and Location",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2026-09-17T11:35:30+00:00",
+  "date_modified": null,
+  "read_time_minutes": 11,
+  "word_count": 2190,
+  "summary": "Psychology»Biopsychology",
+  "topics": [],
+  "key_points": [
+    "The Map Represents Movements, Not Muscles",
+    "The Map Is Fractured, Overlapping and Plastic"
+  ],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Biopsychology\n\nThe motor cortex is an area in thefrontal lobethat plans and executes voluntary movements by working with other brain areas and the spinal cord.\n\nIt can be divided into two main regions:the primary motor cortex, which initiates movements, and thenonprimary motor cortex, which handles movement planning and selection.\n\nEach hemisphere controls muscles on the opposite side of the body.\n\n- Key Functions\n\n- Motor Homunculus\n\n- Critical Evaluation\n\n- Effects of Damage",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Where Is the Motor Cortex Located?",
+      "content": "The motor cortex sits in thefrontal lobeof your brain, just in front of a groove called thecentralsulcus.\n\nIt includes two main areas:\n\n- Primary motor cortex (M1):Located in the precentral gyrus, this area sends movement commands directly to your muscles.\n\n- Nonprimary motor cortex:Located just in front of M1, this region helps with planning and preparing movements before they happen.\n\nEach side of the motor cortex controls the opposite side of your body. So, the left hemisphere controls the right side of your body, and vice versa.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Key Functions of the Motor Cortex",
+      "content": "The motor cortex does much more than just send movement signals. It’s involved in:\n\n- Starting and controlling voluntary movement\n\n- Planning movement sequences(like dancing or typing)\n\n- Coordinating different muscle groups\n\n- Using sensory feedbackto fine-tune motion\n\n- Learning and refining motor skillsthrough practice",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Primary Motor Cortex Functions",
+      "content": "Theprimary motor cortexis like the brain’s command center for movement. It uses specialnerve cellscalledpyramidal neuronsto send instructions from the brain to the muscles.\n\nThese instructions travel along two major pathways:\n\n- Corticospinal tract:Sends signals to your spinal cord to move your body.\n\n- Corticobulbar tract:Sends signals to yourbrainstemto control facial, jaw, and tongue movements.\n\nThis part of the brain doesn’t control single muscles in isolation. Instead, it coordinates complex motions involving multiple muscles at once. A landmark study explains how the primary motor cortex achieves this precision.\n\n- Aim:To determine how primary motor cortex neurons represent the direction of an arm movement.\n\n- Method:Georgopoulos et al. (1986) trained monkeys to move a handle toward targets in different directions while recording the firing of individual M1 neurons.\n\n- Results:Single neurons were only broadly tuned to one preferred direction. Yet the combined activity of the whole population pointed accurately toward the actual movement direction.\n\n- Conclusion:M1 encodes movement throughpopulation coding, the combined activity of many broadly tuned cells, rather than single cells commanding single muscles.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Nonprimary Motor Cortex",
+      "content": "Thenonprimary motor cortexincludes two key regions. Thepremotor cortexselects and prepares movements guided by what you see or sense. Thesupplementary motor area (SMA)plans movement sequences you generate from within, such as a well-rehearsed skill.\n\nThis area helps you choose the right movement for a situation, especially in response to what you see.\n\nIt works with thecerebellumto plan motions and is home tomirror neurons, which fire both when you do something and when you watch someone else do it. This helps you learn by observing others.\n\nThe SMA handles more complex actions, like learning a new instrument or adjusting your movement in real time.\n\nIt plays a big role in coordinating sequences of movements and adjusting based on sensory feedback.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Motor Homunculus",
+      "content": "Inside your motor cortex is a map of your body, known as themotor homunculus. It shows how different areas of the cortex control different body parts.\n\n- Body parts with fine motor control—like the hands, lips, and face—take up more space on this map.\n\n- Larger body partsthat need less precision—like the trunk or thighs—take up less space.\n\nThis explains why you can do delicate tasks with your fingers but not with your knees.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Mapping the Homunculus: Penfield and Boldrey (1937)",
+      "content": "The homunculus was first mapped by neurosurgeon Wilder Penfield and his colleague Edwin Boldrey, using direct electrical stimulation of the exposed human cortex.\n\n- Aim:To chart which parts of the cortex control which parts of the body by stimulating the exposed cortical surface during surgery.\n\n- Method:During awake brain surgery for epilepsy, Penfield applied a small electrical current to points across the cortex and recorded which body part moved at each site.\n\n- Results:Stimulating the precentral gyrus produced movement on the opposite side of the body, in an orderly sequence from leg to face. The hands, lips and face took up far more cortex than their size would suggest.\n\n- Conclusion:The primary motor cortex holds a somatotopic, contralateral map of the body, with cortical space allocated by how much fine control a body part needs rather than its physical size.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Motor Vs. Sensory Homunculus",
+      "content": "The motor homunculus is not to be confused withsensory homunculus, which is a sensory representation in thesomatosensory cortexin the postcentral gyrus.\n\nThis homunculus represents how body parts feel, whereas the motor homunculus represents how body parts move.\n\nThe sensory and motor maps differ slightly. Some regions are more sensitive to sensation than movement. The head is one example, so it takes up different amounts of space on each map.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Critical Evaluation of the Motor Homunculus",
+      "content": "The homunculus is a useful teaching picture, but modern research shows it oversimplifies what the motor cortex actually does.\n\nThree findings matter most. The map represents whole movements rather than single muscles, and its borders are messier than the textbook drawing suggests. The strip itself may not even be one continuous body map.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "The Map Represents Movements, Not Muscles",
+      "content": "The classic homunculus suggests that each patch of cortex controls one muscle. A landmark stimulation study shows this picture is wrong.\n\n- Aim:To find out what the motor cortex represents when stimulated on a realistic movement timescale rather than with brief pulses.\n\n- Method:Graziano, Taylor and Moore (2002) applied longer, 500-millisecond bursts of stimulation, matching the length of a real reach or grasp, to the motor and premotor cortex of monkeys.\n\n- Results:Long stimulation drove the limb into a whole, meaningful posture rather than a single-muscle twitch. One site made the hand grip and move to the mouth, whatever position the arm started from.\n\n- Conclusion:The motor cortex encodes useful actions and postures, not a simple map of individual muscles, which fits how population coding shapes movement direction.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "The Map Is Fractured, Overlapping and Plastic",
+      "content": "High-resolution mapping shows the territory for one body part, such as the fingers, is not a single tidy zone. It is broken into several intermingled patches, and neighbouring body parts overlap rather than meeting at clean borders. The exact layout also differs from person to person.\n\nThe borders keep shifting.\n\nThe map changes with practice, too. Practising a skill can enlarge the cortical territory devoted to the body part involved. After an injury, neighbouring representations can expand into the deprived zone. A map that reorganizes with experience is not the fixed wiring the homunculus implies.\n\nNothing about this map is fixed.\n\nNo single area works alone. Assigning voluntary movement to “the motor cortex” by itself risks oversimplifying the picture. Movement depends on loops linking the motor cortex with the basal ganglia, cerebellum, thalamus and spinal cord. Each part plays its own role.\n\nThe effect of damage therefore depends on which part of this wider system is affected. The motor cortex is best understood as the output stage of a distributed system, not a stand-alone movement centre.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Contemporary Research",
+      "content": "The most direct challenge to the homunculus comes from high-precision brain imaging, which asked whether the primary motor strip is really one unbroken body map.\n\n- Aim:To test, with precision functional MRI, whether the primary motor cortex forms a single continuous foot-to-face map or is interrupted by other kinds of regions.\n\n- Method:Gordon and colleagues (2023) scanned individuals with very large amounts of imaging data each, mapping the fine structure of the precentral gyrus across a battery of motor tasks. They checked the pattern against monkey and infant brain data too.\n\n- Results:Between the zones for foot, hand and mouth sat three extra “inter-effector” regions with thinner cortex and their own connections. These regions did not control fine movement; instead, they activated during whole-body actions and were strongly linked to a network involved in arousal, pain and the body’s internal state.\n\n- Conclusion:The primary motor strip holds two interwoven systems. Effector-specific zones isolate fine control of the foot, hand and mouth, while a distributed somato-cognitive action network integrates goals, arousal and whole-body movement. The century-old homunculus is best read as a mosaic, not one unbroken map.\n\nTogether, these findings do not throw out the homunculus. They show the motor cortex is richer and more interconnected than the classic muscle-map picture. Somatotopy, cortical magnification of the hands and face, and contralateral control remain solid starting facts.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "What Happens When the Motor Cortex Is Damaged?",
+      "content": "Damage to the motor cortex, often from a stroke or brain injury, can cause a range of motor problems, depending on the area and severity.",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "Common Symptoms:",
+      "content": "- Weakness on the opposite side of the body:because the motor pathway crosses over in the brainstem, damage on one side of the brain weakens the other side of the body.\n\n- Poor coordination and motor control:movements can become clumsy when the cortex can no longer organize muscles into a smooth sequence.\n\n- Trouble with fine motor tasks:skills that need the most cortical territory, like buttoning a shirt, are often hit hardest.\n\n- Muscle stiffness or spasticity:tone often increases once the initial injury has settled, a classic sign of damage above the spinal cord.\n\n- Overactive reflexes (hyperreflexia):reflexes below the damaged area can become exaggerated as normal inhibition from the cortex is lost.\n\n- Fatigue or decreased movement endurance:everyday movement takes more effort, so people tire more quickly than before the injury.",
+      "order": 14,
+      "items": []
+    },
+    {
+      "heading": "Can the Brain Recover?",
+      "content": "Yes, thanks to a powerful ability calledneuroplasticity, your brain can sometimes reorganize and assign motor functions to other areas.\n\nWith the right physical or occupational therapy, many people regain movement skills over time through repeated practice and retraining.\n\n- Aim:To test whether rehabilitative training changes how the cortex reorganizes after a small motor-cortex stroke.\n\n- Method:Nudo and colleagues (1996) gave squirrel monkeys a small experimental stroke in part of the hand area of the motor cortex. Some monkeys then received intensive retraining in skilled hand use.\n\n- Results:Without retraining, the surrounding cortex lost further hand territory. With retraining, this loss was prevented, and the hand map sometimes expanded alongside recovery of skilled hand movement.\n\n- Conclusion:Rehabilitative training actively shapes how the brain reorganizes after motor-cortex damage, giving a neural basis for intensive, task-specific physiotherapy.\n\nGuy-Evans, O. (2026). Motor Cortex: Function and Location. Simply Psychology. https://www.simplypsychology.org/motor-cortex.html\n\nGuy-Evans, Olivia. \"Motor Cortex: Function and Location.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/motor-cortex.html.\n\nGuy-Evans, O. (2026) Motor Cortex: Function and Location. Simply Psychology. Available at: https://www.simplypsychology.org/motor-cortex.html (Accessed: 22 September 2026).",
+      "order": 15,
+      "items": []
+    },
+    {
+      "heading": "References",
+      "content": "Georgopoulos, A. P., Schwartz, A. B., & Kettner, R. E. (1986). Neuronal population coding of movement direction.Science, 233(4771), 1416–1419. https://doi.org/10.1126/science.3749885\n\nGordon, E. M., Chauvin, R. J., Van, A. N., Rajesh, A., Nielsen, A., Newbold, D. J., … Dosenbach, N. U. F. (2023). A somato-cognitive action network alternates with effector regions in motor cortex.Nature, 617(7960), 351–359. https://doi.org/10.1038/s41586-023-05964-2\n\nGraziano, M. S. A., Taylor, C. S. R., & Moore, T. (2002). Complex movements evoked by microstimulation of precentral cortex.Neuron, 34(5), 841–851. https://doi.org/10.1016/S0896-6273(02)00698-0\n\nNudo, R. J., Wise, B. M., SiFuentes, F., & Milliken, G. W. (1996). Neural substrates for the effects of rehabilitative training on motor recovery after ischemic infarct.Science, 272(5269), 1791–1794. https://doi.org/10.1126/science.272.5269.1791\n\nPenfield, W., & Boldrey, E. (1937). Somatic motor and sensory representation in the cerebral cortex of man as studied by electrical stimulation.Brain, 60(4), 389–443.\n\nPurves, D., Augustine, G., Fitzpatrick, D., Katz, L., LaMantia, A., McNamara, J., & Williams, S. (2001). Neuroscience 2nd edition. Sunderland (ma) sinauer associates. Types of Eye Movements and Their Functions.\n\nNeuroscientifically Challenged (2015, October 23). Know Your Brain: Motor Cortex. https://www.neuroscientificallychallenged.com/blog/know-your-brain-motor-cortex\n\nKnierim, J. (2020, October 20). Chapter 3: Motor Cortex. Neuroscience Online. https://nba.uth.tmc.edu/neuroscience/m/s3/chapter03.html\n\nFlint Rehab (2020, November 19). Primary Motor Cortex Damage: Definition, Symptoms, and Treatment. https://www.flintrehab.com/primary-motor-cortex-damage/\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.",
+      "order": 16,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Motor-Cortex.jpg",
+      "alt": "Motor Cortex: Function and Location",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Motor-Cortex-1024x594.jpg",
+      "alt": "Motor Cortex",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/motor-cortex-functions.jpg",
+      "alt": "An infographic titled Motor Cortex Functions with a list of some of the basic functions and an image of the brain with the motor cortex labelled",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brodmanns-areas-300x169.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/basal-ganglia-1-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Broca_Wernicke-300x185.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotions-brain-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/premotor-and-supplementary-motor-cortex.jpg",
+      "alt": "premotor and supplementary motor",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Motor-Homunculus.jpg",
+      "alt": "Motor Homunculus",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Motor Cortex: Function and Location\n\n> Psychology»Biopsychology\n\n### Önemli Noktalar / Metotlar\n- The Map Represents Movements, Not Muscles\n- The Map Is Fractured, Overlapping and Plastic\n\n## Giriş\n\nPsychology»Biopsychology\n\nThe motor cortex is an area in thefrontal lobethat plans and executes voluntary movements by working with other brain areas and the spinal cord.\n\nIt can be divided into two main regions:the primary motor cortex, which initiates movements, and thenonprimary motor cortex, which handles movement planning and selection.\n\nEach hemisphere controls muscles on the opposite side of the body.\n\n- Key Functions\n\n- Motor Homunculus\n\n- Critical Evaluation\n\n- Effects of Damage\n\n## Where Is the Motor Cortex Located?\n\nThe motor cortex sits in thefrontal lobeof your brain, just in front of a groove called thecentralsulcus.\n\nIt includes two main areas:\n\n- Primary motor cortex (M1):Located in the precentral gyrus, this area sends movement commands directly to your muscles.\n\n- Nonprimary motor cortex:Located just in front of M1, this region helps with planning and preparing movements before they happen.\n\nEach side of the motor cortex controls the opposite side of your body. So, the left hemisphere controls the right side of your body, and vice versa.\n\n## Key Functions of the Motor Cortex\n\nThe motor cortex does much more than just send movement signals. It’s involved in:\n\n- Starting and controlling voluntary movement\n\n- Planning movement sequences(like dancing or typing)\n\n- Coordinating different muscle groups\n\n- Using sensory feedbackto fine-tune motion\n\n- Learning and refining motor skillsthrough practice\n\n## Primary Motor Cortex Functions\n\nTheprimary motor cortexis like the brain’s command center for movement. It uses specialnerve cellscalledpyramidal neuronsto send instructions from the brain to the muscles.\n\nThese instructions travel along two major pathways:\n\n- Corticospinal tract:Sends signals to your spinal cord to move your body.\n\n- Corticobulbar tract:Sends signals to yourbrainstemto control facial, jaw, and tongue movements.\n\nThis part of the brain doesn’t control single muscles in isolation. Instead, it coordinates complex motions involving multiple muscles at once. A landmark study explains how the primary motor cortex achieves this precision.\n\n- Aim:To determine how primary motor cortex neurons represent the direction of an arm movement.\n\n- Method:Georgopoulos et al. (1986) trained monkeys to move a handle toward targets in different directions while recording the firing of individual M1 neurons.\n\n- Results:Single neurons were only broadly tuned to one preferred direction. Yet the combined activity of the whole population pointed accurately toward the actual movement direction.\n\n- Conclusion:M1 encodes movement throughpopulation coding, the combined activity of many broadly tuned cells, rather than single cells commanding single muscles.\n\n## Nonprimary Motor Cortex\n\nThenonprimary motor cortexincludes two key regions. Thepremotor cortexselects and prepares movements guided by what you see or sense. Thesupplementary motor area (SMA)plans movement sequences you generate from within, such as a well-rehearsed skill.\n\nThis area helps you choose the right movement for a situation, especially in response to what you see.\n\nIt works with thecerebellumto plan motions and is home tomirror neurons, which fire both when you do something and when you watch someone else do it. This helps you learn by observing others.\n\nThe SMA handles more complex actions, like learning a new instrument or adjusting your movement in real time.\n\nIt plays a big role in coordinating sequences of movements and adjusting based on sensory feedback.\n\n## Motor Homunculus\n\nInside your motor cortex is a map of your body, known as themotor homunculus. It shows how different areas of the cortex control different body parts.\n\n- Body parts with fine motor control—like the hands, lips, and face—take up more space on this map.\n\n- Larger body partsthat need less precision—like the trunk or thighs—take up less space.\n\nThis explains why you can do delicate tasks with your fingers but not with your knees.\n\n## Mapping the Homunculus: Penfield and Boldrey (1937)\n\nThe homunculus was first mapped by neurosurgeon Wilder Penfield and his colleague Edwin Boldrey, using direct electrical stimulation of the exposed human cortex.\n\n- Aim:To chart which parts of the cortex control which parts of the body by stimulating the exposed cortical surface during surgery.\n\n- Method:During awake brain surgery for epilepsy, Penfield applied a small electrical current to points across the cortex and recorded which body part moved at each site.\n\n- Results:Stimulating the precentral gyrus produced movement on the opposite side of the body, in an orderly sequence from leg to face. The hands, lips and face took up far more cortex than their size would suggest.\n\n- Conclusion:The primary motor cortex holds a somatotopic, contralateral map of the body, with cortical space allocated by how much fine control a body part needs rather than its physical size.\n\n## Motor Vs. Sensory Homunculus\n\nThe motor homunculus is not to be confused withsensory homunculus, which is a sensory representation in thesomatosensory cortexin the postcentral gyrus.\n\nThis homunculus represents how body parts feel, whereas the motor homunculus represents how body parts move.\n\nThe sensory and motor maps differ slightly. Some regions are more sensitive to sensation than movement. The head is one example, so it takes up different amounts of space on each map.\n\n## Critical Evaluation of the Motor Homunculus\n\nThe homunculus is a useful teaching picture, but modern research shows it oversimplifies what the motor cortex actually does.\n\nThree findings matter most. The map represents whole movements rather than single muscles, and its borders are messier than the textbook drawing suggests. The strip itself may not even be one continuous body map.\n\n## The Map Represents Movements, Not Muscles\n\nThe classic homunculus suggests that each patch of cortex controls one muscle. A landmark stimulation study shows this picture is wrong.\n\n- Aim:To find out what the motor cortex represents when stimulated on a realistic movement timescale rather than with brief pulses.\n\n- Method:Graziano, Taylor and Moore (2002) applied longer, 500-millisecond bursts of stimulation, matching the length of a real reach or grasp, to the motor and premotor cortex of monkeys.\n\n- Results:Long stimulation drove the limb into a whole, meaningful posture rather than a single-muscle twitch. One site made the hand grip and move to the mouth, whatever position the arm started from.\n\n- Conclusion:The motor cortex encodes useful actions and postures, not a simple map of individual muscles, which fits how population coding shapes movement direction.\n\n## The Map Is Fractured, Overlapping and Plastic\n\nHigh-resolution mapping shows the territory for one body part, such as the fingers, is not a single tidy zone. It is broken into several intermingled patches, and neighbouring body parts overlap rather than meeting at clean borders. The exact layout also differs from person to person.\n\nThe borders keep shifting.\n\nThe map changes with practice, too. Practising a skill can enlarge the cortical territory devoted to the body part involved. After an injury, neighbouring representations can expand into the deprived zone. A map that reorganizes with experience is not the fixed wiring the homunculus implies.\n\nNothing about this map is fixed.\n\nNo single area works alone. Assigning voluntary movement to “the motor cortex” by itself risks oversimplifying the picture. Movement depends on loops linking the motor cortex with the basal ganglia, cerebellum, thalamus and spinal cord. Each part plays its own role.\n\nThe effect of damage therefore depends on which part of this wider system is affected. The motor cortex is best understood as the output stage of a distributed system, not a stand-alone movement centre.\n\n## Contemporary Research\n\nThe most direct challenge to the homunculus comes from high-precision brain imaging, which asked whether the primary motor strip is really one unbroken body map.\n\n- Aim:To test, with precision functional MRI, whether the primary motor cortex forms a single continuous foot-to-face map or is interrupted by other kinds of regions.\n\n- Method:Gordon and colleagues (2023) scanned individuals with very large amounts of imaging data each, mapping the fine structure of the precentral gyrus across a battery of motor tasks. They checked the pattern against monkey and infant brain data too.\n\n- Results:Between the zones for foot, hand and mouth sat three extra “inter-effector” regions with thinner cortex and their own connections. These regions did not control fine movement; instead, they activated during whole-body actions and were strongly linked to a network involved in arousal, pain and the body’s internal state.\n\n- Conclusion:The primary motor strip holds two interwoven systems. Effector-specific zones isolate fine control of the foot, hand and mouth, while a distributed somato-cognitive action network integrates goals, arousal and whole-body movement. The century-old homunculus is best read as a mosaic, not one unbroken map.\n\nTogether, these findings do not throw out the homunculus. They show the motor cortex is richer and more interconnected than the classic muscle-map picture. Somatotopy, cortical magnification of the hands and face, and contralateral control remain solid starting facts.\n\n## What Happens When the Motor Cortex Is Damaged?\n\nDamage to the motor cortex, often from a stroke or brain injury, can cause a range of motor problems, depending on the area and severity.\n\n## Common Symptoms:\n\n- Weakness on the opposite side of the body:because the motor pathway crosses over in the brainstem, damage on one side of the brain weakens the other side of the body.\n\n- Poor coordination and motor control:movements can become clumsy when the cortex can no longer organize muscles into a smooth sequence.\n\n- Trouble with fine motor tasks:skills that need the most cortical territory, like buttoning a shirt, are often hit hardest.\n\n- Muscle stiffness or spasticity:tone often increases once the initial injury has settled, a classic sign of damage above the spinal cord.\n\n- Overactive reflexes (hyperreflexia):reflexes below the damaged area can become exaggerated as normal inhibition from the cortex is lost.\n\n- Fatigue or decreased movement endurance:everyday movement takes more effort, so people tire more quickly than before the injury.\n\n## Can the Brain Recover?\n\nYes, thanks to a powerful ability calledneuroplasticity, your brain can sometimes reorganize and assign motor functions to other areas.\n\nWith the right physical or occupational therapy, many people regain movement skills over time through repeated practice and retraining.\n\n- Aim:To test whether rehabilitative training changes how the cortex reorganizes after a small motor-cortex stroke.\n\n- Method:Nudo and colleagues (1996) gave squirrel monkeys a small experimental stroke in part of the hand area of the motor cortex. Some monkeys then received intensive retraining in skilled hand use.\n\n- Results:Without retraining, the surrounding cortex lost further hand territory. With retraining, this loss was prevented, and the hand map sometimes expanded alongside recovery of skilled hand movement.\n\n- Conclusion:Rehabilitative training actively shapes how the brain reorganizes after motor-cortex damage, giving a neural basis for intensive, task-specific physiotherapy.\n\nGuy-Evans, O. (2026). Motor Cortex: Function and Location. Simply Psychology. https://www.simplypsychology.org/motor-cortex.html\n\nGuy-Evans, Olivia. \"Motor Cortex: Function and Location.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/motor-cortex.html.\n\nGuy-Evans, O. (2026) Motor Cortex: Function and Location. Simply Psychology. Available at: https://www.simplypsychology.org/motor-cortex.html (Accessed: 22 September 2026).\n\n## References\n\nGeorgopoulos, A. P., Schwartz, A. B., & Kettner, R. E. (1986). Neuronal population coding of movement direction.Science, 233(4771), 1416–1419. https://doi.org/10.1126/science.3749885\n\nGordon, E. M., Chauvin, R. J., Van, A. N., Rajesh, A., Nielsen, A., Newbold, D. J., … Dosenbach, N. U. F. (2023). A somato-cognitive action network alternates with effector regions in motor cortex.Nature, 617(7960), 351–359. https://doi.org/10.1038/s41586-023-05964-2\n\nGraziano, M. S. A., Taylor, C. S. R., & Moore, T. (2002). Complex movements evoked by microstimulation of precentral cortex.Neuron, 34(5), 841–851. https://doi.org/10.1016/S0896-6273(02)00698-0\n\nNudo, R. J., Wise, B. M., SiFuentes, F., & Milliken, G. W. (1996). Neural substrates for the effects of rehabilitative training on motor recovery after ischemic infarct.Science, 272(5269), 1791–1794. https://doi.org/10.1126/science.272.5269.1791\n\nPenfield, W., & Boldrey, E. (1937). Somatic motor and sensory representation in the cerebral cortex of man as studied by electrical stimulation.Brain, 60(4), 389–443.\n\nPurves, D., Augustine, G., Fitzpatrick, D., Katz, L., LaMantia, A., McNamara, J., & Williams, S. (2001). Neuroscience 2nd edition. Sunderland (ma) sinauer associates. Types of Eye Movements and Their Functions.\n\nNeuroscientifically Challenged (2015, October 23). Know Your Brain: Motor Cortex. https://www.neuroscientificallychallenged.com/blog/know-your-brain-motor-cortex\n\nKnierim, J. (2020, October 20). Chapter 3: Motor Cortex. Neuroscience Online. https://nba.uth.tmc.edu/neuroscience/m/s3/chapter03.html\n\nFlint Rehab (2020, November 19). Primary Motor Cortex Damage: Definition, Symptoms, and Treatment. https://www.flintrehab.com/primary-motor-cortex-damage/\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:30:06.849966"
+}

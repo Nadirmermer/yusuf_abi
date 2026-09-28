@@ -1,0 +1,251 @@
+{
+  "id": "cohort_study_html_f8d6a39b",
+  "url": "https://www.simplypsychology.org/cohort-study.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Cohort Study: Definition, Designs & Examples",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2023-07-31T12:30:59+00:00",
+  "date_modified": null,
+  "read_time_minutes": 9,
+  "word_count": 1818,
+  "summary": "Psychology»Research Methodology",
+  "topics": [],
+  "key_points": [
+    "The Framingham Heart Study",
+    "The Whitehall Study",
+    "The Nurses’ Health Study",
+    "The British Doctors Study",
+    "The Black Women’s Health Study",
+    "The Danish Cohort Study of Psoriasis and Depression",
+    "1. Are case-control studies and cohort studies the same?",
+    "2. What is the difference between a cross-sectional study and a cohort study?",
+    "3. What is the difference between cohort and longitudinal studies?"
+  ],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Research Methodology\n\nA cohort study is a type of longitudinal study where a group of individuals (cohort), often sharing a common characteristic or experience, is followed over an extended period of time to study and track outcomes, typically related to specific exposures or interventions.\n\nIn cohort studies, the participants must share a common factor or characteristic such as age, demographic, or occupation. A “cohort” is a group of subjects who share a defining characteristic.\n\nCohort studies are observational, so researchers will follow the subjects without manipulating any variables or interfering with their environment.\n\nThis type of study is beneficial for medical researchers, specifically in epidemiology, as scientists can use data from cohort studies to understand potential risk factors or causes of a disease.\n\nBefore any appearance of the disease is investigated, medical professionals will identify a cohort, observe the target participants over time, and collect data at regular intervals.\n\nWeeks, months, or years later, depending on the duration of the study design, the researchers will examine any factors that differed between the individuals who developed the condition and those who did not.\n\nThey can then determine if an association exists between an exposure and an outcome and even identify disease progression and relative risk.\n\n- Limitations",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Retrospective",
+      "content": "- A retrospective cohort study is a type of observational research that uses existing past data to identify two groups of individuals—those with the risk factor or exposure (cohort) and without—and follows their outcomes backward in time to determine the relationship.\n\n- In aretrospective study, the subjects have already experienced the outcome of interest or developed the disease before starting the study.\n\n- The researchers then look back in time to identify a cohort of subjects before developing the disease and use existing data, such as medical records, to discover any patterns.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Prospective",
+      "content": "- A prospective cohort study is a type of longitudinal research where a group of individuals sharing a common characteristic (cohort) is followed over time to observe and measure outcomes, often to investigate the effect of suspected risk factors.\n\n- In aprospective study, the investigators will design the study, recruit subjects, and collect baseline data on all subjects before they have developed the outcomes of interest.\n\n- The subjects are followed and observed over a period of time to gather information and record the development of outcomes.\n\nA prospective cohort study is a type of longitudinal research where a group of individuals sharing a common characteristic (cohort) is followed over time to observe and measure outcomes, often to investigate the effect of suspected risk factors.\n\nIn aprospective study, the investigators will design the study, recruit subjects, and collect baseline data on all subjects before they have developed the outcomes of interest.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Determine cause-and-effect relationships",
+      "content": "Because researchers study groups of people before they develop an illness, they can discover potential cause-and-effect relationships between certain behaviors and the development of a disease.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Provide extensive data",
+      "content": "Cohort studies enable researchers to study the causes of disease and identify multiple risk factors associated with a single exposure. These studies can also reveal links between diseases and risk factors.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Enable studies of rare exposures",
+      "content": "Cohort studies can be very useful for evaluating the effects and risks of rare diseases or unusual exposures, such as toxic chemicals or adverse effects of drugs.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Can measure a continuously changing relationship between exposure and outcome",
+      "content": "Because cohort studies are longitudinal, researchers can study changes in levels of exposure over time and any changes in outcome, providing a deeper understanding of the dynamic relationship between exposure and outcome.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Time consuming and expensive",
+      "content": "Cohort studies usually require multiple months or years before researchers are able to identify the causes of a disease or discover significant results. Because of this, they are often more expensive than other types of studies. Retrospective studies, though, tend to be cheaper and quicker than prospective studies as the data already exists.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Require large sample sizes",
+      "content": "Cohort studies require large sample sizes in order for any relationships or patterns to be meaningful. Researchers are unable to generate results if there is not enough data.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Prone to bias",
+      "content": "Because of the longitudinal nature of these studies, it is common for participants to drop out and not complete the study. The loss of follow-up in cohort studies means researchers are more likely to estimate the effects of an exposure on an outcome incorrectly.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Unable to discover why or how a certain factor is associated with a disease",
+      "content": "Cohort studies are used to study cause-and-effect relationships between a disease and an outcome. However, they do not explain why the factors that affect these relationships exist. Experimental studies are required to determine why a certain factor is associated with a particular outcome.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "The Framingham Heart Study",
+      "content": "Studied the effects of diet, exercise, and medications on the development of hypertensive or arteriosclerotic cardiovascular disease, in a longitudinal population-based cohort.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "The Whitehall Study",
+      "content": "The initial prospective cohort study examined the association between employment grades and mortality rates of 17139 male civil servants over a period of ten years, beginning in 1967. When the Whitehall Study was conducted, therewas no requirement to obtain ethical approval for scientific studies of this kind.",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "The Nurses’ Health Study",
+      "content": "Researched long-term effects of nurses” nutrition, hormones, environment, and work-life on health and disease development.",
+      "order": 14,
+      "items": []
+    },
+    {
+      "heading": "The British Doctors Study",
+      "content": "This was a prospective cohort study that ran from 1951 to 2001, investigating the association between smoking and the incidence of lung cancer.",
+      "order": 15,
+      "items": []
+    },
+    {
+      "heading": "The Black Women’s Health Study",
+      "content": "Gathered information about the causes of health problems that affect Black women.",
+      "order": 16,
+      "items": []
+    },
+    {
+      "heading": "Millennium Cohort Study",
+      "content": "Found evidence to show how various circumstances in the first stages of life can influence later health and development. The study began with an original sample of 18,818 cohort members.",
+      "order": 17,
+      "items": []
+    },
+    {
+      "heading": "The Danish Cohort Study of Psoriasis and Depression",
+      "content": "Studied the association between psoriasis and the onset of depression.",
+      "order": 18,
+      "items": []
+    },
+    {
+      "heading": "The 1970 British Cohort Study",
+      "content": "Followed the lives of around 17,000 people born in England, Scotland, and Wales in a single week of 1970.",
+      "order": 19,
+      "items": []
+    },
+    {
+      "heading": "1. Are case-control studies and cohort studies the same?",
+      "content": "While both studies are commonly used among medical professionals to study disease, they differ.\n\nCase-control studiesare performed on individuals who already have a disease (cases) and compare them with individuals who share similar characteristics but do not have the disease (controls).\n\nIn cohort studies, on the other hand, researchers identify a group before any of the subjects have developed the disease. Then after an extended period, they examine any factors that differed between the individuals who developed the condition and those who did not.",
+      "order": 20,
+      "items": []
+    },
+    {
+      "heading": "2. What is the difference between a cross-sectional study and a cohort study?",
+      "content": "Like case-control and cohort studies,cross-sectional studiesare also used in epidemiology to identify exposures and outcomes and compare the rates of diseases and symptoms of an exposed group with an unexposed group.\n\nHowever, cross-sectional studies analyze information about a population at a specific point in time, while cohort studies are carried out over longer periods.",
+      "order": 21,
+      "items": []
+    },
+    {
+      "heading": "3. What is the difference between cohort and longitudinal studies?",
+      "content": "A cohort study is a specific type of longitudinal study. Another type of longitudinal study is called apanel studywhich involves sampling a cross-section of individuals at specific intervals for an extended period.\n\nPanel studies are a type of prospective study, while cohort studies can be either prospective or retrospective.\n\nSimkus, J. (2023). Cohort Study: Definition, Designs & Examples. Simply Psychology. https://www.simplypsychology.org/cohort-study.html\n\nSimkus, Julia. \"Cohort Study: Definition, Designs & Examples.\" Simply Psychology, 31 July 2023, https://www.simplypsychology.org/cohort-study.html.\n\nSimkus, J. (2023) Cohort Study: Definition, Designs & Examples. Simply Psychology. Available at: https://www.simplypsychology.org/cohort-study.html (Accessed: 22 September 2026).",
+      "order": 22,
+      "items": []
+    },
+    {
+      "heading": "References",
+      "content": "Barrett D, Noble H. What are cohort studies? Evidence-Based Nursing 2019; 22:95-96.\n\nKandola, A.A., Osborn, D.P.J., Stubbs, B. et al. Individual and combined associations between cardiorespiratory fitness and grip strength with common mental disorders: a prospective cohort study in the UK Biobank. BMC Med 18, 303 (2020). https://doi.org/10.1186/s12916-020-01782-9\n\nMarmot, M. G., Rose, G., Shipley, M., & Hamilton, P. J. (1978). Employment grade and coronary heart disease in British civil servants. Journal of Epidemiology & Community Health, 32(4), 244-249.\n\nRosenberg, L., Adams-Campbell, L., & Palmer, J. R. (1995). The Black Women’s Health Study: a follow-up study for causes and preventions of illness. Journal of the American Medical Women’s Association (1972), 50(2), 56-58.\n\nSamer Hammoudeh, Wessam Gadelhaq and Ibrahim Janahi (November 5th 2018). Prospective Cohort Studies in Medical Research, Cohort Studies in Health Sciences, R. Mauricio Barría, IntechOpen, DOI: 10.5772/intechopen.76514. Available from: https://www.intechopen.com/chapters/60939\n\nSetia M. S. (2016). Methodology Series Module 1: Cohort Studies. Indian journal of dermatology, 61(1), 21–25. https://doi.org/10.4103/0019-5154.174011\n\nZabor, E. C., Kaizer, A. M., & Hobbs, B. P. (2020). Randomized Controlled Trials. Chest, 158(1). https://doi.org/10.1016/j.chest.2020.03.013",
+      "order": 23,
+      "items": []
+    },
+    {
+      "heading": "Further Information",
+      "content": "- Cohort Effect? Definition and Examples\n\n- Barrett, D., & Noble, H. (2019). What are cohort studies?. Evidence-based nursing, 22(4), 95-96.\n\n- The Whitehall Studies\n\n- Euser, A. M., Zoccali, C., Jager, K. J., & Dekker, F. W. (2009). Cohort studies: prospective versus retrospective. Nephron Clinical Practice, 113(3), c214-c217.\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nPsychology Researcher and Writer\n\nBA (Hons) Psychology, Princeton University\n\nJulia Simkus is a Princeton University graduate in Clinical Psychology (Magna Cum Laude) and holds a Master of Arts in Applied Psychology from New York University. During her studies she worked as a research assistant to Professor Nicole Avena at Princeton, co-authoring three published works on food addiction and substance use disorders in peer-reviewed journals and Oxford University Press. She wrote and edited over 70 articles for Simply Psychology between 2021 and 2024.",
+      "order": 24,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prospective-Cohort_study.png",
+      "alt": "Cohort Study: Definition, Designs & Examples",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Cohort_study.png",
+      "alt": "Cohort study",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prospective-Cohort_study-1024x666.png",
+      "alt": "prospective Cohort study",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Validity-Reliability-300x217.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Reflexivity-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Qualitative-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/informed-consent-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/triangulation-1-286x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bracketing-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Julia-Simkus.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Cohort Study: Definition, Designs & Examples\n\n> Psychology»Research Methodology\n\n### Önemli Noktalar / Metotlar\n- The Framingham Heart Study\n- The Whitehall Study\n- The Nurses’ Health Study\n- The British Doctors Study\n- The Black Women’s Health Study\n- The Danish Cohort Study of Psoriasis and Depression\n- 1. Are case-control studies and cohort studies the same?\n- 2. What is the difference between a cross-sectional study and a cohort study?\n- 3. What is the difference between cohort and longitudinal studies?\n\n## Giriş\n\nPsychology»Research Methodology\n\nA cohort study is a type of longitudinal study where a group of individuals (cohort), often sharing a common characteristic or experience, is followed over an extended period of time to study and track outcomes, typically related to specific exposures or interventions.\n\nIn cohort studies, the participants must share a common factor or characteristic such as age, demographic, or occupation. A “cohort” is a group of subjects who share a defining characteristic.\n\nCohort studies are observational, so researchers will follow the subjects without manipulating any variables or interfering with their environment.\n\nThis type of study is beneficial for medical researchers, specifically in epidemiology, as scientists can use data from cohort studies to understand potential risk factors or causes of a disease.\n\nBefore any appearance of the disease is investigated, medical professionals will identify a cohort, observe the target participants over time, and collect data at regular intervals.\n\nWeeks, months, or years later, depending on the duration of the study design, the researchers will examine any factors that differed between the individuals who developed the condition and those who did not.\n\nThey can then determine if an association exists between an exposure and an outcome and even identify disease progression and relative risk.\n\n- Limitations\n\n## Retrospective\n\n- A retrospective cohort study is a type of observational research that uses existing past data to identify two groups of individuals—those with the risk factor or exposure (cohort) and without—and follows their outcomes backward in time to determine the relationship.\n\n- In aretrospective study, the subjects have already experienced the outcome of interest or developed the disease before starting the study.\n\n- The researchers then look back in time to identify a cohort of subjects before developing the disease and use existing data, such as medical records, to discover any patterns.\n\n## Prospective\n\n- A prospective cohort study is a type of longitudinal research where a group of individuals sharing a common characteristic (cohort) is followed over time to observe and measure outcomes, often to investigate the effect of suspected risk factors.\n\n- In aprospective study, the investigators will design the study, recruit subjects, and collect baseline data on all subjects before they have developed the outcomes of interest.\n\n- The subjects are followed and observed over a period of time to gather information and record the development of outcomes.\n\nA prospective cohort study is a type of longitudinal research where a group of individuals sharing a common characteristic (cohort) is followed over time to observe and measure outcomes, often to investigate the effect of suspected risk factors.\n\nIn aprospective study, the investigators will design the study, recruit subjects, and collect baseline data on all subjects before they have developed the outcomes of interest.\n\n## Determine cause-and-effect relationships\n\nBecause researchers study groups of people before they develop an illness, they can discover potential cause-and-effect relationships between certain behaviors and the development of a disease.\n\n## Provide extensive data\n\nCohort studies enable researchers to study the causes of disease and identify multiple risk factors associated with a single exposure. These studies can also reveal links between diseases and risk factors.\n\n## Enable studies of rare exposures\n\nCohort studies can be very useful for evaluating the effects and risks of rare diseases or unusual exposures, such as toxic chemicals or adverse effects of drugs.\n\n## Can measure a continuously changing relationship between exposure and outcome\n\nBecause cohort studies are longitudinal, researchers can study changes in levels of exposure over time and any changes in outcome, providing a deeper understanding of the dynamic relationship between exposure and outcome.\n\n## Time consuming and expensive\n\nCohort studies usually require multiple months or years before researchers are able to identify the causes of a disease or discover significant results. Because of this, they are often more expensive than other types of studies. Retrospective studies, though, tend to be cheaper and quicker than prospective studies as the data already exists.\n\n## Require large sample sizes\n\nCohort studies require large sample sizes in order for any relationships or patterns to be meaningful. Researchers are unable to generate results if there is not enough data.\n\n## Prone to bias\n\nBecause of the longitudinal nature of these studies, it is common for participants to drop out and not complete the study. The loss of follow-up in cohort studies means researchers are more likely to estimate the effects of an exposure on an outcome incorrectly.\n\n## Unable to discover why or how a certain factor is associated with a disease\n\nCohort studies are used to study cause-and-effect relationships between a disease and an outcome. However, they do not explain why the factors that affect these relationships exist. Experimental studies are required to determine why a certain factor is associated with a particular outcome.\n\n## The Framingham Heart Study\n\nStudied the effects of diet, exercise, and medications on the development of hypertensive or arteriosclerotic cardiovascular disease, in a longitudinal population-based cohort.\n\n## The Whitehall Study\n\nThe initial prospective cohort study examined the association between employment grades and mortality rates of 17139 male civil servants over a period of ten years, beginning in 1967. When the Whitehall Study was conducted, therewas no requirement to obtain ethical approval for scientific studies of this kind.\n\n## The Nurses’ Health Study\n\nResearched long-term effects of nurses” nutrition, hormones, environment, and work-life on health and disease development.\n\n## The British Doctors Study\n\nThis was a prospective cohort study that ran from 1951 to 2001, investigating the association between smoking and the incidence of lung cancer.\n\n## The Black Women’s Health Study\n\nGathered information about the causes of health problems that affect Black women.\n\n## Millennium Cohort Study\n\nFound evidence to show how various circumstances in the first stages of life can influence later health and development. The study began with an original sample of 18,818 cohort members.\n\n## The Danish Cohort Study of Psoriasis and Depression\n\nStudied the association between psoriasis and the onset of depression.\n\n## The 1970 British Cohort Study\n\nFollowed the lives of around 17,000 people born in England, Scotland, and Wales in a single week of 1970.\n\n## 1. Are case-control studies and cohort studies the same?\n\nWhile both studies are commonly used among medical professionals to study disease, they differ.\n\nCase-control studiesare performed on individuals who already have a disease (cases) and compare them with individuals who share similar characteristics but do not have the disease (controls).\n\nIn cohort studies, on the other hand, researchers identify a group before any of the subjects have developed the disease. Then after an extended period, they examine any factors that differed between the individuals who developed the condition and those who did not.\n\n## 2. What is the difference between a cross-sectional study and a cohort study?\n\nLike case-control and cohort studies,cross-sectional studiesare also used in epidemiology to identify exposures and outcomes and compare the rates of diseases and symptoms of an exposed group with an unexposed group.\n\nHowever, cross-sectional studies analyze information about a population at a specific point in time, while cohort studies are carried out over longer periods.\n\n## 3. What is the difference between cohort and longitudinal studies?\n\nA cohort study is a specific type of longitudinal study. Another type of longitudinal study is called apanel studywhich involves sampling a cross-section of individuals at specific intervals for an extended period.\n\nPanel studies are a type of prospective study, while cohort studies can be either prospective or retrospective.\n\nSimkus, J. (2023). Cohort Study: Definition, Designs & Examples. Simply Psychology. https://www.simplypsychology.org/cohort-study.html\n\nSimkus, Julia. \"Cohort Study: Definition, Designs & Examples.\" Simply Psychology, 31 July 2023, https://www.simplypsychology.org/cohort-study.html.\n\nSimkus, J. (2023) Cohort Study: Definition, Designs & Examples. Simply Psychology. Available at: https://www.simplypsychology.org/cohort-study.html (Accessed: 22 September 2026).\n\n## References\n\nBarrett D, Noble H. What are cohort studies? Evidence-Based Nursing 2019; 22:95-96.\n\nKandola, A.A., Osborn, D.P.J., Stubbs, B. et al. Individual and combined associations between cardiorespiratory fitness and grip strength with common mental disorders: a prospective cohort study in the UK Biobank. BMC Med 18, 303 (2020). https://doi.org/10.1186/s12916-020-01782-9\n\nMarmot, M. G., Rose, G., Shipley, M., & Hamilton, P. J. (1978). Employment grade and coronary heart disease in British civil servants. Journal of Epidemiology & Community Health, 32(4), 244-249.\n\nRosenberg, L., Adams-Campbell, L., & Palmer, J. R. (1995). The Black Women’s Health Study: a follow-up study for causes and preventions of illness. Journal of the American Medical Women’s Association (1972), 50(2), 56-58.\n\nSamer Hammoudeh, Wessam Gadelhaq and Ibrahim Janahi (November 5th 2018). Prospective Cohort Studies in Medical Research, Cohort Studies in Health Sciences, R. Mauricio Barría, IntechOpen, DOI: 10.5772/intechopen.76514. Available from: https://www.intechopen.com/chapters/60939\n\nSetia M. S. (2016). Methodology Series Module 1: Cohort Studies. Indian journal of dermatology, 61(1), 21–25. https://doi.org/10.4103/0019-5154.174011\n\nZabor, E. C., Kaizer, A. M., & Hobbs, B. P. (2020). Randomized Controlled Trials. Chest, 158(1). https://doi.org/10.1016/j.chest.2020.03.013\n\n## Further Information\n\n- Cohort Effect? Definition and Examples\n\n- Barrett, D., & Noble, H. (2019). What are cohort studies?. Evidence-based nursing, 22(4), 95-96.\n\n- The Whitehall Studies\n\n- Euser, A. M., Zoccali, C., Jager, K. J., & Dekker, F. W. (2009). Cohort studies: prospective versus retrospective. Nephron Clinical Practice, 113(3), c214-c217.\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nPsychology Researcher and Writer\n\nBA (Hons) Psychology, Princeton University\n\nJulia Simkus is a Princeton University graduate in Clinical Psychology (Magna Cum Laude) and holds a Master of Arts in Applied Psychology from New York University. During her studies she worked as a research assistant to Professor Nicole Avena at Princeton, co-authoring three published works on food addiction and substance use disorders in peer-reviewed journals and Oxford University Press. She wrote and edited over 70 articles for Simply Psychology between 2021 and 2024.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:42:10.906751"
+}

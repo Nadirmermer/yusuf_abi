@@ -1,0 +1,232 @@
+{
+  "id": "motor_neuron_html_7798fba6",
+  "url": "https://www.simplypsychology.org/motor-neuron.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Motor Neuron: Function, Types, And Structure",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2026-09-17T11:35:32+00:00",
+  "date_modified": null,
+  "read_time_minutes": 14,
+  "word_count": 2782,
+  "summary": "Psychology»Biopsychology",
+  "topics": [],
+  "key_points": [
+    "The Motor Unit and Order of Recruitment",
+    "The Final Common Path Versus Centrally Generated Rhythm"
+  ],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Biopsychology\n\nMotor neurons arenerve cellsthat carry messages from the brain and spinal cord to your muscles and glands. They control everything from blinking and walking to breathing and digestion.\n\nBy acting as messengers between the central nervous system (CNS) and the body, they make movement and essential bodily functions possible.\n\nMotor neurons belong to a broader group called efferent neurons—cells that send signals outward from the CNS. These neurons are crucial for both voluntary actions, like typing, and involuntary ones, like maintaining your posture.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Takeaways",
+      "content": "- Motor neurons carry messages from your brain and spinal cord to your muscles.\n\n- They’re essential for movement, reflexes, and basic body functions.\n\n- There are two main types: upper and lower motor neurons.\n\n- Damage can cause serious issues, including paralysis and diseases like ALS.\n\n- While some treatments exist, prevention and early detection are key.\n\n- Genetics research and technologies like brain-computer interfaces are starting to change what can be done about motor neuron loss.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "How Do Motor Neurons Work?",
+      "content": "Motor neurons act like messengers. They carry electrical signals from your brain or spinal cord to your muscles.\n\nWhen the message reaches its destination, it triggers the release of a chemical called acetylcholine at a point where the nerve meets the muscle—this spot is called the neuromuscular junction.\n\nAcetylcholine tells your muscle to contract, which produces movement.\n\nMotor neurons have three main parts:\n\n- Soma (cell body): The cell’s headquarters, where energy and proteins are produced.\n\n- Dendrites: Short branches that receive messages from other neurons.\n\n- Axon: A long fiber that carries the outgoing message to a muscle or gland.\n\nEach part works together to ensure your body reacts smoothly and quickly.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "What Are the Types of Motor Neurons?",
+      "content": "Motor neurons are divided into two main groups, based on where they begin and what they control:",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Upper Motor Neurons",
+      "content": "These begin in themotor cortex, the strip of brain tissue that plans and directs voluntary movement, or in thebrainstem. They send signals down to the spinal cord to help start and guide movement.\n\nKey pathways include:\n\n- Pyramidal tract: the direct pathway from the motor cortex to the spinal cord. It controls deliberate, voluntary actions like lifting your arm.\n\n- Extrapyramidal tracts: pathways outside the pyramidal tract that manage automatic functions like balance and posture. This includes:Rubrospinal tract: Helps adjust body balance.Tectospinal tract: Affects neck muscle movement.Reticulospinal tract: Regulates automatic actions.\n\n- Rubrospinal tract: Helps adjust body balance.\n\n- Tectospinal tract: Affects neck muscle movement.\n\n- Reticulospinal tract: Regulates automatic actions.\n\n- Rubrospinal tract: Helps adjust body balance.\n\n- Tectospinal tract: Affects neck muscle movement.\n\n- Reticulospinal tract: Regulates automatic actions.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Lower Motor Neurons",
+      "content": "These are the final link between your nervous system and your muscles. They carry messages directly to muscle fibers.\n\nLower motor neurons are categorized into:\n\n- Somatic Motor Neurons:Alpha neurons: Connect to standard muscle fibers to produce forceful contractions.Beta neurons: Interact with both standard and sensory muscle fibers.Gamma neurons: Fine-tune muscle tone by connecting to stretch sensors.\n\n- Alpha neurons: Connect to standard muscle fibers to produce forceful contractions.\n\n- Beta neurons: Interact with both standard and sensory muscle fibers.\n\n- Gamma neurons: Fine-tune muscle tone by connecting to stretch sensors.\n\n- Special Visceral Efferent Neurons: Found in the brainstem as part of cranial nerves like the facial and vagus nerves. They control skeletal muscles for facial expression, chewing, swallowing, and the airway, not digestion.\n\n- General Visceral Motor Neurons: Part of theautonomic nervous system, they connect to organs like the heart and intestines.\n\n- Alpha neurons: Connect to standard muscle fibers to produce forceful contractions.\n\n- Beta neurons: Interact with both standard and sensory muscle fibers.\n\n- Gamma neurons: Fine-tune muscle tone by connecting to stretch sensors.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "The Motor Unit and Order of Recruitment",
+      "content": "A single alpha motor neuron and every muscle fiber it controls form amotor unit, the smallest piece of movement the nervous system can independently control.\n\nMotor units vary enormously in size. An eye-muscle neuron may control only a handful of fibers for fine control. A neuron supplying a large postural muscle like the calf may control thousands instead, trading precision for force.\n\nA muscle is not graded by how hard one motor unit contracts. Each unit fires fully or not at all.\n\nInstead, the body varies how many units switch on and how fast they fire, a process called recruitment.\n\nThis size-based ordering also explains a familiar pattern in exercise. Small, fatigue-resistant units fire first, so a muscle only recruits its largest, most powerful units once the load is heavy enough. That is why strength training uses near-maximal loads to reach them.\n\nAim:Henneman wanted to know whether motor neurons of different sizes are recruited in a fixed, predictable order, or whether the order changes from one contraction to the next.\n\nMethod:He recorded electrical activity from cat spinal motor neurons in the triceps surae muscle group. As input increased, he measured each neuron’s firing threshold and related it to its size.\n\nResults:Smaller neurons fired at lower thresholds. They were recruited first, with larger neurons joining in only as input grew, in the same order regardless of pathway.\n\nConclusion:Henneman’s finding is now the size principle. Small, fatigue-resistant units are recruited first for fine, low-force movements, with larger, more powerful units added as demand rises.\n\nEvaluation:The size principle is one of the most replicated findings in motor physiology, though rapid, ballistic movements show exceptions to strict size-based ordering.\n\nThis size-based hierarchy also matters for disease. Later research on why certain motor neurons die first in some motor neuron diseases returns directly to it.\n\nClinicians can now estimate how many motor units remain in a muscle. This turns a gradual, invisible loss into a number that can be tracked over time in conditions such as motor neuron disease.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "What Do Motor Neurons Do?",
+      "content": "Motor neurons allow your brain to control your body. Their responsibilities include:\n\n- Voluntary movements: Walking, writing, smiling\n\n- Involuntary reflexes: Pulling your hand away from something hot\n\n- Autonomic functions: Breathing, heartbeat, digestion\n\nThey’re also essential for posture, balance, and muscle coordination—things we often take for granted.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Location",
+      "content": "Motor neurons are located in the central nervous system (CNS), specifically in the motor cortex, brainstem, and spinal cord.\n\nThe cell bodies (soma) stay within the CNS. Their axons, called efferent fibers, project outward to reach muscles and other peripheral targets such as organs and glands.\n\nThese axons can be remarkably long. The efferent fibers running from the base of the spinal cord to the toes form one of the longest axon pathways in the human body.\n\nWith approximately 500,000 motor neurons in total, these cells form an extensive network carrying information from the CNS to peripheral organs, muscles, and glands.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "What Happens When Motor Neurons Are Damaged?",
+      "content": "Damage can occur in either upper or lower motor neurons. The symptoms and causes differ based on the location.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Upper Motor Neuron Damage",
+      "content": "- Multiple sclerosis (MS)\n\n- Cerebral palsy\n\n- Brain or spinal cord injuries\n\nUpper motor neurons normally hold spinal reflex circuits in check. Damage releases those circuits from that restraint instead of simply switching them off, which is why the symptoms below include stiffness and overactive reflexes rather than plain weakness.\n\n- Muscle stiffness\n\n- Poor motor control\n\n- Exaggerated reflexes",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Lower Motor Neuron Damage",
+      "content": "- Infections (like Lyme disease)\n\n- Peripheral nerve trauma\n\n- Certain viruses\n\nLower motor neurons are the only route by which a muscle receives any signal at all. Damage removes the muscle’s nerve supply outright, rather than just releasing it from higher control, which is why the pattern below is weakness and wasting rather than stiffness.\n\n- Muscle paralysis or weakness\n\n- Loss of reflexes\n\n- Muscle shrinkage (atrophy)",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Motor Neuron Disease (MND)",
+      "content": "The most well-known MND is amyotrophic lateral sclerosis (ALS). It affects both upper and lower motor neurons and progressively weakens muscles over time.\n\nThis dual damage produces a mixed picture. Patients typically show spasticity and overactive reflexes at some joints alongside weakness and wasting at others, rather than a single, pure pattern.\n\n- Muscle stiffness and twitching\n\n- Difficulty moving or speaking\n\n- Progressive loss of strength\n\nAlthough ALS has no cure, therapies like occupational therapy, physical therapy, and speech therapy can help people manage symptoms and maintain quality of life.\n\nMotor neurons also have a limited ability to heal after injury compared with many other cell types. This is a large part of why the damage matters.\n\nA motor axon that dies is not simply replaced by a new neuron. Recovery instead depends on the surviving pool reconnecting with muscle fibers that lost their nerve supply.",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "Why Are Motor Neurons So Important?",
+      "content": "Motor neurons are vital because they connect your brain’s instructions to your body’s actions. Without them, you couldn’t move, breathe, or respond to your environment.\n\nWhether you’re giving a presentation, going for a run, or simply breathing while you sleep, motor neurons are behind the scenes, making it possible.",
+      "order": 14,
+      "items": []
+    },
+    {
+      "heading": "Critical Evaluation",
+      "content": "Motor neuron research raises questions beyond how a single cell works. Two of the biggest concern where movement patterns actually come from, and why some people lose motor neurons to disease while others do not.",
+      "order": 15,
+      "items": []
+    },
+    {
+      "heading": "The Final Common Path Versus Centrally Generated Rhythm",
+      "content": "The classical view treats movement as built from reflex arcs: a sensory input triggers a motor response, and behavior emerges from chaining many such reflexes together.\n\nThis picture struggles to explain rhythmic movements like walking. Walking continues with a normal gait even when the sensory nerves needed to trigger each step have been cut.\n\nGrillner (1985) reviewed evidence that such rhythms are instead generated by central pattern generator (CPG) circuits within the spinal cord itself. These are networks that can produce a self-sustained rhythm without a fresh sensory trigger for every step.\n\nThe two accounts are not simply rivals. Reflex circuitry and CPG circuitry share the same lower motor neurons, with the reflex arc fitting a single protective response and the CPG fitting a repeating pattern like walking.",
+      "order": 16,
+      "items": []
+    },
+    {
+      "heading": "Contemporary Research",
+      "content": "Two connected questions define the field’s current research: why some people lose motor neurons, and whether the signal they used to carry can be restored some other way.\n\nVan Rheenen et al. (2016) combined genome-wide genetic data from over 12,000 people with ALS and 23,000 controls. It is one of the largest ALS gene studies yet.\n\nThe study found new genetic risk locations. These included variants near theMOBPandSCFD1genes.\n\nIt also estimated that common genetic variants explain roughly 8.5% of the variation in ALS risk, most of it spread across many genes rather than concentrated in one.\n\nThis makes ALS look like a complex, polygenic trait rather than a single-gene disorder. One clear limit is that the study drew its participants overwhelmingly from European-ancestry groups, so how far the results generalize to other populations remains an open question.\n\nSpinal muscular atrophy (SMA) is a lower motor neuron disease of infancy caused by too little of a protein called SMN. Finkel et al. (2017) ran a randomized, sham-controlled trial of nusinersen, a drug designed to boost SMN production, in infants with the condition.\n\nIn the trial, 51% of treated infants reached a motor-milestone goal, against 0% of untreated infants. Survival was also significantly better without permanent ventilation.\n\nThis is one of the strongest treatment results in the field, since it is a randomized trial with a hard survival endpoint. It is now the benchmark other motor neuron disease therapies are judged against.\n\nAjiboye et al. (2017) took a different approach for a person with paralysis from a spinal cord injury. Electrodes were implanted in his motor cortex. These decoded his movement intentions and drove electrical stimulation of muscles in his own paralyzed arm.\n\nAbout ten months after implantation, he could reach and grasp with 80 to 100% accuracy. He drank from a cup and fed himself using his own reanimated arm.\n\nThis is a genuine proof of concept. As a single-participant study, though, it needs replication before its promise can be weighed against larger, randomized evidence.",
+      "order": 17,
+      "items": []
+    },
+    {
+      "heading": "How Does ALS Begin? Dying Forward Versus Dying Back",
+      "content": "Two hypotheses give different answers to where ALS starts. The dying-back hypothesis holds that degeneration begins at the junction between nerve and muscle, then spreads back toward the spinal cord and brain.\n\nThe dying-forward hypothesis instead starts in the cortex. Hyperexcitable upper motor neurons drive excess signaling onto the lower motor neurons they connect to, causing damage that then spreads down to the neuromuscular junction, the reverse direction.\n\nEisen (2021) reviewed over a century of evidence. He argues the balance now favors a cortically-initiated process.\n\nThe protein pathology typical of ALS concentrates in neurons projecting from the cortex. In animal studies, driving cortical hyperexcitability alone triggers loss of both upper and lower motor neurons.\n\nThe debate is not just theoretical. If disease truly begins in the cortex, a therapy that protects only the neuromuscular junction is treating a downstream symptom rather than the disease’s starting point.\n\nGuy-Evans, O. (2026). Motor Neuron: Function, Types, And Structure. Simply Psychology. https://www.simplypsychology.org/motor-neuron.html\n\nGuy-Evans, Olivia. \"Motor Neuron: Function, Types, And Structure.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/motor-neuron.html.\n\nGuy-Evans, O. (2026) Motor Neuron: Function, Types, And Structure. Simply Psychology. Available at: https://www.simplypsychology.org/motor-neuron.html (Accessed: 22 September 2026).",
+      "order": 18,
+      "items": []
+    },
+    {
+      "heading": "References",
+      "content": "Ajiboye, A. B., Willett, F. R., Young, D. R., Memberg, W. D., Murphy, B. A., Miller, J. P., Walter, B. L., Sweet, J. A., Hoyen, H. A., Keith, M. W., Peckham, P. H., Simeral, J. D., Donoghue, J. P., Hochberg, L. R., & Kirsch, R. F. (2017). Restoration of reaching and grasping movements through brain-controlled muscle stimulation in a person with tetraplegia: A proof-of-concept demonstration.The Lancet, 389(10081), 1821-1830. https://doi.org/10.1016/S0140-6736(17)30601-3\n\nEisen, A. (2021). The dying forward hypothesis of ALS: Tracing its history.Brain Sciences, 11(3), 300. https://doi.org/10.3390/brainsci11030300\n\nFinkel, R. S., Mercuri, E., Darras, B. T., Connolly, A. M., Kuntz, N. L., Kirschner, J., Chiriboga, C. A., Saito, K., Servais, L., Tizzano, E., Topaloglu, H., Tulinius, M., Montes, J., Glanzman, A. M., Bishop, K., Zhong, Z. J., Gheuens, S., Bennett, C. F., Schneider, E., … De Vivo, D. C. (2017). Nusinersen versus sham control in infantile-onset spinal muscular atrophy.New England Journal of Medicine, 377(18), 1723-1732. https://doi.org/10.1056/NEJMoa1702752\n\nGrillner, S. (1985). Neurobiological bases of rhythmic motor acts in vertebrates.Science, 228(4696), 143-149. https://doi.org/10.1126/science.3975635\n\nHenneman, E. (1957). Relation between size of neurons and their susceptibility to discharge.Science, 126(3287), 1345-1347. https://doi.org/10.1126/science.126.3287.1345\n\nMoini, J., & Piran, P. (2020). Histophysiology. InFunctional and clinical neuroanatomy: A guide for health care professionals(pp. 1-34). Academic Press. https://doi.org/10.1016/B978-0-12-817424-1.00001-X\n\nSlater, C. R. (2009). Neuromuscular junction (NMJ): Mammalian development. In L. R. Squire (Ed.),Encyclopedia of neuroscience. Elsevier.\n\nvan Rheenen, W., Shatunov, A., Dekker, A. M., McLaughlin, R. L., Diekstra, F. P., Pulit, S. L., van der Spek, R. A., Vosa, U., de Jong, S., Robinson, M. R., Yang, J., Fogh, I., van Doormaal, P. T. C., Tazelaar, G. H. P., Koppers, M., Blokhuis, A. M., Sproviero, W., Jones, A. R., Kenna, K. P., … Veldink, J. H. (2016). Genome-wide association analyses identify new risk variants and the genetic architecture of amyotrophic lateral sclerosis.Nature Genetics, 48(9), 1043-1048. https://doi.org/10.1038/ng.3622\n\nZayia, L. C., & Tadi, P. (2023).Neuroanatomy, motor neuron. In StatPearls. StatPearls Publishing.",
+      "order": 19,
+      "items": []
+    },
+    {
+      "heading": "Further Reading",
+      "content": "- Nicholls, J. G., Martin, A. R., Wallace, B. G., & Fuchs, P. A. (2001). From neuron to brain (Vol. 271). Sunderland, MA: Sinauer Associates.\n\n- Pereda, A. E. (2014). Electrical synapses and their functional interactions with chemical synapses. Nature Reviews Neuroscience, 15(4), 250-263.\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.",
+      "order": 20,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/motor-neuron.jpg",
+      "alt": "Motor Neuron: Function, Types, And Structure",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/motor-neuron-function.jpg",
+      "alt": "An infographic titled \"Motor neuron: main functions\" with an image of a neuron with brief descriptions of voluntary, involuntary, and automatic functions.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Motor-Cortex-300x174.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-motor-relay-neurons-300x253.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/basal-ganglia-1-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Glial-Cells-300x206.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cns-pns-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/motor-neuron.jpg",
+      "alt": "motor neuron",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/upper-lower-motor-neurons.jpg",
+      "alt": "upper lower motor neurons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/motor-neuron-disease.jpg",
+      "alt": "motor neuron disease",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/motor-neuron.jpeg",
+      "alt": "structure of a motor neuron. Includes dendrites, cell body with nucleus, axon, myelin sheath, nodes of Ranvier and muscle fiber",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Motor Neuron: Function, Types, And Structure\n\n> Psychology»Biopsychology\n\n### Önemli Noktalar / Metotlar\n- The Motor Unit and Order of Recruitment\n- The Final Common Path Versus Centrally Generated Rhythm\n\n## Giriş\n\nPsychology»Biopsychology\n\nMotor neurons arenerve cellsthat carry messages from the brain and spinal cord to your muscles and glands. They control everything from blinking and walking to breathing and digestion.\n\nBy acting as messengers between the central nervous system (CNS) and the body, they make movement and essential bodily functions possible.\n\nMotor neurons belong to a broader group called efferent neurons—cells that send signals outward from the CNS. These neurons are crucial for both voluntary actions, like typing, and involuntary ones, like maintaining your posture.\n\n## Key Takeaways\n\n- Motor neurons carry messages from your brain and spinal cord to your muscles.\n\n- They’re essential for movement, reflexes, and basic body functions.\n\n- There are two main types: upper and lower motor neurons.\n\n- Damage can cause serious issues, including paralysis and diseases like ALS.\n\n- While some treatments exist, prevention and early detection are key.\n\n- Genetics research and technologies like brain-computer interfaces are starting to change what can be done about motor neuron loss.\n\n## How Do Motor Neurons Work?\n\nMotor neurons act like messengers. They carry electrical signals from your brain or spinal cord to your muscles.\n\nWhen the message reaches its destination, it triggers the release of a chemical called acetylcholine at a point where the nerve meets the muscle—this spot is called the neuromuscular junction.\n\nAcetylcholine tells your muscle to contract, which produces movement.\n\nMotor neurons have three main parts:\n\n- Soma (cell body): The cell’s headquarters, where energy and proteins are produced.\n\n- Dendrites: Short branches that receive messages from other neurons.\n\n- Axon: A long fiber that carries the outgoing message to a muscle or gland.\n\nEach part works together to ensure your body reacts smoothly and quickly.\n\n## What Are the Types of Motor Neurons?\n\nMotor neurons are divided into two main groups, based on where they begin and what they control:\n\n## Upper Motor Neurons\n\nThese begin in themotor cortex, the strip of brain tissue that plans and directs voluntary movement, or in thebrainstem. They send signals down to the spinal cord to help start and guide movement.\n\nKey pathways include:\n\n- Pyramidal tract: the direct pathway from the motor cortex to the spinal cord. It controls deliberate, voluntary actions like lifting your arm.\n\n- Extrapyramidal tracts: pathways outside the pyramidal tract that manage automatic functions like balance and posture. This includes:Rubrospinal tract: Helps adjust body balance.Tectospinal tract: Affects neck muscle movement.Reticulospinal tract: Regulates automatic actions.\n\n- Rubrospinal tract: Helps adjust body balance.\n\n- Tectospinal tract: Affects neck muscle movement.\n\n- Reticulospinal tract: Regulates automatic actions.\n\n- Rubrospinal tract: Helps adjust body balance.\n\n- Tectospinal tract: Affects neck muscle movement.\n\n- Reticulospinal tract: Regulates automatic actions.\n\n## Lower Motor Neurons\n\nThese are the final link between your nervous system and your muscles. They carry messages directly to muscle fibers.\n\nLower motor neurons are categorized into:\n\n- Somatic Motor Neurons:Alpha neurons: Connect to standard muscle fibers to produce forceful contractions.Beta neurons: Interact with both standard and sensory muscle fibers.Gamma neurons: Fine-tune muscle tone by connecting to stretch sensors.\n\n- Alpha neurons: Connect to standard muscle fibers to produce forceful contractions.\n\n- Beta neurons: Interact with both standard and sensory muscle fibers.\n\n- Gamma neurons: Fine-tune muscle tone by connecting to stretch sensors.\n\n- Special Visceral Efferent Neurons: Found in the brainstem as part of cranial nerves like the facial and vagus nerves. They control skeletal muscles for facial expression, chewing, swallowing, and the airway, not digestion.\n\n- General Visceral Motor Neurons: Part of theautonomic nervous system, they connect to organs like the heart and intestines.\n\n- Alpha neurons: Connect to standard muscle fibers to produce forceful contractions.\n\n- Beta neurons: Interact with both standard and sensory muscle fibers.\n\n- Gamma neurons: Fine-tune muscle tone by connecting to stretch sensors.\n\n## The Motor Unit and Order of Recruitment\n\nA single alpha motor neuron and every muscle fiber it controls form amotor unit, the smallest piece of movement the nervous system can independently control.\n\nMotor units vary enormously in size. An eye-muscle neuron may control only a handful of fibers for fine control. A neuron supplying a large postural muscle like the calf may control thousands instead, trading precision for force.\n\nA muscle is not graded by how hard one motor unit contracts. Each unit fires fully or not at all.\n\nInstead, the body varies how many units switch on and how fast they fire, a process called recruitment.\n\nThis size-based ordering also explains a familiar pattern in exercise. Small, fatigue-resistant units fire first, so a muscle only recruits its largest, most powerful units once the load is heavy enough. That is why strength training uses near-maximal loads to reach them.\n\nAim:Henneman wanted to know whether motor neurons of different sizes are recruited in a fixed, predictable order, or whether the order changes from one contraction to the next.\n\nMethod:He recorded electrical activity from cat spinal motor neurons in the triceps surae muscle group. As input increased, he measured each neuron’s firing threshold and related it to its size.\n\nResults:Smaller neurons fired at lower thresholds. They were recruited first, with larger neurons joining in only as input grew, in the same order regardless of pathway.\n\nConclusion:Henneman’s finding is now the size principle. Small, fatigue-resistant units are recruited first for fine, low-force movements, with larger, more powerful units added as demand rises.\n\nEvaluation:The size principle is one of the most replicated findings in motor physiology, though rapid, ballistic movements show exceptions to strict size-based ordering.\n\nThis size-based hierarchy also matters for disease. Later research on why certain motor neurons die first in some motor neuron diseases returns directly to it.\n\nClinicians can now estimate how many motor units remain in a muscle. This turns a gradual, invisible loss into a number that can be tracked over time in conditions such as motor neuron disease.\n\n## What Do Motor Neurons Do?\n\nMotor neurons allow your brain to control your body. Their responsibilities include:\n\n- Voluntary movements: Walking, writing, smiling\n\n- Involuntary reflexes: Pulling your hand away from something hot\n\n- Autonomic functions: Breathing, heartbeat, digestion\n\nThey’re also essential for posture, balance, and muscle coordination—things we often take for granted.\n\n## Location\n\nMotor neurons are located in the central nervous system (CNS), specifically in the motor cortex, brainstem, and spinal cord.\n\nThe cell bodies (soma) stay within the CNS. Their axons, called efferent fibers, project outward to reach muscles and other peripheral targets such as organs and glands.\n\nThese axons can be remarkably long. The efferent fibers running from the base of the spinal cord to the toes form one of the longest axon pathways in the human body.\n\nWith approximately 500,000 motor neurons in total, these cells form an extensive network carrying information from the CNS to peripheral organs, muscles, and glands.\n\n## What Happens When Motor Neurons Are Damaged?\n\nDamage can occur in either upper or lower motor neurons. The symptoms and causes differ based on the location.\n\n## Upper Motor Neuron Damage\n\n- Multiple sclerosis (MS)\n\n- Cerebral palsy\n\n- Brain or spinal cord injuries\n\nUpper motor neurons normally hold spinal reflex circuits in check. Damage releases those circuits from that restraint instead of simply switching them off, which is why the symptoms below include stiffness and overactive reflexes rather than plain weakness.\n\n- Muscle stiffness\n\n- Poor motor control\n\n- Exaggerated reflexes\n\n## Lower Motor Neuron Damage\n\n- Infections (like Lyme disease)\n\n- Peripheral nerve trauma\n\n- Certain viruses\n\nLower motor neurons are the only route by which a muscle receives any signal at all. Damage removes the muscle’s nerve supply outright, rather than just releasing it from higher control, which is why the pattern below is weakness and wasting rather than stiffness.\n\n- Muscle paralysis or weakness\n\n- Loss of reflexes\n\n- Muscle shrinkage (atrophy)\n\n## Motor Neuron Disease (MND)\n\nThe most well-known MND is amyotrophic lateral sclerosis (ALS). It affects both upper and lower motor neurons and progressively weakens muscles over time.\n\nThis dual damage produces a mixed picture. Patients typically show spasticity and overactive reflexes at some joints alongside weakness and wasting at others, rather than a single, pure pattern.\n\n- Muscle stiffness and twitching\n\n- Difficulty moving or speaking\n\n- Progressive loss of strength\n\nAlthough ALS has no cure, therapies like occupational therapy, physical therapy, and speech therapy can help people manage symptoms and maintain quality of life.\n\nMotor neurons also have a limited ability to heal after injury compared with many other cell types. This is a large part of why the damage matters.\n\nA motor axon that dies is not simply replaced by a new neuron. Recovery instead depends on the surviving pool reconnecting with muscle fibers that lost their nerve supply.\n\n## Why Are Motor Neurons So Important?\n\nMotor neurons are vital because they connect your brain’s instructions to your body’s actions. Without them, you couldn’t move, breathe, or respond to your environment.\n\nWhether you’re giving a presentation, going for a run, or simply breathing while you sleep, motor neurons are behind the scenes, making it possible.\n\n## Critical Evaluation\n\nMotor neuron research raises questions beyond how a single cell works. Two of the biggest concern where movement patterns actually come from, and why some people lose motor neurons to disease while others do not.\n\n## The Final Common Path Versus Centrally Generated Rhythm\n\nThe classical view treats movement as built from reflex arcs: a sensory input triggers a motor response, and behavior emerges from chaining many such reflexes together.\n\nThis picture struggles to explain rhythmic movements like walking. Walking continues with a normal gait even when the sensory nerves needed to trigger each step have been cut.\n\nGrillner (1985) reviewed evidence that such rhythms are instead generated by central pattern generator (CPG) circuits within the spinal cord itself. These are networks that can produce a self-sustained rhythm without a fresh sensory trigger for every step.\n\nThe two accounts are not simply rivals. Reflex circuitry and CPG circuitry share the same lower motor neurons, with the reflex arc fitting a single protective response and the CPG fitting a repeating pattern like walking.\n\n## Contemporary Research\n\nTwo connected questions define the field’s current research: why some people lose motor neurons, and whether the signal they used to carry can be restored some other way.\n\nVan Rheenen et al. (2016) combined genome-wide genetic data from over 12,000 people with ALS and 23,000 controls. It is one of the largest ALS gene studies yet.\n\nThe study found new genetic risk locations. These included variants near theMOBPandSCFD1genes.\n\nIt also estimated that common genetic variants explain roughly 8.5% of the variation in ALS risk, most of it spread across many genes rather than concentrated in one.\n\nThis makes ALS look like a complex, polygenic trait rather than a single-gene disorder. One clear limit is that the study drew its participants overwhelmingly from European-ancestry groups, so how far the results generalize to other populations remains an open question.\n\nSpinal muscular atrophy (SMA) is a lower motor neuron disease of infancy caused by too little of a protein called SMN. Finkel et al. (2017) ran a randomized, sham-controlled trial of nusinersen, a drug designed to boost SMN production, in infants with the condition.\n\nIn the trial, 51% of treated infants reached a motor-milestone goal, against 0% of untreated infants. Survival was also significantly better without permanent ventilation.\n\nThis is one of the strongest treatment results in the field, since it is a randomized trial with a hard survival endpoint. It is now the benchmark other motor neuron disease therapies are judged against.\n\nAjiboye et al. (2017) took a different approach for a person with paralysis from a spinal cord injury. Electrodes were implanted in his motor cortex. These decoded his movement intentions and drove electrical stimulation of muscles in his own paralyzed arm.\n\nAbout ten months after implantation, he could reach and grasp with 80 to 100% accuracy. He drank from a cup and fed himself using his own reanimated arm.\n\nThis is a genuine proof of concept. As a single-participant study, though, it needs replication before its promise can be weighed against larger, randomized evidence.\n\n## How Does ALS Begin? Dying Forward Versus Dying Back\n\nTwo hypotheses give different answers to where ALS starts. The dying-back hypothesis holds that degeneration begins at the junction between nerve and muscle, then spreads back toward the spinal cord and brain.\n\nThe dying-forward hypothesis instead starts in the cortex. Hyperexcitable upper motor neurons drive excess signaling onto the lower motor neurons they connect to, causing damage that then spreads down to the neuromuscular junction, the reverse direction.\n\nEisen (2021) reviewed over a century of evidence. He argues the balance now favors a cortically-initiated process.\n\nThe protein pathology typical of ALS concentrates in neurons projecting from the cortex. In animal studies, driving cortical hyperexcitability alone triggers loss of both upper and lower motor neurons.\n\nThe debate is not just theoretical. If disease truly begins in the cortex, a therapy that protects only the neuromuscular junction is treating a downstream symptom rather than the disease’s starting point.\n\nGuy-Evans, O. (2026). Motor Neuron: Function, Types, And Structure. Simply Psychology. https://www.simplypsychology.org/motor-neuron.html\n\nGuy-Evans, Olivia. \"Motor Neuron: Function, Types, And Structure.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/motor-neuron.html.\n\nGuy-Evans, O. (2026) Motor Neuron: Function, Types, And Structure. Simply Psychology. Available at: https://www.simplypsychology.org/motor-neuron.html (Accessed: 22 September 2026).\n\n## References\n\nAjiboye, A. B., Willett, F. R., Young, D. R., Memberg, W. D., Murphy, B. A., Miller, J. P., Walter, B. L., Sweet, J. A., Hoyen, H. A., Keith, M. W., Peckham, P. H., Simeral, J. D., Donoghue, J. P., Hochberg, L. R., & Kirsch, R. F. (2017). Restoration of reaching and grasping movements through brain-controlled muscle stimulation in a person with tetraplegia: A proof-of-concept demonstration.The Lancet, 389(10081), 1821-1830. https://doi.org/10.1016/S0140-6736(17)30601-3\n\nEisen, A. (2021). The dying forward hypothesis of ALS: Tracing its history.Brain Sciences, 11(3), 300. https://doi.org/10.3390/brainsci11030300\n\nFinkel, R. S., Mercuri, E., Darras, B. T., Connolly, A. M., Kuntz, N. L., Kirschner, J., Chiriboga, C. A., Saito, K., Servais, L., Tizzano, E., Topaloglu, H., Tulinius, M., Montes, J., Glanzman, A. M., Bishop, K., Zhong, Z. J., Gheuens, S., Bennett, C. F., Schneider, E., … De Vivo, D. C. (2017). Nusinersen versus sham control in infantile-onset spinal muscular atrophy.New England Journal of Medicine, 377(18), 1723-1732. https://doi.org/10.1056/NEJMoa1702752\n\nGrillner, S. (1985). Neurobiological bases of rhythmic motor acts in vertebrates.Science, 228(4696), 143-149. https://doi.org/10.1126/science.3975635\n\nHenneman, E. (1957). Relation between size of neurons and their susceptibility to discharge.Science, 126(3287), 1345-1347. https://doi.org/10.1126/science.126.3287.1345\n\nMoini, J., & Piran, P. (2020). Histophysiology. InFunctional and clinical neuroanatomy: A guide for health care professionals(pp. 1-34). Academic Press. https://doi.org/10.1016/B978-0-12-817424-1.00001-X\n\nSlater, C. R. (2009). Neuromuscular junction (NMJ): Mammalian development. In L. R. Squire (Ed.),Encyclopedia of neuroscience. Elsevier.\n\nvan Rheenen, W., Shatunov, A., Dekker, A. M., McLaughlin, R. L., Diekstra, F. P., Pulit, S. L., van der Spek, R. A., Vosa, U., de Jong, S., Robinson, M. R., Yang, J., Fogh, I., van Doormaal, P. T. C., Tazelaar, G. H. P., Koppers, M., Blokhuis, A. M., Sproviero, W., Jones, A. R., Kenna, K. P., … Veldink, J. H. (2016). Genome-wide association analyses identify new risk variants and the genetic architecture of amyotrophic lateral sclerosis.Nature Genetics, 48(9), 1043-1048. https://doi.org/10.1038/ng.3622\n\nZayia, L. C., & Tadi, P. (2023).Neuroanatomy, motor neuron. In StatPearls. StatPearls Publishing.\n\n## Further Reading\n\n- Nicholls, J. G., Martin, A. R., Wallace, B. G., & Fuchs, P. A. (2001). From neuron to brain (Vol. 271). Sunderland, MA: Sinauer Associates.\n\n- Pereda, A. E. (2014). Electrical synapses and their functional interactions with chemical synapses. Nature Reviews Neuroscience, 15(4), 250-263.\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:30:09.869020"
+}

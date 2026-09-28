@@ -1,0 +1,145 @@
+{
+  "id": "z_table_html_af485158",
+  "original_title": "How to Use the Z-Score Table (Standard Normal Table)",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/z-table.html",
+  "published_date": "2023-10-06T10:10:17+00:00",
+  "read_time_minutes": 6,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-table.jpg",
+      "alt": "How to Use the Z-Score Table (Standard Normal Table)",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/standard-normal-curve.jpg",
+      "alt": "standard normal curve",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/z-score-table.jpg",
+      "alt": "How do you find the Z score on a table?",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/SND-left-of-z-score.jpg",
+      "alt": "The proportion (%) of the SND to the left of the z-score",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bell-curve-300x250.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-whisker-plot-300x165.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cohen-d-300x142.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1229,
+  "turkce_baslik": "Z-Skoru ve İnsan Davranışları: Duygularımızı İstatistiğin Keskin Çizgilerine Hapsetmek Ne Kadar Doğru?",
+  "kanca_sorusu": "Hayatınızdaki her duygusal tepkiyi bir formüle, her davranışınızı bir standart sapmaya indirgeyebilir misiniz?",
+  "score": 40,
+  "puan_nedeni": "Metin tamamen akademik istatistik, Z-skoru hesaplamaları ve olasılık tabloları üzerinedir. Doğrudan ilişkisel dinamikler, bağlanma stilleri veya kişisel içgörü barındırmadığı, kuru bir akademik veri analizi olduğu için düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Modern psikoloji ve bilim insan davranışlarını ölçmek, anlamlandırmak ve bir standarda oturtmak için istatistiksel araçlara başvurur. Z-skoru tablosu gibi standart normal dağılım araçları, bir verinin ortalamadan ne kadar uzaklaştığını matematiksel olarak gösterir. Ancak insan psikolojisi ve ruhsal süreçler, ne kadar sayısallaştırılmaya çalışılsa da hiçbir zaman basit bir tabloya sığdırılamayacak kadar karmaşıktır. Z-skorları bize nerede durduğumuzu, ortalamanın ne kadar altında veya üstünde kaldığımızı söyler; fakat bu istatistiksel konum, kişinin içsel acısını, travmalarını veya ilişkilerdeki yalnızlığını açıklamaya yetmez. İnsanı anlamak, bir tablonun satır ve sütunlarının kesişim noktasını bulmaktan çok daha derin bir çaba gerektirir.\n\nGünlük hayatta birçoğumuz kendi duygularımızı, tepkilerimizi ve hatta ilişkilerdeki başarısızlıklarımızı sürekli bir 'normallik' testine tabi tutarız. 'Acaba ortalamaya göre çok mu kaygılıyım?', 'Bu tepkiyi vermek normal mi?' gibi sorularla kendimizi sürekli bir istatistiksel denetime sokarız. Oysa zihinsel sağlık, bir standart normal dağılım eğrisinin hangi diliminde yer aldığınızla değil, o eğrinin içinde kendinizi nasıl hissettiğinizle ilgilidir. Bilimsel veriler bize yön gösterir ama ruhsal iyileşme, matematiksel formüllerin ötesinde bir şefkat ve kabul alanı ister.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Sayıların Arasındaki İnsan",
+      "body": "Psikoloji ve istatistik, insan zihnini anlamak için formüllere başvurur. Peki ruhumuz bu tablolara sığar mı?",
+      "highlight_box": "Her duygu ölçülebilir mi?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Normallik Eğrisi ve Baskı",
+      "body": "Sürekli ortalamaya uyma çabası, bireyin kendi benzersiz iç dünyasını bastırmasına yol açar.",
+      "highlight_box": "Normal olmak zorunda mısınız?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. İstatistiksel Kıyas",
+      "body": "Kendi duygusal tepkilerini sürekli bir standartla kıyaslamak ve yetersiz hissetmek.",
+      "highlight_box": "Acaba tepkim normal mi?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Duyguları Mantığa Hapsetmek",
+      "body": "Acıyı, kaygıyı veya sevgiyi bir veri gibi analiz ederek hissetmekten kaçınmak.",
+      "highlight_box": "Hissetmek yerine hesaplamak",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Formüllerin Ötesine Geçmek",
+      "body": "İyileşme, istatistiksel bir başarı değil, kişinin kendi gerçekliğiyle kurduğu şefkatli baştan kurma sürecidir.",
+      "highlight_box": "Unutmayın: Bu bir süreçtir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış & İçsel Hatırlatma",
+      "body": "Siz bir veri kümesi değilsiniz. Kendi hikayenizin istatistiğini yazmaktan vazgeçin.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Hayatınızı bir istatistik tablosuna indirgeyebileceğinizi mi sanıyorsunuz?",
+    "konusma_metni": "Bugün psikolojinin arkasındaki soğuk istatistikten, Z-skorlarından ve insanı birer sayıdan ibaret gören o keskin tablolardan bahsedeceğiz. Hayatımızdaki her kaygıyı, her ilişki çıkmazını bir formülle çözmeye çalışıyoruz. Oysa insan ruhu, standart normal dağılım eğrilerine sığmayacak kadar karmaşık ve derindir. Kendinizi sürekli bir normallik testine sokmaktan vazgeçtiğinizde ne olduğunu hiç düşündünüz mü?"
+  },
+  "caption": "İnsan psikolojisi ve istatistik her zaman birbirini tamamlar gibi görünse de ruhsal dünyanın kendine has kuralları vardır. Z-skorları ve standart dağılım tabloları bize verileri okuma imkanı sunar; ancak bir insanın ne kadar acı çektiğini, kaygı duyduğunu veya sevdiğini hiçbir formül tam olarak ölçemez. Kendinizi sürekli bir normallik testine sokmayı bırakın.\n\npsikoloji, zihinselsağlık, istatistik, farkındalık, kişiseliçgörü, bilimselgerçeklik, içseliyileşme",
+  "processed_at": "2026-09-26 17:44:48"
+}

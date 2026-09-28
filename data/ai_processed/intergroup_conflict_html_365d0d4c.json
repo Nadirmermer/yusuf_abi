@@ -1,0 +1,115 @@
+{
+  "id": "intergroup_conflict_html_365d0d4c",
+  "original_title": "Intergroup Conflict",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/intergroup-conflict.html",
+  "published_date": "2026-09-17T11:31:15+00:00",
+  "read_time_minutes": 12,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/intergroup-conflict.jpeg",
+      "alt": "Intergroup Conflict",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-identity-theory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/groupthink-300x285.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hofstede-cultural-dimensions-300x144.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/group-polarization-300x169.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/frustration-aggression-hypothesis-300x139.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/individualistic-culture-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2336,
+  "turkce_baslik": "Haklılık Tuzağı: Gruplar Arası Çatışmanın İçimizdeki Yansıması",
+  "kanca_sorusu": "Bir tartışmada sürekli haklı olduğunuzu kanıtlamaya çalışırken aslında neyi savunuyorsunuz?",
+  "score": 45,
+  "puan_nedeni": "Makale genel olarak sosyolojik ve makro düzeydeki gruplar arası çatışmaları incelediği, doğrudan bireysel ilişkisel dinamiklere odaklanmadığı için akademik ve mesafeli kalmaktadır. Ancak 'Saldırgan-Savunmacı' ve 'Çatışma Sarmalı' modelleri mikro düzeydeki ilişkilerimize uyarlandığında değerli bir ayna tutmaktadır.",
+  "category": "İlişkiler & İletişim",
+  "editoryal_genis_metin": "Sosyal psikolojide gruplar arası çatışma olarak incelenen dinamikler, aslında bireysel ilişkilerimizin de görünmeyen iskeletini oluşturur. Thomas Hobbes'tan bu yana insan doğasının çatışmaya meyilli olduğu, hayatta kalmak için bir 'öteki' yarattığı bilinir. Özellikle Saldırgan-Savunmacı modelde taraflardan biri kendini tamamen ahlaki ve haklı bir konuma konumlandırırken, diğerini kötü ve haksız ilan eder. Bu durum sadece uluslararası savaşlarda veya toplumsal olaylarda değil, en yakınlarımızla yaşadığımız en ufak bir fikir ayrılığında bile kendini gösterir. İlişkilerde çatışma sarmalı başladığında, artık ilk sorunun ne olduğu unutulur; taraflar sadece birbirlerinin tepkilerine cezalandırıcı veya savunmacı karşılıklar vererek kendi yarattıkları kısır döngünün mahkumu olurlar. Bu döngüyü kırabilmek, haklı olma çabasından vazgeçip ilişkinin dinamiğine dışarıdan bakabilme cesareti gerektirir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Haklılık Tuzağı",
+      "body": "Çatışma anında iki taraf da kendini tamamen haklı, karşı tarafı ise tamamen haksız görüyorsa, orada artık iletişim değil savaş vardır.",
+      "highlight_box": "Haklı olmak mı, anlamak mı?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Saldırgan-Savunmacı Model",
+      "body": "İlişkilerde sıklıkla bir taraf kendini ahlaki ve doğru konumda görürken, diğer tarafı saldırgan ve hatalı ilan eder. Bu durum diyaloğu bitirir.",
+      "highlight_box": "Kim ahlaki üstünlüğü ele geçirmeye çalışıyor?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Çatışma Sarmalı",
+      "body": "İlk tartışmanın konusu ne olursa olsun unutulur. Artık mesele, verilen tepkilere karşı cezalandırıcı ve savunmacı yeni hamleler yapmaktır.",
+      "highlight_box": "Tartışmalar neden hep aynı kısır döngüye dönüyor?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Düşmanlık Transferi",
+      "body": "Geçmişteki tüm çözülmemiş öfkeler ve güvensizlikler, bugünkü en küçük anlaşmazlığa taşınarak krizin boyutu büyütülür.",
+      "highlight_box": "Bugünkü kavga gerçekten bugüne mi ait?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Sarmalı Kırmak",
+      "body": "De-escalation yani yatıştırma süreci, haklı çıkma çabasından vazgeçip karşı tarafın savunmasını düşürecek bir adım atmakla başlar.",
+      "highlight_box": "İlk duran taraf sarmalı çözer.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Çatışma kaçınılmazdır ancak içinde kalıp kalmamak bir tercihtir. Haklı olmayı değil, bağı korumayı seçin.",
+      "highlight_box": "Bu analizi ilişkilerinizde hatırlamak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Bir tartışmada hep karşı tarafın haksız, sizin ise tamamen masum olduğuna inanıyorsanız, büyük bir tuzağın içindesiniz demektir.",
+    "konusma_metni": "Sosyal psikolojide gruplar arası çatışma modelleri bize çok önemli bir şey söyler. Saldırgan-savunmacı modelde taraflardan biri kendini tamamen ahlaki olarak haklı, diğerini ise tamamen kötü görür. Bunu kendi ilişkilerinize uyarlayın. Tartışma anında kök sebebin ne olduğu unutulur ve çatışma sarmalı başlar. Sürekli savunma yapar ya da cezalandırırsınız. İlişkinizi kurtarmak istiyorsanız, haklı çıkma savaşını bırakıp bu sarmalın neresinde olduğunuzu görmek zorundasınız."
+  },
+  "caption": "İlişkilerde çatışma, genellikle iki tarafın da kendini tamamen haklı ve masum ilan etmesiyle başlar. Saldırgan-savunmacı model, taraflardan birine ahlaki üstünlük atfederken diğerini düşmanlaştırır. Tartışmaların asıl sebebi unutulur ve yerini bir çatışma sarmalına bırakır. Sürekli savunma yapmak veya cezalandırmak sadece mesafeyi artırır. İlişkinizi korumak istiyorsanız, haklılık savaşından vazgeçip bu sarmalın neresinde olduğunuzu fark etmelisiniz. Sosyal psikoloji, grup dinamikleri, ilişkilerde çatışma, iletişim hataları, çatışma sarmalı, psikolojik dinamikler.",
+  "processed_at": "2026-09-26 03:19:49"
+}

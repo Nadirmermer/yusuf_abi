@@ -1,0 +1,139 @@
+{
+  "id": "a_level_approaches_html_3eb348d1",
+  "original_title": "Approaches to Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/a-level-approaches.html",
+  "published_date": "2026-04-14T12:36:21+00:00",
+  "read_time_minutes": 120,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/approaches3.jpg",
+      "alt": "Approaches to Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/issues-and-debates-in-psychology-1-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Freud-Therapy-300x228.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/My-project-1-46-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/aggression-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/criminal-offender-300x242.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/as-attachment-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/unconscious-mind.jpg",
+      "alt": "unconscious mind",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/id-ego-superego.jpg",
+      "alt": "Freud Personality Theory",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/themes/generatepress_child/images/user-placeholder.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 24090,
+  "turkce_baslik": "Biyolojik İndirgemecilik ve İnsan Davranışı: Beynimiz Bize Ne Kadar Hükmediyor?",
+  "kanca_sorusu": "Aldığınız kararların, hissettiğiniz kaygının veya sevgi bağınızın ne kadarı gerçekten size ait, ne kadarı genetik kodlarınızın bir diktası?",
+  "score": 45,
+  "puan_nedeni": "Metin genel olarak akademik A-Level psikoloji sınav sorularını, biyolojik yaklaşımın tanımını, nörolojiyi ve klasik psikoloji ekollerini ele alan teorik bir müfredat özetidir. Doğrudan ilişkisel dinamikler, bireysel bağlanma yaraları veya duygusal tetikleyiciler yerine akademik kuramlar ağırlıkta olduğu için puan düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Psikoloji tarihi boyunca insan davranışını açıklamak için pek çok yaklaşım öne sürüldü. Bunlardan biri olan biyolojik yaklaşım; düşüncelerimizin, korkularımızın ve duygusal patlamalarımızın temelinde tamamen nörokimyasal süreçlerin, genetiğin ve beyin yapısının yattığını savunur. İkiz çalışmalarından nörotransmitter dengesizliklerine kadar geniş bir yelpazede insanı adeta biyolojik bir makineye indirgeyen bu perspektif, bilimsel temelleri açısından güçlü olsa da önemli bir tehlikeyi barındırır: Genetik determinizm. Eğer her şey biyolojimiz tarafından önceden belirlendiyse, kişisel sorumluluğun ve iradenin yeri nerede kalır?\n\nAncak güncel nöropsikoloji ve epigenetik çalışmaları bize tek taraflı bir gerçeği sunmaz. Genotip potansiyelimizi belirlerken, fenotip yani çevresel etkenler ve yaşantılarımız bu genlerin üzerindeki anahtarları açar veya kapatır. Dolayısıyla ruhsal dünyamızı sadece beyin kimyasına indirgemek, insanın anlama arayışını ve değişim potansiyelini göz ardı etmek anlamına gelir. Biyolojimiz kaderimizdir diyemeyiz; fakat biyolojimizin sınırlarını fark etmek, kendimizi anlama yolculuğunda kritik bir eşiktir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Biyolojik İndirgemecilik",
+      "body": "İnsan davranışını yalnızca genlere ve beyin kimyasına indirgemek, ruhsal acılarımızın derinliğini göz ardı etmek demektir.",
+      "highlight_box": "Biyoloji kader midir?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Genotip ve Fenotip Ayrımı",
+      "body": "Taşıdığımız genetik miras potansiyeldir; bu potansiyelin hayata geçmesi ise içinde yaşadığımız çevre ve ilişkiler ağıyla mümkündür.",
+      "highlight_box": "Kodlar her şeyi belirlemez.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Genetik Determinizm Tuzakları",
+      "body": "Her şeyi biyolojiye bağlamak, kişiye 'ben böyleyim, değiştiremem' bahanesini sunarak iradeyi ve sorumluluğu devre dışı bırakabilir.",
+      "highlight_box": "Değişim imkansız değildir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Çevrenin Gücü ve Epigenetik",
+      "body": "Aynı genetik kodlara sahip ikizlerin bile farklı kişilikler geliştirmesi, çevresel faktörlerin ve yaşantıların belirleyiciliğini kanıtlar.",
+      "highlight_box": "Çevre genleri tetikler.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Bütüncül Bakış Açısı",
+      "body": "Bedensel tepkilerinizi tanıyın ancak zihinsel süreçlerinizi ve ilişkisel dinamiklerinizi göz ardı etmeyin. İyileşme çok boyutludur.",
+      "highlight_box": "Tek bir nedene sığınmayın.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Sınırlarımız",
+      "body": "Geçmişiniz veya genetik mirasınız ne olursa olsun, bugünkü kararlarınızla yeni yollar inşa etme gücüne sahipsiniz.",
+      "highlight_box": "Kaydedin ve daha sonra tekrar okuyun.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Depresyonunuzun ya da kaygınızın tamamen beyin kimyanızla ilgili olduğunu düşünüyorsanız, yanılıyorsunuz.",
+    "konusma_metni": "Psikolojinin biyolojik yaklaşımı her şeyin genlerde ve nörotransmitterlerde bittiğini söyler. Evet, genetik yatkınlığımız var. Ancak ikiz çalışmalarında bile oranların hiçbir zaman yüzde yüz olmaması bize şunu gösteriyor: Genler sadece birer potansiyel. O potansiyeli ne zaman tetikleyeceğimiz ise maruz kaldığımız çevre, ilişkilerimiz ve yaşadığımız travmalarla şekilleniyor. Yani biyoloji bir zemin sunar ama evi nasıl döşeyeceğiniz tamamen size kalmıştır."
+  },
+  "caption": "İnsan davranışını açıklarken tek bir ekole bağlanmak, tablonun tamamını kaçırmamıza neden olur. Biyolojik yaklaşım beyin yapısını, nörokimyayı ve genetiği merkeze alırken; genetik determinizm tuzağına düşmemek gerekir. Genler birer olasılıktır, bu olasılığın nasıl yazılacağı ise hayatın içindeki deneyimlerimizle şekillenir.\n\nPsikoloji, biyoloji ile anlam arayışının kesiştiği yerde başlar.\n\n#psikoloji #biyolojikpsikoloji #nöroloji #kişiselgelişimdegilbilim #zihin #davranışbilimleri #farkındalık",
+  "processed_at": "2026-09-26 02:45:38"
+}

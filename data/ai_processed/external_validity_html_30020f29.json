@@ -1,0 +1,121 @@
+{
+  "id": "external_validity_html_30020f29",
+  "original_title": "External Validity In Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/external-validity.html",
+  "published_date": "2026-09-22T12:30:30+00:00",
+  "read_time_minutes": 19,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/zimbardo-guards.jpg",
+      "alt": "External Validity In Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-relationships-classroom-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Validity-Reliability-300x217.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confirmability-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-construction-reality-300x157.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Qualitative-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3867,
+  "turkce_baslik": "Laboratuvardan Hayata: Psikoloji Gerçek Dünyayı Neden Kaçırıyor?",
+  "kanca_sorusu": "Deney odalarında kusursuz çalışan o teoriler, neden gerçek hayatın karmaşasında duvara çarpıyor?",
+  "score": 42,
+  "puan_nedeni": "Metin, araştırma metodolojisi ve akademik geçerlilik gibi kuru akademik kavramları ele almaktadır. Doğrudan ilişkisel çatışma, bağlanma veya toksik dinamikler barındırmadığı, daha çok bilim felsefesi ve araştırma tasarımı odaklı olduğu için katı puanlama kuralımıza göre düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Psikoloji tarihi, kontrollü laboratuvar ortamlarında üretilmiş ve insan doğasını evrensel kanunlar gibi sunan sayısız araştırmayla doludur. Ancak bu çalışmaların çok büyük bir kısmı, Batılı, eğitimli, sanayileşmiş, zengin ve demokratik toplumlardan seçilen dar örneklemler üzerine kuruludur. Stanford Hapishane Deneyi gibi popüler örnekler, yapay bir ortamın ve eğitimsiz katılımcıların gerçek dünya dinamiklerini yansıtmaktan ne kadar uzak olduğunu açıkça göstermiştir. Laboratuvarın steril ve öngörülebilir dünyası ile sokağın, ilişkilerin ve insan zihninin o acımasız karmaşası aynı şey değildir. Bir terapide ya da araştırmada işe yarayan genel geçer kuramlar, kişinin kendi benzersiz bağlamına, geçmişine ve sosyal gerçekliğine çarptığında sıklıkla geçersizleşir. Bilim insanları veya uzmanlar insanı laboratuvarda tanımaya çalışırken, aslında sadece kontrollü bir ortamın ürettiği yankıyı dinlemektedir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Laboratuvarın Yanılsaması",
+      "body": "Bilimin insan doğası hakkında söylediği her şey, gerçekten sokaktaki insanı mı anlatıyor?",
+      "highlight_box": "Steril ortamlar gerçek hayatın acımasızlığını simüle edemez.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Genelleme Sorunu",
+      "body": "Araştırmaların çoğunu oluşturan o tipik örneklemler, aslında insanlığın çok küçük ve ayrıcalıklı bir azınlığını temsil ediyor.",
+      "highlight_box": "Denekler insanlığın geri kalanından tamamen farklı birer istisnadır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Yapay Ortam Tuzağı",
+      "body": "Stanford Hapishane Deneyi gibi popüler vakalar, gerçek dışı kurguların insan davranışını nasıl çarpıttığının kanıtıdır.",
+      "highlight_box": "Yapay kurgular gerçek insan tepkilerini değil, kuralların yarattığı korkuyu gösterir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Bağlam Eksikliği",
+      "body": "Bir teorinin laboratuvarda başarılı olması, sizin karmaşık ve zorlu ilişkilerinizde işe yarayacağı anlamına gelmez.",
+      "highlight_box": "Her zihin kendi benzersiz ekosisteminde değerlendirilmelidir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kendi Gerçeğinizi Bulmak",
+      "body": "Genel geçer reçeteler yerine, kendi yaşam bağlamınıza ve içsel gerçekliğinize odaklanın.",
+      "highlight_box": "Hiçbir teori sizin eşsiz hikayenizi tamamen kapsayamaz.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış & İçsel Hatırlatma",
+      "body": "Bilim rehberdir, fakat sizin hayatınızın tek otoritesi yine sizin deneyiminizdir.",
+      "highlight_box": "Bu analizi, ezber reçeteleri sorgulamak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Psikoloji kitaplarında okuduğunuz o büyük teorilerin gerçek hayatta hiçbir karşılığı olmayabilir.",
+    "konusma_metni": "Çoğu psikolojik araştırma, üniversite öğrencilerinden oluşan dar ve yapay gruplar üzerinde yapılır. Laboratuvarda kusursuz görünen bir yöntem, dışarıdaki hayatın karmaşasına çıktığında duvara çarpar. Çünkü insan zihni steril bir petri kabında yaşamaz; ilişkileri, kültürü ve travmaları vardır. Bilimin labirentinde kaybolmadan önce sormamız gereken asıl soru şudur: Bu bilgi gerçekten sizin hayatınıza ait mi, yoksa sadece bir laboratuvarın aynası mı?"
+  },
+  "caption": "Psikoloji bilimi insanı anlamaya çalışırken sıklıkla steril laboratuvarlara hapsolur. Üniversite koridorlarındaki dar örneklemlerle yapılan araştırmalar, sokağın, ilişkilerin ve travmaların karmaşık gerçekliğini göz ardı eder. Bir teorinin ya da önerinin evrensel olduğunu varsaymadan önce, onun hangi bağlamda üretildiğine bakmak gerekir. Sizin hayatınız bir istatistik tablosu ya da laboratuvar deneyi değildir. \n\n#psikoloji #bilimselgerçekler #araştırmametodolojisi #insandavranışı #ilişkiler #farkındalık #zihinharitası",
+  "processed_at": "2026-09-26 02:41:29"
+}

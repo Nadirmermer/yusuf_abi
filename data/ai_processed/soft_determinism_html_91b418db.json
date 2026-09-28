@@ -1,0 +1,133 @@
+{
+  "id": "soft_determinism_html_91b418db",
+  "original_title": "Soft Determinism In Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/soft-determinism.html",
+  "published_date": "2023-10-10T17:47:48+00:00",
+  "read_time_minutes": 8,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/soft-determinism.jpeg",
+      "alt": "Soft Determinism In Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sympathetic-vs-parasympathetic-nervous-system-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/basal-ganglia-1-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/nervous-system-1-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cns-pns-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mirror-neurons-266x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/riley-hoffman.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1660,
+  "turkce_baslik": "Seçimlerimiz Gerçekten Bize mi Ait, Yoksa Geçmişin Bir Devamı mı?",
+  "kanca_sorusu": "Bugün yaptığınız seçimlerin ne kadarı gerçekten size ait, ne kadarı geçmişinizin kaçınılmaz bir sonucu?",
+  "score": 45,
+  "puan_nedeni": "Metin felsefi ve akademik bir kavram olan 'yumuşak determinizm' (compatibilism) üzerine kuruludur. Doğrudan ilişkisel bir çatışma veya klinik bir örüntü içermediği, daha çok ontolojik ve teorik bir tartışma olduğu için puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, her gün sayısız karar verirken mutlak bir özgür iradeye sahip olduğunu varsayar. Ancak geçmişimiz, genetiğimiz, aile dinamiklerimiz ve maruz kaldığımız çevresel koşullar bu kararların ne kadarını gerçekten bizim kılar? Yumuşak determinizm veya diğer adıyla uyumculuk, dünyadaki her olayın birbiri ardına gelen bir zincirin halkası olarak önceden belirlendiğini savunurken, aynı zamanda insanın ahlaki sorumluluğunu ve özgür iradesini tamamen reddetmez. Bir kafeteryada çikolatalı kek yerine şeftaliyi seçmek ya da Cuma akşamı partiye gitmek yerine ders çalışmayı tercih etmek, aslında geçmişimizin bugüne yansıyan kaçınılmaz sonuçlarıdır. Fakat burada kritik bir ayrım vardır: Dışsal bir baskı, zorlama veya şiddet olmadığında, kişi kendi arzuları ve motivasyonları doğrultusunda hareket eder. Bu durum, eylemin kaçınılmaz olsa bile özgürce seçildiği anlamına gelir. Psikolojik olarak baktığımızda, birey kendi içsel motivasyonlarıyla uyumlu kararlar aldığında kendini özgür hisseder. Sınırlarımız ve geçmişimiz bizi şekillendirir, ancak bu şekillenmenin içinde kendi hikayemizi yazma hissi ruhsal denge için hayati önem taşır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Seçimlerimizin Görünmeyen Mimarisi",
+      "body": "Aldığımız kararların ne kadarı özgür irademizin ürünü, ne kadarı geçmişimizin yazgısı?",
+      "highlight_box": "Her karar bir zincirin halkasıdır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Kaçınılmaz ve Özgür Aynı Anda Olabilir mi?",
+      "body": "Geçmiş deneyimlerimiz, genetiğimiz ve çevremiz bugünkü tercihlerimizi önceden şekillendirir.",
+      "highlight_box": "Seçimleriniz kaçınılmaz olabilir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Kafeterya Örneği",
+      "body": "Kekte karar kıldığınızda 'şeftaliyi de seçebilirdim' düşüncesi sadece bir yanılsama olabilir.",
+      "highlight_box": "Sonuç önceden yazılmış olabilir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "İçsel Motivasyonun Gücü",
+      "body": "Seçiminiz önceden belirlense bile, bu karar kendi arzularınızla uyumluysa özgür hissedersiniz.",
+      "highlight_box": "Önemli olan dış baskının olmamasıdır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Özgürlüğün Psikolojik Tanımı",
+      "body": "Gerçek özgürlük, dışsal zorlamalardan bağımsız olarak kendi arzularınız doğrultusunda hareket etmektir.",
+      "highlight_box": "Koşulların içinde kendi iradenizle var olursunuz.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kendi Hikayenizin Sorumluluğu",
+      "body": "Geçmişiniz sizi buraya getirmiş olsa da, bugünkü kararlarınızın sorumluluğu ve anlamı size aittir.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Hayatınızda verdiğiniz en özgür kararın bile aslında önceden yazılmış bir senaryo olabileceğini hiç düşündünüz mü?",
+    "konusma_metni": "Bugün seçtiğiniz herhangi bir şeyi düşünün. Sabah içtiğiniz kahve, akşam izlediğiniz film... Felsefe ve psikolojide yumuşak determinizm der ki, bu seçimlerin hepsi genetiğiniz, geçmişiniz ve çevreniz tarafından zaten belirlenmişti. Yani kaçınılmazdı. Fakat işin çarpıcı kısmı şu: Dışarıdan size silah dayayan biri yoksa, yani iradenize yapılan harici bir baskı yoksa, o seçimi kendi isteklerinizle yaparsınız. Kaçınılmaz olanı kendi arzu ettiğiniz için seçersiniz. Bu da size özgür irade hissi verir. Sizce seçimleriniz ne kadar size ait?"
+  },
+  "caption": "İnsan zihni, her kararını mutlak bir özgür iradeyle aldığını düşünmek ister. Oysa geçmişimiz, genetiğimiz, aile dinamiklerimiz ve çevresel etkenler bu kararların zeminini çok önceden hazırlar. Yumuşak determinizm, her şeyin bir neden-sonuç zinciri içinde önceden belirlendiğini savunurken, insanın ahlaki sorumluluğunu ve iradesini tamamen dışlamaz. Bir kararı verirken dışsal bir baskı altında değilsek, yani o seçimi kendi içsel arzularımızla yapıyorsak, o eylem kaçınılmaz olsa bile bizimdir. Sınırlarımızın ve geçmişimizin farkına varmak, bizi otomasyondan çıkarıp kendi bilincimize ulaştırır. Bu içerik, seçimlerinizin arkasındaki görünmeyen dinamikleri fark etmeniz için hazırlandı. Psikoloji, özgür irade, determinizm, zihin yönetimi, kişisel farkındalık, içsel motivasyon, felsefi psikoloji",
+  "processed_at": "2026-09-26 17:44:35"
+}

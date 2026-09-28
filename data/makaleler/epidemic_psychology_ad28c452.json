@@ -1,0 +1,50 @@
+{
+  "id": "epidemic_psychology_ad28c452",
+  "url": "https://www.psychologytoday.com/us/blog/domestic-intelligence/202003/epidemic-psychology",
+  "source": "Psychology Today",
+  "blog_name": "domestic-intelligence",
+  "title": "Epidemic Psychology",
+  "subtitle": null,
+  "author": "Terri Apter Ph.D.",
+  "author_title": "Ph.D.",
+  "reviewer": "Reviewed by Ekua Hagan",
+  "published_date": "2020-03-13T10:17:41-04:00",
+  "date_modified": "2020-03-13T10:17:41-04:00",
+  "read_time_minutes": 1,
+  "word_count": 22,
+  "summary": "Have we had a failure of imagination in envisioning epidemics of a new disease? Or is this one somehow different?",
+  "topics": [
+    "Psychology"
+  ],
+  "key_points": [],
+  "sections": [],
+  "images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/min_1200px_wide/public/field_user_blogger_photo/terri-apter.jpg?itok=O3vdwsui",
+      "alt": "Epidemic Psychology",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/terri-apter.jpg?itok=bG0D6TYt",
+      "alt": "Terri Apter Ph.D.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-09/adobestock_234361842.jpeg.jpg?itok=J7HSMC8b",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-08/jonny-gios-mojjmhq6mam-unsplash.jpg?itok=T2tzlJjp",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Epidemic Psychology\n\n> Have we had a failure of imagination in envisioning epidemics of a new disease? Or is this one somehow different?\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-21T20:54:23.471458"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "one_patient_one_doctor_one_year_11cd6a46",
+  "url": "https://www.psychologytoday.com/us/blog/in-practice/200903/one-patient-one-doctor-one-year",
+  "source": "Psychology Today",
+  "blog_name": "in-practice",
+  "title": "One Patient, One Doctor, One Year",
+  "subtitle": null,
+  "author": "Peter D Kramer",
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2009-03-30T10:24:01-04:00",
+  "date_modified": "2009-03-30T10:24:01-04:00",
+  "read_time_minutes": 1,
+  "word_count": 13,
+  "summary": "Reading recommendation: The Addict, by Michael Stein",
+  "topics": [
+    "Addiction"
+  ],
+  "key_points": [],
+  "sections": [],
+  "images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/blogs/36/2009/03/4091-76681.jpg?itok=JUr7loHy",
+      "alt": "One Patient, One Doctor, One Year",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/Untitled_19.jpg?itok=fxhLB7Br",
+      "alt": "Peter D Kramer",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/sites/default/files/styles/article-inline-half/public/blogs/36/2009/03/4091-76681.jpg?itok=KeT09Lxm",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# One Patient, One Doctor, One Year\n\n> Reading recommendation: The Addict, by Michael Stein\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-21T20:10:23.902641"
+}

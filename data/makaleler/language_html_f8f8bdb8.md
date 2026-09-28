@@ -1,0 +1,517 @@
+# Language Acquisition Theory
+
+- **Kaynak Platform**: Simply Psychology
+- **Orijinal URL**: https://www.simplypsychology.org/language.html
+- **Yayın Tarihi**: 2026-09-17T11:32:50+00:00
+- **Okuma Süresi / Kelime**: ~26 dk (5115 kelime)
+- **Çekilme Zamanı**: 2026-09-22T12:19:22.138489
+
+---
+
+## 📌 Giriş / Özet
+Psychology»Child Psychology
+
+
+## 🎯 Ana Maddeler & Odak Noktaları (Carousel / Post Çekirdeği)
+1. The Poverty-of-the-Stimulus Argument
+2. The Theoretical Gap
+3. The LAD and LASS in Concert
+4. The Evolutionary Basis of Language
+5. 1. The Prelinguistic Stage (0–12 months)
+6. 2. The One-Word Stage (12–18 months)
+7. 3. The Two-Word Stage / Stage 1 Grammar (18–30 months)
+8. 4. Stage 2 Grammar and Beyond (30 months onwards)
+
+
+## 🖼️ Konuyla İlgili Görseller (Arka Plan & Tasarım İçin)
+- ![Language Acquisition Theory](https://www.simplypsychology.org/wp-content/uploads/My-project-1-51.jpg) - *Header Image*
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/piaget-stages-300x163.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/brain-critical-development-300x169.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/Vygotsky-vs-Piaget-300x174.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/moral-choice-300x169.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/piaget-adaptation2-300x198.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/child-development-300x200.jpeg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg)
+- ![Görsel](https://www.simplypsychology.org/wp-content/uploads/Henna-Lemetyinen.jpg)
+
+
+## 📝 Makale Bölümleri ve Detaylı İçerik
+
+### Giriş
+
+Psychology»Child Psychology
+
+[preferred_source_button]
+
+Language Acquisition in psychology refers to the process by which humans acquire the ability to perceive, produce, and use words to understand and communicate.
+
+This innate capacity typically develops in early childhood and involves complex interplay of genetic,cognitive, and social factors.
+
+### Key Takeaways
+
+- Definition:Language acquisition is how children learn to understand and produce language, combining genetic, cognitive, and social factors.
+
+- Behaviorist view:Skinner argued language is learned entirely through reinforcement and imitation, though this cannot explain children’s novel sentences.
+
+- Nativist view:Chomsky proposed an innate Language Acquisition Device and universal grammar (shared rules built into every human brain). Ape-language attempts, most notably Terrace’s Nim Chimpsky study, found no real grammar, supporting his species-specific claim.
+
+- Interactionist view:Bruner’s Language Acquisition Support System argues responsive caregiver interaction, not innate structure alone, drives acquisition.
+
+- Cognitive view:Piaget held that language reflects prior cognitive development rather than shaping it.
+
+- Pinker’s instinct theory:Steven Pinker frames language as an evolved biological instinct shaped by natural selection.
+
+- Stages:Children move through predictable stages, from prelinguistic sounds to one-word speech, telegraphic two-word speech, then full grammar, regardless of culture or language.
+
+### Behaviorist Theory of Language Acquisition
+
+Thebehaviourist theoryof language acquisition, developed principally by B.F. Skinner, holds that language develops entirely through environmental input rather than any innate biological endowment.
+
+Skinner set out this view inVerbal Behavior(1957).
+
+He argued that speech is a product of behavioural history.
+
+Children learn to communicate through the same principles ofoperant conditioning(learning through rewards and punishments) that govern other learned behaviours.
+
+Skinner proposed that verbal behaviour emerged evolutionarily.
+
+Human vocal musculature, he argued, became susceptible to conditioning.
+
+In practice, an infant’s early, unplanned vocalisations (cooing and babbling) are gradually shaped by caregivers into recognisable words throughselective reinforcement.
+
+Adults reward approximations of real words and ignore meaningless sounds, progressively refining those words into grammatically structured speech.
+
+### Key Mechanisms
+
+The behaviourist model identifies several routes through which language is conditioned:
+
+- Positive reinforcement:Children learn that specific vocalisations produce desired outcomes. Skinner termed these requestsmands: if a child says “water” and receives a drink, that vocalisation is reinforced by its consequence.
+
+- Social reinforcement:Parental responsiveness (praise, eye contact, touch) makes vocalisation itself rewarding, sustaining the child’s motivation to communicate.
+
+- Imitation and tacts:Children emitechoic responses(imitations of adult speech) andtacts(verbal labels for objects and events). Accurate imitation and labelling attract parental approval, incrementally bringing the child’s output closer to adult norms.
+
+### Supporting Evidence
+
+Conditioning principles demonstrably influence early language.
+
+Brodbeck and Irwin (1946) found that children whose vocalisations received parental reinforcement vocalised more frequently.
+
+More compellingly, Lovaas (1987) showed that operant techniques could systematically teach language to children with autism and other developmental disorders.
+
+Evidence that reinforcement-based shaping can produce functional linguistic behaviour even where typical acquisition has failed.
+
+### Criticisms and Limitations
+
+Despite its clinical utility, behaviourism offers an inadequate account of language acquisition, and Noam Chomsky’s critique remains the most incisive.
+
+- Productivity.Language is generative: speakers routinely produce and comprehend sentences they have never encountered before (Chomsky, 1959). A model based on reinforcing prior responses cannot explain this creativity.
+
+- Grammar acquisition.Parents typically respond to themeaningof a child’s utterance rather than its grammatical form, answering “Why the dog won’t eat?” without correcting its syntax. It is therefore unclear how correct grammar is selectively reinforced. Furthermore, when children do imitate adult speech, they tend to reduce it to telegraphic forms consistent with their current developmental grammar rather than reproducing the adult model.
+
+- Universality.Children across all cultures and languages pass through an invariant sequence of developmental stages. Environmental input varies enormously; the sequence does not. Reinforcement history alone cannot account for this uniformity.
+
+- Sentence comprehension.Understanding a sentence involves more than summing the meanings of its component words, a complexity that operant conditioning cannot address.
+
+### Conclusion
+
+Reinforcement, imitation, and environmental input undoubtedly shape vocabulary and accent.
+
+However, the pure behaviourist account is now widely regarded as insufficient.
+
+Most contemporary researchers view language acquisition as the product of both environmental interaction and innate biological predispositions: a position that behaviourism, in its original form, was never equipped to accommodate.
+
+### Chomsky Theory of Language Development
+
+Noam Chomsky’s theory of language acquisition fundamentally reoriented the field by shifting focus from environmental conditioning to innate biological endowment.
+
+In the spirit of thecognitive revolutionin the 1950s, Chomsky rejected the idea that language depends on input alone. He argued that children would never acquire the tools needed to process an infinite number of sentences without an innate language acquisition mechanism.
+
+Noam Chomsky introduced the nativist theory of language development, emphasizing the role of innate structures and mechanisms in the human brain. Key points of Chomsky’s theory include:
+
+- Language Acquisition Device (LAD):Chomsky proposed that humans have an inborn biological capacity for language, often termed the LAD, which predisposes them to acquire language.
+
+- Universal Grammar:He suggested that all human languages share a deep structure rooted in a set of grammatical rules and categories. This “universal grammar” is understood intuitively by all humans.
+
+- Poverty of the Stimulus:Chomsky argued that the linguistic input received by young children is often insufficient (or “impoverished”) for them to learn the complexities of their native language solely through imitation or reinforcement. Yet, children rapidly and consistently master their native language, pointing to inherent cognitive structures.
+
+- Critical Period:Chomsky, along with other linguists, posited acritical periodfor language acquisition, during which the brain is particularly receptive to linguistic input, making language learning more efficient.
+
+Language Acquisition Device (LAD):Chomsky proposed that humans have an inborn biological capacity for language, often termed the LAD, which predisposes them to acquire language.
+
+Universal Grammar:He suggested that all human languages share a deep structure rooted in a set of grammatical rules and categories. This “universal grammar” is understood intuitively by all humans.
+
+Poverty of the Stimulus:Chomsky argued that the linguistic input received by young children is often insufficient (or “impoverished”) for them to learn the complexities of their native language solely through imitation or reinforcement. Yet, children rapidly and consistently master their native language, pointing to inherent cognitive structures.
+
+Critical Period:Chomsky, along with other linguists, posited acritical periodfor language acquisition, during which the brain is particularly receptive to linguistic input, making language learning more efficient.
+
+### The Poverty-of-the-Stimulus Argument
+
+Chomsky’s central evidence for an innate grammar is the poverty-of-the-stimulus argument. Children come to know grammatical rules that are rarely, if ever, demonstrated in the speech they hear. Ordinary learning could not explain this. The knowledge must already be present before learning begins.
+
+Aim:Crain and Nakayama (1987) tested whether young children’s grammar rules track a sentence’s word order or its hierarchical structure.
+
+Method:Around 30 children aged three to five viewed pictures and asked a puppet yes/no questions built from sentences containing a relative clause. The test separated a word-order rule from a structure-based one.
+
+Results:Children made errors, but never one consistent with a word-order rule. No child ever fronted the auxiliary from inside the relative clause.
+
+Conclusion:Children’s grammar was structure-dependent from the outset. The relevant input was too sparse to have taught this rule, supporting Chomsky’s poverty-of-the-stimulus argument.
+
+A larger 2008 replication complicates this picture. Ambridge, Rowland, and Pine found that some children do make structure-dependence errors. The pattern tracked statistical patterns in the input more than a pure nativist account predicts, a caution against treating the original 1987 finding as fully settled.
+
+### Critical-Period Evidence
+
+A second evidential pillar for nativism is timing. Language, on this view, is best acquired within an earlycritical periodof development.
+
+Senghas, Kita, and Özyürek (2004) studied deaf Nicaraguan children who invented their own sign language. No shared language existed before them.
+
+From the late 1970s onward, each new cohort restructured the signing they learned from older children, adding grammatical structure each generation. No individual child had been taught this structure directly.
+
+Mayberry, Lock, and Kazmi (2002) studied deaf and hearing adults. Some had first learned a usable language, signed or spoken, from infancy; others learned it much later in childhood. Early exposure predicted strong performance in a further, later-learned language.
+
+Late exposure predicted poor performance, regardless of whether the early language was signed or spoken. Timing of first exposure, not the input itself, drove adult competence.
+
+Critics of Chomsky’s theory argue that it’s too innatist and doesn’t give enough weight to social interaction and other factors in language acquisition.
+
+### Criticisms
+
+Chomsky’s framework, despite its influence, has attracted substantial criticism.
+
+- The role of social interaction:Critics argue that Chomsky underestimated how much the social environment contributes to acquisition. Grammatical structure is acquired gradually over years, and the responsive, simplified speech caregivers direct at children (sometimes called child-directed speech) provides scaffolding that goes well beyond what an innate device alone could explain.
+
+- The plausibility of Universal Grammar:Others find the claim of a universal, innate grammar difficult to sustain given the sheer structural diversity of human languages, from English and Japanese to Turkish and signed languages. Accounting for all of these within a single innate system requires increasingly abstract and contested formulations. As linguist Jean Aitchison (1983) argues, children may be “wired” to expect language to be rule-governed without that wiring containing Chomsky’s specific grammatical content itself, a distinction she nicknamed “Content Cuthbert” versus “Process Peggy.”
+
+- Exceptions to recursion:Hauser, Chomsky, and Fitch (2002) proposed recursion, embedding a clause inside another of the same kind, as the single feature marking language as uniquely human. Everett (2008) reported that Pirahã, an Amazonian language, appears to lack embedded clauses altogether. The claim is controversial. If genuine, this one exception is enough to remove recursion from the status of a true universal. Jackendoff and Pinker (2005) counter that even a “co-opted” cognitive system can still be a genuine product of natural selection. A single non-universal feature does not, by itself, refute an evolutionary account of language.
+
+### Contemporary Research
+
+Two recent lines of evidence test Chomsky’s theory. Is the critical period as sharply bounded as classic accounts claimed? And does the poverty-of-the-stimulus case for an innate universal grammar still hold up?
+
+Aim:Hartshorne, Tenenbaum, and Pinker (2018) set out to measure how grammar-learning ability actually changes with age, a question earlier small studies could not resolve.
+
+Method:They analysed an online grammar quiz. Nearly 670,000 native and non-native English speakers took part, letting them model age, first exposure, and experience separately.
+
+Results:Grammar-learning ability stayed high through childhood and adolescence, only beginning to decline at around 17.4 years of age. The decline was gradual, not a sharp cliff.
+
+Conclusion:Hartshorne and colleagues found a genuine, biologically timed decline in grammar-learning capacity, but one starting later and falling more gradually than the classic critical-period window implied.
+
+Dąbrowska (2015) reviewed the evidence for universal grammar itself and reached a more critical verdict. She examined three lines of argument: universality across languages, convergence on the same grammar despite different input, and acquisition despite genuinely poor input. All three, she concluded, are weaker than commonly assumed.
+
+Claimed universals admit exceptions on closer inspection. Children’s paths to full grammar vary more than a fixed timetable suggests.
+
+Taken together, this newer evidence supports a more modest nativism. The timing of language acquisition looks genuinely biologically constrained. But the claim that children are born already knowing grammar in as much detail as Chomsky proposed rests on shakier ground than older textbooks suggest.
+
+### Evidence from Ape-Language Studies
+
+If Chomsky is right that grammar is uniquely human, then no amount of training should ever teach a non-human primate to combine symbols the way a child combines words.
+
+From the late 1960s, several research teams tested this directly by raising chimpanzees, and one gorilla, among humans and teaching them a non-vocal sign or symbol system.
+
+Aim:Gardner and Gardner (1969) asked whether a chimpanzee could acquire American Sign Language if raised as closely as possible to how a deaf child acquires sign.
+
+Method:The chimpanzee Washoe was raised from infancy by caregivers who used only ASL around her, with correct signing rewarded through moulding, imitation, and praise.
+
+Results:By 22 months, Washoe had acquired 34 signs. She also began spontaneously combining them into novel requests she had never been taught, such as “open food drink.”
+
+Conclusion:Gardner and Gardner concluded a chimpanzee could learn a substantial vocabulary of referential signs, making the first serious empirical case against Chomsky’s species-specificity claim.
+
+Aim:Terrace tried to replicate Washoe’s success more rigorously. He filmed every session and named his chimpanzee Nim Chimpsky, after Chomsky himself.
+
+Method:The team reviewed over 20,000 recorded signed utterances. Frame by frame, they checked whether each utterance was spontaneous or prompted by a teacher’s own preceding sign.
+
+Results:Nim’s mean utterance length never grew longer over the four-year project, unlike a child’s. Most of his signed “sentences” also turned out to be imitative or directly prompted rather than spontaneous.
+
+Conclusion:Terrace’s verdict was blunt. He concluded the data “yielded no evidence of an ape’s ability to use a grammar,” reversing the field’s optimism almost overnight.
+
+Terrace found the same problem, known as the Clever Hans effect, when he re-checked archived Washoe footage: trainers were unconsciously cueing the “right” response.
+
+The debate has not fully closed. Krause and Beran (2020), reviewing the accumulated chimpanzee-language research, argue the aggregate evidence still challenges any absolute claim that apes cannot understand or use words at all. They stop short, though, of rehabilitating the original claims made for Washoe or Nim individually.
+
+### How does Bruner’s LASS theory complement Chomsky’s LAD?
+
+Jerome Bruner’sLanguage Acquisition Support System (LASS) was developed as a direct complement to Chomsky’s Language Acquisition Device (LAD), not to replace it, but to supply what it conspicuously lacked: an account of the social and environmental conditions that make an innate linguistic capacity functional.
+
+Where Chomsky focused on the internal biological mechanism, Bruner focused on the interpersonal scaffolding that activates it.
+
+### The Theoretical Gap
+
+Chomsky’s LAD posits that children are born with an innate grasp of universal grammar and the capacity to map underlying meanings onto spoken surface structures.
+
+The language children hear is often incomplete or ungrammatical. Chomsky argued that environmental input alone cannot explain the speed and success of acquisition. The LAD must do the heavy lifting, with the environment serving only as a passive trigger.
+
+This leaves the input’s own richness and structure unexplained.
+
+Subsequent researchers noted that exclusive focus on the child’s internal endowment neglects the organised, responsive character of adult-child interaction. Caregivers, they argued, provide far better linguistic scaffolding than Chomsky’s model assumed. This is the gap Bruner’s LASS is designed to fill.
+
+### How the LASS Complements the LAD
+
+Chomsky treated caregivers primarily as providers of raw linguistic data for the LAD to process.
+
+Bruner argued this misrepresents what caregivers actually do.
+
+Adults do not simply speak in the child’s presence. They calibrate their language to the child’s current level, simplify and segment input, and structure interactions to give the child manageable material to practise and extend.
+
+Moerk put this sharply: “the LAD was a lady.” The structured, responsive linguistic work Chomsky attributed to an internal device was, in large part, being performed by the mother or caregiver all along.
+
+The LAD, as Chomsky conceived it, is a syntactic engine: its concern is how grammatically well-formed sentences are constructed.
+
+Bruner’s LASS addresses a different and equally important question: what language isfor.
+
+Bruner argued that entering language means entering discourse. The child must learn not only how to produce grammatical structures, but how to use them to realise intentions, interpret others’ communicative acts, and participate in genuine dialogue.
+
+Grammar without pragmatics produces sentences; grammar with pragmatics produces communication.
+
+Bruner situated formal language development within a longer history of non-verbal exchange.
+
+Long before a child produces grammatical speech, caregiver and infant establish shared routines (turn-taking, joint attention, coordinated emotional response). Words come later.
+
+These formats are not incidental to language acquisition; they are its foundation.
+
+The LAD may specify how sentences are constructed; the LASS ensures the child understands what sentences are for and how to deploy them in relation to another person.
+
+### The LAD and LASS in Concert
+
+The two frameworks address different aspects of the same phenomenon and are most coherent when read together.
+
+Chomsky’s LAD supplies the biological endowment: the innate grammatical potential without which no amount of social interaction would produce human language.
+
+Bruner’s LASS supplies the structured environment that directs that potential toward actual communicative use.
+
+Neither is sufficient alone. An LAD without a LASS yields a grammatical capacity with nowhere to go. A LASS without an LAD cannot explain why children converge on complex grammatical systems despite enormous variation in their social environments.
+
+### Cognitive Approach to Language Acquisition
+
+The cognitive approach to language acquisition, associated principally with the Swiss psychologistJean Piaget, rests on a single organising claim: thought precedes language.
+
+Language is not an autonomous faculty but an expression of underlying cognitive development.
+
+Rather than shaping a child’s understanding of the world, language maps onto conceptual structures the child has already built through interaction with their environment.
+
+### Schemas and Cognitive Readiness
+
+Central to Piaget’s account is theschema: a mental structure encoding knowledge about a particular aspect of the world.
+
+Piaget was aconstructivist. He believed children actively build these frameworks through physical and mental engagement with their surroundings, rather than passively receiving them from the environment or inheriting them biologically.
+
+On this view, a child acquires a word by attaching it to a concept already represented in their thinking. The concept must come first.
+
+A child taught a word before grasping its underlying meaning will reproduce it without comprehension, parroting a sound rather than using a symbol.
+
+Cognitive readiness, not linguistic exposure, is the limiting factor.
+
+Schema development is driven by two complementary processes:
+
+- Assimilation:incorporating new experiences into existing schemas.
+
+- Accommodation:revising existing schemas, or constructing new ones, when new experiences cannot be absorbed into current frameworks.
+
+### Steven Pinker
+
+Steven Pinker argues that language is a biological instinct. It is not a cultural invention, a learned skill, or a byproduct of general intelligence, but an evolved capacity hard-wired into the human brain.
+
+Drawing on evolutionary psychology, he contends that language emerged through natural selection because it promoted survival and reproduction. Understanding it, he argues, requires situating it within the long arc of human evolutionary history.
+
+### The Evolutionary Basis of Language
+
+Pinker’s starting point is that modern human cognition, including language, reflects mental architecture shaped during roughly three million years of hunter-gatherer existence.
+
+This leads him to a direct challenge to what he calls the “standard social science model”: the assumption that the mind is a blank slate wholly formed by culture.
+
+On the contrary, Pinker argues, the mind contains genetically encoded, domain-specific capacities, of which language is the clearest example.
+
+### Pinker and Chomsky: Agreement and Divergence
+
+Pinker endorses Chomsky’s Language Acquisition Device: the proposal that children possess an innate linguistic mechanism that explains the speed and ease with which they acquire language without formal instruction.
+
+On this much, the two agree.
+
+Their disagreement is fundamental, however.
+
+Chomsky treats the language faculty as a distinct mental module. It arose independently of general cognition, not directly shaped by natural selection, but possibly co-opted from some prior cognitive function.
+
+Pinker rejects this entirely.
+
+For him, language evolvedthroughnatural selection as an adaptive trait.
+
+Even if the language faculty recruited pre-existing cognitive machinery, as Chomsky allows, Pinker argues that natural selection progressively modified those structures specifically to support complex linguistic communication.
+
+The distinction matters: for Chomsky, language’s adaptive value is incidental; for Pinker, it is the explanation.
+
+### Mentalese and the Rejection of Linguistic Relativity
+
+Mentalesesits at the centre of Pinker’s account. It is a universal, innate language of thought that underlies and precedes spoken language.
+
+He proposes that humans share a fixed mental vocabulary of basic conceptual categories, such as space, time, force, and causation. The spoken languages of the world are just surface expressions of this shared cognitive substrate. Thought, on this view, comes first.
+
+This commitment leads Pinker to reject theLinguistic Relativity Hypothesis(the Sapir-Whorf hypothesis), which holds that the specific language a person speaks shapes or constrains their thought.
+
+Pinker inverts the relationship: it is Mentalese, the evolutionarily derived language of thought, that shapes spoken language, not the other way around.
+
+### Cognitive Architecture: Verbs and Dual Processing
+
+Pinker uses verb structure to illustrate how the mind innately categorises the world.
+
+Pinker gives a telling example: “pour wine into the glass” sounds natural, but “fill wine into the glass” does not. The contrast reflects an automatic cognitive distinction between actions driven by gravity and actions driven by other forces. Yet no speaker could ever violate it.
+
+At a processing level, Pinker proposes a dual architecture for language:
+
+- Regular verbs(walk/walked) are handled by a rule-based symbolic system: a generalised grammatical operation applied to novel forms.
+
+- Irregular verbs(hide/hid, ride/rode) are handled by a connectionist system: pattern recognition and associative memory rather than rule application.
+
+This hybrid model reflects Pinker’s broader view that the mind is not a single, uniform system. Instead, it is a collection of specialised mechanisms, some rule-governed and some associative, each shaped by distinct evolutionary pressures.
+
+### Relation to Other Theories
+
+Pinker’s position intersects with Piaget’s cognitive approach in one limited but noteworthy respect: both treat language as rooted in deeper cognitive and evolutionary structures rather than as a self-contained system.
+
+For Piaget, those structures are built through individual development.
+
+For Pinker, they are inherited through evolution.
+
+The agreement is on the dependency of language on something prior. The explanation of what that prior thing is, and how it came to be, separates them sharply.
+
+### Stages of Language Acquisition
+
+Regardless of cultural background or native language, children progress through a strikingly predictable sequence of stages in language acquisition.
+
+This universality is itself theoretically significant: it suggests the developmental trajectory is biologically constrained rather than purely a product of environmental variation.
+
+Even before birth, infants demonstrate sensitivity to language, showing a preference for their mother’s voice and the ability to discriminate her language from unfamiliar ones.
+
+### 1. The Prelinguistic Stage (0–12 months)
+
+In their first year, infants communicate through vocalisations and gesture rather than language proper.
+
+This stage is not merely a precursor to language but an active period of perceptual and motor preparation.
+
+- Early vocalisations.Crying dominates the first month, functioning as a reflexive signal of internal states. Even at this stage, infants can discriminate between speech sounds (phonemes), a capacity that precedes any productive language.
+
+- Phonemic expansion.By around two months, infants can produce every phoneme found across the world’s languages, regardless of which language surrounds them.
+
+- Babbling.Between three and nine months, infants begin producing repetitive consonant-vowel combinations, such as “ma” and “da”, in what is known as the babbling stage. Crucially, infants raised in signing environments produce equivalent manual babbling with their hands, suggesting the underlying drive is biological rather than specific to the vocal-auditory channel.
+
+- Phonemic contraction and echolalia.At around nine to ten months, infants undergo phonemic contraction: they cease producing universal sounds and restrict their repertoire to the phonemes of their native language. Around the first birthday, this shifts into echolalia, the rhythmic, speech-like repetition of syllables such as “dadadada”, which bridges babbling and meaningful speech.
+
+### 2. The One-Word Stage (12–18 months)
+
+Most children produce their first recognisable word between twelve and eighteen months.
+
+Early vocabulary tends to be phonologically simple, invented in part, and highly context-dependent, typically anchored to familiar nouns: family members, animals, food.
+
+At this stage, receptive vocabulary (words understood) substantially exceeds expressive vocabulary (words produced).
+
+A defining feature of this stage isholophrastic speech.
+
+A single word can carry communicative weight far exceeding its literal content.
+
+“Milk” might identify the substance, request more of it, or report that it has been spilled.
+
+The full intended meaning is conveyed through gesture, intonation, and shared context rather than linguistic structure alone.
+
+### 3. The Two-Word Stage / Stage 1 Grammar (18–30 months)
+
+As vocabulary grows, children begin combining words into minimal sentences.
+
+This speech is characteristicallytelegraphic: only words carrying core semantic content are produced, typically nouns and verbs. Grammatical functors (articles, copulas, plural markers, tense inflections) are systematically omitted.
+
+“Drawing dog” stands in for “I am drawing a dog.”
+
+Despite this stripped-down form, children maintain a consistent word order, preserving meaning through syntax even in the absence of morphological markers.
+
+This is not random omission but reflects an early sensitivity to grammatical structure.
+
+### 4. Stage 2 Grammar and Beyond (30 months onwards)
+
+From around thirty months to age five, vocabulary grows rapidly and children begin mastering the grammatical apparatus absent from their earlier speech.
+
+Mean Length of Utterance (MLU) increases as functors (conjunctions, tense inflections, plurals) are progressively incorporated.
+
+One revealing phenomenon here isovergeneralisation(or over-regularisation).
+
+Children apply newly acquired grammatical rules even to irregular forms that are exceptions.
+
+Having inferred that past tense is formed by adding-ed, a child will produce “runned” or “costed”; having learned that plurals take-s, they produce “mouses” or “gooses”.
+
+These errors are theoretically important: they demonstrate that children are extracting and applying abstract rules, not simply imitating the speech around them.
+
+Imitation would produce correct irregular forms; overgeneralisation proves rule induction.
+
+By age four or five, children have mastered the core grammar of their language, sustain multi-turn conversation, and command a receptive vocabulary of several thousand words.
+
+An acquisition feat accomplished, for the most part, without explicit instruction.
+
+Lemetyinen, H. (2026). Language Acquisition Theory. Simply Psychology. https://www.simplypsychology.org/language.html
+
+Lemetyinen, Henna. "Language Acquisition Theory." Simply Psychology, 17 September 2026, https://www.simplypsychology.org/language.html.
+
+Lemetyinen, H. (2026) Language Acquisition Theory. Simply Psychology. Available at: https://www.simplypsychology.org/language.html (Accessed: 22 September 2026).
+
+### References
+
+Aitchison, J. (1983).The articulate mammal: An introduction to psycholinguistics(2nd ed.). Universe Books.
+
+Ambridge, B., & Lieven, E.V.M. (2011).Language Acquisition: Contrasting theoretical approaches. Cambridge: Cambridge University Press.
+
+Ambridge, B., Rowland, C. F., & Pine, J. M. (2008). Is structure dependence an innate constraint? New experimental evidence from children’s complex-question production.Cognitive Science, 32(1), 222–255. https://doi.org/10.1080/03640210701703766
+
+Chomsky, N. (1959). A review of B. F. Skinner’sVerbal Behavior.Language, 35(1), 26–58.
+
+Chomsky, N. (1965).Aspects of the Theory of Syntax. MIT Press.
+
+Dąbrowska, E. (2015). What exactly is Universal Grammar, and has anyone seen it?Frontiers in Psychology, 6, Article 852. https://doi.org/10.3389/fpsyg.2015.00852
+
+Everett, D. L. (2008).Don’t sleep, there are snakes: Life and language in the Amazonian jungle. Pantheon Books.
+
+Gardner, R. A., & Gardner, B. T. (1969). Teaching sign language to a chimpanzee.Science, 165(3894), 664–672. https://doi.org/10.1126/science.165.3894.664
+
+Hartshorne, J. K., Tenenbaum, J. B., & Pinker, S. (2018). A critical period for second language acquisition: Evidence from 2/3 million English speakers.Cognition, 177, 263–277. https://doi.org/10.1016/j.cognition.2018.04.007
+
+Hauser, M. D., Chomsky, N., & Fitch, W. T. (2002). The faculty of language: What is it, who has it, and how did it evolve?Science, 298(5598), 1569–1579. https://doi.org/10.1126/science.298.5598.1569
+
+Jackendoff, R., & Pinker, S. (2005). The nature of the language faculty and its implications for evolution of language (Reply to Fitch, Hauser, and Chomsky).Cognition, 97(2), 211–225. https://doi.org/10.1016/j.cognition.2005.04.006
+
+Krause, M. A., & Beran, M. J. (2020). Words matter: Reflections on language projects with chimpanzees and their implications.American Journal of Primatology, 82(10), Article e23187. https://doi.org/10.1002/ajp.23187
+
+Mayberry, R. I., Lock, E., & Kazmi, H. (2002). Linguistic ability and early language exposure.Nature, 417(6884), 38. https://doi.org/10.1038/417038a
+
+Pine, J.M., Conti-Ramsden, G., Joseph, K.L., Lieven, E.V.M., & Serratrice, L. (2008). Tense over time: testing the Agreement/Tense Omission Model as an account of the pattern of tense-marking provision in early child English.Journal of Child Language, 35(1): 55-75.
+
+Rowland, C. F.; & Noble, C. L. (2010). The role of syntactic structure in children’s sentence comprehension: Evidence from the dative.Language Learning and Development, 7(1): 55-75.
+
+Senghas, A., Kita, S., & Özyürek, A. (2004). Children creating core properties of language: Evidence from an emerging sign language in Nicaragua.Science, 305(5691), 1779–1782. https://doi.org/10.1126/science.1100199
+
+Skinner, B.F. (1957).Verbal behavior. Acton, MA: Copley Publishing Group.
+
+Terrace, H. S., Petitto, L. A., Sanders, R. J., & Bever, T. G. (1979). Can an ape create a sentence?Science, 206(4421), 891–902. https://doi.org/10.1126/science.504995
+
+Theakston, A.L., & Lieven, E.V.M. (2005). The acquisition of auxiliaries BE and HAVE: an elicitation study.Journal of Child Language, 32(2): 587-616.
+
+### Further Reading
+
+An excellent article by Steven Pinker onLanguage Acquisition
+
+Pinker, S. (1995).The New Science of Language and Mind. Penguin.
+
+Tomasello, M. (2005).Constructing A Language: A Usage-Based Theory of Language Acquisition. Harvard University Press.
+
+BSc (Hons) Psychology, MRes, PhD, University of Manchester
+
+Chartered Psychologist (CPsychol)
+
+Saul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.
+
+Olivia Guy-Evans, MSc
+
+BSc (Hons) Psychology, MSc Psychology of Education
+
+Associate Editor for Simply Psychology
+
+Olivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.
+
+Postdoctoral Researcher
+
+BSc (Hons), Psychology, PhD, Developmental Psychology
+
+Henna Lemetyinen is a postdoctoral research associate at the Greater Manchester Mental Health NHS Foundation Trust (GMMH).

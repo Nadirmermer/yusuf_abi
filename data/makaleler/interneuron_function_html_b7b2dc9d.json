@@ -1,0 +1,185 @@
+{
+  "id": "interneuron_function_html_b7b2dc9d",
+  "url": "https://www.simplypsychology.org/interneuron-function.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "What Are Interneurons And Their Functions?",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2025-07-04T08:22:36+00:00",
+  "date_modified": null,
+  "read_time_minutes": 5,
+  "word_count": 1071,
+  "summary": "Psychology»Biopsychology",
+  "topics": [],
+  "key_points": [
+    "1. Neurotransmitter Type",
+    "2. Molecular Markers",
+    "3. Shape and Structure"
+  ],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Biopsychology\n\nInterneurons(also known as relay neurons) are specialized nerve cells that primarily serve as connectors within the central nervous system(CNS). Their unique role is to facilitate communication between other neurons.\n\nTheir main job is toconnectother neurons, usually linkingsensory neurons(which detect stimuli) withmotor neurons(which trigger movement), or forming networks within the brain that handle complex processing.\n\nThey are incredibly numerous, making up around20–30% of all neurons in thecerebral cortex, and are essential for keeping brain activity balanced and coordinated.\n\nFor example, in spinal reflexes, interneurons in the spinal cord connect sensory neurons, which bring information into the CNS, withmotor neurons, which send commands out, allowing for immediate, automatic responses without direct brain involvement.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "What do interneurons do?",
+      "content": "Below are some of the main functions of interneurons:",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Relaying signals",
+      "content": "Interneurons are vital forrelaying messages, especially in quick, automatic responses like reflex arcs.\n\nFor example, in a withdrawal reflex, sensory neurons bring information (e.g., from touching a hot stove) into the spinal cord, where interneurons directly connect them to motor neurons.\n\nThis allows for immediate action without conscious brain involvement, saving crucial seconds. Similarly, in the visual system, rods and cones are connected to retinal ganglion cells via interneurons.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Processing information",
+      "content": "Within the brain, interneurons are deeply involved inintegrating sensory inputand higher-level signals.\n\nThey process vast streams of information from our senses, emotions, and memories, helping the brain to form coherent thoughts, perceptions, and plans.\n\nThis integrative function is fundamental to how we make sense of our environment and interpret complex information.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Modulation",
+      "content": "Interneurons play a significant role inmodulating neural signalsby determining whether a message isexcitatory or inhibitory.\n\nAn excitatory signal makes a receiving neuron more likely to fire, while an inhibitory signal decreases this likelihood.\n\nThis delicate balance, often mediated byneurotransmitterslikedopamine(excitatory) and GABA (inhibitory), allows for precise control of brain activity, preventing overstimulation or ensuring appropriate responses.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Cognitive Control",
+      "content": "These connector cells are fundamental tohigher cognitive functionssuch as learning, memory, and decision-making.\n\nThey facilitate the complex interactions between neurons necessary for forming new memories, engaging in problem-solving, and executing executive control processes like planning and judgment, particularly within areas like the frontal andprefrontal cortex.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Types of Interneurons",
+      "content": "Interneurons are incredibly diverse. They can be grouped by:",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "1. Neurotransmitter Type",
+      "content": "Most areGABAergic, meaning they use GABA to inhibit other neurons. Others useglycine,acetylcholine, orglutamate.\n\n- GABA (Gamma-Aminobutyric Acid):The brain’s main inhibitory neurotransmitter. It helps calm activity and prevent overstimulation.\n\n- Glycine:Another inhibitory neurotransmitter, mainly active in the spinal cord and brainstem.\n\n- Acetylcholine:Often involved in attention and learning. It can excite or inhibit neurons depending on the receptor.\n\n- Glutamate:The brain’s main excitatory neurotransmitter. It plays a key role in learning, memory, and brain development.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "2. Molecular Markers",
+      "content": "In the cortex, most fall into three major groups:\n\n- Parvalbumin (PV): Fast-spiking cells that tightly control timing.\n\n- Somatostatin (SST): Cells that target dendrites and regulate incoming signals.\n\n- Vasoactive intestinal peptide (VIP): Cells that inhibit other interneurons, creating a “disinhibitory” effect.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "3. Shape and Structure",
+      "content": "Some classic examples:\n\n- Basket cells: Wrap around the bodies of other neurons.\n\n- Chandelier cells: Target axon initial segments, where electrical signals begin.\n\n- Martinotti cells: Send axons to the outer layers of the cortex.\n\nEach type plays a distinct role, often targeting specific parts of nearby neurons.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Development and Plasticity",
+      "content": "Unlike excitatory neurons, which are born in the cortex,interneurons are generated elsewhere(in theganglionic eminences) and thenmigrate long distancesinto the cortex during development.\n\n- Integrate into circuitsby forming synapses with excitatory neurons and other interneurons.\n\n- Mature gradually, often helping open or closecritical periodsfor learning.\n\nEven in adulthood, interneurons remainplastic. Their connections can strengthen or weaken in response to experience, helping the brain adapt to new learning or injury.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Interneurons and Mental Health",
+      "content": "Disruption in interneuron function can lead to circuit imbalances linked to several psychological and neurological conditions:\n\n- Schizophrenia:Reduced activity in parvalbumin (PV) interneurons, especially in the prefrontal cortex, is associated with impaired cognitive function and disrupted gamma oscillations. These deficits may contribute to issues with attention and working memory.\n\n- Autism Spectrum Disorder (ASD):Reduced interneuron activity, particularly involving GABA signaling, may contribute tosensory overloadand difficulty with information processing, which may explain some signs of autism.\n\n- Epilepsy:Interneuron loss or dysfunction reduces inhibition in seizure-prone areas, leading to hyperexcitability.\n\n- Other Disorders:Interneurons are also implicated in anxiety, depression, Alzheimer’s disease, and Parkinson’s disease. In these conditions, disrupted inhibitory balance may affect fear regulation, mood, memory, and motor control.\n\nBecause interneurons are key to neural balance and coordination, they are central to research on brain disorders and treatment development.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Interneurons vs Sensory and Motor Neurons",
+      "content": "Below is how to know the difference between these types of neurons:\n\n- Sensory Neurons (Afferent):These neurons carry sensory informationfromthe body’s periphery (like receptor cells in our five senses)tothe central nervous system (CNS), which includes the brain and spinal cord. They “arrive” with information.\n\n- Motor Neurons (Efferent):These neurons transmit commandsfromthe CNStothe muscles and glands, dictating how the body should respond. They cause an “exit” of commands.\n\n- Interneurons:These are primarily foundwithinthe CNS (brain and spinal cord) and act as connectors. They link sensory neurons to motor neurons, and facilitate communication between other neurons for processing and modulation of signals.\n\nEach type plays a distinct role in the nervous system’s communication network.\n\nGuy-Evans, O. (2025). What Are Interneurons And Their Functions?. Simply Psychology. https://www.simplypsychology.org/interneuron-function.html\n\nGuy-Evans, Olivia. \"What Are Interneurons And Their Functions?.\" Simply Psychology, 4 July 2025, https://www.simplypsychology.org/interneuron-function.html.\n\nGuy-Evans, O. (2025) What Are Interneurons And Their Functions?. Simply Psychology. Available at: https://www.simplypsychology.org/interneuron-function.html (Accessed: 21 September 2026).\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.",
+      "order": 13,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/interneuron-function.jpg",
+      "alt": "What Are Interneurons And Their Functions?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-motor-relay-neurons-300x253.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cns-pns-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurons-vs-glial-cells-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/excitatory-vs-inhibitory-neurotransmitters-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/electrical-synapse-1-300x251.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/interneuron.jpg",
+      "alt": "interneuron",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurons.jpg",
+      "alt": "neurons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Interneuron-1.jpg",
+      "alt": "Interneuron 1",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/relay-neuron.jpg",
+      "alt": "relay neuron",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# What Are Interneurons And Their Functions?\n\n> Psychology»Biopsychology\n\n### Önemli Noktalar / Metotlar\n- 1. Neurotransmitter Type\n- 2. Molecular Markers\n- 3. Shape and Structure\n\n## Giriş\n\nPsychology»Biopsychology\n\nInterneurons(also known as relay neurons) are specialized nerve cells that primarily serve as connectors within the central nervous system(CNS). Their unique role is to facilitate communication between other neurons.\n\nTheir main job is toconnectother neurons, usually linkingsensory neurons(which detect stimuli) withmotor neurons(which trigger movement), or forming networks within the brain that handle complex processing.\n\nThey are incredibly numerous, making up around20–30% of all neurons in thecerebral cortex, and are essential for keeping brain activity balanced and coordinated.\n\nFor example, in spinal reflexes, interneurons in the spinal cord connect sensory neurons, which bring information into the CNS, withmotor neurons, which send commands out, allowing for immediate, automatic responses without direct brain involvement.\n\n## What do interneurons do?\n\nBelow are some of the main functions of interneurons:\n\n## Relaying signals\n\nInterneurons are vital forrelaying messages, especially in quick, automatic responses like reflex arcs.\n\nFor example, in a withdrawal reflex, sensory neurons bring information (e.g., from touching a hot stove) into the spinal cord, where interneurons directly connect them to motor neurons.\n\nThis allows for immediate action without conscious brain involvement, saving crucial seconds. Similarly, in the visual system, rods and cones are connected to retinal ganglion cells via interneurons.\n\n## Processing information\n\nWithin the brain, interneurons are deeply involved inintegrating sensory inputand higher-level signals.\n\nThey process vast streams of information from our senses, emotions, and memories, helping the brain to form coherent thoughts, perceptions, and plans.\n\nThis integrative function is fundamental to how we make sense of our environment and interpret complex information.\n\n## Modulation\n\nInterneurons play a significant role inmodulating neural signalsby determining whether a message isexcitatory or inhibitory.\n\nAn excitatory signal makes a receiving neuron more likely to fire, while an inhibitory signal decreases this likelihood.\n\nThis delicate balance, often mediated byneurotransmitterslikedopamine(excitatory) and GABA (inhibitory), allows for precise control of brain activity, preventing overstimulation or ensuring appropriate responses.\n\n## Cognitive Control\n\nThese connector cells are fundamental tohigher cognitive functionssuch as learning, memory, and decision-making.\n\nThey facilitate the complex interactions between neurons necessary for forming new memories, engaging in problem-solving, and executing executive control processes like planning and judgment, particularly within areas like the frontal andprefrontal cortex.\n\n## Types of Interneurons\n\nInterneurons are incredibly diverse. They can be grouped by:\n\n## 1. Neurotransmitter Type\n\nMost areGABAergic, meaning they use GABA to inhibit other neurons. Others useglycine,acetylcholine, orglutamate.\n\n- GABA (Gamma-Aminobutyric Acid):The brain’s main inhibitory neurotransmitter. It helps calm activity and prevent overstimulation.\n\n- Glycine:Another inhibitory neurotransmitter, mainly active in the spinal cord and brainstem.\n\n- Acetylcholine:Often involved in attention and learning. It can excite or inhibit neurons depending on the receptor.\n\n- Glutamate:The brain’s main excitatory neurotransmitter. It plays a key role in learning, memory, and brain development.\n\n## 2. Molecular Markers\n\nIn the cortex, most fall into three major groups:\n\n- Parvalbumin (PV): Fast-spiking cells that tightly control timing.\n\n- Somatostatin (SST): Cells that target dendrites and regulate incoming signals.\n\n- Vasoactive intestinal peptide (VIP): Cells that inhibit other interneurons, creating a “disinhibitory” effect.\n\n## 3. Shape and Structure\n\nSome classic examples:\n\n- Basket cells: Wrap around the bodies of other neurons.\n\n- Chandelier cells: Target axon initial segments, where electrical signals begin.\n\n- Martinotti cells: Send axons to the outer layers of the cortex.\n\nEach type plays a distinct role, often targeting specific parts of nearby neurons.\n\n## Development and Plasticity\n\nUnlike excitatory neurons, which are born in the cortex,interneurons are generated elsewhere(in theganglionic eminences) and thenmigrate long distancesinto the cortex during development.\n\n- Integrate into circuitsby forming synapses with excitatory neurons and other interneurons.\n\n- Mature gradually, often helping open or closecritical periodsfor learning.\n\nEven in adulthood, interneurons remainplastic. Their connections can strengthen or weaken in response to experience, helping the brain adapt to new learning or injury.\n\n## Interneurons and Mental Health\n\nDisruption in interneuron function can lead to circuit imbalances linked to several psychological and neurological conditions:\n\n- Schizophrenia:Reduced activity in parvalbumin (PV) interneurons, especially in the prefrontal cortex, is associated with impaired cognitive function and disrupted gamma oscillations. These deficits may contribute to issues with attention and working memory.\n\n- Autism Spectrum Disorder (ASD):Reduced interneuron activity, particularly involving GABA signaling, may contribute tosensory overloadand difficulty with information processing, which may explain some signs of autism.\n\n- Epilepsy:Interneuron loss or dysfunction reduces inhibition in seizure-prone areas, leading to hyperexcitability.\n\n- Other Disorders:Interneurons are also implicated in anxiety, depression, Alzheimer’s disease, and Parkinson’s disease. In these conditions, disrupted inhibitory balance may affect fear regulation, mood, memory, and motor control.\n\nBecause interneurons are key to neural balance and coordination, they are central to research on brain disorders and treatment development.\n\n## Interneurons vs Sensory and Motor Neurons\n\nBelow is how to know the difference between these types of neurons:\n\n- Sensory Neurons (Afferent):These neurons carry sensory informationfromthe body’s periphery (like receptor cells in our five senses)tothe central nervous system (CNS), which includes the brain and spinal cord. They “arrive” with information.\n\n- Motor Neurons (Efferent):These neurons transmit commandsfromthe CNStothe muscles and glands, dictating how the body should respond. They cause an “exit” of commands.\n\n- Interneurons:These are primarily foundwithinthe CNS (brain and spinal cord) and act as connectors. They link sensory neurons to motor neurons, and facilitate communication between other neurons for processing and modulation of signals.\n\nEach type plays a distinct role in the nervous system’s communication network.\n\nGuy-Evans, O. (2025). What Are Interneurons And Their Functions?. Simply Psychology. https://www.simplypsychology.org/interneuron-function.html\n\nGuy-Evans, Olivia. \"What Are Interneurons And Their Functions?.\" Simply Psychology, 4 July 2025, https://www.simplypsychology.org/interneuron-function.html.\n\nGuy-Evans, O. (2025) What Are Interneurons And Their Functions?. Simply Psychology. Available at: https://www.simplypsychology.org/interneuron-function.html (Accessed: 21 September 2026).\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-21T19:05:46.933406"
+}

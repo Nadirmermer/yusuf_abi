@@ -1,0 +1,151 @@
+{
+  "id": "neurons_vs_glial_cells_html_fb84d930",
+  "original_title": "Neurons Vs Glial Cells",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/neurons-vs-glial-cells.html",
+  "published_date": "2025-07-01T14:03:09+00:00",
+  "read_time_minutes": 5,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurons-vs-glial-cells.jpg",
+      "alt": "Neurons Vs Glial Cells",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Neuron.jpg",
+      "alt": "Neuron",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Glial-Cells-scaled.jpg",
+      "alt": "Glial Cells scaled",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Glial-Cells-300x206.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/interneuron-function-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-motor-relay-neurons-300x253.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cns-pns-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/excitatory-vs-inhibitory-neurotransmitters-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Interneuron-1.jpg",
+      "alt": "Interneuron 1",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Glial-cells.jpeg",
+      "alt": "Glial cells",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1032,
+  "turkce_baslik": "Beynin Görünmeyen Kahramanları: Neden Sadece Düşüncelerimizden İbaret Değiliz?",
+  "kanca_sorusu": "Zihinsel yorgunluğunuzun ve tükenmişliğinizin arkasında, beyninizi korumaya çalışan ama artık sessizce pes eden destek sisteminiz olabilir mi?",
+  "score": 45,
+  "puan_nedeni": "Makale temel biyopsikoloji ve nöroloji hücre yapısını (nöronlar ve glial hücreler) anlattığı için kuru akademik kategoriye girmektedir. İlişkisel bir dinamik veya doğrudan bir psikolojik örüntü barındırmadığı için puanı kasıtlı olarak düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Nöroloji literatüründe nöronlar her zaman başroldedir. Düşüncelerimiz, anılarımız, hissettiğimiz o yoğun duygular hep elektrik sinyalleri yayan bu hücrelere atfedilir. Oysa sinir sistemimizin arkasında, sahne arkasında tüm sistemi ayakta tutan glial hücreler vardır. Glial hücreler sinyal iletmezler; aksine nöronları beslerler, korurlar, yalıtırlar ve atıkları temizlerler. Psikolojik olarak buna benzer bir dinamik insan ilişkilerinde de kendini gösterir. Hayatta hep 'nöron' gibi parlayan, aksiyon alan, ses çıkaran yönlerimizle var olmaya çalışırız. Fakat bizi ayakta tutan, koruyan, o sessiz ve fedakar içsel destek sistemimiz (glial hücrelerimiz gibi) tükendiğinde, en parlak zihinsel süreçler bile çöküş yaşar. Zihinsel sağlığımız sadece ne kadar çok düşündüğümüzle değil, o düşünceleri taşıyan içsel ortamın ne kadar korunduğuyla ilgilidir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Beynin Görünmeyen Yükü",
+      "body": "Zihnimizin sadece düşünen değil, aynı zamanda hayatta kalmamızı sağlayan gizli bir arka planı vardır.",
+      "highlight_box": "Bütün yükü sadece nöronlar taşımaz.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Sahne Önü ve Sahne Arkası",
+      "body": "Nöronlar düşünceyi ve duyguyu üretirken, glial hücreler o ortamı yaşanabilir kular. Tıpkı insan ilişkilerindeki gizli fedakarlıklar gibi.",
+      "highlight_box": "Görünmeyen emek en çok yoran emekir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Destek Sisteminin Çöküşü",
+      "body": "Glial hücreler nöronları yalıtır ve besler. Hayatta da içsel destek sisteminiz bittiğinde zihinsel sinyalleriniz yavaşlar.",
+      "highlight_box": "Sürekli beyin sisi ve tükenmişlik hissi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Atıkların Temizlenememesi",
+      "body": "Nasıl ki bu hücreler beyindeki toksik atıkları temizliyorsa, zihinsel olarak da duygusal atıkları atmadığımızda sistem kilitlenir.",
+      "highlight_box": "Biriken duygusal toksinler.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Sistemi Yeniden Dengelemek",
+      "body": "Sadece üretmeye ve düşünmeye odaklanmayı bırakın. Zihninizin dinlenmeye ve korunmaya ihtiyacı var.",
+      "highlight_box": "Sınır koymak beyin sağlığının da temelidir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Beyniniz de siz de bir makine değilsiniz. Destek mekanizmalarınıza şefkat gösterin.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Beyninizdeki nöronlar sürekli savaşıyor sanıyorsunuz ama asıl tükenen arkadaki sessiz destekçiler.",
+    "konusma_metni": "Psikolojide ve nörolojide hep anı üreten, elektrik sinyali yayan nöronları konuşuruz. Oysa beynin asıl yükünü taşıyan, nöronları besleyen ve koruyan glial hücrelerdir. Hayatta da böyledir. Sürekli aksiyonda olan, üreten kısmımız kadar arkada bizi ayakta tutan, sessizce fedakarlık yapan o içsel destek sistemimiz vardır. Eğer sürekli tükenmiş hissediyorsanız, sorun nöronlarınızda yani yaptıklarınızda değil; o sistemi koruyan destek mekanizmalarınızın artık yorulmuş olmasındadır."
+  },
+  "caption": "Sinir sistemimizde nöronlar kadar önemli olan diğer hücreler glial hücrelerdir. Onlar sinyal iletmezler ancak nöronları besler, korur ve atıkları temizlerler. Tıpkı insan hayatında olduğu gibi; her zaman önde olan, aksiyon alan yönlerimiz kadar, arkada bizi ayakta tutan sessiz mekanizmalara da ihtiyacımız vardır. Sürekli tükenmişlik hissinin kökeninde bu içsel destek sisteminin ihmal edilmesi yatar. \n\n#nöroloji #biyopsikoloji #zihin #tükenmişlik #beyinsağlığı #farkındalık #psikoloji",
+  "processed_at": "2026-09-26 17:30:47"
+}

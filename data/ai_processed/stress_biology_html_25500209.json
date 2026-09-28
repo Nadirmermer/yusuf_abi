@@ -1,0 +1,139 @@
+{
+  "id": "stress_biology_html_25500209",
+  "original_title": "What is the Stress Response",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/stress-biology.html",
+  "published_date": "2026-06-19T08:43:52+00:00",
+  "read_time_minutes": 11,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hpa-stress-response.jpeg",
+      "alt": "What is the Stress Response",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hpa-stress-response-1024x1024.jpeg",
+      "alt": "Diagram of the stress response showing how the brain activates ACTH which causes cortisol and leads to physical reactions such as increased blood pressure and sweating",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hpa_axis-1024x683.jpg",
+      "alt": "hpa axis",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hpa_axis-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sympathetic-vs-parasympathetic-nervous-system-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Diathesis-Stress-Model-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/yerkes-dodson-law-300x194.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cns-pns-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitters-hormones-300x248.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2241,
+  "turkce_baslik": "Tükenmişlik Sendromu Değil, Kronik Tehdit Yanıtı: Bedenimiz Neden Sürekli Savaş Halinde?",
+  "kanca_sorusu": "Ortada hiçbir fiziksel tehlike yokken kalbinizin neden hızlandığını, zihninizin neden sürekli en kötü senaryoyu yazdığını hiç düşündünüz mü?",
+  "score": 48,
+  "puan_nedeni": "Metin temel biyopsikoloji ve nörobiyoloji üzerine kurulu, akademik ve fizyolojik terimler ağırlıklı. Doğrudan ilişkisel bir dinamik veya bağlanma örüntüsü sunmadığı için yüksek puan kriterini karşılamıyor ancak modern insanın kronik stres ve tükenmişlik deneyimine temas ettiği için orta düzeyde bırakıldı.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Modern insan, atalarımızın bin yıllar önce vahşi doğada hayatta kalmak için geliştirdiği hayatta kalma mekanizmalarını bugün ofis masalarında, loş odalarda veya ilişkisel belirsizlikler içinde tetikliyor. Beynimiz, bir iş sunumunu, sevgiliden gelen sessiz bir mesajı ya da geleceğe dair kaygıları kılıç dişli kaplanla aynı tehdit seviyesine koyuyor. Sempatik sinir sistemi devreye giriyor, adrenalin ve kortizol seviyeleri tavan yapıyor. Ancak sorun şu ki, bu acil durum tepkisi kronikleştiğinde beden sürekli bir savaş halinde kalıyor. Sindirim duruyor, zihin daralıyor, kaslar geriliyor ve nihayetinde tükenme evresi başlıyor. Ruhsal yorgunluk dediğimiz şey, aslında bedenin bu amansız alarm durumunun altında ezilmesinden başka bir şey değil.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Görünmeyen Tehlike",
+      "body": "Bedeniniz tehlike geçtikten çok sonra bile savaşmaya devam ediyorsa, sorun dış dünyada değil, içerideki alarm sistemindedir.",
+      "highlight_box": "Sürekli teyakkuz halindesiniz.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Modern Hayatın Yanılgısı",
+      "body": "Atalarımız fiziksel tehditler için savaş ya da kaç mekanizmasını geliştirdi. Bugün ise zihnimiz aynı tepkiyi psikolojik baskılara veriyor.",
+      "highlight_box": "Fiziksel olmayan tehditler biyolojik alarmı tetikler.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Ani Tepki (SAM Sistemi)",
+      "body": "Tehdit algılandığı an adrenalin salgılanır, kalp atışı hızlanır ve kan kaslara yönlendirilir. Düşünmeye vakit yoktur, hayatta kalma vakti vardır.",
+      "highlight_box": "Milisaniyeler içinde devreye girer.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Kronik Direnç ve Tükenme",
+      "body": "Tehdit bitmeyince kortizol devreye girer. Depolar boşalır, zihin bulanıklaşır ve beden direnci düşer. Buna modern dilde tükenmişlik denir.",
+      "highlight_box": "Kaynaklar tükendiğinde yorgunluk kalıcı olur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Sistemi Sakinleştirmek",
+      "body": "Bedeninize güvende olduğunuzu anlatmanın tek yolu nefesi yavaşlatmak, sinir sistemine tehlikede olmadığını somut yollarla hatırlatmaktır.",
+      "highlight_box": "Güvende hissedene kadar iyileşme başlamaz.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Yorgunluğunuz tembellikten değil, beyninizin sürekli sizi korumaya çalışmasından kaynaklanıyor. Kendinize biraz merhamet edin.",
+      "highlight_box": "Bu içeriği zihinsel bir mola için kaydet.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Ortada hiçbir tehlike yokken kalbiniz neden küt küt atıyor sanıyorsunuz?",
+    "konusma_metni": "Beyniniz, patronunuzun attığı tek bir mesajı ya da partnerinizin soğuk tavrını vahşi bir hayvan saldırısıyla aynı kefeye koyuyor. SAM sistemi ve kortizol devreye giriyor. Bedeniniz saniyeler içinde savaşa hazırlanıyor ama savaşacak ortada ne bir kaplan var ne de kaçacak bir dağ. Sürekli bu alarm halinde yaşamak, ruhsal değil, biyolojik bir tükenmedir."
+  },
+  "caption": "Hayatta kalmak için evrilen mekanizmalarımız, modern dünyanın bitmek bilmeyen talepleri karşısında bizi korumak yerine tüketiyor. Ortada somut bir fiziksel tehdit yokken bile sürekli bir savaş ya da kaç halinde yaşamak; bedenin enerji kaynaklarını tüketir, zihni daraltır ve ruhsal bir tükenmişliğe yol açar. Yorgunluğunuzun kökenini anlamak, iyileşmenin ilk adımıdır.\n\nPsikoloji, StresYönetimi, SinirSistemi, Tükenmişlik, Kaygı, Biyopsikoloji, İçselİyileşme",
+  "processed_at": "2026-09-26 02:44:17"
+}

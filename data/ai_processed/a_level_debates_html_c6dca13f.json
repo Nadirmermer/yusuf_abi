@@ -1,0 +1,133 @@
+{
+  "id": "a_level_debates_html_c6dca13f",
+  "original_title": "Issues and Debates in Psychology (A-Level Revision)",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/a-level-debates.html",
+  "published_date": "2026-04-14T13:03:55+00:00",
+  "read_time_minutes": 83,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/issues-and-debates-in-psychology-1-1.jpg",
+      "alt": "Issues and Debates in Psychology (A-Level Revision)",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/approaches3-300x228.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Freud-Therapy-300x228.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/My-project-1-46-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/nervous-system-1-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/criminal-offender-300x242.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/aggression-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/nature-nuture.gif",
+      "alt": "nature nurture psychology",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Deb-Gajic.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 16668,
+  "turkce_baslik": "Erkek Gözüyle Yazılmış Bir Dünyada Kadın Olmak: Bilimsel Önyargılar ve Psikolojinin Androsentrik Tarihi",
+  "kanca_sorusu": "Tarih boyunca ruh sağlığı ve normal insan davranışı tanımlanırken, aslında sadece erkeklerin deneyimleri mi baz alındı?",
+  "score": 45,
+  "puan_nedeni": "Metin temel olarak akademik psikoloji müfredatındaki cinsiyet önyargıları, androsentrizm ve determinizm gibi teorik kavramları ele almaktadır. Doğrudan ilişkisel bir içgörü veya günlük travma dinamiklerinden ziyade akademik bir epistemoloji incelemesi olduğu için orta-düşük puan almıştır.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "Psikoloji tarihi, uzun yıllar boyunca evrensel olduğunu iddia ettiği insan doğası yasalarını yazarken aslında yalnızca erkek deneyimini merkeze aldı. Androsentrizm olarak bilinen bu yaklaşım, erkek davranışını ve bakış açısını norm, kadın davranışını ise sapma veya eksiklik olarak kodladı. Freud'un psikanalitik teorilerinden otizm teşhis kriterlerine kadar birçok alan, kadınların gerçekliğini göz ardı etti ya da onları erkek standartlarına göre yargıladı. Bu durum, bireylerin kendi içsel dünyalarındaki sıkışmışlıkları kendi kusurları olarak zannetmesine yol açarken, aslında bilimsel bilginin kendisinin ne kadar taraflı olabileceğini gözler önüne seriyor.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Evrensel Olduğu Sanılan Önyargılar",
+      "body": "Psikolojide evrensellik iddiası, tüm insanlığı temsil etmeyen örneklemler üzerine kurulduğunda bir varsayımdan ibaret kalır.",
+      "highlight_box": "Bilim her zaman nesnel miydi?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Androsentrizm Nedir?",
+      "body": "Erkek bakış açısının norm kabul edildiği, kadın davranışlarının ise standart dışı veya kusurlu görüldüğü sistemli bir çarpıtmadır.",
+      "highlight_box": "Erkek davranışı norm, kadın davranışı sapma.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Tarihsel Örnekler: Freud ve Moral Gelişim",
+      "body": "Freud'un teorileri kadını eksiklik üzerinden tanımlarken, ahlak gelişim modelleri de erkeklerin muhakeme biçimini standart olarak aldı.",
+      "highlight_box": "Kadınlar erkek merkezli standartlarla yargılandı.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Teşhislerdeki Gizli Yanlışlık",
+      "body": "Otizm gibi birçok tanı kriteri erkek semptomlarına göre geliştirildiği için, kadınlar yıllarca yanlış teşhis aldı veya hiç fark edilmedi.",
+      "highlight_box": "Görünmeyen acılar ve eksik tanımlar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Gerçek Bir Eşitlik ve Farkındalık",
+      "body": "Farklılıkları yok sayan beta önyargısı ile farklılıkları abartan alfa önyargısı arasında sıkışmadan, insanı olduğu gibi kabul etmek gereklidir.",
+      "highlight_box": "Kusur olarak sunulan şey sistemin önyargısı olabilir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış & İçsel Hatırlatma",
+      "body": "Kendinizde yanlış olduğunu düşündüğünüz birçok özelliğin, aslında size dayatılmış dar kalıpların bir sonucu olabileceğini unutmayın.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Psikoloji tarihi boyunca normal insan davranışı denildiğinde aslında sadece erkekler mi kastediliyordu?",
+    "konusma_metni": "Bilim insanları yıllarca evrensel teoriler ürettiklerini sandılar. Ancak örneklem gruplarının tamamı erkeklerden oluşuyordu. Kadınların ahlaki gelişimi erkek standartlarına göre yargılandı, hatta kadınların yaşadığı psikolojik zorluklar tarihte yanlış teşhislerle bastırıldı. Androsentrizm, yani erkek merkezli bilim, sadece teorileri değil, bugün ruh sağlığımıza bakış açımızı bile şekillendiriyor."
+  },
+  "caption": "Bilimsel araştırmaların ve psikolojik teorilerin tarihsel süreçte tarafsız olduğu varsayılır. Oysa androsentrizm, yani erkek merkezli bakış açısı, uzun yıllar boyunca kadınların deneyimlerini ya yok saydı ya da anormal olarak etiketledi. Bu durum, bireylerin kendi içsel süreçlerini sorgularken aslında sistemin ürettiği önyargılarla baş etmeye çalışmasına neden oluyor. Bilimsel bilginin arkasındaki toplumsal dinamikleri fark etmek, kendi içgörümüzü kazanmanın ilk adımıdır.\n\n#psikoloji #cinsiyetönyargısı #androsentrizm #bilimselgerçekler #ruhsağlığı #toplumsalcinsiyet #zihinvetoplum",
+  "processed_at": "2026-09-26 02:44:29"
+}

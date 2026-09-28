@@ -1,0 +1,103 @@
+{
+  "id": "adhd_in_relationships_720ef510",
+  "original_title": "ADHD in Relationships",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/on-your-way-with-adhd/202502/adhd-in-relationships",
+  "published_date": "2025-02-13T09:15:01-05:00",
+  "read_time_minutes": 1,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2025-02/iStock-1370672622.jpg?itok=aA2lmcuv",
+      "alt": "ADHD in Relationships",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-01/Sharon-Saline.jpg?itok=HAfATauL",
+      "alt": "Sharon Saline Psy.D.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2025-02/iStock-1370672622.jpg?itok=6CKOeX-P",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2025-02/iStock-1003421732.jpg?itok=qR-M6PnB",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2025-02/iStock-2162647834.jpg?itok=vWRJrWZL",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 24,
+  "turkce_baslik": "İlişkilerde Dikkat Eksikliği: Adalet Değil İşbirliği",
+  "kanca_sorusu": "Partnerinizin dikkatsizliği veya unutkanlığı, ilişkide sürekli sizin sırtınıza binen bir sorumluluk yüküne mi dönüşüyor?",
+  "score": 88,
+  "puan_nedeni": "Konu doğrudan ilişkilerdeki güç dengesizliklerini, görünmeyen emek sömürüsünü ve partnerler arası tükenmişliği ele aldığı için takipçilerde yüksek düzeyde ayna etkisi yaratacaktır.",
+  "category": "İlişkiler & İletişim",
+  "editoryal_genis_metin": "İlişkilerde ADHD (Dikkat Eksikliği ve Hiperaktivite Bozukluğu) dinamikleri söz konusu olduğunda, mesele genellikle kimin haklı olduğu değil, yükün nasıl paylaşıldığıdır. Klasik ilişkisel beklentiler ve 'her şey %50 yarı yarıya olmalı' kuralı, nöro-farklılığın olduğu evlerde veya ortaklıklarda tamamen çöker. Çünkü adalet arayışı, kronik bir suçluluk ve yetersizlik döngüsünü tetikler. Bir taraf sürekli hatırlatıcı, organize edici ve denetleyici rolüne bürünürken, diğer taraf kendini sürekli eksik ve hata yapmaya mahkum hisseder.\n\nBu dinamik, iki insanı birbirini seven partnerler olmaktan çıkarıp, adeta yorucu bir yönetici-çalışan ilişkisine hapsetmektedir. Çözüm, eşitliği klasik anlamda aramak değil, işbirliğinin şeklini yeniden tanımlamaktır. Unutkanlığı bir ahlaki kusur veya 'beni umursamıyor' kanıtı olarak görmek yerine, nörolojik bir farklılık olarak kabul etmek gerekir. Sınırları yeniden çizmek, suçluluk duygusundan arınmış bir iletişim dili kurmak ve sorumlulukları kişinin bilişsel kapasitesine göre paylaştırmak, ilişkinin nefes almasını sağlayan temel adımlardır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Adalet Değil İşbirliği",
+      "body": "Nöro-farklılık içeren ilişkilerde klasik eşitlik kuralları işlemez.",
+      "highlight_box": "Yarı yarıya kuralı tükenmişlik yaratır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Ebeveyn-Çocuk Tuzağı",
+      "body": "Sürekli hatırlatan, organize eden taraf olmak bir süre sonra romantizmi bitirir.",
+      "highlight_box": "Partneriniz misiniz, yöneticisi mi?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Unutkanlığı Kişiselleştirmek",
+      "body": "Görevlerin unutulmasını 'beni önemsemiyor' şeklinde yorumlamak en yaygın hatadır.",
+      "highlight_box": "Bu bir karakter kusuru değil, nörolojidir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Görünmeyen Emeğin Yükü",
+      "body": "Zihinsel yükün tek bir kişinin omuzlarında kalması kronik öfke ve kırgınlık yaratır.",
+      "highlight_box": "Yalnız hissetmek en ağır yüktür.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Sınırları ve Rolleri Yeniden Yazmak",
+      "body": "Kimin hangi alanda zorlandığını kabul edip, suçluluk yaratmayan çözümler üretin.",
+      "highlight_box": "Güçlü yönlerinize göre görev paylaşımı yapın.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış",
+      "body": "İlişkiyi kurtarmak, kusursuz bir adalet sağlamakla değil, birbirinizin farklılıklarına alan açmakla mümkündür.",
+      "highlight_box": "Kaydedin ve birlikte olduğunuz kişiyle bu akşam konuşun.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Partnerinizin her şeyi unutması veya dikkatsiz davranması sizi onun ebeveyni haline mi getirdi?",
+    "konusma_metni": "İlişkilerde ADHD dinamikleri söz konusu olduğunda en büyük hata, her şeyin elli elli paylaşılmasını beklemektir. Bu adalet arayışı, bir tarafı sürekli yönetici, diğer tarafı ise suçlu konumuna getirir. Mesele kimin haklı olduğu değil, bu yükü birlikte nasıl taşıyacağınızdır. Sürekli hatırlatmak zorunda kalmaktan yorulduysanız, adaleti değil işbirliğini seçmenin vakti gelmiştir."
+  },
+  "caption": "İlişkilerde ADHD veya dikkat dalgalanmaları söz konusu olduğunda, çiftler genellikle görünmeyen bir adalet savaşının ortasında kalır. Her şeyin eşit oranda paylaşılmasını beklemek, nöro-farklılık barındıran ilişkilerde tükenmişliğin en büyük sebebidir. Bir taraf sürekli hatırlatıcı ve yönetici rolünü üstlenirken, diğer taraf kendini yetersiz hisseder.\n\nMesele kimin haklı olduğu ya da kimin daha çok iş yaptığı değildir. Mesele, bu yükü birbirinizi suçlamadan, kapasitelere uygun bir işbirliğiyle nasıl sırtlanacağınızdır. Bu dinamikleri ilişkinizde fark ediyor musunuz? Yorumlarda buluşalım.\n\n#İlişkiler #DikkatEksikliği #ÇiftTerapisi #İletişim #Psikoloji #Sınırlar #YaDaPsikoloji",
+  "processed_at": "2026-09-28 02:35:57"
+}

@@ -1,0 +1,192 @@
+{
+  "id": "game_theory_html_2b0de12a",
+  "url": "https://www.simplypsychology.org/game-theory.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Game Theory in Psychology: Examples and Strategies",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2026-09-17T11:06:11+00:00",
+  "date_modified": null,
+  "read_time_minutes": 14,
+  "word_count": 2736,
+  "summary": "Psychology»Social Psychology",
+  "topics": [],
+  "key_points": [
+    "The Prisoner’s Dilemma",
+    "The Ultimatum Game",
+    "The Volunteer’s Dilemma",
+    "The Centipede Game"
+  ],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Social Psychology\n\nGame theory is a theoretical framework that is used for the optimal decision-making of players in a strategic setting. A key characteristic of game theory is that a player’s payoff is dependent on the strategy of other players.\n\nGame theory is thought to apply to any situation with two or more players where there are known payoffs or quantifiable consequences. This theory helps players to determine the most likely outcomes while considering the actions and choices of others, which will affect the result.\n\nJohn von Neumann, a mathematician and physicist, was believed to have developed the idea of game theory. He collaborated with economist Oskar Morgenstern on a book calledA Theory of Games and Economic Behavior; in 1944.\n\nThe book asserts that any economic situation could be defined as the outcome of a game between two or more players.\n\n- Components of a Game\n\n- Cooperative vs. Non-Cooperative\n\n- Game Strategy\n\n- Nash Equilibrium\n\n- When it's Used\n\n- Relation to Psychology",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "What are the components of a game?",
+      "content": "The components that are necessary to a game, according to game theory, are:",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Players",
+      "content": "A player is a strategic decision-maker within the context of the game. A game needs to have at least two players to be considered a game. If someone is the sole player, then the game theory would not apply. The players also need to be able to interact with each other in some way.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Strategy",
+      "content": "Strategies are the actions that the players take in a game depending on the circumstances that might arise in the game.\n\nStrategy is often based on personal self-interest and what the other players are expected to do.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Other elements of a game",
+      "content": "In a game, players share ‘common’ knowledge of the rules, strategies available to them, and the possible payoffs of the game. There is often an ‘information set,’ which is the information available at any given point in the game.\n\nThis term is usually applicable when the game has a sequential component.\n\nTo end the game is to reach equilibrium, which is the point in the game where the players have made their decision, and an outcome is reached.\n\nThe main principles of a game are that it can be assumed that the players act rationally and they act according to their personal self-interest.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "The Prisoner’s Dilemma",
+      "content": "This game is one of the most well-known examples of game theory. There are many variations of the game, but one of the scenarios is as follows:\n\n- There are two criminals who are caught red-handed for committing a crime together.\n\n- They are taken to the police station and are placed in separate interrogation rooms for questioning, so neither can communicate with one another.\n\n- The prisoners are told that if they both confess to the crime, then they will each receive a 5-year jail sentence. If neither confesses, they will each serve a 2-year sentence.\n\n- However, if one prisoner confesses, but the other does not, the prisoner who confesses will serve a 3-year sentence, whereas the one who does not confess will serve nine years.\n\nThere are two criminals who are caught red-handed for committing a crime together.\n\nThey are taken to the police station and are placed in separate interrogation rooms for questioning, so neither can communicate with one another.\n\nThe prisoners are told that if they both confess to the crime, then they will each receive a 5-year jail sentence. If neither confesses, they will each serve a 2-year sentence.\n\nHowever, if one prisoner confesses, but the other does not, the prisoner who confesses will serve a 3-year sentence, whereas the one who does not confess will serve nine years.\n\nThe dilemma in this scenario is that the payoff of each prisoner is dependent on the behavior of the other. If they were able to confer, they might agree not to confess to getting a shorter jail sentence.\n\nHowever, there is no certainty of what the other person will do. To avoid the worst-case scenario of 9 years, the safest option is to confess and receive a maximum of a 5-year sentence.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "The Ultimatum Game",
+      "content": "This game is a simple take-it-or-leave-it bargaining game involving two players. One player is assigned as the proposer, while the other is the responder.\n\nThe proposer is allocated a sum of money, for instance, $4. They then must decide how much of this $4 to give the responder. The responder decides whether to accept or reject the offer.\n\nIf the responder accepts, the players split the money in the way the proposer suggested. If the responder rejects the offer, neither player gets any money.\n\nSome proposers may act in self-interest and offer a low amount, but then there is a likely risk that the responder will not accept the offer, and they both get nothing.\n\nHowever, some suggest that the responder should accept any offer, even as low as $1, since it may not be much, but it is still a gain.\n\nThis game assumes that the players are rational, although, in reality, there can be many factors that could influence someone’s decision.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "The Volunteer’s Dilemma",
+      "content": "In a volunteer’s dilemma, someone must undertake a chore or job for the good of everyone. This is often a relatively unpleasant task that everyone presumably has the skills to complete but no one really wants to do.\n\nIn the worst-case scenario, the task does not get done, and everyone in the group suffers consequently.\n\nExamples of tasks can include chores such as cleaning up, repairing a broken item, or completing a group project.\n\nEach member of the group needs to decide whether to be the one to step forward to complete the task or not.\n\nSince there is no added benefit for the volunteer to carry out the task, there is no real incentive for acting since everyone else benefits as well.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "The Centipede Game",
+      "content": "This is an extensive-form game in which two players alternately have the chance to take a larger share of a slowly increasing pot of money.\n\nIt is arranged so that if a player passes the money pot to the other player, who then takes the money, the player receives a smaller amount than if they had taken the pot.\n\nThe game ends when a player decides to take the pot of money, with that player getting the larger portion and the other getting the smaller share. There are 100 total rounds, but the game can end at any point, even after the first round.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Cooperative vs. non-cooperative game theories",
+      "content": "Cooperative and non-cooperative game theories are the most common types of game theory.\n\nCooperative game theory looks at how cooperative groups, or coalitions, interact when only the payoffs are known. It is a game between groups of players rather than between individuals.\n\nNon-cooperative games deal with how rational players deal with each other to achieve their own goals.\n\nIt is a game with competition between individual players in which only the available strategies and the outcomes that result from a combination of choices are listed.\n\nAn example of a real-world non-cooperative game is rock-paper-scissors.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Types of game strategy",
+      "content": "Below are some of the game strategies that players can use according to game theory:",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Maximax strategy",
+      "content": "A maximax strategy is used when the player attempts to obtain the maximum possible payoff available. The player who uses this strategy will prefer to take a chance of achieving the best possible outcome, even if a highly unfavorable outcome is possible.\n\nIn the Prisoner’s Dilemma, the player who uses the maximax strategy would choose the option with the smallest prison sentence no matter what the other person chooses.\n\nThis strategy is often viewed as naïve and overly optimistic since it assumes there will be a highly favorable environment for the player, which may not always be the case.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Maximin strategy",
+      "content": "A maximin strategy is where a player chooses the best of the worst payoff. This is commonly chosen when a player cannot fully rely on the other players to keep to any prior agreement.\n\nIn the Prisoner’s Dilemma, the worst payoff from confessing is to get five years (if the other player confesses), and the worst payoff from denying is nine years (if the other player confesses).\n\nThus, the best of the worst payoff, the maximin strategy, is to confess.",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "Dominant strategy",
+      "content": "The dominant strategy is the best outcome for the player, irrespective of what the other players decide to do. In the case of the Prisoner’s Dilemma, the dominant strategy would be for each player to confess.\n\nHowever, while the dominant strategy may be great in the case of non-alternative if someone is part of a game with more dominant strategies (e.g., each player has a dominant strategy), then this approach will not be optimal.",
+      "order": 14,
+      "items": []
+    },
+    {
+      "heading": "What is Nash Equilibrium?",
+      "content": "Nash Equilibrium is named after economist John Nash who proposed that even in high-level competitive games, there exists an ‘equilibrium’ where no side would benefit from changing course.\n\nNash equilibrium is a solution to a game involving two or more players who want the best outcome for themselves. In order to reach this equilibrium, players must consider the actions of others.\n\nConsidering the Prisoner’s Dilemma game theory, we can work out the Nash Equilibrium of the choices both prisoners make:\n\n- The best option for prisoner one, if prisoner 2 confesses, is to also confess because if they deny the crimes, prisoner one will receive a 9-year sentence.\n\n- The best option for prisoner one if prisoner 2 denies the crimes is to also deny to only have a 2-year sentence.\n\nThe best option for prisoner one, if prisoner 2 confesses, is to also confess because if they deny the crimes, prisoner one will receive a 9-year sentence.\n\nThe best option for prisoner one if prisoner 2 denies the crimes is to also deny to only have a 2-year sentence.\n\nThus, the Nash Equilibrium would be achieved if either both prisoners deny or they both confess.\n\nHowever, as previously stated, one prisoner cannot be sure what the other is going to do, so the most optimal course of action is to confess to avoid the worst possible outcome.\n\nSometimes, there is one Nash Equilibrium in a game, but often there can be more than one, as evident from the Prisoner’s Dilemma.\n\nIn simultaneous games that are repeated over time, one of the multiple equilibria is reached after some trial and error.\n\nThe Nash Equilibrium can also be thought of as ‘no regrets’ in the sense that, once a decision is made, the player will have no regrets concerning their decision when considering the consequences. Equilibrium is usually reached over time and once found, it will not be deviated from.\n\nOne can consider how taking a different move would affect the situation, and if it does not make sense, then that means that one has found Nash Equilibrium.",
+      "order": 15,
+      "items": []
+    },
+    {
+      "heading": "What is game theory used for?",
+      "content": "Game theory can be applied to many aspects of life outside of the dilemma games. Some examples of everyday life applications include:\n\n- Rock, paper, scissors game\n\n- War strategies and conflict analysis\n\n- Market shares and stockholders\n\n- Business strategy\n\nRock, paper, scissors game\n\nWar strategies and conflict analysis\n\nMarket shares and stockholders\n\nWhen applying game theory to business, for instance, there are a number of strategic choices which govern their ability to achieve a desired payoff.\n\n- Make decisions on price and output\n\n- Make decisions on products as to whether to keep existing products or develop new ones.\n\n- Make decisions on promoting products, such as whether to spend more on advertising, spend less, or keep things constant.\n\n- Derive a range of payoffs from their strategy choices, such as making profits, improved chances of survival, and getting rid of rivals.\n\nMake decisions on price and output\n\nMake decisions on products as to whether to keep existing products or develop new ones.\n\nMake decisions on promoting products, such as whether to spend more on advertising, spend less, or keep things constant.\n\nDerive a range of payoffs from their strategy choices, such as making profits, improved chances of survival, and getting rid of rivals.",
+      "order": 16,
+      "items": []
+    },
+    {
+      "heading": "How does game theory relate to psychology?",
+      "content": "While game theory can be used and explored across a variety of fields, it can also be used in the context of human psychology.\n\nBy using methods such as eye trackers, electroencephalography (EEG), and galvanic skin response (GSR), researchers can understand the decision-making process within games.\n\nA study used GSR within the Ultimatum game to investigate how emotions can impact decision-making (Hajcak et al., 2004). It is thought that GSR responses are associated with aversive stimuli.\n\nThe researchers found that less ‘rational’ behavior was associated with GSR responses. In the Ultimatum game, a rational response would be to always accept the offered money, as this is better than receiving no money.\n\nOther researchers have looked at brain activity in participants taking part in the Prisoner’s Dilemma game (Babiloni et al., 2007).\n\nUsing EEG, an association was found between cortical activity in the anterior cingulate – an area associated with emotional control – and the likelihood of betrayal.\n\nThis is potentially one way that shows the processes controlling how humans make emotional decisions.\n\nIn a study by Harlé & Sanfey (2007), participants’ emotions were before taking part in the Ultimatum game by watching short movie clips. It was found that induced sadness (from sad movie clips) interacted with offer fairness in the game, with higher sadness resulting in lower acceptance of unfair offers.\n\nThis result demonstrates that even subtle incidental moods can play an important role in biased decision-making.\n\nA further study used eye-tracking glasses to study the characteristics of visual perception in decision-making in the Prisoner’s Dilemma game (Peshkovskaya et al., 2017).\n\nThe total viewing time and the time of fixation on areas corresponding to non-cooperative decisions related to the participant’s levels of cooperation.\n\nNamely, increased attention to non-cooperative choices was associated with such outcomes.\n\nGuy-Evans, O. (2026). Game Theory in Psychology: Examples and Strategies. Simply Psychology. https://www.simplypsychology.org/game-theory.html\n\nGuy-Evans, Olivia. \"Game Theory in Psychology: Examples and Strategies.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/game-theory.html.\n\nGuy-Evans, O. (2026) Game Theory in Psychology: Examples and Strategies. Simply Psychology. Available at: https://www.simplypsychology.org/game-theory.html (Accessed: 21 September 2026).",
+      "order": 17,
+      "items": []
+    },
+    {
+      "heading": "References",
+      "content": "Babiloni, F., Astolfi, L., Cincotti, F., Mattia, D., Tocci, A., Tarantino, A., Marciani, M., Salinari, S., Gao, S., Colosimo, A. & Fallani, F. D. V. (2007, August). Cortical activity and connectivity of human brain during the prisoner’s dilemma: an EEG hyperscanning study.In 2007 29th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(pp. 4953-4956). IEEE.\n\nEconomics Online. (2020, January 20). Game Theory.https://www.economicsonline.co.uk/business_economics/prisoners_dilemma.html/\n\nFarnsworth, B. (2018, August 21). Game Theory and Human Behavior [Introduction and Examples]. IMotions.https://imotions.com/blog/game-theory-introduction-examples/\n\nHajcak, G., McDonald, N., & Simons, R. F. (2004). Error-related psychophysiology and negative affect.Brain and cognition, 56(2), 189-197.\n\nHarlé, K. M., & Sanfey, A. G. (2007). Incidental sadness biases social economic decisions in the Ultimatum Game.Emotion, 7(4), 876.\n\nPeshkovskaya, A. G., Babkina, T. S., Myagkov, M. G., Kulikov, I. A., Ekshova, K. V., & Harriff, K. (2017). The socialization effect on decision making in the Prisoner’s Dilemma game: An eye-tracking study.PloS one, 12(4), e0175492.\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.",
+      "order": 18,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/game-theory.jpeg",
+      "alt": "Game Theory in Psychology: Examples and Strategies",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/rational-choice-theory-300x157.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-cognitive-theory-300x145.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-identity-theory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/frustration-aggression-hypothesis-300x139.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/resolution-cognitive-dissonance-300x231.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/groupthink-300x285.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Game Theory in Psychology: Examples and Strategies\n\n> Psychology»Social Psychology\n\n### Önemli Noktalar / Metotlar\n- The Prisoner’s Dilemma\n- The Ultimatum Game\n- The Volunteer’s Dilemma\n- The Centipede Game\n\n## Giriş\n\nPsychology»Social Psychology\n\nGame theory is a theoretical framework that is used for the optimal decision-making of players in a strategic setting. A key characteristic of game theory is that a player’s payoff is dependent on the strategy of other players.\n\nGame theory is thought to apply to any situation with two or more players where there are known payoffs or quantifiable consequences. This theory helps players to determine the most likely outcomes while considering the actions and choices of others, which will affect the result.\n\nJohn von Neumann, a mathematician and physicist, was believed to have developed the idea of game theory. He collaborated with economist Oskar Morgenstern on a book calledA Theory of Games and Economic Behavior; in 1944.\n\nThe book asserts that any economic situation could be defined as the outcome of a game between two or more players.\n\n- Components of a Game\n\n- Cooperative vs. Non-Cooperative\n\n- Game Strategy\n\n- Nash Equilibrium\n\n- When it's Used\n\n- Relation to Psychology\n\n## What are the components of a game?\n\nThe components that are necessary to a game, according to game theory, are:\n\n## Players\n\nA player is a strategic decision-maker within the context of the game. A game needs to have at least two players to be considered a game. If someone is the sole player, then the game theory would not apply. The players also need to be able to interact with each other in some way.\n\n## Strategy\n\nStrategies are the actions that the players take in a game depending on the circumstances that might arise in the game.\n\nStrategy is often based on personal self-interest and what the other players are expected to do.\n\n## Other elements of a game\n\nIn a game, players share ‘common’ knowledge of the rules, strategies available to them, and the possible payoffs of the game. There is often an ‘information set,’ which is the information available at any given point in the game.\n\nThis term is usually applicable when the game has a sequential component.\n\nTo end the game is to reach equilibrium, which is the point in the game where the players have made their decision, and an outcome is reached.\n\nThe main principles of a game are that it can be assumed that the players act rationally and they act according to their personal self-interest.\n\n## The Prisoner’s Dilemma\n\nThis game is one of the most well-known examples of game theory. There are many variations of the game, but one of the scenarios is as follows:\n\n- There are two criminals who are caught red-handed for committing a crime together.\n\n- They are taken to the police station and are placed in separate interrogation rooms for questioning, so neither can communicate with one another.\n\n- The prisoners are told that if they both confess to the crime, then they will each receive a 5-year jail sentence. If neither confesses, they will each serve a 2-year sentence.\n\n- However, if one prisoner confesses, but the other does not, the prisoner who confesses will serve a 3-year sentence, whereas the one who does not confess will serve nine years.\n\nThere are two criminals who are caught red-handed for committing a crime together.\n\nThey are taken to the police station and are placed in separate interrogation rooms for questioning, so neither can communicate with one another.\n\nThe prisoners are told that if they both confess to the crime, then they will each receive a 5-year jail sentence. If neither confesses, they will each serve a 2-year sentence.\n\nHowever, if one prisoner confesses, but the other does not, the prisoner who confesses will serve a 3-year sentence, whereas the one who does not confess will serve nine years.\n\nThe dilemma in this scenario is that the payoff of each prisoner is dependent on the behavior of the other. If they were able to confer, they might agree not to confess to getting a shorter jail sentence.\n\nHowever, there is no certainty of what the other person will do. To avoid the worst-case scenario of 9 years, the safest option is to confess and receive a maximum of a 5-year sentence.\n\n## The Ultimatum Game\n\nThis game is a simple take-it-or-leave-it bargaining game involving two players. One player is assigned as the proposer, while the other is the responder.\n\nThe proposer is allocated a sum of money, for instance, $4. They then must decide how much of this $4 to give the responder. The responder decides whether to accept or reject the offer.\n\nIf the responder accepts, the players split the money in the way the proposer suggested. If the responder rejects the offer, neither player gets any money.\n\nSome proposers may act in self-interest and offer a low amount, but then there is a likely risk that the responder will not accept the offer, and they both get nothing.\n\nHowever, some suggest that the responder should accept any offer, even as low as $1, since it may not be much, but it is still a gain.\n\nThis game assumes that the players are rational, although, in reality, there can be many factors that could influence someone’s decision.\n\n## The Volunteer’s Dilemma\n\nIn a volunteer’s dilemma, someone must undertake a chore or job for the good of everyone. This is often a relatively unpleasant task that everyone presumably has the skills to complete but no one really wants to do.\n\nIn the worst-case scenario, the task does not get done, and everyone in the group suffers consequently.\n\nExamples of tasks can include chores such as cleaning up, repairing a broken item, or completing a group project.\n\nEach member of the group needs to decide whether to be the one to step forward to complete the task or not.\n\nSince there is no added benefit for the volunteer to carry out the task, there is no real incentive for acting since everyone else benefits as well.\n\n## The Centipede Game\n\nThis is an extensive-form game in which two players alternately have the chance to take a larger share of a slowly increasing pot of money.\n\nIt is arranged so that if a player passes the money pot to the other player, who then takes the money, the player receives a smaller amount than if they had taken the pot.\n\nThe game ends when a player decides to take the pot of money, with that player getting the larger portion and the other getting the smaller share. There are 100 total rounds, but the game can end at any point, even after the first round.\n\n## Cooperative vs. non-cooperative game theories\n\nCooperative and non-cooperative game theories are the most common types of game theory.\n\nCooperative game theory looks at how cooperative groups, or coalitions, interact when only the payoffs are known. It is a game between groups of players rather than between individuals.\n\nNon-cooperative games deal with how rational players deal with each other to achieve their own goals.\n\nIt is a game with competition between individual players in which only the available strategies and the outcomes that result from a combination of choices are listed.\n\nAn example of a real-world non-cooperative game is rock-paper-scissors.\n\n## Types of game strategy\n\nBelow are some of the game strategies that players can use according to game theory:\n\n## Maximax strategy\n\nA maximax strategy is used when the player attempts to obtain the maximum possible payoff available. The player who uses this strategy will prefer to take a chance of achieving the best possible outcome, even if a highly unfavorable outcome is possible.\n\nIn the Prisoner’s Dilemma, the player who uses the maximax strategy would choose the option with the smallest prison sentence no matter what the other person chooses.\n\nThis strategy is often viewed as naïve and overly optimistic since it assumes there will be a highly favorable environment for the player, which may not always be the case.\n\n## Maximin strategy\n\nA maximin strategy is where a player chooses the best of the worst payoff. This is commonly chosen when a player cannot fully rely on the other players to keep to any prior agreement.\n\nIn the Prisoner’s Dilemma, the worst payoff from confessing is to get five years (if the other player confesses), and the worst payoff from denying is nine years (if the other player confesses).\n\nThus, the best of the worst payoff, the maximin strategy, is to confess.\n\n## Dominant strategy\n\nThe dominant strategy is the best outcome for the player, irrespective of what the other players decide to do. In the case of the Prisoner’s Dilemma, the dominant strategy would be for each player to confess.\n\nHowever, while the dominant strategy may be great in the case of non-alternative if someone is part of a game with more dominant strategies (e.g., each player has a dominant strategy), then this approach will not be optimal.\n\n## What is Nash Equilibrium?\n\nNash Equilibrium is named after economist John Nash who proposed that even in high-level competitive games, there exists an ‘equilibrium’ where no side would benefit from changing course.\n\nNash equilibrium is a solution to a game involving two or more players who want the best outcome for themselves. In order to reach this equilibrium, players must consider the actions of others.\n\nConsidering the Prisoner’s Dilemma game theory, we can work out the Nash Equilibrium of the choices both prisoners make:\n\n- The best option for prisoner one, if prisoner 2 confesses, is to also confess because if they deny the crimes, prisoner one will receive a 9-year sentence.\n\n- The best option for prisoner one if prisoner 2 denies the crimes is to also deny to only have a 2-year sentence.\n\nThe best option for prisoner one, if prisoner 2 confesses, is to also confess because if they deny the crimes, prisoner one will receive a 9-year sentence.\n\nThe best option for prisoner one if prisoner 2 denies the crimes is to also deny to only have a 2-year sentence.\n\nThus, the Nash Equilibrium would be achieved if either both prisoners deny or they both confess.\n\nHowever, as previously stated, one prisoner cannot be sure what the other is going to do, so the most optimal course of action is to confess to avoid the worst possible outcome.\n\nSometimes, there is one Nash Equilibrium in a game, but often there can be more than one, as evident from the Prisoner’s Dilemma.\n\nIn simultaneous games that are repeated over time, one of the multiple equilibria is reached after some trial and error.\n\nThe Nash Equilibrium can also be thought of as ‘no regrets’ in the sense that, once a decision is made, the player will have no regrets concerning their decision when considering the consequences. Equilibrium is usually reached over time and once found, it will not be deviated from.\n\nOne can consider how taking a different move would affect the situation, and if it does not make sense, then that means that one has found Nash Equilibrium.\n\n## What is game theory used for?\n\nGame theory can be applied to many aspects of life outside of the dilemma games. Some examples of everyday life applications include:\n\n- Rock, paper, scissors game\n\n- War strategies and conflict analysis\n\n- Market shares and stockholders\n\n- Business strategy\n\nRock, paper, scissors game\n\nWar strategies and conflict analysis\n\nMarket shares and stockholders\n\nWhen applying game theory to business, for instance, there are a number of strategic choices which govern their ability to achieve a desired payoff.\n\n- Make decisions on price and output\n\n- Make decisions on products as to whether to keep existing products or develop new ones.\n\n- Make decisions on promoting products, such as whether to spend more on advertising, spend less, or keep things constant.\n\n- Derive a range of payoffs from their strategy choices, such as making profits, improved chances of survival, and getting rid of rivals.\n\nMake decisions on price and output\n\nMake decisions on products as to whether to keep existing products or develop new ones.\n\nMake decisions on promoting products, such as whether to spend more on advertising, spend less, or keep things constant.\n\nDerive a range of payoffs from their strategy choices, such as making profits, improved chances of survival, and getting rid of rivals.\n\n## How does game theory relate to psychology?\n\nWhile game theory can be used and explored across a variety of fields, it can also be used in the context of human psychology.\n\nBy using methods such as eye trackers, electroencephalography (EEG), and galvanic skin response (GSR), researchers can understand the decision-making process within games.\n\nA study used GSR within the Ultimatum game to investigate how emotions can impact decision-making (Hajcak et al., 2004). It is thought that GSR responses are associated with aversive stimuli.\n\nThe researchers found that less ‘rational’ behavior was associated with GSR responses. In the Ultimatum game, a rational response would be to always accept the offered money, as this is better than receiving no money.\n\nOther researchers have looked at brain activity in participants taking part in the Prisoner’s Dilemma game (Babiloni et al., 2007).\n\nUsing EEG, an association was found between cortical activity in the anterior cingulate – an area associated with emotional control – and the likelihood of betrayal.\n\nThis is potentially one way that shows the processes controlling how humans make emotional decisions.\n\nIn a study by Harlé & Sanfey (2007), participants’ emotions were before taking part in the Ultimatum game by watching short movie clips. It was found that induced sadness (from sad movie clips) interacted with offer fairness in the game, with higher sadness resulting in lower acceptance of unfair offers.\n\nThis result demonstrates that even subtle incidental moods can play an important role in biased decision-making.\n\nA further study used eye-tracking glasses to study the characteristics of visual perception in decision-making in the Prisoner’s Dilemma game (Peshkovskaya et al., 2017).\n\nThe total viewing time and the time of fixation on areas corresponding to non-cooperative decisions related to the participant’s levels of cooperation.\n\nNamely, increased attention to non-cooperative choices was associated with such outcomes.\n\nGuy-Evans, O. (2026). Game Theory in Psychology: Examples and Strategies. Simply Psychology. https://www.simplypsychology.org/game-theory.html\n\nGuy-Evans, Olivia. \"Game Theory in Psychology: Examples and Strategies.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/game-theory.html.\n\nGuy-Evans, O. (2026) Game Theory in Psychology: Examples and Strategies. Simply Psychology. Available at: https://www.simplypsychology.org/game-theory.html (Accessed: 21 September 2026).\n\n## References\n\nBabiloni, F., Astolfi, L., Cincotti, F., Mattia, D., Tocci, A., Tarantino, A., Marciani, M., Salinari, S., Gao, S., Colosimo, A. & Fallani, F. D. V. (2007, August). Cortical activity and connectivity of human brain during the prisoner’s dilemma: an EEG hyperscanning study.In 2007 29th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(pp. 4953-4956). IEEE.\n\nEconomics Online. (2020, January 20). Game Theory.https://www.economicsonline.co.uk/business_economics/prisoners_dilemma.html/\n\nFarnsworth, B. (2018, August 21). Game Theory and Human Behavior [Introduction and Examples]. IMotions.https://imotions.com/blog/game-theory-introduction-examples/\n\nHajcak, G., McDonald, N., & Simons, R. F. (2004). Error-related psychophysiology and negative affect.Brain and cognition, 56(2), 189-197.\n\nHarlé, K. M., & Sanfey, A. G. (2007). Incidental sadness biases social economic decisions in the Ultimatum Game.Emotion, 7(4), 876.\n\nPeshkovskaya, A. G., Babkina, T. S., Myagkov, M. G., Kulikov, I. A., Ekshova, K. V., & Harriff, K. (2017). The socialization effect on decision making in the Prisoner’s Dilemma game: An eye-tracking study.PloS one, 12(4), e0175492.\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-21T19:07:30.229600"
+}

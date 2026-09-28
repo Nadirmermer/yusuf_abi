@@ -1,0 +1,133 @@
+{
+  "id": "between_subjects_design_html_be910229",
+  "original_title": "Between-Subjects Design: Overview & Examples",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/between-subjects-design.html",
+  "published_date": "2026-09-17T10:55:08+00:00",
+  "read_time_minutes": 11,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Independent-Measures-Design-2.jpg",
+      "alt": "Between-Subjects Design: Overview & Examples",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Validity-Reliability-300x217.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/informed-consent-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/themes-300x158.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Qualitative-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-construction-reality-300x157.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/content-validity-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Julia-Simkus.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2176,
+  "turkce_baslik": "Aynı Şartlarda Farklı Tepkiler: Denekler Arası Araştırma Yöntemlerinin Psikolojik Arka Planı",
+  "kanca_sorusu": "İnsan psikolojisini anlamaya çalışırken, farklı insanları farklı koşullara koyup aradaki farka bakmak bize insan doğası hakkında ne söyler?",
+  "score": 45,
+  "puan_nedeni": "Metin, tamamen akademik bir araştırma metodolojisi olan 'Between-Subjects Design' (Denekler Arası Tasarım) konusunu ele almaktadır. Kuru akademik ve istatistiksel bir araştırma yöntemi olduğundan, doğrudan ilişkisel çatışma veya içsel travma içermez; bu nedenle puanı kural gereği düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Psikoloji biliminde insan davranışını ve zihinsel süreçleri incelemek için kullanılan araştırma yöntemleri, elde edilen bulguların geçerliliği açısından hayati önem taşır. Denekler arası tasarım, farklı katılımcı gruplarının farklı koşullar altında test edilmesine dayanır. Bu yöntem, özellikle bir müdahalenin, örneğin bir meditasyon uygulamasının veya bir ilacın, kaygı üzerindeki etkilerini ölçerken kontrol grubu ile deneysel grubu karşılaştırma imkanı sunar. Bilimsel tarafsızlığı korumak ve önyargıları en aza indirmek için katılımcıların hangi gruba atandıklarını bilmediği körleme teknikleri kullanılır.\n\nGünlük hayatta insanlar olarak bizler de sürekli farklı koşullara maruz kalır ve bu koşullar altında farklı tepkiler veririz. Araştırma metodolojisindeki bu kontrol mekanizmaları, psikolojinin sadece soyut teorilerden ibaret olmadığını, aksine insan zihninin işleyişini nesnel bir şekilde haritalandırmaya çalışan titiz bir çaba olduğunu gösterir. Bir grubun müdahale alıp diğer grubun kontrol koşulunda kalması, değişimlerin tesadüfi değil, doğrudan uygulanan uyarıcının bir sonucu olup olmadığını anlamamızı sağlar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Aynı Şartlarda Farklı Tepkiler",
+      "body": "Psikolojik araştırmalar insan davranışını anlamak için grupları nasıl karşılaştırır?",
+      "highlight_box": "Bilimsel araştırmanın arkasındaki yöntem.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Denekler Arası Tasarım Nedir?",
+      "body": "Farklı katılımcı gruplarının farklı koşullar altında test edilmesi ve sonuçların karşılaştırılması sürecidir.",
+      "highlight_box": "Kontrol ve deney gruplarının karşılaştırması.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Kontrol Grubu ve Müdahale",
+      "body": "Bir grup normal rutinini sürdürürken diğer grup belirli bir müdahaleye veya koşula maruz bırakılır.",
+      "highlight_box": "Değişkenlerin etkisini izlemek.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Önyargıyı Azaltmak ve Körleme",
+      "body": "Katılımcıların hangi grupta olduğunu bilmemesi, beklenti etkilerini ve plasebo sonuçlarını ortadan kaldırır.",
+      "highlight_box": "Objektif sonuçlar için tarafsızlık şarttır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Uygulama Örneği",
+      "body": "Örneğin kaygıyı azaltmak için bir meditasyon uygulamasının etkisi, uygulamayı yapanlar ve yapmayanlar grubu üzerinden kıyaslanır.",
+      "highlight_box": "Veriye dayalı içgörü elde etmek.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Bilimsel Bakış Açısı",
+      "body": "İnsan zihnini anlamak, kontrollü gözlemlerin ve tarafsız karşılaştırmaların titizlikle yapılmasını gerektirir.",
+      "highlight_box": "Bilimsel metodolojiyi anlamak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Psikologlar insan zihnini incelerken neden herkesi aynı teste tabi tutmazlar?",
+    "konusma_metni": "Bilimsel araştırmalarda denekler arası tasarım dediğimiz bir yöntem vardır. Bu yöntem, farklı insan gruplarını farklı koşullara sokarak, bir müdahalenin gerçekten işe yarıp yaramadığını anlamamızı sağlar. Biri kontrol grubunda diğeri ise değişim sürecinde olur. Tıpkı günlük hayatta farklı kişilerin aynı strese karşı verdiği farklı tepkileri incelediğimiz gibi. Bilim, önyargılardan arınmak için işte bu grupları karşılaştırır."
+  },
+  "caption": "Psikoloji araştırmalarında kullanılan yöntemler, elde edilen bulguların güvenilirliği açısından kritik bir role sahiptir. Denekler arası tasarım, farklı grupların farklı koşullardaki tepkilerini inceleyerek neden-sonuç ilişkisi kurmamızı sağlar. Bilimsel bilginin nasıl üretildiğini merak ediyorsanız bu analizi inceleyebilirsiniz. Psikoloji, Araştırma Yöntemleri, Bilimsel Araştırma, Zihin Yönetimi, Davranış Bilimleri, Akademik Psikoloji",
+  "processed_at": "2026-09-26 17:10:39"
+}

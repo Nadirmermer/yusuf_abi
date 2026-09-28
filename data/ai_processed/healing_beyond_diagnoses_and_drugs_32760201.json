@@ -1,0 +1,103 @@
+{
+  "id": "healing_beyond_diagnoses_and_drugs_32760201",
+  "original_title": "Healing Beyond Diagnoses and Drugs",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/the-biology-of-human-nature/202509/healing-beyond-diagnoses-and-drugs",
+  "published_date": "2025-09-22T12:45:40-04:00",
+  "read_time_minutes": 1,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-09/pexels-Andrea-Piacquadio.jpg?itok=ENyJW3l1",
+      "alt": "Healing Beyond Diagnoses and Drugs",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/justin_garson__1_.png.jpg?itok=ctgqfbkt",
+      "alt": "Justin Garson Ph.D.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2025-09/mind-and-moon.jpg?itok=NDbyNwMW",
+      "alt": "Ecco",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-09/330px-jury_box_cropped.jpg?itok=RW_DqkX7",
+      "alt": "Jury Box",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-08/330px-jury_box_cropped_0.jpg?itok=M0KgQNPx",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 17,
+  "turkce_baslik": "Tanıların ve İlaçların Ötesinde: Zihinsel Istırap Ne Zaman İyileşir?",
+  "kanca_sorusu": "Size verilen bir etiket, gerçekte kim olduğunuzu ne kadar örtüyor?",
+  "score": 45,
+  "puan_nedeni": "Makale genel bir tıp ve tedavi felsefesi tartışmasına odaklandığı, doğrudan bireysel ilişkisel dinamiklere veya bağlanma örüntülerine dokunmadığı için akademik düzeyde kalmaktadır. Takipçilerimizde güçlü bir 'ayna etkisi' yaratma potansiyeli sınırlıdır.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "Modern psikiyatri ve psikoloji dünyası, insan deneyimini dar etiketlere ve farmakolojik çözümlere hapsetme eğilimindedir. Oysa yaşanan her zihinsel sarsıntı, bireyin kendi iç dünyasında çözülmeyi bekleyen bir hikayeyi, duyulmamış bir çığlığı barındırır. İlaçlar semptomları baskılayabilir ancak kişinin kendi gerçekliğiyle kurduğu bağı onaramaz. İyileşme, bireyin kendisine konulan tanılardan sıyrılarak, acısının arkasındaki anlamı keşfetmesiyle başlar. Bu süreç, dışsal bir müdahaleden ziyade, kişinin kendi içsel kaynaklarıyla yeniden bağ kurma cesaretini göstermesini gerektirir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Tanıların Ötesine Bakmak",
+      "body": "Modern dünyanın insan ruhuna biçtiği etiketler, çoğu zaman gerçeğin yalnızca bir kısmını gösterir.",
+      "highlight_box": "Siz bir tanrı değil, yalnızca acı çeken bir insansınız.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Semptomlarla Yaşamak",
+      "body": "Acıyı ortadan kaldırmaya çalışmak yerine, onun ne anlatmaya çalıştığını duymak cesaret ister.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Etiketlerin Gölgesi",
+      "body": "Kişiye bir tanı verildiğinde, etrafındakiler ve bizzat kişi kendini o tanıdan ibaret görmeye başlar.",
+      "highlight_box": "Hastalık kimliğin yerini alır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Dışsal Çözümlerin Sınırı",
+      "body": "İlaçlar ve pratik reçeteler acıyı uyuşturabilir ancak içsel dönüşümün yerini tutamaz.",
+      "highlight_box": "Bastırılan duygu yok olmaz, şekil değiştirir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "İçsel İyileşme Alanı",
+      "body": "Gerçek iyileşme, kişinin kendi hikayesinin sorumluluğunu alması ve yaralarıyla yüzleşmesiyle mümkündür.",
+      "highlight_box": "Unutmayın: Bu bir süreçtir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış & İçsel Hatırlatma",
+      "body": "Tanılarınız ne olursa olsun, hikayenizin yazarı hala sizsiniz.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Size verilen tanıların arkasındaki gerçek insanı ne zaman fark edeceksiniz?",
+    "konusma_metni": "Psikolojide her şeyi bir etiketle açıklamak kolaydır. Depresyon, kaygı bozukluğu, kişilik özellikleri. Peki ya bu etiketler, sadece duyulmak isteyen yaralarımızın üzerini örtüyorsa? İlaçlar semptomları dindirir ancak insanın kendi içindeki o boşluğu doldurmaz. İyileşme, size ne olduğundan ziyade, bu acıyla ne yaptığınıza bakabildiğiniz an başlar."
+  },
+  "caption": "İnsan ruhu, dar klinik tanımlara ve reçetelere sığdırılamayacak kadar karmaşık ve derindir. Yaşanan her acı, bireyin kendi içsel gerçekliğine varma çabasının birer parçasıdır. İyileşme, dışarıdan gelen bir müdahaleyle değil, kişinin kendi karanlığıyla yüzleşme cesaretini göstermesiyle başlar. #yadapikoloji #ruhsagligi #iyilesme #psikoterapi #travma #icselgelisim #klinikpsikoloji",
+  "processed_at": "2026-09-28 02:34:12"
+}

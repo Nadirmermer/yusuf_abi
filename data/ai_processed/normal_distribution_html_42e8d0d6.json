@@ -1,0 +1,181 @@
+{
+  "id": "normal_distribution_html_42e8d0d6",
+  "original_title": "Introduction to the Normal Distribution (Bell Curve)",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/normal-distribution.html",
+  "published_date": "2026-05-14T11:11:23+00:00",
+  "read_time_minutes": 9,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bell-curve.jpg",
+      "alt": "Introduction to the Normal Distribution (Bell Curve)",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/bell-curve.jpg",
+      "alt": "Bell curve graphic depicting normal performance distribution outline diagram. Labeled educational expectation measurement or prediction percentage analysis vector illustration.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/normal-distribution.jpg",
+      "alt": "Features of a Normal Distribution (Bell Curve)",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/IQ-Bell-Curve.jpg",
+      "alt": "IQ Bell Curve",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Kurtosis-300x114.gif",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-table-287x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-whisker-plot-300x165.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cohen-d-300x142.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Empirical-Rule.jpg",
+      "alt": "The Empirical Rule (68-95-99.7)",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Empirical-Rule-68.jpg",
+      "alt": "The Empirical Rule 68%",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Empirical-Rule-95.jpg",
+      "alt": "The Empirical Rule 95%",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Empirical-Rule-99.jpg",
+      "alt": "The Empirical Rule 99%",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/normal-distribution-histogram.jpg",
+      "alt": "Example of a Normal Distribution Curve Overlaid on a Histogram",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/TestofNormality.png",
+      "alt": "Test of Normality SPSS Output",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1758,
+  "turkce_baslik": "Ortalamada Yaşamak: Normal Dağılımın Psikolojideki Görünmeyen Eli",
+  "kanca_sorusu": "Neden hepimiz hayatın uçlarında değil de, o yorucu ve sıradan ortalamasında sıkışıp kalıyoruz?",
+  "score": 45,
+  "puan_nedeni": "Metin tamamen istatistiksel ve matematiksel bir kavram olan Normal Dağılım (Gauss Eğrisi) teorisini anlatmaktadır. Her ne kadar zeka ve boy gibi özelliklerin bu eğriye uyduğu söylese de, doğrudan ilişkisel çatışma, bağlanma veya içsel dinamik barındırmadığı için akademik ve kuru bulunmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İstatistik kitaplarında bir çan eğrisi olarak karşımıza çıkan normal dağılım, aslında doğanın ve insan psikolojisinin en temel kuralını fısıldar: Çoğunluk ortadadır, uçlar ise istisnadır. İnsan zihni, davranışları, IQ seviyeleri ve hatta duygusal tepkileri bile bu matematiksel eğriyi takip eder. Çoğumuz ortalamaya uyum sağlamak, o devasa merkezin içinde kaybolmamak için büyük bir çaba harcarız. Uçlarda olmak, yani ortalamadan sapmak yalnızlaştırıcıdır; tıpkı çan eğrisinin uçlarının sonsuza kadar yatay eksene değmeden uzanması gibi. Ancak insanı benzersiz kılan da tam olarak o standart sapmanın yarattığı genişlik veya darlıktır. Kimi insan duygularını ortada, güvenli bir mesafede tutarken, kimi ise uçlarda, yüksek standart sapmalarla yaşar.\n\nPsikolojik olarak baktığımızda, normal dağılım eğrisi bize kendi normalliklerimizi sorgulatır. Toplumun ortalaması olmak ile bireysel kimliğimizin sınırları arasında sürekli bir müzakere yürütürüz. Ortalamadan uzaklaştıkça yalnızlaşır mıyız, yoksa kendimiz mi oluruz? Bu soru, bireyin içsel dengesini bulmasında kritik bir rol oynar. İstatistiksel bir teori gibi görünen bu formül, aslında insan ruhunun çeşitliliğini anlamak için bize sessiz bir ayna tutar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Ortalamanın Görünmeyen Gücü",
+      "body": "İnsan zihni ve davranışları, matematiğin en temel yasası olan çan eğrisinin sınırları içinde hareket eder.",
+      "highlight_box": "Çoğunluk her zaman ortadadır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Neden Hepimiz Benzeriz?",
+      "body": "Zeka, kaygı seviyeleri veya tepkilerimiz grafiğe döküldüğünde simetrik bir dağılım yaratır. Merkez, en güvenli ama en kalabalık yerdir.",
+      "highlight_box": "Ortalamaya uyum sağlama baskısı",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Merkezi Eğilim",
+      "body": "Ortalama, medyan ve mod hayatımızda aynı noktada kesişir. Çoğu insan bu ortak noktada buluşur ve farklılaşmaktan korkar.",
+      "highlight_box": "Sıradanlığın konfor alanı",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Standart Sapma ve Farklılık",
+      "body": "Standart sapma verilerin ne kadar yayldığını gösterir. Kimi insan dar bir alanda yaşar, kimi ise uçlarda büyük dalgalanmalar hisseder.",
+      "highlight_box": "Uçlarda olmak yalnızlaştırır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Eğrinin Neresindesiniz?",
+      "body": "Kendi normallerinizi başkalarının ortalamasıyla kıyaslamaktan vazgeçin. Her bireyin standart sapması kendine hastır.",
+      "highlight_box": "Unutmayın: Bu bir uyum sürecidir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Denge",
+      "body": "Ortalamanın konforu ile uçların riskleri arasında kendi dengenizi bulmak, psikolojik olgunlaşmanın ta kendisidir.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Hayatınızın neden hep o yorucu ve ortalama döngüde sıkışıp kaldığını hiç düşündünüz mü?",
+    "konusma_metni": "Bugün size psikolojide ve doğada her şeyi yöneten görünmeyen bir kuraldan bahsedeceğim: Çan eğrisi veya akademik adıyla normal dağılım. İnsan zihni, davranışları ve ilişkileri bu matematiğe boyun eğer. Çoğunluk her zaman ortada, güvenli ama sıradan alanda toplanır. Uçlarda olmak ise yüksek standart sapma gerektirir ve yalnızlaştırır. Peki siz bu eğrinin neresindesiniz? Ortalamada kaybolanlardan mısınız, yoksa uçlarda risk alanlardan mı? Düşüncelerinizi yorumlarda paylaşın."
+  },
+  "caption": "Hayatımızın, tercihlerimizin ve ruhsal tepkilerimizin büyük bir kısmı istatistiki birer gerçeğe dayanır. Çan eğrisi olarak bilinen normal dağılım, sadece bir matematik formülü değil, insan doğasının özetidir. Çoğunluğun ortada toplandığı, uçların ise yalnızlaştığı bu düzende nerede durduğunuzu hiç sorguladınız mı? Zihinsel kalıplarınızı ve toplumsal normları yeniden değerlendirmek için bu analizi inceleyebilirsiniz. Psikoloji, istatistik, zihin yönetimi, kişisel farkındalık, davranış bilimleri, içsel denge.",
+  "processed_at": "2026-09-26 17:16:18"
+}

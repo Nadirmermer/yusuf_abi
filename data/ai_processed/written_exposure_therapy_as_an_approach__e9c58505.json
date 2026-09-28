@@ -1,0 +1,97 @@
+{
+  "id": "written_exposure_therapy_as_an_approach__e9c58505",
+  "original_title": "Written Exposure Therapy as an Approach to Treating Trauma",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/talking-about-trauma/202411/written-exposure-therapy-as-an-approach-to-treating-trauma",
+  "published_date": "2025-03-12T17:35:51-04:00",
+  "read_time_minutes": 1,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-11/unseen-studio-s9cc2skysjm-unsplash_1_.jpg?itok=UravaDtY",
+      "alt": "Written Exposure Therapy as an Approach to Treating Trauma",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/Untitled_1.jpg?itok=1VFh3fPt",
+      "alt": "Robert T Muller Ph.D.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2024-11/nik-shuliahin-BuNWp1bL0nc-unsplash.jpg?itok=BlSDyqIX",
+      "alt": " Nik Shuliahin / Unsplash",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2024-11/pexels-cottonbro-4098374.jpg?itok=RNnRyB8T",
+      "alt": "Cottonbro / Pexels",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 34,
+  "turkce_baslik": "Zihnin Kilidi: Yazarak İyileşmenin Derin Psikolojisi",
+  "kanca_sorusu": "Geçmişin yükünü taşımaktan yoruldunuz mu, yoksa sadece kimseye anlatamayacak kadar derin mi saklıyorsunuz?",
+  "score": 82,
+  "puan_nedeni": "Travma, bastırılmış anılar ve içsel iyileşme süreçleri takipçilerimizin doğrudan bağ kurduğu, yüksek rezonans yaratan temel insanlık hallerindendir.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "Yaşadığımız en karanlık anlar, zihnimizde sessiz odalara kilitlenir. Konuşmak zor, kelimeleri seslendirmek ise bazen imkansız gelir. Yazılı dışavurum terapisi, tam da bu sessizliğin ortasında bir köprü kurar. Zihin, travmatik anıyı düzensiz ve tehditkar bir karmaşa olarak saklar. Kalemi elinize alıp o anları yapılandırmaya başladığınızda, beyin o ham korkuyu düzenli bir hikayeye dönüştürmeye başlar.\n\nBu süreç, yarayı kaşımak değil; yarayı steril bir ortamda yeniden ele alıp iyileşmeye alan açmaktır. Her kelime, zihnin omurgasına binen o devasa yükü hafifletir. Yalnızca hatırlamakla kalmaz, aynı zamanda o anın artık bugününüzü esir almasına izin vermeyen sınırları çizersiniz. İyileşme, gürültülü bir devrim değil, sessiz bir kağıt hışırtısıyla başlar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Geçmişin Sessiz Ağırlığı",
+      "body": "Bazı anılar silinmez, sadece zihnin en karanlık köşesinde bugünü zehirlemeye devam eder.",
+      "highlight_box": "Unutulmayan değil, işlenmeyen acı yorar.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Neden Konuşmak Yetmez?",
+      "body": "Travma anında beyin mantık merkezini kapatır. Olaylar düzensiz, parçalı ve korkutucu kalır.",
+      "highlight_box": "Zihin, anlamlandıramadığı şeyden korkar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Zihinsel Tekrar Döngüsü",
+      "body": "Aynı olayı defalarca kafada yaşamak, çözülmemiş travmanın beyni sürekli alarmda tutma çabasıdır.",
+      "highlight_box": "Geçmişte yaşamak, bugünü kaçırmaktır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Kaçınma Davranışları",
+      "body": "Acı veren konulardan uzak durmak geçici bir rahatlama sağlasa da, korkunun alanını büyütür.",
+      "highlight_box": "Kaçtığınız her şey üzerinize gelir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Yazarak Yapılandırmak",
+      "body": "Kalemi elinize alın ve filtrelemeden, sadece hissederek o anı kağıda dökün. Düzenleyin, sahiplenin.",
+      "highlight_box": "Yazmak, kontrolü geri almaktır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İyileşmenin Sessiz Adımı",
+      "body": "Geçmişi değiştiremezsiniz ama onun bugününüzü nasıl yöneteceğini seçebilirsiniz.",
+      "highlight_box": "Bu yazıyı daha sonra tekrar okumak için kaydet.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Kimseye anlatamadığınız o anı neden hala zihninizde döndürüp duruyorsunuz biliyor musunuz?",
+    "konusma_metni": "Çünkü travma kelimelere dökülmediğinde bedende ve zihinde yaşamaya devam eder. Yazılı dışavurum terapisi, o ham anıları sadece birer hikayeye dönüştürerek beynin tehdit alarmını susturur. Konuşmak zorunda değilsiniz, sadece yazın. Çünkü kağıt, yargılamayan tek aynadır."
+  },
+  "caption": "Geçmişin yükü omuzlarınızda ağır bir manto gibi duruyorsa, sorun ne kadar taşıdığınız değil, onu nasıl taşıdığınızdır. Travmatik anılar, zihnimizde ham ve işlenmemiş birer tehdit olarak kaldığı sürece bugünü yönetmeye devam ederler. Yazılı dışavurum, bu karmaşık ve korkutucu yığınları somut kelimelere dökerek beynin anıyı dosyalamasına ve geride bırakmasına olanak tanır. Konuşmak zor geldiğinde, kağıt en sadık ve yargılamayan şahittir. Bu süreci kendi hızınızda deneyimleyin. #psikoloji #travma #iyileşme #içselgüç #zihinselsağlık #kişiselgelişimdeğilbilim #ya_da_psikoloji",
+  "processed_at": "2026-09-28 02:35:47"
+}

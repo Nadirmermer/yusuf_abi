@@ -1,0 +1,145 @@
+{
+  "id": "ecological_momentary_assessment_in_psych_13bf9033",
+  "url": "https://www.simplypsychology.org/ecological-momentary-assessment-in-psychotherapy-research-a-systematic-review.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Ecological Momentary Assessment in psychotherapy research: A systematic review",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2025-06-26T11:27:51+00:00",
+  "date_modified": null,
+  "read_time_minutes": 6,
+  "word_count": 1161,
+  "summary": "News»Clinical Psychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "News»Clinical Psychology\n\nMink, F., Lutz, W., & Hehlmann, M. I. (2025). Ecological momentary assessment in psychotherapy research: A systematic review.Clinical Psychology Review, 102565.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Takeaways",
+      "content": "- Aim: The main focus of this systematic review is to examine the application of Ecological Momentary Assessment (EMA) in psychotherapy research.\n\n- Method: EMA is a valuable method for capturing real-time data on individuals’ daily experiences and behaviors. Many studies highlight its clinical utility.\n\n- Results: The review identified six clinical application areas of EMA in psychotherapy research, with the majority of studies using EMA to generate prediction models.\n\n- Conclusion: The findings highlight EMA’s potential as a valuable tool in clinical practice, particularly for treatment planning and tailoring interventions.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Rationale",
+      "content": "The study aims to address the gap in a comprehensive overview ofEcological Momentary Assessment(EMA’s) application in psychotherapy research.\n\nWhile previous research has demonstrated EMA’s usefulness across various application contexts, a systematic examination of its application in psychotherapy research is lacking.\n\nThis review seeks to provide a structured perspective on EMA’s applications, methodologies, and limitations in psychotherapy research.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Existing Knowledge Before This Review:",
+      "content": "Previous studies have shown EMA’s usefulness in various contexts, such as predicting early treatment response and treatment dropout, and also predicting relapse in remitted depressed patients and diagnostic status.\n\nEMA has also been used as a basis for personalizing psychotherapy.\n\nThere is a growing discussion about the potential of person-specific, EMA-based network models for personalizing psychotherapeutic assessments and treatments.\n\nAdditionally, there is increasing research interest in Ecological Momentary Interventions (EMI) for real-time interventions.  Several reviews have discussed EMA in the context of specific disorders and methodological aspects.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Gaps or Inconsistencies:",
+      "content": "A comprehensive overview of EMA’s application in psychotherapy research is lacking.\n\nWhile previous reviews have focused on specific disorders or methodological aspects of EMA, a systematic examination of its broad application in psychotherapy research is needed.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Method",
+      "content": "- Adherence to PRISMA Guidelines:The systematic review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines.\n\n- Databases Searched and Time Frame:PsycInfo, PSYNDEX, and PsycArticles databases were searched using the OVID search platform.  Studies published by the end of October 2024 were included.\n\n- Search Terms Used:The search term used for all databases included various EMA-related terms and clinical psychology-related terms, excluding “medical” terms.\n\n- Inclusion and Exclusion Criteria:The review included studies that used EMA methods repeatedly with clinical samples of adult patients in outpatient therapy settings, focusing on psychological clinical applications.  Studies involving pharmacological interventions, reviews, and non-English/German studies were excluded.\n\n- Number of Studies Included:A total of 168 studies met the inclusion criteria.\n\n- Method of Data Extraction:Relevant data items were extracted into a Microsoft Excel file during the full-text screening phase.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Results",
+      "content": "- Study Population:The most common diagnostic groups in the included studies were affective disorders and anxiety disorders.\n\n- Utilization of EMA:The 168 studies were categorized into six areas of clinical EMA application: prediction of therapy outcome, prediction of psychopathology, prediction of biopsychosocial states, adaptation of treatment processes, evaluation of therapy outcome, and acquisition of further clinical insights.\n\n- Prediction Models:92 studies used EMA measures to predict therapy outcome, psychopathological diagnoses/behavior, or general biopsychosocial states.\n\n- Prediction of Therapy Outcome:Eight studies used EMA to develop prediction models for therapy outcomes or progress.\n\n- Prediction of Psychopathology:40 studies used EMA methods to predict psychiatric diagnoses or psychopathological behaviors.\n\n- Prediction of Biopsychosocial States:44 studies used EMA to predict general biopsychosocial states in clinical samples.\n\n- Adaptation of Treatment Processes:18 studies utilized EMA methods to adapt psychotherapeutic treatment processes.\n\n- Evaluation of Therapy Outcome:21 studies used EMA to evaluate therapy outcomes.\n\n- Further Clinical Information:68 studies employed EMA methods to gather further insights into clinical characteristics and symptom patterns of specific disorders. [cite: 469, 470, 471, 472, 473, 474, 475, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, ]",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Insight",
+      "content": "The review highlights EMA as a versatile method in psychotherapy research, particularly for generating prediction models.\n\nEMA is recognized as a valuable tool for clinical practice, especially for tailoring interventions, but further research is needed to address methodological issues and fully explore its potential.\n\nThe findings also indicate the need for more research on tailoring psychotherapeutic processes based on EMA data and determining relevant EMA indicators.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Comparison to Previous Research:",
+      "content": "The review builds upon previous research that has demonstrated EMA’s usefulness in various contexts, such as predicting treatment outcomes and personalizing psychotherapy.\n\nIt also aligns with the growing discussion on the potential of EMA-based network models for personalizing treatments and the increasing interest in Ecological Momentary Interventions (EMI).",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Examples for Further Research:",
+      "content": "- Future studies should prospectively examine the added value of integrating network and other methods-based treatment recommendations compared to standard therapeutic processes.\n\n- Research is needed to investigate methodological problems in tailoring psychotherapeutic processes based on EMA data, such as establishing appropriate methods for EMA-based treatment recommendations.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Clinical Implications",
+      "content": "The findings of this review have several implications for practitioners and policymakers:\n\n- For practitioners,the review highlights EMA as a valuable tool for clinical practice, particularly in treatment planning and tailoring interventions to individual patient needs.\n\n- The review indicates that EMA can offer valuable insights into patients’ daily experiences and behaviors, which can inform treatment strategies.\n\n- Implementing EMA in routine care could enable clinicians to respond more effectively to individual patient needs, potentially improving treatment outcomes.\n\n- For policymakers,the review underscores the importance of supporting research and implementation efforts aimed at integrating EMA into routine clinical practice.\n\n- Policymakers should consider the potential benefits of EMA in enhancing the precision of mental health interventions and promoting personalized care.\n\nMink, F., Lutz, W., & Hehlmann, M. I. (2025). Ecological momentary assessment in psychotherapy research: A systematic review.Clinical Psychology Review, 102565.\n\nMcLeod, S. (2025). Ecological Momentary Assessment in psychotherapy research: A systematic review. Simply Psychology. https://www.simplypsychology.org/news/ecological-momentary-assessment-in-psychotherapy-research-a-systematic-review/\n\nMcLeod, Saul. \"Ecological Momentary Assessment in psychotherapy research: A systematic review.\" Simply Psychology, 26 June 2025, https://www.simplypsychology.org/news/ecological-momentary-assessment-in-psychotherapy-research-a-systematic-review/.\n\nMcLeod, S. (2025) Ecological Momentary Assessment in psychotherapy research: A systematic review. Simply Psychology. Available at: https://www.simplypsychology.org/news/ecological-momentary-assessment-in-psychotherapy-research-a-systematic-review/ (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 11,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Ecological-Momentary-Assessment.jpg",
+      "alt": "Ecological Momentary Assessment in psychotherapy research: A systematic review",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adult-friendships-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/future-anxiety-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mindfulness-yogi-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/disclosing-diagnosis-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/autism-burnout-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotion-focused-therapy-1-300x221.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Ecological Momentary Assessment in psychotherapy research: A systematic review\n\n> News»Clinical Psychology\n\n## Giriş\n\nNews»Clinical Psychology\n\nMink, F., Lutz, W., & Hehlmann, M. I. (2025). Ecological momentary assessment in psychotherapy research: A systematic review.Clinical Psychology Review, 102565.\n\n## Key Takeaways\n\n- Aim: The main focus of this systematic review is to examine the application of Ecological Momentary Assessment (EMA) in psychotherapy research.\n\n- Method: EMA is a valuable method for capturing real-time data on individuals’ daily experiences and behaviors. Many studies highlight its clinical utility.\n\n- Results: The review identified six clinical application areas of EMA in psychotherapy research, with the majority of studies using EMA to generate prediction models.\n\n- Conclusion: The findings highlight EMA’s potential as a valuable tool in clinical practice, particularly for treatment planning and tailoring interventions.\n\n## Rationale\n\nThe study aims to address the gap in a comprehensive overview ofEcological Momentary Assessment(EMA’s) application in psychotherapy research.\n\nWhile previous research has demonstrated EMA’s usefulness across various application contexts, a systematic examination of its application in psychotherapy research is lacking.\n\nThis review seeks to provide a structured perspective on EMA’s applications, methodologies, and limitations in psychotherapy research.\n\n## Existing Knowledge Before This Review:\n\nPrevious studies have shown EMA’s usefulness in various contexts, such as predicting early treatment response and treatment dropout, and also predicting relapse in remitted depressed patients and diagnostic status.\n\nEMA has also been used as a basis for personalizing psychotherapy.\n\nThere is a growing discussion about the potential of person-specific, EMA-based network models for personalizing psychotherapeutic assessments and treatments.\n\nAdditionally, there is increasing research interest in Ecological Momentary Interventions (EMI) for real-time interventions.  Several reviews have discussed EMA in the context of specific disorders and methodological aspects.\n\n## Gaps or Inconsistencies:\n\nA comprehensive overview of EMA’s application in psychotherapy research is lacking.\n\nWhile previous reviews have focused on specific disorders or methodological aspects of EMA, a systematic examination of its broad application in psychotherapy research is needed.\n\n## Method\n\n- Adherence to PRISMA Guidelines:The systematic review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines.\n\n- Databases Searched and Time Frame:PsycInfo, PSYNDEX, and PsycArticles databases were searched using the OVID search platform.  Studies published by the end of October 2024 were included.\n\n- Search Terms Used:The search term used for all databases included various EMA-related terms and clinical psychology-related terms, excluding “medical” terms.\n\n- Inclusion and Exclusion Criteria:The review included studies that used EMA methods repeatedly with clinical samples of adult patients in outpatient therapy settings, focusing on psychological clinical applications.  Studies involving pharmacological interventions, reviews, and non-English/German studies were excluded.\n\n- Number of Studies Included:A total of 168 studies met the inclusion criteria.\n\n- Method of Data Extraction:Relevant data items were extracted into a Microsoft Excel file during the full-text screening phase.\n\n## Results\n\n- Study Population:The most common diagnostic groups in the included studies were affective disorders and anxiety disorders.\n\n- Utilization of EMA:The 168 studies were categorized into six areas of clinical EMA application: prediction of therapy outcome, prediction of psychopathology, prediction of biopsychosocial states, adaptation of treatment processes, evaluation of therapy outcome, and acquisition of further clinical insights.\n\n- Prediction Models:92 studies used EMA measures to predict therapy outcome, psychopathological diagnoses/behavior, or general biopsychosocial states.\n\n- Prediction of Therapy Outcome:Eight studies used EMA to develop prediction models for therapy outcomes or progress.\n\n- Prediction of Psychopathology:40 studies used EMA methods to predict psychiatric diagnoses or psychopathological behaviors.\n\n- Prediction of Biopsychosocial States:44 studies used EMA to predict general biopsychosocial states in clinical samples.\n\n- Adaptation of Treatment Processes:18 studies utilized EMA methods to adapt psychotherapeutic treatment processes.\n\n- Evaluation of Therapy Outcome:21 studies used EMA to evaluate therapy outcomes.\n\n- Further Clinical Information:68 studies employed EMA methods to gather further insights into clinical characteristics and symptom patterns of specific disorders. [cite: 469, 470, 471, 472, 473, 474, 475, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, ]\n\n## Insight\n\nThe review highlights EMA as a versatile method in psychotherapy research, particularly for generating prediction models.\n\nEMA is recognized as a valuable tool for clinical practice, especially for tailoring interventions, but further research is needed to address methodological issues and fully explore its potential.\n\nThe findings also indicate the need for more research on tailoring psychotherapeutic processes based on EMA data and determining relevant EMA indicators.\n\n## Comparison to Previous Research:\n\nThe review builds upon previous research that has demonstrated EMA’s usefulness in various contexts, such as predicting treatment outcomes and personalizing psychotherapy.\n\nIt also aligns with the growing discussion on the potential of EMA-based network models for personalizing treatments and the increasing interest in Ecological Momentary Interventions (EMI).\n\n## Examples for Further Research:\n\n- Future studies should prospectively examine the added value of integrating network and other methods-based treatment recommendations compared to standard therapeutic processes.\n\n- Research is needed to investigate methodological problems in tailoring psychotherapeutic processes based on EMA data, such as establishing appropriate methods for EMA-based treatment recommendations.\n\n## Clinical Implications\n\nThe findings of this review have several implications for practitioners and policymakers:\n\n- For practitioners,the review highlights EMA as a valuable tool for clinical practice, particularly in treatment planning and tailoring interventions to individual patient needs.\n\n- The review indicates that EMA can offer valuable insights into patients’ daily experiences and behaviors, which can inform treatment strategies.\n\n- Implementing EMA in routine care could enable clinicians to respond more effectively to individual patient needs, potentially improving treatment outcomes.\n\n- For policymakers,the review underscores the importance of supporting research and implementation efforts aimed at integrating EMA into routine clinical practice.\n\n- Policymakers should consider the potential benefits of EMA in enhancing the precision of mental health interventions and promoting personalized care.\n\nMink, F., Lutz, W., & Hehlmann, M. I. (2025). Ecological momentary assessment in psychotherapy research: A systematic review.Clinical Psychology Review, 102565.\n\nMcLeod, S. (2025). Ecological Momentary Assessment in psychotherapy research: A systematic review. Simply Psychology. https://www.simplypsychology.org/news/ecological-momentary-assessment-in-psychotherapy-research-a-systematic-review/\n\nMcLeod, Saul. \"Ecological Momentary Assessment in psychotherapy research: A systematic review.\" Simply Psychology, 26 June 2025, https://www.simplypsychology.org/news/ecological-momentary-assessment-in-psychotherapy-research-a-systematic-review/.\n\nMcLeod, S. (2025) Ecological Momentary Assessment in psychotherapy research: A systematic review. Simply Psychology. Available at: https://www.simplypsychology.org/news/ecological-momentary-assessment-in-psychotherapy-research-a-systematic-review/ (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:28:39.525666"
+}

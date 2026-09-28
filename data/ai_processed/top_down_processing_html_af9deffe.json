@@ -1,0 +1,145 @@
+{
+  "id": "top_down_processing_html_af9deffe",
+  "original_title": "Top-Down Processing Examples in Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/top-down-processing.html",
+  "published_date": "2026-09-17T14:54:23+00:00",
+  "read_time_minutes": 12,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/stroop-effect.jpg",
+      "alt": "Top-Down Processing Examples in Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--300x97.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/automatic-processing-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sapir-whorf-hypothesis-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/heuristics-cognitive-bias-300x239.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/schemas-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/stroop-effect.jpg",
+      "alt": "stroop effect experiment ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/necker-cube2.jpg",
+      "alt": "necker cube ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/themes/generatepress_child/images/user-placeholder.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2448,
+  "turkce_baslik": "Zihnimiz Geçmişin Gölgesinde Nasıl Algılar: Beklentilerimiz Gerçekliği Nasıl Çarpitiyor?",
+  "kanca_sorusu": "Hayatınızdaki belirsiz bir durumu, sırf daha önce canınız yandığı için en kötü senaryo olarak okuduğunuzu fark ettiniz mi?",
+  "score": 45,
+  "puan_nedeni": "Metin genel hatlarıyla bilişsel psikolojinin temel nöroloji ve algı mekanizmalarını (Top-down processing) ele almaktadır. Her ne kadar ilişkilerdeki varsayımlarımıza bağlanabilecek yönleri olsa da, ağırlıklı olarak akademik ve nörobilişsel bir teorik çerçeve sunduğu için puanı orta-düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, dış dünyadan gelen uyaranları saf bir şekilde kaydetmez; onları geçmişin filtresinden geçirerek yeniden inşa eder. Bilişsel psikolojide yukarıdan aşağıya işleme olarak bilinen bu mekanizma, beynin her yeni durumu sıfırdan analiz etmek yerine, daha önceki hayal kırıklıkları, öğrenilmiş inançlar ve beklentilerle anlamlandırma çabasıdır. Beklediğimiz bir telefonun çalmadığı halde çalmış gibi duymamız ya da karşı tarafın masum bir cümlesini geçmişteki terk edilme korkusuyla tehdit olarak algılamamız hep bu zihinsel kestirme yolların sonucudur. Zihnimiz, belirsizlikle başa çıkabilmek için elindeki eski hikayeleri bugüne kopyalar ve duymak istediklerini ya da en çok korktuklarını gerçeğin yerine koyar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Gördüğümüz Değil, Görmeyi Beklediğimiz",
+      "body": "Zihnimiz dünyayı olduğu gibi değil, geçmişte öğrendiği kalıplarla yorumlar.",
+      "highlight_box": "Algı, geçmişin bugüne yazdığı bir senaryodur.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Zihinsel Kestirmeler ve Şemalar",
+      "body": "Her yeni durumu sıfırdan incelemek beyin için çok yorucudur. Bu yüzden geçmiş deneyimlerimizi birer şablon olarak kullanırız.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Beklenti ve Algı Yanılgıları",
+      "body": "Çok güçlü arzular veya korkular, beynin gerçekte var olmayan uyaranları bile üretmesine neden olabilir.",
+      "highlight_box": "İhtiyaç duyduğumuz şeyi duymuş gibi hissederiz.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Bağlamın Gücü",
+      "body": "Aynı olay ya da söz, içinde bulunduğumuz ruh haline göre tamamen farklı anlamlar kazanır.",
+      "highlight_box": "Şüphe doluyken en masum hareket bile tehdit gibi görünür.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Otomatik Varsayımları Durdurmak",
+      "body": "Zihninizin size sunduğu ilk hikayenin gerçek olup olmadığını sorgulayın ve varsayımlarla hareket etmeyi bırakın.",
+      "highlight_box": "Unutmayın: Algıladığınız her şey mutlak gerçek değildir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizin kurduğu senaryolara kapılmadan önce durun ve duruma dışarıdan bakmaya çalışın.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Beyniniz, karşınızdaki insanın ne söylediğini değil, sizin ne duymaya korktuğunuzu duyuyor.",
+    "konusma_metni": "Bugün ilişkilerde neden sürekli yanlış anlaşılmalar yaşıyoruz biliyor musunuz? Çünkü zihnimiz dışarıdan gelen bilgiyi olduğu gibi almaz. Geçmişteki yaralarınızı, hayal kırıklıklarınızı ve korkularınızı alır ve bugünkü cümlenin üzerine şablon gibi yapıştırır. Yani partneriniz sadece sessiz kalmıştır ama sizin zihniniz bunu bir reddedilme senaryosuna çoktan çevirmiştir. Gerçeklikle mi savaşıyorsunuz, yoksa kendi geçmişinizin gölgesiyle mi?"
+  },
+  "caption": "Zihnimiz dış dünyadan gelen bilgileri asla tarafsız bir şekilde kaydetmez. Geçmişteki hayal kırıklıklarımız, korkularımız ve karşılanmamış ihtiyaçlarımız bugünkü algımızı doğrudan şekillendirir. Partnerinizin tarafsız bir bakışını ya da sıradan bir cümlesini kendi içsel senaryolarımızla tehdit olarak okumamız tam olarak bu mekanizmanın sonucudur. Gerçekliği mi yoksa kendi geçmişimizin projeksiyonunu mu yaşıyoruz? Düşüncelerinizi yorumlarda paylaşın.\n\n#bilisselpsikoloji #algı #ilişkipsikolojisi #beklenti #zihinselyorgunluk #farkındalık #ya_da_psikoloji",
+  "processed_at": "2026-09-26 16:57:19"
+}

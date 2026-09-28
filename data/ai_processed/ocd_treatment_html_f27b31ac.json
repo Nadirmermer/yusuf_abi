@@ -1,0 +1,133 @@
+{
+  "id": "ocd_treatment_html_f27b31ac",
+  "original_title": "OCD Treatment – An Overview",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/ocd-treatment.html",
+  "published_date": "2024-01-20T12:56:05+00:00",
+  "read_time_minutes": 18,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/ocd-cycle.png",
+      "alt": "OCD Treatment – An Overview",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/ocd-anxiety-1024x583.jpg",
+      "alt": "ocd anxiety",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/autistic-rumination-vs-ocd-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/anxiety-self-help-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/intolerance-of-uncertainty-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cbt-social-anxiety-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/generalized-anxiety-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/irrational-thinking-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3549,
+  "turkce_baslik": "Zihnin Döngüsel Tuzağı: Takıntılar, Güvence Arayışı ve Kaçışın Bedeli",
+  "kanca_sorusu": "Beyninizin size oynadığı tehlike oyununa inanmaktan ne zaman vazgeçeceksiniz?",
+  "score": 45,
+  "puan_nedeni": "Metin, Obsesif Kompulsif Bozukluk (OKB) tedavisinde ERP ve bilişsel yöntemler gibi klinik teknikleri ele almaktadır. Doğrudan ilişkisel bir dinamikten ziyade klinik bir bozukluğun mekanizmalarını incelediği için akademik ve nörolojik ağırlıklıdır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Obsesif kompulsif döngü, kişinin iç dünyasında yarattığı sahte tehlikeleri nötralize etme çabasıyla kendi kendini besleyen bir hapishanedir. Zihne düşen intruzif düşünceler yani müdahaleci düşünceler, aniden yoğun bir kaygı dalgası yaratır. Kişi, bu belirsizliğin ve tehdit algısının yarattığı sıkışmışlık hissinden kurtulmak için hemen bir ritüele, bir kompulsiyona sarılır. Kapıyı tekrar tekrar kontrol etmek, elleri sürekli yıkamak ya da zihinsel olarak durumu temize çekmeye çalışmak, beyne geçici bir rahatlama sinyali gönderir. Ancak bu durum, sistemin tehlike alarmını kapatmaz; aksine bir sonraki döngüde daha güçlü bir şekilde tetiklenmesine yol açar.\n\nTedavinin temel amacı, ortamdaki tüm uyaranları yok etmek ya da rahatsızlığı tamamen sıfırlamak değildir. Asıl dönüşüm, kişinin kaygıyla yüzleşme cesaretini göstermesiyle başlar. Maruz bırakma ve tepki önleme süreçleri, beyne korkulan o felaket senaryolarının ritüeller yapılmasa bile gerçekleşmediğini kanıtlar. Kaygı tepe noktasına ulaşır, düşüşe geçer ve sinir sistemi zamanla bu uyaranların ölümcül bir tehdit barındırmadığını öğrenir. Bu süreç, zihnin kendi yarattığı korku hiyerarşisiyle yüzleşmesini ve kontrolü kompulsiyonlardan geri almasını gerektiren sabırlı bir yeniden yapılanmadır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihnin Kısır Döngüsü",
+      "body": "İçsel tehdit algısı ve onu durdurmak için yapılan tekrarlayıcı ritüeller, kaygıyı azaltmaz; aksine onu besler.",
+      "highlight_box": "Geçici rahatlama, kalıcı bir tuzağın habercisidir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Tehdit ve Nötralizasyon",
+      "body": "İstenmeyen bir düşünce gelir, kaygı yaratır ve siz bunu nötralize etmek için kendinizi mecbur hissedersiniz.",
+      "highlight_box": "Ritüel çalıştıkça beyin bu döngüyü tekrarlar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Maruz Bırakma ve Yüzleşme",
+      "body": "Korkulan durumu bilinçli olarak tetiklemek ancak rahatlatıcı alışkanlığı veya ritüeli durdurmak esastır.",
+      "highlight_box": "Kaçınmak korkuyu büyütür.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Kaygının Zirvesi",
+      "body": "Ritüel yapılmadığında kaygı önce tavan yapar, ancak müdahale edilmezse kendiliğinden düşmeye başlar.",
+      "highlight_box": "Kötü senaryonun gerçekleşmediğini görmek beyni eğitir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Adım Adım İlerleme",
+      "body": "Tüm alışkanlıkları aniden bırakmaya çalışmayın. Küçük adımlarla başlayın ve kendi hızınızda ilerleyin.",
+      "highlight_box": "Zihinsel olarak durumu geri almaya çalışmayın.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kalıcı İyileşme Süreci",
+      "body": "Amaç tetikleyicileri yok etmek değil, zorluklar karşısında skaler bir direnç ve farkındalık geliştirmektir.",
+      "highlight_box": "Tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Sürekli en kötüsünü düşünmekten ve bunu düzeltmek için ritüeller tekrarlamaktan yorulmadınız mı?",
+    "konusma_metni": "Obsesif düşünceler zihninize düştüğünde, beyniniz size hemen bir tehlike sinyali gönderir. Siz de o kaygıyı dindirmek için bir kompulsiyon yaparsınız, ellerinizi yıkarsınız, kontrol edersiniz ya da zihninizde temize çekersiniz. Geçici bir rahatlama olur ama beyin bu döngüyü kaydeder. Gerçek çözüm ritüelleri yapmak değil, o kaygının zirveye çıkmasına izin vermek ve hiçbir şey yapmadan beklemektir."
+  },
+  "caption": "Obsesif kompulsif döngü, bireyin kendi zihninde yarattığı sahte tehlikeleri nötralize etme çabasıyla ömrünü tükettiği yorucu bir süreçtir. İntruzif düşünceler yoğun bir kaygı yaratır ve kişi bu rahatsızlığı dindirmek için istemsiz ritüellere sığınır. Ancak ritüel her tekrarlandığında beyin bu döngüyü normalleştirir. Gerçek iyileşme, kaygıdan kaçmak değil, o kaygının zirveye çıkmasına izin vererek hiçbir şey yapmadan durabilme cesaretini göstermektir. Bilimsel temeli olmayan yüzeysel tavsiyeler yerine, maruz bırakma ve tepki önleme gibi kanıta dayalı süreçlerle bu döngüyü kırmak mümkündür.\n\n#obsessifkompulsif #kaygıyönetimi #zihinseldenge #bilişseldavranışçıterapi #klinikpsikoloji #ya_da_psikoloji #içselhuzur",
+  "processed_at": "2026-09-26 15:59:02"
+}

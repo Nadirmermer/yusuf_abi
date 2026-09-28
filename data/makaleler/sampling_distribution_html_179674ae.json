@@ -1,0 +1,117 @@
+{
+  "id": "sampling_distribution_html_179674ae",
+  "url": "https://www.simplypsychology.org/sampling-distribution.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Sampling Distribution In Statistics",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2026-09-17T11:42:26+00:00",
+  "date_modified": null,
+  "read_time_minutes": 4,
+  "word_count": 865,
+  "summary": "Psychology»Statistics",
+  "topics": [],
+  "key_points": [
+    "The Central Limit Theorem"
+  ],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Statistics\n\n[preferred_source_button]\n\nIn statistics, a sampling distribution is the probability distribution of a statistic (such as the mean) derived from all possible samples of a given size from a population.\n\nThe sampling distribution of a given population is the distribution of frequencies of a range of different outcomes that could possibly occur for a statistic of a population.\n\nIn statistics, a sampling distribution shows how a sample statistic, like the mean, varies across many random samples from a population. It helps make predictions about the whole population. For large samples, the central limit theorem ensures it often looks like a normal distribution.\n\n- Purpose of Sampling Distributions\n\n- How to Find Sampling Distribution\n\n- The Central Limit Theorem",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Purpose of Sampling Distributions",
+      "content": "Sample statistics only estimate population parameters, such as the mean or standard deviation. This is because, in real-world research, only a sample of cases is selected from the population.\n\nDue to time restraints and practical issues, a researcher cannot test the total population.Therefore, it is likely that the sample mean will be different from the (unknown) population mean.\n\nHowever, a researcher will never know the exact amount of sampling error, but by using a sampling distribution, they can estimate the sampling error.\n\nThree different distributions are involved in building the sampling distribution.\n\n- Population Distribution: The distribution of all individual values or items in the entire population (N).\n\n- Sample Distributions: Distributions of various random samples taken from the population (n). while the concept of “all possible samples” underlies the idea of a sampling distribution, we don’t actually select an infinite number in practice.\n\n- Sampling Distribution: The distribution of a particular statistic (like the mean) calculated from each of the possible samples.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "How to Find Sampling Distribution",
+      "content": "It is important to note that sampling distributions are theoretical, and the researcher does not select an infinite number of samples.\n\n- Start with the Population: Ideally, know the entire population and its parameters (N). However, in many cases, this is impractical or impossible.\n\n- Choose a Sample Size: Determine the size of your sample, denoted asn.\n\nTo create a sampling distribution, research must:\n\n- Draw Random Samples: Randomly select numerous samples of sizenfrom the population. This process is repeated many times, each time selecting a new sample and calculating its mean. The distribution of these sample means constitutes the sampling distribution of the sample mean.\n\n- Calculate Sample Statistic: For each sample, calculate the desired statistic (e.g., mean).\n\n- Determine the Difference: Calculate the difference between the sample means for each sample drawn. The magnitude of the difference can be influenced by the sample size. Larger samples often provide more reliable and stable estimates of the population mean, leading to a narrower distribution of differences.\n\n- Construct the Distribution: Plot the differences in sample means to visualize their distribution, and compute related statistics (e.g., mean of the differences, standard error of the difference) to characterize this distribution.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "The Central Limit Theorem",
+      "content": "In practical applications, it’s not feasible to draw infinite samples to create a sampling distribution. However, the concept of drawing “all possible samples” is a theoretical foundation underlying the idea of a sampling distribution.\n\nIn practice, the properties of the sampling distribution (like its mean and standard error) are often inferred using statistical theory and data from a single sample, aided by principles such as the central limit theorem.\n\nThecentral limit theoremtells us that no matter the population distribution, the sampling distribution’s shape will approachnormalityas the sample size (N) increases.\n\nFigure 1.Distributions of the sampling mean (Publisher: Saylor Academy).\n\nThis is useful, as the research never knows which mean in the sampling distribution is the same as the population mean, but by selecting many random samples from a population, the sample means will cluster together, allowing the research to make a very good estimate of the population mean.\n\nThus, the sampling error will decrease as the sample size (n) increases.\n\nThe Central Limit Theorem provides a foundation for many statistical procedures and inferences by ensuring that the sampling distribution of the sample mean becomes predictable (normally distributed) when the sample size is large.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Further Information",
+      "content": "- Sampling Distribution of the Sample Mean (Kahn Academy)\n\n- Statistics for Psychology Book Download\n\nMcLeod, S. (2026). Sampling Distribution In Statistics. Simply Psychology. https://www.simplypsychology.org/sampling-distribution.html\n\nMcLeod, Saul. \"Sampling Distribution In Statistics.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/sampling-distribution.html.\n\nMcLeod, S. (2026) Sampling Distribution In Statistics. Simply Psychology. Available at: https://www.simplypsychology.org/sampling-distribution.html (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 5,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sampling-distribution.jpg",
+      "alt": "Sampling Distribution In Statistics",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/sampling-distribution.jpg",
+      "alt": "sampling distributions",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bell-curve-300x250.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Standard-error-formula-300x88.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sampling-distribution-300x166.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Sampling Distribution In Statistics\n\n> Psychology»Statistics\n\n### Önemli Noktalar / Metotlar\n- The Central Limit Theorem\n\n## Giriş\n\nPsychology»Statistics\n\n[preferred_source_button]\n\nIn statistics, a sampling distribution is the probability distribution of a statistic (such as the mean) derived from all possible samples of a given size from a population.\n\nThe sampling distribution of a given population is the distribution of frequencies of a range of different outcomes that could possibly occur for a statistic of a population.\n\nIn statistics, a sampling distribution shows how a sample statistic, like the mean, varies across many random samples from a population. It helps make predictions about the whole population. For large samples, the central limit theorem ensures it often looks like a normal distribution.\n\n- Purpose of Sampling Distributions\n\n- How to Find Sampling Distribution\n\n- The Central Limit Theorem\n\n## Purpose of Sampling Distributions\n\nSample statistics only estimate population parameters, such as the mean or standard deviation. This is because, in real-world research, only a sample of cases is selected from the population.\n\nDue to time restraints and practical issues, a researcher cannot test the total population.Therefore, it is likely that the sample mean will be different from the (unknown) population mean.\n\nHowever, a researcher will never know the exact amount of sampling error, but by using a sampling distribution, they can estimate the sampling error.\n\nThree different distributions are involved in building the sampling distribution.\n\n- Population Distribution: The distribution of all individual values or items in the entire population (N).\n\n- Sample Distributions: Distributions of various random samples taken from the population (n). while the concept of “all possible samples” underlies the idea of a sampling distribution, we don’t actually select an infinite number in practice.\n\n- Sampling Distribution: The distribution of a particular statistic (like the mean) calculated from each of the possible samples.\n\n## How to Find Sampling Distribution\n\nIt is important to note that sampling distributions are theoretical, and the researcher does not select an infinite number of samples.\n\n- Start with the Population: Ideally, know the entire population and its parameters (N). However, in many cases, this is impractical or impossible.\n\n- Choose a Sample Size: Determine the size of your sample, denoted asn.\n\nTo create a sampling distribution, research must:\n\n- Draw Random Samples: Randomly select numerous samples of sizenfrom the population. This process is repeated many times, each time selecting a new sample and calculating its mean. The distribution of these sample means constitutes the sampling distribution of the sample mean.\n\n- Calculate Sample Statistic: For each sample, calculate the desired statistic (e.g., mean).\n\n- Determine the Difference: Calculate the difference between the sample means for each sample drawn. The magnitude of the difference can be influenced by the sample size. Larger samples often provide more reliable and stable estimates of the population mean, leading to a narrower distribution of differences.\n\n- Construct the Distribution: Plot the differences in sample means to visualize their distribution, and compute related statistics (e.g., mean of the differences, standard error of the difference) to characterize this distribution.\n\n## The Central Limit Theorem\n\nIn practical applications, it’s not feasible to draw infinite samples to create a sampling distribution. However, the concept of drawing “all possible samples” is a theoretical foundation underlying the idea of a sampling distribution.\n\nIn practice, the properties of the sampling distribution (like its mean and standard error) are often inferred using statistical theory and data from a single sample, aided by principles such as the central limit theorem.\n\nThecentral limit theoremtells us that no matter the population distribution, the sampling distribution’s shape will approachnormalityas the sample size (N) increases.\n\nFigure 1.Distributions of the sampling mean (Publisher: Saylor Academy).\n\nThis is useful, as the research never knows which mean in the sampling distribution is the same as the population mean, but by selecting many random samples from a population, the sample means will cluster together, allowing the research to make a very good estimate of the population mean.\n\nThus, the sampling error will decrease as the sample size (n) increases.\n\nThe Central Limit Theorem provides a foundation for many statistical procedures and inferences by ensuring that the sampling distribution of the sample mean becomes predictable (normally distributed) when the sample size is large.\n\n## Further Information\n\n- Sampling Distribution of the Sample Mean (Kahn Academy)\n\n- Statistics for Psychology Book Download\n\nMcLeod, S. (2026). Sampling Distribution In Statistics. Simply Psychology. https://www.simplypsychology.org/sampling-distribution.html\n\nMcLeod, Saul. \"Sampling Distribution In Statistics.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/sampling-distribution.html.\n\nMcLeod, S. (2026) Sampling Distribution In Statistics. Simply Psychology. Available at: https://www.simplypsychology.org/sampling-distribution.html (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:17:30.760698"
+}

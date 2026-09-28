@@ -1,0 +1,91 @@
+{
+  "id": "inside_the_socially_anxious_mind_shame_e0fca775",
+  "original_title": "Inside the Socially Anxious Mind: Shame",
+  "source": "Psychology Today",
+  "source_url": "https://www.psychologytoday.com/us/blog/neuroscience-in-everyday-life/202207/inside-the-socially-anxious-mind-shame",
+  "published_date": "2022-07-04T08:55:02-04:00",
+  "read_time_minutes": 1,
+  "original_images": [
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-07/photo-2022-07-03-14-40-17.jpg?itok=IirYB6SK",
+      "alt": "Inside the Socially Anxious Mind: Shame",
+      "caption": "Cover Image",
+      "is_cover": true
+    },
+    {
+      "url": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/new.jpg?itok=DkWePlIL",
+      "alt": "Marwa Azab Ph.D.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2022-07/photo-2022-07-03-14-40-17.jpg?itok=U5SmGASB",
+      "alt": "Afaf Ahmed, used with permission",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 29,
+  "turkce_baslik": "Sosyal Anksiyetenin Görünmeyen Yakıtı: Derin Utanç",
+  "kanca_sorusu": "Kalabalık bir odada herkesin size baktığını hissettiğiniz o an, aslında baktıkları şey diğerleri değil, kendi içinizde taşıdığınız utanç mı?",
+  "score": 92,
+  "puan_nedeni": "Sosyal anksiyete ve utanç dinamiklerinin bireyin iç dünyasındaki yansıması, takipçilerin doğrudan kendi ilişkisel ve zihinsel tecrübelerinde bulabileceği güçlü bir ayna etkisi yarattığı için çok yüksek puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Sosyal anksiyete genellikle dış dünyaya karşı duyulan bir korku gibi yaşansa da, kökeninde çok daha derin ve saklı bir duygu yatar: Utanç. Klinik düzeyde sosyal kaygı yaşayan bireylerin zihinsel arka planı incelendiğinde, ortada sadece hata yapma korkusu değil, varoluşsal bir kusurluluk inancı olduğu görülür. Utanç, kişiye 'yanlış bir şey yaptım' dedirtmez; 'yanlış bir insanım, kusurluyum ve bu yüzden sevilmem ya da kabul görmem imkansız' hissini yaşatır.\n\nBu içsel dinamik, bireyin her sosyal etkileşimi bir hayatta kalma sınavı olarak algılamasına yol açar. Göz teması kurmaktan kaçınmak, ses tonunu ayarlamaya çalışmak ya da sürekli onay aramak, aslında bu derin utanç duygusunun dış dünyaya sızmasını engelleme çabasından başka bir şey değildir. Oysa kişi saklandıkça, utanç daha da büyür ve görünmez bir hapishaneye dönüşür.\n\nİyileşme süreci, bu utançla savaşmakla değil, onunla yüzleşmekle başlar. Kusursuz olmak zorunda olmadığınızı, hata yapmanın insan olmanın doğal bir parçası olduğunu kabullendiğinizde, sosyal anksiyetenin o boğucu ağırlığı da yavaşça hafiflemeye başlar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Sosyal Anksiyetenin Görünmeyen Yüzü",
+      "body": "Görünen şey kaygı ve gerginliktir; ancak derindeki asıl motor güç utançtır.",
+      "highlight_box": "Korkunun altındaki asıl duygu.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Hata Yapma Korkusu Değil",
+      "body": "Mesele kötü görünmek değil, özünde kusurlu olduğunuz inancını saklama çabasıdır.",
+      "highlight_box": "Bunu sık sık yaşıyor musunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Sürekli Kendini İzleme",
+      "body": "Sosyal ortamlarda anı yaşamak yerine dışarıdan nasıl göründüğünüzü zihnen denetlersiniz.",
+      "highlight_box": "Kendi gözlemciniz olmaktan yorulmadınız mı?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Görünmez Olma İsteği",
+      "body": "Dikkat çekmemek, eleştirilmemek ve fark edilmemek için sürekli bir savunma halindesinizdir.",
+      "highlight_box": "Saklanmak güvenli hissettirse de yalnızlaştırır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Utançla Yüzleşmek",
+      "body": "Kusursuzluk mitini bırakıp insan olmanın getirdiği kırılganlığı kabullenmek gerekir.",
+      "highlight_box": "Unutmayın: Bu bir süreçtir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Utanç saklandıkça büyür. Onu görüp şefkatle karşıladığınızda gücünü yitirir.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Sosyal anksiyetenin arkasında korku değil, çok daha derin bir şey var.",
+    "konusma_metni": "Sosyal ortamlarda yaşadığınız o yoğun kaygının adı çoğu zaman sadece 'heyecan' ya da 'korku' değildir. Temelde yatan şey, derin bir utanç hissidir. İnsanlar hatalı duruma düşmekten değil, aslında temelde 'kusurlu' ve 'yetersiz' olduklarının keşfedilmesinden korkarlar. Bu yüzden her sosyal etkileşim bir performans sınavına döner. Kendinize karşı bu kadar acımasız olmayı ne zaman bıraktınız?"
+  },
+  "caption": "Sosyal anksiyete, dış dünyaya karşı duyulan basit bir çekingenlikten öte, kişinin kendi benliğiyle olan mesafesini belirleyen derin bir utanç döngüsüdür. Birey, kusurlu olduğuna inanarak yaşadığı bu hissi saklamak için sürekli bir performans sergiler. Ancak bu performans, kişiyi yalnızlaştırır ve kaygıyı besler. Gerçek özgürlük, kusursuz görünme çabasından vazgeçildiği an başlar.\n\n#sosyalanksiyete #utanç #klinikpsikoloji #kaygıyönetimi #özsaygı #zihinsağlığı #ya_da_psikoloji",
+  "processed_at": "2026-09-28 02:28:38"
+}

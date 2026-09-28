@@ -1,0 +1,157 @@
+{
+  "id": "stress_immune_html_4d793fde",
+  "original_title": "Stress, Illness and the Immune System",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/stress-immune.html",
+  "published_date": "2023-11-09T12:55:01+00:00",
+  "read_time_minutes": 6,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/stress-illness.gif",
+      "alt": "Stress, Illness and the Immune System",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/immune-system.jpg",
+      "alt": "immune system",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/gastric-ulcer.jpg",
+      "alt": "gastric ulcer stress",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sympathetic-vs-parasympathetic-nervous-system-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hpa_axis-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Diathesis-Stress-Model-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitter-formulas-300x152.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitters-hormones-300x248.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/emotions-brain-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/stress-illness.jpg",
+      "alt": "stress illness",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/exam.jpg",
+      "alt": "exam",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/t-cell.jpg",
+      "alt": "t-cell",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1122,
+  "turkce_baslik": "Bedenin Sessiz Çığlığı: Kronik Stres ve Bağışıklığın Çöküşü",
+  "kanca_sorusu": "Hayatınızdaki yoğun stres dönemleri bittikten hemen sonra hastalanmanızın ardındaki psikolojik gerçeği biliyor musunuz?",
+  "score": 45,
+  "puan_nedeni": "Metin temel biyopsikoloji, nöroloji ve bağışıklık sistemi mekanizmalarını (kortikosteroidler, lenfositler vb.) ele aldığı için kuru akademik bir çerçeveye sahiptir. Doğrudan ilişkisel bir dinamik veya bağlanma örüntüsü içermediğinden klinik puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Stres, sadece zihinsel bir yorgunluk değil, bedenin sınırlarını zorlayan fiziksel bir kuşatmadır. Yoğun kaygı ve baskı altında olduğumuzda salgılanan kortikosteroid hormonu, bağışıklık sistemimizin en önemli savunma mekanizmaları olan lenfositlerin etkinliğini baskılar. Bu durum, kısa vadede hayatta kalmamızı sağlarken, kronikleştiğinde bedeni dış dünyadaki enfeksiyonlara ve hastalıklara karşı savunmasız bırakır. Zihin sustuğunu sandığında bile beden, yaşanan tüm stresin yükünü hücre duvarlarında, sindirim sisteminde ve damar yapısında taşımaya devam eder. Kiecolt-Glaser ve benzeri araştırmalar, sınav veya kronik yaşam baskısı gibi stresörlerin bağışıklık hücrelerinin çoğalma yeteneğini doğrudan düşürdüğünü kanıtlamaktadır. Stresle başa çıkmak için kullanılan sağlıksız kaçış stratejileri de bu tabloya eklendiğinde, ruhsal sancıların bedensel hastalıklara dönüşmesi kaçınılmaz bir son haline gelir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Bedenin Gizli Savaşı",
+      "body": "Zihnimizin 'atlattım' dediği stresi, aslında bedenimiz hücre hücre ödemektedir.",
+      "highlight_box": "Stres sadece psikolojik bir yük değildir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Kortizolün Görünmez Darbesi",
+      "body": "Stres hormonu kortikosteroid, enfeksiyonlarla savaşan lenfositlerin sayısını düşürür ve bağışıklığı zayıflatır.",
+      "highlight_box": "Sürekli tetikte olmak bedeni tüketir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Savunmasızlık",
+      "body": "Kronik stres altındayken vücut, virüs ve bakterilere karşı kapılarını aralar ve en küçük hastalıklara bile direnemez hale gelir.",
+      "highlight_box": "Sürekli hasta hissediyorsanız nedeni budur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Bedensel Yansımalar",
+      "body": "Kalp atış hızının artması, sindirimin durması ve tansiyonun yükselmesi; uzun vadede ülser ve kalp rahatsızlıklarına zemin hazırlar.",
+      "highlight_box": "Beden, yaşanan baskıyı hafızaya kaydeder.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kaçış Stratejileri",
+      "body": "Stresle başa çıkmak için kullanılan sigara, alkol, uykusuzluk ve kötü beslenme gibi alışkanlıklar bağışıklık çöküşünü hızlandırır.",
+      "highlight_box": "Rahatlama yöntemi olarak seçilenler hastalığı tetikler.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizin taşıyamadığı yükü bedeninize taşımayın. Sınırlarınızı korumak en güçlü bağışıklık kalkanıdır.",
+      "highlight_box": "Bu bilgiyi zihninizde tutmak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden ne zaman rahatlamaya çalışsak hastalanıyoruz?",
+    "konusma_metni": "Yoğun bir stres döneminden çıktığınız an yatağa düşmenizin tesadüf olduğunu mu sanıyorsunuz? Stres altındayken salgılanan kortizol hormonu bağışıklık sisteminizi baskılar ve siz savaşmaya devam edersiniz. Ancak tehlike geçtiğinde, yani gevşemeye başladığınız anda, bağışıklık sistemi çöker çünkü artık direnç gösteremez. Beden sustuğunuz her şeyi somut bir hastalığa dönüştürür."
+  },
+  "caption": "Kronik stres, bireyin sadece psikolojik dayanıklılığını değil, aynı zamanda fizyolojik bütünlüğünü de tehdit eden derin bir süreçtir. Kortizol ve adrenalin gibi stres hormonlarının uzun süreli salınımı, bağışıklık sisteminin en temel hücreleri olan lenfositlerin etkinliğini baskılar. Bu durum, bireyin enfeksiyonlara karşı direncini kırarken; sindirim, dolaşım ve sinir sisteminde de kalıcı hasarlara zemin hazırlar. Zihnin görmezden geldiği veya bastırdığı her baskı, beden tarafından somut bir hastalık semptomu olarak ödenir. Sınırlarımızı korumak ve stresle sağlıklı başa çıkma stratejileri geliştirmek, sadece ruh sağlığı için değil, fiziksel hayatta kalışımız için de zorunludur. Psikoloji, beden bilimiyle ayrılmaz bir bütündür. \n\n#psikoloji #kronikstres #biyopsikoloji #bağışıklıksistemi #kaygıyönetimi #ruhsağlığı #bedenseliyileşme",
+  "processed_at": "2026-09-26 17:44:24"
+}

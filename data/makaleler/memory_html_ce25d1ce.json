@@ -1,0 +1,121 @@
+{
+  "id": "memory_html_ce25d1ce",
+  "url": "https://www.simplypsychology.org/memory.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Memory Stages: Encoding Storage and Retrieval",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2026-08-26T20:44:21+00:00",
+  "date_modified": null,
+  "read_time_minutes": 7,
+  "word_count": 1477,
+  "summary": "Psychology»Cognitive Psychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Cognitive Psychology\n\nMemory refers to thestructuresandprocessesthat store and retrieve information, letting us learn from the past and use it in the present.\n\nPsychologists break this down into three key aspects ofinformation processing: encoding, storage, and retrieval, shown below.\n\n- Memory is the process of maintaining information over time (Matlin, 2005).\n\n- Memory is the means by which we draw on our past experiences in order to use this information in the present (Sternberg, 1999).",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Takeaways",
+      "content": "- Three Core Processes:Memory involves encoding (changing information into a storable form), storage (holding it over time), and retrieval (getting it back out).\n\n- Encoding Takes Several Forms:Information can be encoded visually, acoustically, or semantically, with meaning-based coding dominating long-term memory.\n\n- Short-Term Capacity Is Limited:Miller’s “magic number seven” suggests most adults hold five to nine items in short-term memory, though chunking increases this.\n\n- Long-Term Memory Has No Known Limit:Unlike short-term memory’s few seconds of duration, long-term memory can last a lifetime and store an effectively unlimited amount.\n\n- Retrieval Depends On Cues:Long-term memories are retrieved by association, which is why returning to a familiar setting can help you recall a forgotten intention.\n\n- Organization Aids Recall:Structuring information, such as alphabetically, by time, or by category, makes it easier to store and later retrieve.\n\n- Lab Studies Have Limits:Because many memory experiments use artificial word lists in controlled settings, critics argue the findings may not generalize to everyday remembering.\n\n- Memory Encoding\n\n- Memory Storage\n\n- Memory Retrieval\n\n- Criticisms of Memory Experiments",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Memory Encoding",
+      "content": "When information comes into our memory system (from sensory input), it needs to be changed into a form that the system can cope with so that it can be stored.\n\nThink of this as similar to changing your money into a different currency when you travel from one country to another.\n\nFor example, a word that is seen (in a book) may be stored if it is changed (encoded) into a sound or a meaning (i.e., semantic processing).\n\nThere are three main ways in which information can be encoded (changed):\n\n3. Semantic (meaning)\n\nFor example, how do you remember a telephone number you have looked up in the phone book?\n\nIf you can see it, then you are using visual coding, but if you are repeating it to yourself, you are using acoustic coding (by sound).\n\nEvidence suggests that this is the principle coding system in short-term memory (STM) is acoustic coding.\n\nWhen a person is presented with a list of numbers and letters, they will try to hold them in STM by rehearsing them (verbally).\n\nRehearsal is a verbal process regardless of whether the list of items is presented acoustically (someone reads them out), or visually (on a sheet of paper).\n\nThe principle encoding system in long-term memory (LTM) appears to besemantic coding(by meaning).\n\nHowever, information in LTM can also be coded both visually and acoustically.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Memory Storage",
+      "content": "This concerns the nature of memory stores, i.e., where the information is stored, how long the memory lasts (duration), how much can be stored at any time (capacity) and what kind of information is held.\n\nThe way we store information affects the way we retrieve it.\n\nResearch shows clear differences betweenShort Term Memory(STM) andLong Term Memory(LTM).\n\nMost adults can store between 5 and 9 items in their short-term memory.  Miller (1956) put this idea forward, and he called it the magic number 7.\n\nHe thought that short-term memory capacity was 7 (plus or minus 2) items because it only had a certain number of “slots” in which items could be stored.\n\nHowever, Miller didn’t specify the amount of information that can be held in each slot.\n\nIndeed, if we can “chunk” information together, we can store a lot more information in our short-term memory.\n\nIn contrast, the capacity of LTM is thought to be unlimited.\n\nInformation can only be stored for a brief duration in STM (0-30 seconds), but LTM can last a lifetime.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Memory Retrieval",
+      "content": "This refers to getting information out of storage.  If we can’t remember something, it may be because we are unable to retrieve it.\n\nWhen we are asked to retrieve something from memory, the differences between STM and LTM become very clear.\n\nSTM is stored and retrieved sequentially.\n\nFor example, imagine a group of participants is given a list of words to remember, then asked to recall the fourth word on the list. To retrieve it, participants mentally go through the list in the order they learned it.\n\nLTM is stored and retrieved by association.\n\nThis is why you can remember what you went upstairs for if you go back to the room where you first thought about it.\n\nPsychologists call thiscontext-dependent memory: recall improves when the surroundings at retrieval match those present at learning. The memory is stored together with cues from its original setting, so reinstating those cues can help bring it back.\n\nAim:Godden and Baddeley (1975) tested whether the external environment itself acts as a retrieval cue.\n\nMethod:Divers learned a word list either on dry land or underwater, then recalled it in the same environment or the other one.\n\nResults:Recall was markedly better when the learning and recall environments matched than when they differed.\n\nConclusion:The physical environment present at encoding becomes part of the stored memory, so reinstating it aids recall.\n\nOrganizing information can help aid retrieval.\n\nYou can organize information in sequences (such as alphabetically, by size, or by time).\n\nImagine a patient being discharged from a hospital whose treatment involved taking various pills at various times, changing their dressing, and doing exercises.\n\nIf the doctor gives these instructions in the order that they must be carried out throughout the day (i.e., in the sequence of time), this will help the patient remember them.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Criticisms of Memory Experiments",
+      "content": "A large part of the research on memory is based onexperimentsconducted in laboratories.\n\nThose who take part in the experiments – the participants – are asked to perform tasks such as recalling lists of words and numbers.\n\nBoth the setting – the laboratory – and the tasks are a long way from everyday life.  In many cases, the setting is artificial, and the tasks are fairly meaningless.\n\nPsychologists call thisecological validity: the extent to which findings generalize beyond the lab to real-world settings. A realistic study earns high ecological validity. An artificial setting or task lowers it, so the findings may not transfer to everyday life.\n\nMany experiments designed to investigate memory have been criticized for having low ecological validity.\n\nFirst, the laboratory is an artificial situation.  People are removed from their normal social settings and asked to take part in a psychological experiment.\n\nThey are directed by an “experimenter” and may be placed in the company of complete strangers.  For many people, this is a brand new experience, far removed from their everyday lives.\n\nWill this setting affect their actions? Will they behave normally?\n\nOften, the tasks participants are asked to perform can appear artificial and meaningless.  Few, if any, people would attempt to memorize and recall a list of unconnected words in their daily lives.\n\nAnd it is not clear how tasks such as this relate to the use of memory in everyday life.\n\nThis artificiality is why psychologists still question how far laboratory memory research generalizes to everyday life.\n\nMcLeod, S. (2026). Memory Stages: Encoding Storage and Retrieval. Simply Psychology. https://www.simplypsychology.org/memory.html\n\nMcLeod, Saul. \"Memory Stages: Encoding Storage and Retrieval.\" Simply Psychology, 26 August 2026, https://www.simplypsychology.org/memory.html.\n\nMcLeod, S. (2026) Memory Stages: Encoding Storage and Retrieval. Simply Psychology. Available at: https://www.simplypsychology.org/memory.html (Accessed: 21 September 2026).",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "References",
+      "content": "Godden, D. R., & Baddeley, A. D. (1975). Context-dependent memory in two natural environments: On land and underwater.British Journal of Psychology, 66(3), 325-331.\n\nMatlin, M. W. (2005).Cognition. Crawfordsville: John Wiley & Sons, Inc.\n\nMiller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information.Psychological Review, 63 (2): 81–97.\n\nSternberg, R. J. (1999).Cognitive psychology (2 nd ed.). Fort Worth, TX: Harcourt Brace College Publishers.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 7,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Stages-of-Memory-1.jpg",
+      "alt": "Memory Stages: Encoding Storage and Retrieval",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--300x97.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/State-Dependent-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-memory-300x111.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/schemas-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/episodic-memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Memory Stages: Encoding Storage and Retrieval\n\n> Psychology»Cognitive Psychology\n\n## Giriş\n\nPsychology»Cognitive Psychology\n\nMemory refers to thestructuresandprocessesthat store and retrieve information, letting us learn from the past and use it in the present.\n\nPsychologists break this down into three key aspects ofinformation processing: encoding, storage, and retrieval, shown below.\n\n- Memory is the process of maintaining information over time (Matlin, 2005).\n\n- Memory is the means by which we draw on our past experiences in order to use this information in the present (Sternberg, 1999).\n\n## Key Takeaways\n\n- Three Core Processes:Memory involves encoding (changing information into a storable form), storage (holding it over time), and retrieval (getting it back out).\n\n- Encoding Takes Several Forms:Information can be encoded visually, acoustically, or semantically, with meaning-based coding dominating long-term memory.\n\n- Short-Term Capacity Is Limited:Miller’s “magic number seven” suggests most adults hold five to nine items in short-term memory, though chunking increases this.\n\n- Long-Term Memory Has No Known Limit:Unlike short-term memory’s few seconds of duration, long-term memory can last a lifetime and store an effectively unlimited amount.\n\n- Retrieval Depends On Cues:Long-term memories are retrieved by association, which is why returning to a familiar setting can help you recall a forgotten intention.\n\n- Organization Aids Recall:Structuring information, such as alphabetically, by time, or by category, makes it easier to store and later retrieve.\n\n- Lab Studies Have Limits:Because many memory experiments use artificial word lists in controlled settings, critics argue the findings may not generalize to everyday remembering.\n\n- Memory Encoding\n\n- Memory Storage\n\n- Memory Retrieval\n\n- Criticisms of Memory Experiments\n\n## Memory Encoding\n\nWhen information comes into our memory system (from sensory input), it needs to be changed into a form that the system can cope with so that it can be stored.\n\nThink of this as similar to changing your money into a different currency when you travel from one country to another.\n\nFor example, a word that is seen (in a book) may be stored if it is changed (encoded) into a sound or a meaning (i.e., semantic processing).\n\nThere are three main ways in which information can be encoded (changed):\n\n3. Semantic (meaning)\n\nFor example, how do you remember a telephone number you have looked up in the phone book?\n\nIf you can see it, then you are using visual coding, but if you are repeating it to yourself, you are using acoustic coding (by sound).\n\nEvidence suggests that this is the principle coding system in short-term memory (STM) is acoustic coding.\n\nWhen a person is presented with a list of numbers and letters, they will try to hold them in STM by rehearsing them (verbally).\n\nRehearsal is a verbal process regardless of whether the list of items is presented acoustically (someone reads them out), or visually (on a sheet of paper).\n\nThe principle encoding system in long-term memory (LTM) appears to besemantic coding(by meaning).\n\nHowever, information in LTM can also be coded both visually and acoustically.\n\n## Memory Storage\n\nThis concerns the nature of memory stores, i.e., where the information is stored, how long the memory lasts (duration), how much can be stored at any time (capacity) and what kind of information is held.\n\nThe way we store information affects the way we retrieve it.\n\nResearch shows clear differences betweenShort Term Memory(STM) andLong Term Memory(LTM).\n\nMost adults can store between 5 and 9 items in their short-term memory.  Miller (1956) put this idea forward, and he called it the magic number 7.\n\nHe thought that short-term memory capacity was 7 (plus or minus 2) items because it only had a certain number of “slots” in which items could be stored.\n\nHowever, Miller didn’t specify the amount of information that can be held in each slot.\n\nIndeed, if we can “chunk” information together, we can store a lot more information in our short-term memory.\n\nIn contrast, the capacity of LTM is thought to be unlimited.\n\nInformation can only be stored for a brief duration in STM (0-30 seconds), but LTM can last a lifetime.\n\n## Memory Retrieval\n\nThis refers to getting information out of storage.  If we can’t remember something, it may be because we are unable to retrieve it.\n\nWhen we are asked to retrieve something from memory, the differences between STM and LTM become very clear.\n\nSTM is stored and retrieved sequentially.\n\nFor example, imagine a group of participants is given a list of words to remember, then asked to recall the fourth word on the list. To retrieve it, participants mentally go through the list in the order they learned it.\n\nLTM is stored and retrieved by association.\n\nThis is why you can remember what you went upstairs for if you go back to the room where you first thought about it.\n\nPsychologists call thiscontext-dependent memory: recall improves when the surroundings at retrieval match those present at learning. The memory is stored together with cues from its original setting, so reinstating those cues can help bring it back.\n\nAim:Godden and Baddeley (1975) tested whether the external environment itself acts as a retrieval cue.\n\nMethod:Divers learned a word list either on dry land or underwater, then recalled it in the same environment or the other one.\n\nResults:Recall was markedly better when the learning and recall environments matched than when they differed.\n\nConclusion:The physical environment present at encoding becomes part of the stored memory, so reinstating it aids recall.\n\nOrganizing information can help aid retrieval.\n\nYou can organize information in sequences (such as alphabetically, by size, or by time).\n\nImagine a patient being discharged from a hospital whose treatment involved taking various pills at various times, changing their dressing, and doing exercises.\n\nIf the doctor gives these instructions in the order that they must be carried out throughout the day (i.e., in the sequence of time), this will help the patient remember them.\n\n## Criticisms of Memory Experiments\n\nA large part of the research on memory is based onexperimentsconducted in laboratories.\n\nThose who take part in the experiments – the participants – are asked to perform tasks such as recalling lists of words and numbers.\n\nBoth the setting – the laboratory – and the tasks are a long way from everyday life.  In many cases, the setting is artificial, and the tasks are fairly meaningless.\n\nPsychologists call thisecological validity: the extent to which findings generalize beyond the lab to real-world settings. A realistic study earns high ecological validity. An artificial setting or task lowers it, so the findings may not transfer to everyday life.\n\nMany experiments designed to investigate memory have been criticized for having low ecological validity.\n\nFirst, the laboratory is an artificial situation.  People are removed from their normal social settings and asked to take part in a psychological experiment.\n\nThey are directed by an “experimenter” and may be placed in the company of complete strangers.  For many people, this is a brand new experience, far removed from their everyday lives.\n\nWill this setting affect their actions? Will they behave normally?\n\nOften, the tasks participants are asked to perform can appear artificial and meaningless.  Few, if any, people would attempt to memorize and recall a list of unconnected words in their daily lives.\n\nAnd it is not clear how tasks such as this relate to the use of memory in everyday life.\n\nThis artificiality is why psychologists still question how far laboratory memory research generalizes to everyday life.\n\nMcLeod, S. (2026). Memory Stages: Encoding Storage and Retrieval. Simply Psychology. https://www.simplypsychology.org/memory.html\n\nMcLeod, Saul. \"Memory Stages: Encoding Storage and Retrieval.\" Simply Psychology, 26 August 2026, https://www.simplypsychology.org/memory.html.\n\nMcLeod, S. (2026) Memory Stages: Encoding Storage and Retrieval. Simply Psychology. Available at: https://www.simplypsychology.org/memory.html (Accessed: 21 September 2026).\n\n## References\n\nGodden, D. R., & Baddeley, A. D. (1975). Context-dependent memory in two natural environments: On land and underwater.British Journal of Psychology, 66(3), 325-331.\n\nMatlin, M. W. (2005).Cognition. Crawfordsville: John Wiley & Sons, Inc.\n\nMiller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information.Psychological Review, 63 (2): 81–97.\n\nSternberg, R. J. (1999).Cognitive psychology (2 nd ed.). Fort Worth, TX: Harcourt Brace College Publishers.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-21T19:06:21.600230"
+}

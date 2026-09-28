@@ -1,0 +1,97 @@
+{
+  "id": "p_value_calculator_from_chi_square_html_2cf5b94d",
+  "url": "https://www.simplypsychology.org/p-value-calculator-from-chi-square.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "P-Value Calculator for Chi-Square",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2024-07-02T07:33:48+00:00",
+  "date_modified": null,
+  "read_time_minutes": 1,
+  "word_count": 221,
+  "summary": "Psychology»Statistics",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Statistics\n\nCalculate the degrees of freedom for the contingency table using the following formula; df= (rows – 1) x (columns – 1).",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Further Information",
+      "content": "- Chi-Square (Χ²) Test\n\n- p-value and significance",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "When to use chi-square test vs t test?",
+      "content": "McLeod, S. (2024). P-Value Calculator for Chi-Square. Simply Psychology. https://www.simplypsychology.org/p-value-calculator-from-chi-square.html\n\nMcLeod, Saul. \"P-Value Calculator for Chi-Square.\" Simply Psychology, 2 July 2024, https://www.simplypsychology.org/p-value-calculator-from-chi-square.html.\n\nMcLeod, S. (2024) P-Value Calculator for Chi-Square. Simply Psychology. Available at: https://www.simplypsychology.org/p-value-calculator-from-chi-square.html (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 3,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/chi-squared-equation.png",
+      "alt": "P-Value Calculator for Chi-Square",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Chi-Square-Test-of-Independence-300x186.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/t-test-formula-300x129.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/anova-calculator-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# P-Value Calculator for Chi-Square\n\n> Psychology»Statistics\n\n## Giriş\n\nPsychology»Statistics\n\nCalculate the degrees of freedom for the contingency table using the following formula; df= (rows – 1) x (columns – 1).\n\n## Further Information\n\n- Chi-Square (Χ²) Test\n\n- p-value and significance\n\n## When to use chi-square test vs t test?\n\nMcLeod, S. (2024). P-Value Calculator for Chi-Square. Simply Psychology. https://www.simplypsychology.org/p-value-calculator-from-chi-square.html\n\nMcLeod, Saul. \"P-Value Calculator for Chi-Square.\" Simply Psychology, 2 July 2024, https://www.simplypsychology.org/p-value-calculator-from-chi-square.html.\n\nMcLeod, S. (2024) P-Value Calculator for Chi-Square. Simply Psychology. Available at: https://www.simplypsychology.org/p-value-calculator-from-chi-square.html (Accessed: 22 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:35:29.574840"
+}

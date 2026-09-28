@@ -1,0 +1,32 @@
+# Building Love and Safety in Marriage After Childhood Trauma
+
+- **Kaynak Platform**: Psychology Today
+- **Blog / Kategori**: hidden-wounds
+- **Orijinal URL**: https://www.psychologytoday.com/us/blog/hidden-wounds/202512/building-love-and-safety-in-marriage-after-childhood-trauma
+- **Yazar / Uzman**: Glenn R. Schiraldi Ph.D. (Ph.D.)
+- **Hakem / Editör**: Reviewed by Davia Sills
+- **Yayın Tarihi**: 2026-01-07T09:59:01-05:00
+- **Son Güncelleme**: 2026-01-07T09:59:01-05:00
+- **Okuma Süresi / Kelime**: ~1 dk (27 kelime)
+- **Konu Etiketleri**: Adverse Childhood Experiences
+- **Çekilme Zamanı**: 2026-09-21T21:10:48.407688
+
+---
+
+## 📌 Giriş / Özet
+Survivors of childhood trauma have legitimate needs for emotional closeness. Emotionally focused therapy can help couples find it.
+
+
+## 🖼️ Konuyla İlgili Görseller (Arka Plan & Tasarım İçin)
+- ![Building Love and Safety in Marriage After Childhood Trauma](https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-12/peopleimages_copy.jpg?itok=K5RKu__D) `[Kapak Görseli]` - *Cover Image*
+- ![Glenn R. Schiraldi Ph.D.](https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/schiraldi.png.jpg?itok=sToXDl2b)
+- ![Görsel](https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/field_blog_entry_images/2026-08/image_by_matt_moloney_from_stocksnap.jpg?itok=oAFT7LX6)
+- ![Görsel](https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2026-08/woman_looking_depressed_edited.jpg?itok=vgUe2VOl)
+
+
+## 📝 Makale Bölümleri ve Detaylı İçerik
+
+# Building Love and Safety in Marriage After Childhood Trauma
+
+> Survivors of childhood trauma have legitimate needs for emotional closeness. Emotionally focused therapy can help couples find it.
+

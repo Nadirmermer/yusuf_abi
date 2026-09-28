@@ -1,0 +1,163 @@
+{
+  "id": "kurtosis_html_8e6df935",
+  "url": "https://www.simplypsychology.org/kurtosis.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Kurtosis in Statistics",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2026-09-17T11:32:44+00:00",
+  "date_modified": null,
+  "read_time_minutes": 11,
+  "word_count": 2146,
+  "summary": "Psychology»Statistics",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Statistics\n\n[preferred_source_button]\n\nKurtosis is a statistical measure used to describe the degree to which scores cluster in the tails or the peak of a frequency distribution.\n\nThe peak is the tallest part of the distribution, and the tails are the ends of the distribution.\n\n- Types of Kurtosis\n\n- Normal kurtosis\n\n- Negative kurtosis\n\n- Positive kurtosis\n\n- Critical Evaluation",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Types of Kurtosis",
+      "content": "There are three types of kurtosis: mesokurtic, leptokurtic, and platykurtic.\n\n- Mesokurtic:Distributions that are moderate in breadth and curves with a medium peaked height.\n\n- Leptokurtic:More values in the distribution tails and more values close to the mean (i.e., sharply peaked with heavy tails)\n\n- Platykurtic:Fewer values in the tails and fewer values close to the mean (i.e., the curve has a flat peak and has more dispersed scores with lighter tails).",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Normal kurtosis",
+      "content": "When kurtosis is equal to 3, the distribution is mesokurtic.\n\nThis means the kurtosis is the same as thenormal distribution; it is mesokurtic (medium peak).\n\nThe kurtosis of a mesokurtic distribution is neither high nor low; rather, it is considered to be a baseline for the two other classifications.\n\nIQ scores in the general population are a familiar example. They cluster around the average without an unusually sharp peak or unusually heavy tails, which is exactly the shape a mesokurtic distribution predicts.\n\nNegative kurtosisNegative excess values of kurtosis (<3) indicate that the distribution is flat and has thin tails. Platykurtic distributions have negative kurtosis values.Related ArticlesIntroduction to the Normal Distribution (Bell Curve)Reading a Box and Whisker PlotZ-Score [standard Score]P-Value SignificanceConfidence IntervalsEffect SizeType 1 and Type 2 ErrorsHow to Use the Z-Score Table (Standard Normal Table)A platykurtic distribution is flatter (less peaked) when compared with the normal distribution, with fewer values in its shorter (i.e., lighter and thinner) tails.A group with genuinely varied, unpracticed strategies on a new task shows this pattern well. Response times spread fairly evenly across a moderate range, with no single time especially typical and few extreme outliers in either direction.Positive kurtosisPositive excess values of kurtosis (> 3) indicate that distribution is peaked and possesses thick tails. Leptokurtic distributions have positive kurtosis values.A leptokurtic distribution has a higher peak (thin bell) and taller (i.e., fatter and heavy) tails than a normal distribution.You Might Also LikeIntroduction to the Normal Distribution (Bell Curve)Reading a Box and Whisker PlotZ-Score [standard Score]P-Value SignificanceConfidence IntervalsEffect SizeA skilled typist’s keystroke timing is a good real-world example. Most intervals cluster tightly around the practised rhythm, producing the sharp central peak, while occasional lapses or anticipatory errors create the heavier tails.An extreme positive kurtosis indicates a distribution where more of the values are located in the tails of the distribution rather than around the mean.Critical EvaluationKurtosis is easy to calculate, but interpreting a value is less settled than introductory teaching suggests.No single cutoff commands agreement in the research literature. How much a departure from the normal baseline matters depends on which statistical test is being used.No Single CutoffIntroductory courses often treat a kurtosis value beyond roughly ±2 as automatically problematic. The primary literature does not support one fixed number.Formal tests check for departure from normality directly instead.The Shapiro–Wilk test compares a sample’s ordered values against what normality would predict. The D’Agostino–Pearson omnibus test combines separate tests of skewness and kurtosis into one statistic. Both return a p-value for the hypothesis that the sample came from a normal population.Neither test relies on a fixed cutoff.A large, earlier survey found the same pattern from a different angle. Virtually every one of 440 published psychological and educational measures examined was significantly non-normal (Micceri, 1989).Non-normality was the norm, not the exception.Real data, in other words, is more often non-normal than a textbook assumes. Checking shape before trusting a mean is standard practice for exactly this reason.Contemporary ResearchThe strongest evidence on how common non-normal data actually is comes from a large survey of published research.Aim:Cain, Zhang, and Yuan (2017) asked how often published psychological data actually depart from normality, and what that costs common statistical tests.Method:They gathered 1,567 skewness and kurtosis values from 194 published studies, then simulated how varying non-normality affected a t-test and a factor analysis.The results were striking.Results:Seventy-four percent of the distributions sampled deviated meaningfully from normality. Under some of the more severe conditions observed,Type I errorrates rose to 17% for the t-test and 30% for the factor analysis.Conclusion:Non-normal data this severe is common rather than rare. Cain et al. (2017) argued that researchers should routinely report skewness and kurtosis alongside means, instead of assuming normality by default.A separate large simulation study reached a more reassuring conclusion for the most commonly used test of all.Blanca, Alarcón, Arnau, Bono, and Bendayan (2017) tested the one-wayANOVAF-test across a wide range of non-normal distribution shapes and sample-size imbalances modelled on real health and social-science data.It held. The F-test’s nominal Type I error rate stayed accurate in every condition they tested.The two studies do not simply disagree. Together, they show that how much skew or kurtosis matters depends on which test is being run, not on the shape statistic alone.Key TakeawaysKurtosis:Describes how heavy the tails and how peaked the centre of a distribution are, compared with the normal distribution.Three Types:Mesokurtic (normal-like), leptokurtic (sharper peak, heavier tails), and platykurtic (flatter peak, lighter tails).Mesokurtic Baseline:A raw kurtosis of 3 matches the normal distribution and is the baseline the other two types are judged against.No Fixed Cutoff:How much a departure from this baseline matters depends on the statistical test being used, not on a single rule-of-thumb number.Why It Matters:Checking kurtosis helps researchers decide whether a parametric test’s normality assumption is safe to rely on.Updated 17 Sep 2026APA 7MLA 9HarvardMcLeod, S. (2026). Kurtosis in Statistics. Simply Psychology. https://www.simplypsychology.org/kurtosis.htmlMcLeod, Saul. \"Kurtosis in Statistics.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/kurtosis.html.McLeod, S. (2026) Kurtosis in Statistics. Simply Psychology. Available at: https://www.simplypsychology.org/kurtosis.html (Accessed: 22 September 2026).Copy citationDownload .risDownload .bibReferencesBlanca, M. J., Alarcón, R., Arnau, J., Bono, R., & Bendayan, R. (2017). Non-normal data: Is ANOVA still a valid option?Psicothema, 29(4), 552–557. https://doi.org/10.7334/psicothema2016.383Cain, M. K., Zhang, Z., & Yuan, K.-H. (2017). Univariate and multivariate skewness and kurtosis for measuring nonnormality: Prevalence, influence and estimation.Behavior Research Methods, 49(5), 1716–1735. https://doi.org/10.3758/s13428-016-0814-1Micceri, T. (1989). The unicorn, the normal curve, and other improbable creatures.Psychological Bulletin, 105(1), 156–166. https://doi.org/10.1037/0033-2909.105.1.156",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Negative kurtosis",
+      "content": "Negative excess values of kurtosis (<3) indicate that the distribution is flat and has thin tails. Platykurtic distributions have negative kurtosis values.\n\nA platykurtic distribution is flatter (less peaked) when compared with the normal distribution, with fewer values in its shorter (i.e., lighter and thinner) tails.\n\nA group with genuinely varied, unpracticed strategies on a new task shows this pattern well. Response times spread fairly evenly across a moderate range, with no single time especially typical and few extreme outliers in either direction.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Positive kurtosis",
+      "content": "Positive excess values of kurtosis (> 3) indicate that distribution is peaked and possesses thick tails. Leptokurtic distributions have positive kurtosis values.\n\nA leptokurtic distribution has a higher peak (thin bell) and taller (i.e., fatter and heavy) tails than a normal distribution.\n\nA skilled typist’s keystroke timing is a good real-world example. Most intervals cluster tightly around the practised rhythm, producing the sharp central peak, while occasional lapses or anticipatory errors create the heavier tails.\n\nAn extreme positive kurtosis indicates a distribution where more of the values are located in the tails of the distribution rather than around the mean.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Critical Evaluation",
+      "content": "Kurtosis is easy to calculate, but interpreting a value is less settled than introductory teaching suggests.\n\nNo single cutoff commands agreement in the research literature. How much a departure from the normal baseline matters depends on which statistical test is being used.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "No Single Cutoff",
+      "content": "Introductory courses often treat a kurtosis value beyond roughly ±2 as automatically problematic. The primary literature does not support one fixed number.\n\nFormal tests check for departure from normality directly instead.\n\nThe Shapiro–Wilk test compares a sample’s ordered values against what normality would predict. The D’Agostino–Pearson omnibus test combines separate tests of skewness and kurtosis into one statistic. Both return a p-value for the hypothesis that the sample came from a normal population.\n\nNeither test relies on a fixed cutoff.\n\nA large, earlier survey found the same pattern from a different angle. Virtually every one of 440 published psychological and educational measures examined was significantly non-normal (Micceri, 1989).\n\nNon-normality was the norm, not the exception.\n\nReal data, in other words, is more often non-normal than a textbook assumes. Checking shape before trusting a mean is standard practice for exactly this reason.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Contemporary Research",
+      "content": "The strongest evidence on how common non-normal data actually is comes from a large survey of published research.\n\nAim:Cain, Zhang, and Yuan (2017) asked how often published psychological data actually depart from normality, and what that costs common statistical tests.\n\nMethod:They gathered 1,567 skewness and kurtosis values from 194 published studies, then simulated how varying non-normality affected a t-test and a factor analysis.\n\nThe results were striking.\n\nResults:Seventy-four percent of the distributions sampled deviated meaningfully from normality. Under some of the more severe conditions observed,Type I errorrates rose to 17% for the t-test and 30% for the factor analysis.\n\nConclusion:Non-normal data this severe is common rather than rare. Cain et al. (2017) argued that researchers should routinely report skewness and kurtosis alongside means, instead of assuming normality by default.\n\nA separate large simulation study reached a more reassuring conclusion for the most commonly used test of all.\n\nBlanca, Alarcón, Arnau, Bono, and Bendayan (2017) tested the one-wayANOVAF-test across a wide range of non-normal distribution shapes and sample-size imbalances modelled on real health and social-science data.\n\nIt held. The F-test’s nominal Type I error rate stayed accurate in every condition they tested.\n\nThe two studies do not simply disagree. Together, they show that how much skew or kurtosis matters depends on which test is being run, not on the shape statistic alone.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Key Takeaways",
+      "content": "- Kurtosis:Describes how heavy the tails and how peaked the centre of a distribution are, compared with the normal distribution.\n\n- Three Types:Mesokurtic (normal-like), leptokurtic (sharper peak, heavier tails), and platykurtic (flatter peak, lighter tails).\n\n- Mesokurtic Baseline:A raw kurtosis of 3 matches the normal distribution and is the baseline the other two types are judged against.\n\n- No Fixed Cutoff:How much a departure from this baseline matters depends on the statistical test being used, not on a single rule-of-thumb number.\n\n- Why It Matters:Checking kurtosis helps researchers decide whether a parametric test’s normality assumption is safe to rely on.\n\nMcLeod, S. (2026). Kurtosis in Statistics. Simply Psychology. https://www.simplypsychology.org/kurtosis.html\n\nMcLeod, Saul. \"Kurtosis in Statistics.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/kurtosis.html.\n\nMcLeod, S. (2026) Kurtosis in Statistics. Simply Psychology. Available at: https://www.simplypsychology.org/kurtosis.html (Accessed: 22 September 2026).",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "References",
+      "content": "Blanca, M. J., Alarcón, R., Arnau, J., Bono, R., & Bendayan, R. (2017). Non-normal data: Is ANOVA still a valid option?Psicothema, 29(4), 552–557. https://doi.org/10.7334/psicothema2016.383\n\nCain, M. K., Zhang, Z., & Yuan, K.-H. (2017). Univariate and multivariate skewness and kurtosis for measuring nonnormality: Prevalence, influence and estimation.Behavior Research Methods, 49(5), 1716–1735. https://doi.org/10.3758/s13428-016-0814-1\n\nMicceri, T. (1989). The unicorn, the normal curve, and other improbable creatures.Psychological Bulletin, 105(1), 156–166. https://doi.org/10.1037/0033-2909.105.1.156\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 10,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Kurtosis.gif",
+      "alt": "Kurtosis in Statistics",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Kurtosis.gif",
+      "alt": "Types of Kurtosis ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/normal-distribution.jpg",
+      "alt": "Normal Distribution Bell Curve",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/negative-kurtosis.jpg",
+      "alt": "Platykurtic: Negative Kurtosis ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/positive-kurtosis.jpg",
+      "alt": "Leptokurtic: Positive Kurtosis",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bell-curve-300x250.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-whisker-plot-300x165.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cohen-d-300x142.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Kurtosis in Statistics\n\n> Psychology»Statistics\n\n## Giriş\n\nPsychology»Statistics\n\n[preferred_source_button]\n\nKurtosis is a statistical measure used to describe the degree to which scores cluster in the tails or the peak of a frequency distribution.\n\nThe peak is the tallest part of the distribution, and the tails are the ends of the distribution.\n\n- Types of Kurtosis\n\n- Normal kurtosis\n\n- Negative kurtosis\n\n- Positive kurtosis\n\n- Critical Evaluation\n\n## Types of Kurtosis\n\nThere are three types of kurtosis: mesokurtic, leptokurtic, and platykurtic.\n\n- Mesokurtic:Distributions that are moderate in breadth and curves with a medium peaked height.\n\n- Leptokurtic:More values in the distribution tails and more values close to the mean (i.e., sharply peaked with heavy tails)\n\n- Platykurtic:Fewer values in the tails and fewer values close to the mean (i.e., the curve has a flat peak and has more dispersed scores with lighter tails).\n\n## Normal kurtosis\n\nWhen kurtosis is equal to 3, the distribution is mesokurtic.\n\nThis means the kurtosis is the same as thenormal distribution; it is mesokurtic (medium peak).\n\nThe kurtosis of a mesokurtic distribution is neither high nor low; rather, it is considered to be a baseline for the two other classifications.\n\nIQ scores in the general population are a familiar example. They cluster around the average without an unusually sharp peak or unusually heavy tails, which is exactly the shape a mesokurtic distribution predicts.\n\nNegative kurtosisNegative excess values of kurtosis (<3) indicate that the distribution is flat and has thin tails. Platykurtic distributions have negative kurtosis values.Related ArticlesIntroduction to the Normal Distribution (Bell Curve)Reading a Box and Whisker PlotZ-Score [standard Score]P-Value SignificanceConfidence IntervalsEffect SizeType 1 and Type 2 ErrorsHow to Use the Z-Score Table (Standard Normal Table)A platykurtic distribution is flatter (less peaked) when compared with the normal distribution, with fewer values in its shorter (i.e., lighter and thinner) tails.A group with genuinely varied, unpracticed strategies on a new task shows this pattern well. Response times spread fairly evenly across a moderate range, with no single time especially typical and few extreme outliers in either direction.Positive kurtosisPositive excess values of kurtosis (> 3) indicate that distribution is peaked and possesses thick tails. Leptokurtic distributions have positive kurtosis values.A leptokurtic distribution has a higher peak (thin bell) and taller (i.e., fatter and heavy) tails than a normal distribution.You Might Also LikeIntroduction to the Normal Distribution (Bell Curve)Reading a Box and Whisker PlotZ-Score [standard Score]P-Value SignificanceConfidence IntervalsEffect SizeA skilled typist’s keystroke timing is a good real-world example. Most intervals cluster tightly around the practised rhythm, producing the sharp central peak, while occasional lapses or anticipatory errors create the heavier tails.An extreme positive kurtosis indicates a distribution where more of the values are located in the tails of the distribution rather than around the mean.Critical EvaluationKurtosis is easy to calculate, but interpreting a value is less settled than introductory teaching suggests.No single cutoff commands agreement in the research literature. How much a departure from the normal baseline matters depends on which statistical test is being used.No Single CutoffIntroductory courses often treat a kurtosis value beyond roughly ±2 as automatically problematic. The primary literature does not support one fixed number.Formal tests check for departure from normality directly instead.The Shapiro–Wilk test compares a sample’s ordered values against what normality would predict. The D’Agostino–Pearson omnibus test combines separate tests of skewness and kurtosis into one statistic. Both return a p-value for the hypothesis that the sample came from a normal population.Neither test relies on a fixed cutoff.A large, earlier survey found the same pattern from a different angle. Virtually every one of 440 published psychological and educational measures examined was significantly non-normal (Micceri, 1989).Non-normality was the norm, not the exception.Real data, in other words, is more often non-normal than a textbook assumes. Checking shape before trusting a mean is standard practice for exactly this reason.Contemporary ResearchThe strongest evidence on how common non-normal data actually is comes from a large survey of published research.Aim:Cain, Zhang, and Yuan (2017) asked how often published psychological data actually depart from normality, and what that costs common statistical tests.Method:They gathered 1,567 skewness and kurtosis values from 194 published studies, then simulated how varying non-normality affected a t-test and a factor analysis.The results were striking.Results:Seventy-four percent of the distributions sampled deviated meaningfully from normality. Under some of the more severe conditions observed,Type I errorrates rose to 17% for the t-test and 30% for the factor analysis.Conclusion:Non-normal data this severe is common rather than rare. Cain et al. (2017) argued that researchers should routinely report skewness and kurtosis alongside means, instead of assuming normality by default.A separate large simulation study reached a more reassuring conclusion for the most commonly used test of all.Blanca, Alarcón, Arnau, Bono, and Bendayan (2017) tested the one-wayANOVAF-test across a wide range of non-normal distribution shapes and sample-size imbalances modelled on real health and social-science data.It held. The F-test’s nominal Type I error rate stayed accurate in every condition they tested.The two studies do not simply disagree. Together, they show that how much skew or kurtosis matters depends on which test is being run, not on the shape statistic alone.Key TakeawaysKurtosis:Describes how heavy the tails and how peaked the centre of a distribution are, compared with the normal distribution.Three Types:Mesokurtic (normal-like), leptokurtic (sharper peak, heavier tails), and platykurtic (flatter peak, lighter tails).Mesokurtic Baseline:A raw kurtosis of 3 matches the normal distribution and is the baseline the other two types are judged against.No Fixed Cutoff:How much a departure from this baseline matters depends on the statistical test being used, not on a single rule-of-thumb number.Why It Matters:Checking kurtosis helps researchers decide whether a parametric test’s normality assumption is safe to rely on.Updated 17 Sep 2026APA 7MLA 9HarvardMcLeod, S. (2026). Kurtosis in Statistics. Simply Psychology. https://www.simplypsychology.org/kurtosis.htmlMcLeod, Saul. \"Kurtosis in Statistics.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/kurtosis.html.McLeod, S. (2026) Kurtosis in Statistics. Simply Psychology. Available at: https://www.simplypsychology.org/kurtosis.html (Accessed: 22 September 2026).Copy citationDownload .risDownload .bibReferencesBlanca, M. J., Alarcón, R., Arnau, J., Bono, R., & Bendayan, R. (2017). Non-normal data: Is ANOVA still a valid option?Psicothema, 29(4), 552–557. https://doi.org/10.7334/psicothema2016.383Cain, M. K., Zhang, Z., & Yuan, K.-H. (2017). Univariate and multivariate skewness and kurtosis for measuring nonnormality: Prevalence, influence and estimation.Behavior Research Methods, 49(5), 1716–1735. https://doi.org/10.3758/s13428-016-0814-1Micceri, T. (1989). The unicorn, the normal curve, and other improbable creatures.Psychological Bulletin, 105(1), 156–166. https://doi.org/10.1037/0033-2909.105.1.156\n\n## Negative kurtosis\n\nNegative excess values of kurtosis (<3) indicate that the distribution is flat and has thin tails. Platykurtic distributions have negative kurtosis values.\n\nA platykurtic distribution is flatter (less peaked) when compared with the normal distribution, with fewer values in its shorter (i.e., lighter and thinner) tails.\n\nA group with genuinely varied, unpracticed strategies on a new task shows this pattern well. Response times spread fairly evenly across a moderate range, with no single time especially typical and few extreme outliers in either direction.\n\n## Positive kurtosis\n\nPositive excess values of kurtosis (> 3) indicate that distribution is peaked and possesses thick tails. Leptokurtic distributions have positive kurtosis values.\n\nA leptokurtic distribution has a higher peak (thin bell) and taller (i.e., fatter and heavy) tails than a normal distribution.\n\nA skilled typist’s keystroke timing is a good real-world example. Most intervals cluster tightly around the practised rhythm, producing the sharp central peak, while occasional lapses or anticipatory errors create the heavier tails.\n\nAn extreme positive kurtosis indicates a distribution where more of the values are located in the tails of the distribution rather than around the mean.\n\n## Critical Evaluation\n\nKurtosis is easy to calculate, but interpreting a value is less settled than introductory teaching suggests.\n\nNo single cutoff commands agreement in the research literature. How much a departure from the normal baseline matters depends on which statistical test is being used.\n\n## No Single Cutoff\n\nIntroductory courses often treat a kurtosis value beyond roughly ±2 as automatically problematic. The primary literature does not support one fixed number.\n\nFormal tests check for departure from normality directly instead.\n\nThe Shapiro–Wilk test compares a sample’s ordered values against what normality would predict. The D’Agostino–Pearson omnibus test combines separate tests of skewness and kurtosis into one statistic. Both return a p-value for the hypothesis that the sample came from a normal population.\n\nNeither test relies on a fixed cutoff.\n\nA large, earlier survey found the same pattern from a different angle. Virtually every one of 440 published psychological and educational measures examined was significantly non-normal (Micceri, 1989).\n\nNon-normality was the norm, not the exception.\n\nReal data, in other words, is more often non-normal than a textbook assumes. Checking shape before trusting a mean is standard practice for exactly this reason.\n\n## Contemporary Research\n\nThe strongest evidence on how common non-normal data actually is comes from a large survey of published research.\n\nAim:Cain, Zhang, and Yuan (2017) asked how often published psychological data actually depart from normality, and what that costs common statistical tests.\n\nMethod:They gathered 1,567 skewness and kurtosis values from 194 published studies, then simulated how varying non-normality affected a t-test and a factor analysis.\n\nThe results were striking.\n\nResults:Seventy-four percent of the distributions sampled deviated meaningfully from normality. Under some of the more severe conditions observed,Type I errorrates rose to 17% for the t-test and 30% for the factor analysis.\n\nConclusion:Non-normal data this severe is common rather than rare. Cain et al. (2017) argued that researchers should routinely report skewness and kurtosis alongside means, instead of assuming normality by default.\n\nA separate large simulation study reached a more reassuring conclusion for the most commonly used test of all.\n\nBlanca, Alarcón, Arnau, Bono, and Bendayan (2017) tested the one-wayANOVAF-test across a wide range of non-normal distribution shapes and sample-size imbalances modelled on real health and social-science data.\n\nIt held. The F-test’s nominal Type I error rate stayed accurate in every condition they tested.\n\nThe two studies do not simply disagree. Together, they show that how much skew or kurtosis matters depends on which test is being run, not on the shape statistic alone.\n\n## Key Takeaways\n\n- Kurtosis:Describes how heavy the tails and how peaked the centre of a distribution are, compared with the normal distribution.\n\n- Three Types:Mesokurtic (normal-like), leptokurtic (sharper peak, heavier tails), and platykurtic (flatter peak, lighter tails).\n\n- Mesokurtic Baseline:A raw kurtosis of 3 matches the normal distribution and is the baseline the other two types are judged against.\n\n- No Fixed Cutoff:How much a departure from this baseline matters depends on the statistical test being used, not on a single rule-of-thumb number.\n\n- Why It Matters:Checking kurtosis helps researchers decide whether a parametric test’s normality assumption is safe to rely on.\n\nMcLeod, S. (2026). Kurtosis in Statistics. Simply Psychology. https://www.simplypsychology.org/kurtosis.html\n\nMcLeod, Saul. \"Kurtosis in Statistics.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/kurtosis.html.\n\nMcLeod, S. (2026) Kurtosis in Statistics. Simply Psychology. Available at: https://www.simplypsychology.org/kurtosis.html (Accessed: 22 September 2026).\n\n## References\n\nBlanca, M. J., Alarcón, R., Arnau, J., Bono, R., & Bendayan, R. (2017). Non-normal data: Is ANOVA still a valid option?Psicothema, 29(4), 552–557. https://doi.org/10.7334/psicothema2016.383\n\nCain, M. K., Zhang, Z., & Yuan, K.-H. (2017). Univariate and multivariate skewness and kurtosis for measuring nonnormality: Prevalence, influence and estimation.Behavior Research Methods, 49(5), 1716–1735. https://doi.org/10.3758/s13428-016-0814-1\n\nMicceri, T. (1989). The unicorn, the normal curve, and other improbable creatures.Psychological Bulletin, 105(1), 156–166. https://doi.org/10.1037/0033-2909.105.1.156\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:17:51.650757"
+}

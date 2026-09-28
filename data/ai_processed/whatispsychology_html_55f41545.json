@@ -1,0 +1,127 @@
+{
+  "id": "whatispsychology_html_55f41545",
+  "original_title": "What Is Psychology?",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/whatispsychology.html",
+  "published_date": "2024-09-03T12:26:59+00:00",
+  "read_time_minutes": 9,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/psychology.jpeg",
+      "alt": "What Is Psychology?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/nervous-system-1-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitters-hormones-300x248.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sympathetic-vs-parasympathetic-nervous-system-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/exam.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/child-development-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1753,
+  "turkce_baslik": "Zihnin Karanlık Odası: Psikoloji Gerçekte Neyi İnceler?",
+  "kanca_sorusu": "Kendi zihninizin işleyiş biçimini çözmeye çalışırken aslında geçmişin hangi hayaletleriyle savaşıyorsunuz?",
+  "score": 42,
+  "puan_nedeni": "Metin genel hatlarıyla akademik tarih, Wilhelm Wundt, yapısalcılık ve psikolojinin tanımı gibi kuru teorik bilgiler içerdiği için doğrudan ilişkisel dinamiklere ve bireysel iç dünyaya dokunmamaktadır. Bu nedenle takipçide derin bir ayna etkisi yaratmaktan uzaktır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan psikolojisi, yüzyıllardır felsefenin somutlaştırılmamış sorularından laboratuvarların soğuk ve ölçülebilir gerçekliğine evrilen uzun bir yolculuktur. Wilhelm Wundt'un zihni parçalarına ayırma çabasından William James'in işlevsellik arayışına kadar her yaklaşım, aslında insanın kendini anlamlandırma çabasının birer ürünüdür. Ancak modern insan için psikoloji, ders kitaplarındaki teorilerden çok daha fazlasıdır; sabah uyanıldığında hissedilen o açıklanamaz ağırlığın, ilişkilerde sürekli tekrarlanan döngülerin ve bastırılmış çocukluk anılarının bugünkü kararlarımızı nasıl sessizce yönettiğinin bilimidir. Zihnimizi incelemek, sadece dış dünyayı anlamak değil, kendi karanlık odamızla yüzleşme cesaretini göstermektir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihnin Derinliklerine Yolculuk",
+      "body": "Psikoloji sadece akademik bir disiplin değil, insanın kendini anlama ve anlama çabasının en ham halidir.",
+      "highlight_box": "Bildiğinizi sandığınız zihniniz aslında ne kadar size ait?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Geçmişin Bugüne Yansıması",
+      "body": "Bugün verdiğiniz tepkiler, seçtiğiniz partnerler ve yaşadığınız kaygılar, yıllar önce kurulan zihinsel yapıların birer sonucudur.",
+      "highlight_box": "Geçmiş, bugünkü kararlarınızı sessizce yönetiyor.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Yapısalcılık ve Zihni Parçalamak",
+      "body": "Wundt'un zihni bileşenlerine ayırma çabası gibi, insan da kendi içinde yaşadığı acıyı anlamlandırmak için parçalara ayrılır.",
+      "highlight_box": "Acıyı anlamak için önce nereden geldiğini görmek gerekir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "İşlevsellik ve Davranışın Amacı",
+      "body": "William James'in belirttiği gibi, önemli olan zihnin yapısı değil, o zihnin bizi neden bu davranışlara yönlendirdiğidir.",
+      "highlight_box": "Neden sürekli aynı hatalı döngüleri tekrarlıyorsunuz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Farkındalıkla Sınır Çizmek",
+      "body": "Zihninizin otomatik pilotunu kapatmak, ancak kendi psikolojik dinamiklerinizle yüzleşmeyi seçtiğinizde mümkündür.",
+      "highlight_box": "Değişim, farkındalıkla başlar.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "İnsan zihni karmaşıktır ancak anlaşılamaz değildir. Kendi gerçeğinizle yüzleşmekten korkmayın.",
+      "highlight_box": "Bu analizi, zihninizi daha iyi anlamak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Zihninizin neden sürekli aynı kısır döngüleri tekrarladığını hiç merak ettiniz mi?",
+    "konusma_metni": "Bugün psikoloji ders kitaplarındaki kuramlardan bahsetmeyeceğiz. Asıl konuşmamız gereken, geçmişin o görünmez köklerinin bugün ilişkilerinizi ve kararlarınızı nasıl yönettiği. Wilhelm Wundt zihni parçalara ayırmaya çalıştı ama insan ruhu sadece bir laboratuvar deneyi değil. Kendi iç sesinizle olan savaşınız, aslında yıllar önce öğrendiğiniz ama hala fark etmediğiniz savunma mekanizmalarınızın bir yansıması. Peki siz, kendi zihninizin ne kadarını gerçekten kontrol edebiliyorsunuz?"
+  },
+  "caption": "Psikoloji, tarihsel kökenleri antik yunan felsefesine dayanan, Wilhelm Wundt'un laboratuvarlarından bugünün modern klinik yaklaşımlarına evrilen geniş bir bilim dalıdır. Ancak teorik tanımların ötesinde psikoloji, bireyin kendi iç dünyasıyla kurduğu ilişkinin ta kendisidir. Zihnimizin yapısını, davranışlarımızın ardındaki görünmez nedenleri ve geçmişin bugünümüzü nasıl şekillendirdiğini anlamadan kendi içsel dönüşümümüzü gerçekleştiremeyiz. Bu süreç, sadece dış dünyayı değil, kendi karanlık yanlarımızı da kabul etme cesareti gerektirir.\n\n#psikoloji #zihin #bilinçaltı #kişiselgelişimdeğilbilimselgerçek #davranışbilimleri #klinikpsikoloji #içselkeşif",
+  "processed_at": "2026-09-26 15:55:31"
+}

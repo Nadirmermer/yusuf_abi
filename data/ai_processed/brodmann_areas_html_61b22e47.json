@@ -1,0 +1,145 @@
+{
+  "id": "brodmann_areas_html_61b22e47",
+  "original_title": "Brodmann Areas of the Brain",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/brodmann-areas.html",
+  "published_date": "2026-09-21T12:13:47+00:00",
+  "read_time_minutes": 25,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brodmanns-areas.jpeg",
+      "alt": "Brodmann Areas of the Brain",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Broca_Wernicke-300x185.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Motor-Cortex-300x174.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prefrontal-cortex-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/basal-ganglia-1-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/white-vs-grey-matter-2_med-300x182.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brodmann-area.jpg",
+      "alt": "A 3D map of the brain from the outside and sliced. Each part of Brodmann's areas and are highlighted and numbered.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/List-of-Brodmann-areas.jpg",
+      "alt": "List of Brodmann areas",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/broadman-areas.jpg",
+      "alt": "broadman areas",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4950,
+  "turkce_baslik": "Beynin Haritalaması: Zihinsel Tepkilerimizin Anatomik Kökenleri",
+  "kanca_sorusu": "Aldığınız ani kararların veya hissettiğiniz dokunma ve acının beyninizdeki fiziki karşılığını hiç merak ettiniz mi?",
+  "score": 45,
+  "puan_nedeni": "Metin, tamamen nöroloji ve serebral korteksin yapısal katmanları (Brodmann alanları) üzerine akademik ve tıbbi bir incelemedir. İlişkisel dinamikler, bağlanma stilleri veya duygusal çatışmalar barındırmadığı için klinik puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni, karmaşık duygusal tepkilerini ve düşünce kalıplarını sergilerken beyin adı verilen muazzam bir biyolojik haritaya dayanır. Korbinian Brodmann'ın 1909 yılında hücre yapısına dayanarak beyin korteksini 52 farklı bölgeye ayırması, bugün hala nörolojide altın standart olarak kabul edilmektedir. Bu alanlar; dokunmayı işleyen somatosensoryal korteksten, istemli hareketleri yöneten motor merkezlere kadar her bir deneyimimizin fiziksel adresini belirler. Günlük hayatta verdiğimiz tepkiler, aldığımız kararlar ve çevremizle kurduğumuz fiziksel temaslar, bu anatomik bölgelerin kusursuz bir senkronizasyonu sayesinde gerçekleşir. Beynin bu fiziksel haritasını anlamak, kendi zihinsel süreçlerimizin mekanik temasını kavramamıza yardımcı olur.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihnin Haritası",
+      "body": "Beynimiz, her bir duygu ve davranışımız için özel olarak ayrılmış anatomik bölgelerden oluşur.",
+      "highlight_box": "Brodmann Alanları ve Nörolojik Temeller",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Yapı ve İşlev İlişkisi",
+      "body": "Mikroskop altında farklı görünen her bölge, zihnimizde ve bedenimizde farklı bir görevi üstlenir.",
+      "highlight_box": "Her bölgenin kendine ait bir koordinatı vardır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Dokunma ve S Hissiyatı",
+      "body": "1, 2 ve 3 numaralı alanlar, vücuttan gelen ağrı, sıcaklık ve dokunma sinyallerini işleyen birincil merkezdir.",
+      "highlight_box": "Somatosensoryal korteks duyusal girdileri yönetir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "İstemli Hareket Kontrolü",
+      "body": "4 numaralı alan, yani birincil motor korteks, günlük hayattaki tüm istemli hareketlerimizi planlar ve başlatır.",
+      "highlight_box": "Beynin sağ tarafı vücudun solunu kontrol eder.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Ortak Bir Bilimsel Dil",
+      "body": "Bu numaralandırma sistemi, tıp dünyasının ve nörolojinin beyin işlevlerini ortak bir dille anlamasını sağlar.",
+      "highlight_box": "Yüzyıllık harita hala güncelliğini koruyor.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Biyolojik Temellerimiz",
+      "body": "Zihinsel ve fiziksel kapasitemiz, beynimizin bu kusursuz anatomik organizasyonuna dayanır.",
+      "highlight_box": "Bilimsel okumalar için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Duygularınızın ve hareketlerinizin beyninizde tam olarak nereye ait olduğunu biliyor musunuz?",
+    "konusma_metni": "Beynimiz, her bir düşüncemiz ve hareketimiz için özel olarak haritalandırılmış bölgelerden oluşur. Korbinian Brodmann'ın 1909 yılında hücre yapısına göre ayırdığı 52 bölge, bugün hala dokunmayı, hareketi ve karar vermeyi nasıl deneyimlediğimizi anlamamızı sağlıyor. Bilimsel olarak hangi bölgemizin nasıl çalıştuğuna yakından bakalım."
+  },
+  "caption": "Beynimizin fiziksel yapısı ile bilişsel süreçlerimiz arasındaki bağı incelediğimiz bu çalışmada, Brodmann alanlarının nörolojideki yerini ele aldık. Her bir hareketin ve duygunun gerisindeki anatomik altyapıyı anlamak, zihinsel mekanizmamızı kavramanın ilk adımıdır. \n\n#noroloji #beyin #psikoloji #bilim #noropsikoloji #zihin",
+  "processed_at": "2026-09-26 16:56:23"
+}

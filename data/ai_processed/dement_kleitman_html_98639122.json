@@ -1,0 +1,133 @@
+{
+  "id": "dement_kleitman_html_98639122",
+  "original_title": "Dement and Kleitman (1957)",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/dement-kleitman.html",
+  "published_date": "2026-09-17T11:01:02+00:00",
+  "read_time_minutes": 19,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/eeg-sleep.jpg",
+      "alt": "Dement and Kleitman (1957)",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/doodling.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mindfulness-impulsivity-300x261.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Reading-the-Mind-in-the-Eyes-Test-300x134.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/loftus-300x235.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hassett-2008.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/serial-position-effect-300x215.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/julia_russell-e1688570743962.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3807,
+  "turkce_baslik": "Uykunun Gizli Odası: Rüyalarımız Gerçekten Neyi Söyler?",
+  "kanca_sorusu": "Her gece gördüğümüz rüyalar, zihnimizin derinliklerinde sakladığı hangi bastırılmış gerçeklerin birer yansımasıdır?",
+  "score": 42,
+  "puan_nedeni": "Metin, klasik uyku laboratuvarı deneylerini, EEG ve REM evrelerini inceleyen akademik bir nörofizyoloji araştırmasıdır. Doğrudan ilişkisel dinamikler, bağlanma stilleri veya bireysel içsel yaralar yerine biyolojik mekanizmalara odaklandığı için editoryal katı puanlama ilkemiz gereği düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Uyku, yüzyıllar boyunca zihnin sessizliğe büründüğü pasif bir dinlenme anı olarak kabul edildi. Ancak modern uyku bilimi ve laboratuvar çalışmaları, uyku esnasında beynin ne kadar karmaşık bir içsel dünya inşa ettiğini gözler önüne serdi. Özellikle REM evresi, zihnimizin gün boyunca bastırdığı, bilinçdışına ittiği anıları, korkuları ve arzuları sahneye koyduğu bir tiyatro sahnesidir. Bilimsel veriler rüyaların sadece rastgele görsel kıvılcımlar olmadığını, aksine zihinsel regülasyonun ve duygusal hazmetme sürecinin merkezinde yer aldığını kanıtlamaktadır. Günlük hayatın koşturmacası içinde bastırdığımız ne varsa, gece zihin kapalı olduğunu sandığımız anlarda bu laboratuvarda yeniden şekillenir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihnin Gece Vardiyası",
+      "body": "Uyku, dış dünyaya kapılarımızı kapattığımız ancak iç dünyamızın en gürültülü çalıştığı yerdir.",
+      "highlight_box": "Rüyalar rastgele mi yoksa zihinsel birer mesaj mı?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "REM Evresi ve Gizli Senaryolar",
+      "body": "Göz hareketlerinin hızlandığı o anlar, zihnimizin en canlı rüyaları ürettiği zaman dilimidir.",
+      "highlight_box": "Bilinçdışı uykuda konuşmaya başlar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Biyolojik Bir Gerçeklik",
+      "body": "EEG ve laboratuvar ölçümleri, rüya görme anının fiziksel karşılığını net bir şekilde kanıtlamaktadır.",
+      "highlight_box": "Vücut hareketsizdir ama beyin uyanıktır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Zaman Algısının Çarpılması",
+      "body": "Rüyalarda geçen sürenin, fiziksel saatle eşleşmediği anlar zihnimizin rölativitesini gösterir.",
+      "highlight_box": "Birkaç dakikalık rüya saatler gibi gelebilir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "İçsel Dünyayı Okumak",
+      "body": "Gördüğümüz rüyaları bastırmak yerine, onların bize taşıdığı psikolojik mesajları anlamaya çalışmalıyız.",
+      "highlight_box": "Unutmayın: Rüyalar zihnin aynasıdır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış & İçsel Hatırlatma",
+      "body": "Uykunuzu sadece fiziksel bir dinlenme olarak görmeyin; o, ruhun kendi kendini onarım seansıdır.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Gözlerimiz uykuda neden hızla hareket eder biliyor musunuz?",
+    "konusma_metni": "Uykunun sadece pasif bir dinlenme olduğunu sanıyorsanız yanılıyorsunuz. Beynimiz biz uykudayken aslında gündüz yarım kalan tüm duygusal hesaplaşmaları çözmeye çalışır. REM evresinde görülen rüyalar, zihnimizin emniyet supabıdır. Peki siz rüyalarınızda en çok hangi bastırılmış korkunuzla yüzleşiyorsunuz?"
+  },
+  "caption": "Uyku, zihnin dış dünyadan bağımsızlaşarak kendi iç gerçeğiyle baş başa kaldığı yegane alandır. Klasik uyku laboratuvarı çalışmaları, rüya görmenin ve REM evresinin beyin için ne kadar hayati bir düzenleme mekanizması olduğunu kanıtlamıştır. Gündüz yok saydığımız, üzerini örttüğümüz ne varsa gece bu sahnede karşımıza çıkar. Zihninizin gece vardiyasında neler olup bittiğini anlamak, kendi iç dünyanıza atacağınız en derin adımlardan biridir. \n\n#psikoloji #uykubilimi #remuykusu #bilinçdışı #zihinyönetimi #içselkeşif #uyku",
+  "processed_at": "2026-09-26 17:07:22"
+}

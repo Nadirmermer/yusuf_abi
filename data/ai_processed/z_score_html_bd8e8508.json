@@ -1,0 +1,151 @@
+{
+  "id": "z_score_html_bd8e8508",
+  "original_title": "Z-Score [standard Score]",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/z-score.html",
+  "published_date": "2023-10-06T10:11:55+00:00",
+  "read_time_minutes": 12,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score.jpg",
+      "alt": "Z-Score [standard Score]",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/normal-distribution-1024x640.jpeg",
+      "alt": "Gauss distribution. Standard normal distribution. Gaussian bell graph curve. Business and marketing concept. Math probability theory.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Z-score-formula.jpg",
+      "alt": "Z score formula",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/SND.png",
+      "alt": "Proportion of a Standard Normal Distribution (SND) in % ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Z-table.png",
+      "alt": "Z table",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-table-287x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bell-curve-300x250.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-whisker-plot-300x165.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cohen-d-300x142.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2477,
+  "turkce_baslik": "Z-Skoru ve İnsan Davranışının İstatistiği: Ortalamadan Ne Kadar Uzaktayız?",
+  "kanca_sorusu": "Kendi duygusal tepkilerinizin veya ilişkilerinizin toplumun genel ortalamasına göre nerede durduğunu hiç merak ettiniz mi?",
+  "score": 45,
+  "puan_nedeni": "Metin tamamen istatistiksel bir terim olan Z-skoru, standart sapma ve matematiksel formüller üzerine kuruludur. Psikolojik derinlik ve ilişkisel dinamik barındırmadığı, kuru bir akademik teori olduğu için düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İstatistikte Z-skoru, ham bir verinin ortalamadan ne kadar uzakta olduğunu standart sapma cinsinden ölçen bir araçtır. Bireyin bir veri setindeki yerini bulmasını sağlar. Her ne kadar bu kavram saf bir matematik formülü gibi görünse de, insan zihni de kendi deneyimlerini sürekli bir ortalamayla kıyaslama eğilimindedir. Hayatta yaşadığımız aşırı tepkileri, norm dışı hissettiğimiz anları ya da kalabalıktan farklılaştığımız noktaları anlamlandırmak için zihinsel bir standart puana ihtiyaç duyarız. Ancak klinik psikolojide asıl mesele istatistiksel sapmaları hesaplamak değil, bireyin kendi normalliğini dışarıdan gelen baskılara göre değil, kendi içsel gerçekliğine göre tanımlayabilmesidir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Ortalamanın Neresindeyiz?",
+      "body": "Hayattaki duruşumuzu ve tepkilerimizi sürekli bir genellemeyle kıyaslarız.",
+      "highlight_box": "Normallik algısı",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Sapmaları Okumak",
+      "body": "İstatistikte Z-skoru bir verinin ortalamadan uzaklığını ölçer. Ruhsal dünyamızda da benzer bir mesafe vardır.",
+      "highlight_box": "Ortalamadan uzaklaşmak korkutucu mü?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Pozitif Sapma",
+      "body": "Ortalamanın üzerinde olmak, bazen beklentilerin de ötesine geçerek yalnızlaşma hissi yaratabilir.",
+      "highlight_box": "Ortalamanın üstündeki baskı",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Negatif Sapma",
+      "body": "Ortalamanın altında kalmak ise yetersizlik inancını tetikleyen o kritik içsel sestir.",
+      "highlight_box": "Yetersizlik hissinin kökeni",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kendi Standartlarını Belirlemek",
+      "body": "Hiçbir insan tek bir istatistiksel formülle açıklanamaz. Önemli olan kendi merkezinizi bulmaktır.",
+      "highlight_box": "Kendi ortalamanıza dönün.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Denge",
+      "body": "Sapmalarınız kusur değil, sizin benzersiz veri setinizin bir parçasıdır.",
+      "highlight_box": "Bu analizi kaydetmeyi unutmayın.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Hayatta ne kadar normal olduğunuzu istatistikler mi belirliyor?",
+    "konusma_metni": "Bugün biraz farklı bir konuya bakıyoruz. İstatistikte Z-skoru dediğimiz bir kavram vardır. Temelde bir verinin ortalamadan ne kadar uzakta olduğunu ölçer. İnsan ilişkilerinde de böyledir. Kendimizi sürekli çevreye göre ölçer, bir ortalamaya oturtmaya çalışırız. Pozitif ya da negatif sapmalarımız bizi korkutur. Oysa psikolojik iyilik hali, bir ortalamaya uymak değil, kendi standart sapmanızla barışabilmektir."
+  },
+  "caption": "Hayatı ve insan davranışlarını anlamlandırmaya çalışırken sıklıkla dışsal normlara ve ortalamalara başvururuz. Tıpkı istatistikteki Z-skoru gibi, bireyin de ortalamadan uzaklaştığı yönler ve mesafeler vardır. Ancak ruhsal denge, başkalarının çizdiği çana eğri uydurmak değil, kendi içsel merkezini koruyabilmektir. #psikoloji #istatistik #farkındalık #zihinyönetimi #kişiselgelişim #yaşam #mentalhealth",
+  "processed_at": "2026-09-26 15:59:09"
+}

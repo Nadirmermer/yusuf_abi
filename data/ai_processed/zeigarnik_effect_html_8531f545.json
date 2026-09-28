@@ -1,0 +1,127 @@
+{
+  "id": "zeigarnik_effect_html_8531f545",
+  "original_title": "Zeigarnik Effect",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/zeigarnik-effect.html",
+  "published_date": "2026-09-17T14:59:43+00:00",
+  "read_time_minutes": 12,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Zeigarnik-Effect.jpeg",
+      "alt": "Zeigarnik Effect",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--300x97.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mere-exposure-effect-300x240.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/heuristics-cognitive-bias-300x239.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/automatic-processing-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/availability-heuristic-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/headshot.webp",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2466,
+  "turkce_baslik": "Zihnin Tamamlanmamış Hesapları: Neden Bitmeyen İlişkiler Akıldan Çıkmaz?",
+  "kanca_sorusu": "Neden biten bir ilişki değil de, yarım kalan, vedasız biten hikayeler zihnimizi bu kadar meşgul eder?",
+  "score": 88,
+  "puan_nedeni": "Zeigarnik Etkisi, akademik bir bilişsel psikoloji kavramı olsa da, doğrudan 'overthinking', kapatılmamış defterler, toksik ilişkilerde sessiz muamele ve yarım kalan vedalar üzerinden bireyin iç dünyasına mükemmel bir ayna tuttuğu için çok yüksek puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İnsan zihni tamamlanmış hikayeleri dosyalar ve rafa kaldırır; ancak yarım kalan, ani biten veya cevapsız sorularla sonlanan her deneyim zihinsel birer açık hesap olarak kalmaya devam eder. Psikolojide Zeigarnik Etkisi olarak bilinen bu durum, tamamlanmamış eylemlerin beyinde aktif bir gerilim sistemi yarattığını gösterir. Bir ilişki bittiğinde değil, 'neden bitti' sorusu yanıt bulmadığında ya da ani bir terk ediliş yaşandığında zihnimiz o konuyu kapatamaz. Sürekli aynı sahneleri başa sarıp durmamızın nedeni hafızamızın zayıflığı değil, beynimizin o gerilimi deşarj etmek, yani bir 'kapanış' (closure) yaşamak istemesidir. \n\nGünlük hayatta bu durum bizi, çoktan geride bırakmamız gereken toksik partnerleri düşünmeye, eski mesajları defalarca okumaya veya 'acaba nerede yanlış yaptım' döngüsünde sıkışıp kalmaya iter. Karşı taraf bize bir kapanış sunmadığında, zihnimiz o boşluğu kendi senaryolarıyla doldurmaya çalışır. Bu da kronik bir zihinsel yorgunluk ve aşırı düşünme (overthinking) üretir. İyileşme, dışarıdan gelecek o cevabı beklemekle değil, eksik bırakılan hikayenin kapanışını kendi içimizde yapabilme cesaretini göstermekle başlar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihnin Kapanmayan Sekmeleri",
+      "body": "Neden bazı ilişkiler biter ama zihnimizdeki o ses bir türlü susmaz?",
+      "highlight_box": "Bitmeyen değil, yarım kalan rahatsız eder.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Açık Kalan Zihinsel Dosyalar",
+      "body": "Tamamlanan eylemler hafızadan silinir, ancak cevapsız sorular ve ani bitişler zihni sürekli alarm durumunda tutar.",
+      "highlight_box": "Buna psikolojide Zeigarnik Etkisi denir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Sürekli Başa Sarma Hali",
+      "body": "Geçmişteki konuşmaları defalarca zihinde yeniden yaşamak ve 'keşke'lerle başlayan cümleler kurmak.",
+      "highlight_box": "Zihin, o hikayeyi bitiremediği için başa sarar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Cevapsız Soruların Ağırlığı",
+      "body": "Karşı tarafın sessizliği veya ani gidişi, kişide kronik bir açıklama arayışı ve değersizlik hissi yaratır.",
+      "highlight_box": "Kapanış eksikliği overthinking üretir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kapanışı Kendine Vermek",
+      "body": "Karşı taraftan beklenen o tatmin edici açıklama hiçbir zaman gelmeyebilir. İyileşme, noktayı sizin koymanızla başlar.",
+      "highlight_box": "Unutmayın: Cevapsızlık da bir cevaptır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Zihinsel Özgürlük",
+      "body": "Geçmişin yarım kalan hesaplarını kapatmak, bugüne ve kendi hayatınıza odaklanmanın ilk adımıdır.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Hala aklında o yarım kalan ilişki mi var, yoksa sadece beyninin sana oynadığı bir oyun mu?",
+    "konusma_metni": "Zihnimiz tamamlanmış hikayeleri kolayca unutur ama yarım kalan, vedasız biten her şeyi hafızanın en önüne koyar. Buna Zeigarnik Etkisi deniyor. Karşı taraf sana bir açıklama yapmadığında, ortada bir kapanış olmadığında beynin o konuyu açık bir dosya olarak tutmaya devam eder. Sürekli aynı anıları düşünmenin sebebi aşk değil, zihninin o gerilimi bitirme çabasıdır. Kapanışı başkasından beklemeyi bıraktığın an, o zihinsel yük de hafiflemeye başlar."
+  },
+  "caption": "Zihnimiz tamamlanmış hikayeleri rafa kaldırırken, yarım kalan, vedasız biten her deneyimi açık bir dosya olarak tutmaya devam eder. Buna psikolojide Zeigarnik Etkisi denir.\n\nİlişkilerde de durum aynıdır. Karşı tarafın bıraktığı sessizlik, yapılan ani gidişler veya verilmeyen cevaplar, zihinde kronik bir gerilim yaratır. Sürekli aynı anıları düşünmemizin, 'neden böyle oldu' sorusundan kurtulamamamımın temel sebebi budur. Zihnimiz o hikayeyi kapatmak, bir 'kapanış' yaşamak ister.\n\nAncak unutulmamalıdır ki, bazen karşı taraftan asla gelmeyecek o açıklamayı beklemek, kendi hayatınızı askıya almaktan başka bir işe yaramaz. Gerçek özgürlük, o kapanışı başkasından beklemekten vazgeçip noktayı kendi ellerinizle koyduğunuzda başlar.\n\nBu konuyu derinden hissettiğiniz veya çevrenizde sürekli aynı döngüyü yaşayan biriyle paylaşmak isterseniz kaydetmeyi unutmayın.\n\n#psikoloji #zeigarniketkisi #ilişkiler #overthinking #zihinselyorgunluk #kişiselgelişimdeğilbilim #ya_da_psikoloji",
+  "processed_at": "2026-09-26 03:23:55"
+}

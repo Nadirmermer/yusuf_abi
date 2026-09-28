@@ -1,0 +1,145 @@
+{
+  "id": "henry_molaison_patient_hm_html_e356b28b",
+  "original_title": "H.M. Case Study: Henry Molaison",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/henry-molaison-patient-hm.html",
+  "published_date": "2026-09-18T11:32:00+00:00",
+  "read_time_minutes": 21,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/patient-hm-brain.jpg",
+      "alt": "H.M. Case Study: Henry Molaison",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/hippocampus.jpeg",
+      "alt": "3d rendered medically accurate illustration of the hippocampus",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/phineas-gage1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/loftus-300x235.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/serial-position-effect-300x215.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mindfulness-impulsivity-300x261.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/little-albert-300x209.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/psychiatric-hospital-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/patient-hm-brain.jpg",
+      "alt": "Bilateral resection of the anterior temporal lobe in patient HM. ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Erin-Heaning.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4119,
+  "turkce_baslik": "Hafızasını Kaybeden Adam: Geçmiş Olmadan Yaşamak ve Belleğin Katmanları",
+  "kanca_sorusu": "Eğer her gün sadece o anın içinde var olsaydınız, sevdiğiniz insanları her sabah yeniden tanımak zorunda kalsaydınız ruhunuz nerede kalırdı?",
+  "score": 45,
+  "puan_nedeni": "Konu klasik bir nöroloji vakası (Henry Molaison - H.M.) olduğu ve doğrudan ilişkisel dinamiklerden ziyade beyin cerrahisi ve bellek sistemleri üzerine kurulduğu için akademik ağırlıklıdır. Ancak insan zihninin kırılganlığını ve hafızanın kimliğimiz üzerindeki yükünü ele alması bakımından dolaylı bir psikolojik derinlik taşır.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "Tıp tarihinin en bilinen vakalarından biri olan Henry Molaison, bilinen adıyla H.M., 1953 yılında geçirdiği beyin operasyonunun ardından yeni kalıcı hatıralar oluşturma yeteneğini tamamen kaybetmiştir. Ameliyattan önceki son on bir yılı sisli bir geçmişe dönüşmüş, zihni sürekli olarak şimdiki zamanda donup kalmıştır. O, hayatını 'rüyadan uyanmak gibi, her gün kendi başına yalnız' sözleriyle tanımlamıştır. Bu durum, hafızanın sadece bilgi depolayan bir arşiv olmadığını, kimliğimizin ve varoluşumuzun omurgası olduğunu bize acı bir şekilde hatırlatır. Günlük hayatta geçmişin yükünden kurtulmayı dilesek de, aslında anılarımız ve deneyimlerimiz olmadan kim olduğumuzu bilemeyiz. H.M. vakası, beyin hasarının ötesinde, insan ruhunun zamanla kurduğu bağın ne kadar hayati olduğunu gözler önüne serer.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Hafızasız Bir Yaşam",
+      "body": "Geçmişin hatıraları olmadan, geleceğe dair tek bir adım bile atamamak nasıl bir histir?",
+      "highlight_box": "Kimliğimizi oluşturan şey anılarımızdır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Şimdiki Zamanda Mahsur Kalmak",
+      "body": "Henry Molaison, geçirdiği beyin operasyonunun ardından yeni bir anı kaydetme yeteneğini tamamen yitirdi. Her gün, hayatının en yeni gerçekliğiyle değil, geçmişin bıraktığı boşlukla başladı.",
+      "highlight_box": "Her gün rüyadan uyanmak gibi bir his.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "İleriye Dönük Unutkanlık",
+      "body": "Ameliyat sonrası dönemde yeni yüzler, yeni bilgiler ve yeni olaylar zihninde yer edinemedi. Zaman onun için akmayı bıraktı.",
+      "highlight_box": "Yeni olan her şey anında siliniyordu.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Parçalanmış Bir Geçmiş",
+      "body": "Sadece yeni anılar değil, ameliyattan önceki son on bir yıllık hafızası da silindi. Çocukluğu hatıralarında kalırken, gençlik yılları karanlığa gömüldü.",
+      "highlight_box": "Geçmişin büyük bir kısmı yok olmuştu.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Belleğin Gizli Katmanları",
+      "body": "Bilinçli anılar kaybolsa bile beceri öğrenme ve motor refleksler yerinde kalıyordu. Bu durum, zihnimizin tek bir sistemden ibaret olmadığını kanıtladı.",
+      "highlight_box": "Zihin, kaybettiklerinin altında başka kapılar açar.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Varlığımızın Temeli",
+      "body": "Yaşadığımız her acı, her deneyim ve her hatıra bizi biz yapan tuğlalardır. Hafızanıza ve zihninizin derinliklerine merhametle yaklaşın.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Hafızanızın silindiği ve her gününüzün sadece o andan ibaret olduğu bir dünyada kim olurdunuz?",
+    "konusma_metni": "Psikoloji tarihinin en ünlü vakası H.M., 1953 yılında geçirdiği bir ameliyatla yeni anılar kaydetme yeteneğini kaybetti. Günlerini sürekli aynı şimdiki zamanda yaşayarak geçirdi. Geçmişi olmadan var olmaya çalışan bu adam bize çok önemli bir şey söylüyor: Bizler, hafızamızın bize unutturmadığı kadarıyla varız. Yaşadığımız acılar bile kimliğimizi inşa ederken hafızanın birer parçası. Peki siz, hangi anınızı kaybetmek istemezdiniz?"
+  },
+  "caption": "Hafıza, sadece geçmişi hatırlamakla kalmaz; kim olduğumuzu, nereye ait olduğumuzu ve dünyayı nasıl algıladığımızı belirler. 1953 yılında beyin cerrahisi sonrasında yeni anı oluşturma yeteneğini kaybeden H.M. vakası, zihnimizin ne kadar kırılgan ama bir o kadar da karmaşık bir yapıda olduğunu gösterdi. Bilinçli anılarımız silinse bile, bedenimiz ve zihnimiz yaşanmışlıkları bir şekilde taşımaya devam eder. Geçmişin yükü bazen ağır gelse de, her anı bizim hikayemizin bir parçasıdır.\n\n#psikoloji #nöroloji #hafıza #bilinç #zihin #yaadapsikoloji #kişiselgelişimdegilbilim",
+  "processed_at": "2026-09-26 16:56:36"
+}

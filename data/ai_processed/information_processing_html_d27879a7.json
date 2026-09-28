@@ -1,0 +1,151 @@
+{
+  "id": "information_processing_html_d27879a7",
+  "original_title": "Information Processing Theory In Psychology",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/information-processing.html",
+  "published_date": "2026-09-17T11:30:58+00:00",
+  "read_time_minutes": 19,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/information-processing-1.jpg",
+      "alt": "Information Processing Theory In Psychology",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/info-processing.jpg",
+      "alt": "computer brain metaphor",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/as-multi.jpg",
+      "alt": "Atkinson and Shiffrin multi-store model of memory",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/behaviorist-approach-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/multiple-intelligences-300x228.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/children-learning-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/learning-cycle-kolb-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/schemas-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/skinner-box-1-300x185.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/broadbent-attention.gif",
+      "alt": "Broadbent filter model of attention",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/paris.jpg",
+      "alt": "Paris visual illusion triangle",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3774,
+  "turkce_baslik": "Zihinsel Donanımımız ve İlişkiler: Bilgiyi Nasıl İşliyoruz?",
+  "kanca_sorusu": "Partnerinizin söylediği tek bir cümleye takılıp kalmanızın, zihninizin kapasite sınırlarıyla ilgili olduğunu biliyor musunuz?",
+  "score": 45,
+  "puan_nedeni": "Makale temel olarak bilişsel psikolojinin bilgi işleme kuramını, bilgisayar analojisini ve hafıza modellerini ele almaktadır. Kuru akademik ve nörolojik bir yaklaşım barındırdığı, doğrudan ilişkisel dinamikler yerine bilişsel mekanizmalara odaklandığı için editoryal puanımız düşüktür.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Bilişsel psikolojinin temel taşlarından biri olan bilgi işleme kuramı, insan zihnini bir bilgisayar gibi ele alır. Dışarıdan gelen uyaranlar kodlanır, zihinsel depolarda saklanır ve gerektiğinde bir davranış çıktısı olarak geri çağrılır. Ancak insan zihni sadece soğuk bir donanımdan ibaret değildir; duygularımız, motivasyonumuz ve geçmiş yaralarımız bu bilgi akışını doğrudan etkiler. Günlük hayatta partnerimizle yaşadığımız çatışmalarda zihnimiz aşırı yüklendiğinde, tıpkı kapasitesi dolmuş bir bilgisayar gibi kilitleniriz. Sessiz kalma isteğimiz ya da fevri tepkilerimiz, aslında bu zihinsel kanal kapasitesinin aşılmasının birer sonucudur.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihinsel Bilgisayarımız",
+      "body": "İnsan zihni dışarıdan gelen bilgiyi alır, işler ve bir davranış çıktısı üretir. Peki bu sistem kilitlendiğinde neler olur?",
+      "highlight_box": "Zihnimiz nasıl çalışıyor?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Kanal Kapasitesi Sınırı",
+      "body": "Aynı anda sadece belli miktarda bilgiyi işleyebiliriz. Yoğun stres altında bu kapasite hızla dolar.",
+      "highlight_box": "Zihinsel aşırı yüklenme hali",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Seri ve Paralel İşleme Yanılgısı",
+      "body": "Beynimiz aynı anda birden fazla duygusal sinyali çözmeye çalışırken hata yapabilir ve tek bir detaya takılıp kalabilir.",
+      "highlight_box": "Detaylara takılıp kalmak",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Duyguların İhmal Edilmesi",
+      "body": "Bilgisayar analojisi sembolleri işler ancak duyguyu, motivasyonu ve geçmiş travmaların etkisini hesaba katmaz.",
+      "highlight_box": "Sadece mantık yeterli değildir",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Kapasiteyi Doğru Kullanmak",
+      "body": "Zihniniz aşırı yüklendiğinde durmayı öğrenin. Mola vermek, bilgi işleme sisteminin yeniden dengelenmesini sağlar.",
+      "highlight_box": "Zihinsel mola hakkı",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Zihninizin sınırlarını kabul edin. Her şeyi aynı anda işleyemezsiniz ve bu son derece insani bir durumdur.",
+      "highlight_box": "Kendinize şefkat gösterin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden tartışma anında partnerinizin söylediği her şeyi aynı anda işleyemezsiniz?",
+    "konusma_metni": "Zihnimiz tıpkı bir bilgisayar gibi çalışır. Dışarıdan gelen uyaranları alır, kodlar ve depolar. Ancak kısa süreli hafızamızın ve işlem kapasitemizin çok katı sınırları vardır. Bir kriz anında bu kapasite dolduğunda mantıklı düşünemez, ya kilitleniriz ya da savunmaya geçeriz. İlişkilerdeki tıkanıklıkların birçoğu aslında zihinsel donanımımızın aşırı yüklenmesinden kaynaklanır."
+  },
+  "caption": "İnsan zihni dışarıdan gelen bilgileri tıpkı bir bilgisayar gibi işler, depolar ve geri çağırır. Ancak bilişsel psikolojinin bu temel modeli, insan ruhunun karmaşıklığını ve duygusal katmanlarını açıklamakta bazen yetersiz kalır. Yoğun tartışma anlarında zihnimizin kilitlenmesi, aslında bilgi işleme kapasitemizin sınırına ulaştığının bir göstergesidir. Zihinsel aşırı yüklenme anlarında kendinize zaman tanımak, sistemi yeniden dengelemenin ilk adımıdır. Bu konuyu kendi iç dünyanızda nasıl deneyimlediğinizi düşünün ve gerektiğinde tekrar okumak için kaydedin.\n\n#bilgiselside #bilgiisleme #zihinvebilinc #bilişselpsikoloji #stresvebeyin #zihinselyorgunluk #ya_da_psikoloji",
+  "processed_at": "2026-09-26 15:44:14"
+}

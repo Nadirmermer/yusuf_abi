@@ -1,0 +1,187 @@
+{
+  "id": "depression_ecological_momentary_assessme_07959841",
+  "url": "https://www.simplypsychology.org/depression-ecological-momentary-assessment.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Depression Symptoms During Psychotherapy: Ecological Momentary Assessment",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2024-10-15T15:00:26+00:00",
+  "date_modified": null,
+  "read_time_minutes": 9,
+  "word_count": 1887,
+  "summary": "News»Clinical Psychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "News»Clinical Psychology\n\nSnippe, E., Elmer, T., Ceulemans, E., Smit, A. C., Lutz, W., & Helmich, M. A. (2024). The temporal order of emotional, cognitive, and behavioral gains in daily life during treatment of depression.Journal of Consulting and Clinical Psychology, 92(8), 466–478.https://doi.org/10.1037/ccp0000890",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Takeaways",
+      "content": "- The primary methods of this study include ecological momentary assessment (EMA) and change-point analysis to examine the temporal order of improvements in emotions, cognitions, and behaviors during psychotherapy for depression.\n\n- Gains in emotions (sad mood, happy mood) and cognitions (worrying, negative self-thoughts) occurred more frequently than gains in behaviors (social interaction, number of activities).\n\n- Contrary to hypotheses, behavioral gains did not tend to precede emotional gains, but rather followed them.\n\n- Cognitive gains often occurred in the same week as emotional gains, making it difficult to determine their temporal order.\n\n- This research has certain limitations such as low power due to fewer behavioral gains and potential issues with change-point detection accuracy.\n\n- The study introduces an idiographic method for examining within-person changes during treatment, which has broad relevance for understanding mechanisms of change in psychotherapy",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Rationale",
+      "content": "Previous research on mechanisms of change in psychotherapy for depression has yielded mixed findings regarding the temporal order of improvements in cognitions, behaviors, and emotions (Fitzpatrick et al., 2020; Rubel et al., 2017; Webb et al., 2019).\n\nMost studies have focused on session-to-session changes rather than examining processes occurring in daily life.\n\nAdditionally, many studies have not addressed the relative timing of gains in both process variables (cognitions, behaviors) and outcome variables (emotions).\n\nThis study aims to fill these gaps by utilizing intensive longitudinal data collected via ecological momentary assessment (EMA) to examine the within-person temporal order of improvements in daily life experiences during treatment for depression.\n\nBy applying change-point analysis to EMA data, the researchers seek to identify the starting point of overall improvement in each variable and determine their temporal sequence.\n\nThis approach allows for a more fine-grained analysis of change processes and addresses the need to establish temporal precedence in psychotherapy process research (Kazdin, 2007; Zilcha-Mano, 2019).",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Method",
+      "content": "The study employedecological momentary assessment(EMA) and change-point analysis to examine the temporal order of improvements in emotions, cognitions, and behaviors during psychotherapy for depression.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Procedure",
+      "content": "Participants completed EMA questionnaires 5 times a day over a 4-month period while undergoing psychotherapy for depression.\n\nThey rated their emotions, cognitions, and behaviors on visual analog scales or by reporting the number of activities performed.\n\nChange-point analyses were conducted on each participant’s time series data to identify significant improvements in each variable.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Sample",
+      "content": "The study included 32 adults diagnosed with major depressive disorder who were starting psychotherapy.\n\nThe mean age was 39.4 years (SD = 14.5), and 84% were female. Participants had moderate to severe depression at baseline.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Measures",
+      "content": "All measures were assessed using visual analog scales (0-100) except for the number of activities, which was a sum score (0-12)\n\n- Emotions: Sad mood (feeling down and listless) and happy mood (feeling cheerful and content)\n\n- Behaviors:Social interaction (in the past 3 hr I have spoken with others) and the number of activities\n\n- Cognitions: Worrying and habitual negative thoughts about the self",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Statistical measures",
+      "content": "The study used nonparametric change-point analysis (E-divisive function from the R-package ECP) to detect significant changes in the mean of each variable for each participant.\n\nBinomial tests were used to compare the frequency of different temporal sequences of gains across participants.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Results",
+      "content": "Hypothesis 1: Behavioral gains will precede emotional gains.\n\nResult: Not supported. Behavioral gains followed emotional gains more often than they preceded them (26 times vs. 3 times).\n\nHypothesis 2: Cognitive gains will precede emotional gains.\n\nResult: Inconclusive. Cognitive gains occurred in the same week as emotional gains 43 times, preceded them 13 times, and followed them 18 times.\n\n- Fewer gains were detected in behavioral variables compared to emotional and cognitive variables.\n\n- Sad mood and worrying showed improvements in the most participants (81% and 84%, respectively).\n\n- Social interaction showed the least improvement, with only 25% of participants showing gains.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Insight",
+      "content": "The key finding of this study is that, contrary to expectations, improvements in behaviors (e.g., increased social interaction, more activities) did not tend to precede improvements in emotions during depression treatment.\n\nInstead, emotional improvements often occurred first, followed by behavioral changes.\n\nAdditionally, cognitive improvements (e.g., reduced worrying, more positive self-thoughts) frequently happened around the same time as emotional improvements, making it difficult to determine which came first.\n\nThese findings challenge some common assumptions about how therapy for depression works. Many treatments assume that changing behaviors or thoughts will lead to improved mood, but this study suggests the process might be more complex or varied across individuals.\n\nThe study is particularly informative because it used a novel method to track changes in people’s daily experiences over the course of treatment, rather than relying solely on session-by-session measurements.\n\nThis approach provides a more detailed and ecologically valid picture of how people improve during therapy.\n\nThe results extend previous research by highlighting the importance of emotional changes as potential early indicators of improvement in depression. They also underscore the close relationship between cognitive and emotional processes in depression recovery.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Future research could explore:",
+      "content": "- What factors influence whether emotional improvements precede or follow behavioral/cognitive changes?\n\n- How do early emotional improvements relate to long-term treatment outcomes?\n\n- Are there subgroups of patients who show different patterns of change?\n\n- How can treatments be tailored to capitalize on early emotional improvements?",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Strengths",
+      "content": "- Use of intensive longitudinal data (5 assessments per day for 4 months)\n\n- Idiographic approach examining within-person changes\n\n- Application of novel statistical methods (change-point analysis) to psychotherapy process research\n\n- Examination of multiple variables (emotions, cognitions, behaviors) simultaneously\n\n- High ecological validity due to assessments in participants’ daily lives\n\n- Inclusion of both positive and negative emotional states",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Limitations",
+      "content": "- Low power for some analyses due to fewer behavioral gains detected\n\n- Potential issues with change-point detection accuracy, especially for variables with high autocorrelation\n\n- Sample primarily consisted of women receiving cognitive-behavioral therapy, limiting generalizability\n\n- Inability to control for effects of different treatment types or medication use\n\n- Possible reactivity effects from intensive self-monitoring\n\n- Lack of follow-up data to examine long-term implications of change sequences\n\nThese limitations impact the certainty and generalizability of the findings.\n\nThe low number of behavioral gains detected makes it difficult to draw firm conclusions about their temporal relationship with other variables.\n\nThe sample characteristics and treatment variability limit the extent to which results can be applied to other populations or treatment approaches.",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "Clinical Implications",
+      "content": "The results have significant implications for understanding mechanisms of change in depression treatment and potentially improving therapeutic approaches:\n\n- Early emotional improvements may be important markers of treatment progress and could be used to guide intervention strategies.\n\n- The close temporal relationship between cognitive and emotional changes supports integrated treatment approaches targeting both domains.\n\n- The lag in behavioral improvements suggests that patients might benefit from additional support or motivation to engage in activities even after mood begins to improve.\n\n- Individual differences in change sequences highlight the need for personalized treatment approaches.\n\n- The method introduced (combining EMA and change-point analysis) offers a new tool for examining within-person change processes in psychotherapy research and potentially in clinical practice.",
+      "order": 14,
+      "items": []
+    },
+    {
+      "heading": "Variables that may influence the results include:",
+      "content": "- Type and intensity of psychotherapy received\n\n- Use of antidepressant medication\n\n- Individual characteristics (e.g., depression severity, comorbidities)\n\n- External life events occurring during treatment\n\nThe findings underscore the complexity of the change process in depression treatment and suggest that a one-size-fits-all approach to sequencing interventions may not be optimal.\n\nMcLeod, S. (2024). Depression Symptoms During Psychotherapy: Ecological Momentary Assessment. Simply Psychology. https://www.simplypsychology.org/news/depression-ecological-momentary-assessment/\n\nMcLeod, Saul. \"Depression Symptoms During Psychotherapy: Ecological Momentary Assessment.\" Simply Psychology, 15 October 2024, https://www.simplypsychology.org/news/depression-ecological-momentary-assessment/.\n\nMcLeod, S. (2024) Depression Symptoms During Psychotherapy: Ecological Momentary Assessment. Simply Psychology. Available at: https://www.simplypsychology.org/news/depression-ecological-momentary-assessment/ (Accessed: 22 September 2026).",
+      "order": 15,
+      "items": []
+    },
+    {
+      "heading": "Primary reference",
+      "content": "Snippe, E., Elmer, T., Ceulemans, E., Smit, A. C., Lutz, W., & Helmich, M. A. (2024). The temporal order of emotional, cognitive, and behavioral gains in daily life during treatment of depression.Journal of Consulting and Clinical Psychology, 92(8), 466–478.https://doi.org/10.1037/ccp0000890",
+      "order": 16,
+      "items": []
+    },
+    {
+      "heading": "Other references",
+      "content": "Fitzpatrick, O. M., Whelen, M. L., Falkenström, F., & Strunk, D. R. (2020). Who benefits the most from cognitive change in cognitive therapy of depression? A study of interpersonal factors.Journal of Consulting and Clinical Psychology, 88(2), 128–136.https://doi.org/10.1037/ccp0000463\n\nKazdin, A. E. (2007). Mediators and mechanisms of change in psychotherapy research.Annual Review of Clinical Psychology, 3(1), 1–27.https://doi.org/10.1146/annurev.clinpsy.3.022806.091432\n\nRubel, J. A., Rosenbaum, D., & Lutz, W. (2017). Patients’ in-session experiences and symptom change: Session-to-session effects on a within- and between-patient level.Behaviour Research and Therapy, 90,58–66.https://doi.org/10.1016/j.brat.2016.12.007\n\nWebb, C. A., Stanton, C. H., Bondy, E., Singleton, P., Pizzagalli, D. A., & Auerbach, R. P. (2019). Cognitive versus behavioral skills in CBT for depressed adolescents: Disaggregating within-patient versus between-patient effects on symptom change.Journal of Consulting and Clinical Psychology, 87(5), 484–490.https://doi.org/10.1037/ccp0000393\n\nZilcha-Mano, S. (2019). Major developments in methods addressing for whom psychotherapy may work and why.Psychotherapy Research, 29(6), 693–708.https://doi.org/10.1080/10503307.2018.1429691",
+      "order": 17,
+      "items": []
+    },
+    {
+      "heading": "Keep Learning",
+      "content": "Socratic questions for a college class to discuss this paper:\n\n- How might the finding that emotional improvements often precede behavioral changes challenge or support existing theories of depression and its treatment?\n\n- What are the potential advantages and disadvantages of using ecological momentary assessment (EMA) to study psychotherapy processes compared to traditional session-by-session measures?\n\n- How could the methods used in this study be applied to research on other mental health conditions or types of psychological interventions?\n\n- What ethical considerations should be taken into account when conducting intensive longitudinal studies like this one with individuals undergoing mental health treatment?\n\n- How might the results of this study inform the development of more personalized or adaptive treatment approaches for depression?\n\n- What additional variables or factors not measured in this study might be important to consider in future research on the temporal order of changes in depression treatment?\n\n- How do the findings of this study relate to your personal experiences or observations of the process of recovering from depression or other mental health challenges?\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 18,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/psychotherapy.jpeg",
+      "alt": "Depression Symptoms During Psychotherapy: Ecological Momentary Assessment",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/future-anxiety-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/adult-friendships-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/depression-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-anxiety-1-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/therapy-session-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-media-harm-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Depression Symptoms During Psychotherapy: Ecological Momentary Assessment\n\n> News»Clinical Psychology\n\n## Giriş\n\nNews»Clinical Psychology\n\nSnippe, E., Elmer, T., Ceulemans, E., Smit, A. C., Lutz, W., & Helmich, M. A. (2024). The temporal order of emotional, cognitive, and behavioral gains in daily life during treatment of depression.Journal of Consulting and Clinical Psychology, 92(8), 466–478.https://doi.org/10.1037/ccp0000890\n\n## Key Takeaways\n\n- The primary methods of this study include ecological momentary assessment (EMA) and change-point analysis to examine the temporal order of improvements in emotions, cognitions, and behaviors during psychotherapy for depression.\n\n- Gains in emotions (sad mood, happy mood) and cognitions (worrying, negative self-thoughts) occurred more frequently than gains in behaviors (social interaction, number of activities).\n\n- Contrary to hypotheses, behavioral gains did not tend to precede emotional gains, but rather followed them.\n\n- Cognitive gains often occurred in the same week as emotional gains, making it difficult to determine their temporal order.\n\n- This research has certain limitations such as low power due to fewer behavioral gains and potential issues with change-point detection accuracy.\n\n- The study introduces an idiographic method for examining within-person changes during treatment, which has broad relevance for understanding mechanisms of change in psychotherapy\n\n## Rationale\n\nPrevious research on mechanisms of change in psychotherapy for depression has yielded mixed findings regarding the temporal order of improvements in cognitions, behaviors, and emotions (Fitzpatrick et al., 2020; Rubel et al., 2017; Webb et al., 2019).\n\nMost studies have focused on session-to-session changes rather than examining processes occurring in daily life.\n\nAdditionally, many studies have not addressed the relative timing of gains in both process variables (cognitions, behaviors) and outcome variables (emotions).\n\nThis study aims to fill these gaps by utilizing intensive longitudinal data collected via ecological momentary assessment (EMA) to examine the within-person temporal order of improvements in daily life experiences during treatment for depression.\n\nBy applying change-point analysis to EMA data, the researchers seek to identify the starting point of overall improvement in each variable and determine their temporal sequence.\n\nThis approach allows for a more fine-grained analysis of change processes and addresses the need to establish temporal precedence in psychotherapy process research (Kazdin, 2007; Zilcha-Mano, 2019).\n\n## Method\n\nThe study employedecological momentary assessment(EMA) and change-point analysis to examine the temporal order of improvements in emotions, cognitions, and behaviors during psychotherapy for depression.\n\n## Procedure\n\nParticipants completed EMA questionnaires 5 times a day over a 4-month period while undergoing psychotherapy for depression.\n\nThey rated their emotions, cognitions, and behaviors on visual analog scales or by reporting the number of activities performed.\n\nChange-point analyses were conducted on each participant’s time series data to identify significant improvements in each variable.\n\n## Sample\n\nThe study included 32 adults diagnosed with major depressive disorder who were starting psychotherapy.\n\nThe mean age was 39.4 years (SD = 14.5), and 84% were female. Participants had moderate to severe depression at baseline.\n\n## Measures\n\nAll measures were assessed using visual analog scales (0-100) except for the number of activities, which was a sum score (0-12)\n\n- Emotions: Sad mood (feeling down and listless) and happy mood (feeling cheerful and content)\n\n- Behaviors:Social interaction (in the past 3 hr I have spoken with others) and the number of activities\n\n- Cognitions: Worrying and habitual negative thoughts about the self\n\n## Statistical measures\n\nThe study used nonparametric change-point analysis (E-divisive function from the R-package ECP) to detect significant changes in the mean of each variable for each participant.\n\nBinomial tests were used to compare the frequency of different temporal sequences of gains across participants.\n\n## Results\n\nHypothesis 1: Behavioral gains will precede emotional gains.\n\nResult: Not supported. Behavioral gains followed emotional gains more often than they preceded them (26 times vs. 3 times).\n\nHypothesis 2: Cognitive gains will precede emotional gains.\n\nResult: Inconclusive. Cognitive gains occurred in the same week as emotional gains 43 times, preceded them 13 times, and followed them 18 times.\n\n- Fewer gains were detected in behavioral variables compared to emotional and cognitive variables.\n\n- Sad mood and worrying showed improvements in the most participants (81% and 84%, respectively).\n\n- Social interaction showed the least improvement, with only 25% of participants showing gains.\n\n## Insight\n\nThe key finding of this study is that, contrary to expectations, improvements in behaviors (e.g., increased social interaction, more activities) did not tend to precede improvements in emotions during depression treatment.\n\nInstead, emotional improvements often occurred first, followed by behavioral changes.\n\nAdditionally, cognitive improvements (e.g., reduced worrying, more positive self-thoughts) frequently happened around the same time as emotional improvements, making it difficult to determine which came first.\n\nThese findings challenge some common assumptions about how therapy for depression works. Many treatments assume that changing behaviors or thoughts will lead to improved mood, but this study suggests the process might be more complex or varied across individuals.\n\nThe study is particularly informative because it used a novel method to track changes in people’s daily experiences over the course of treatment, rather than relying solely on session-by-session measurements.\n\nThis approach provides a more detailed and ecologically valid picture of how people improve during therapy.\n\nThe results extend previous research by highlighting the importance of emotional changes as potential early indicators of improvement in depression. They also underscore the close relationship between cognitive and emotional processes in depression recovery.\n\n## Future research could explore:\n\n- What factors influence whether emotional improvements precede or follow behavioral/cognitive changes?\n\n- How do early emotional improvements relate to long-term treatment outcomes?\n\n- Are there subgroups of patients who show different patterns of change?\n\n- How can treatments be tailored to capitalize on early emotional improvements?\n\n## Strengths\n\n- Use of intensive longitudinal data (5 assessments per day for 4 months)\n\n- Idiographic approach examining within-person changes\n\n- Application of novel statistical methods (change-point analysis) to psychotherapy process research\n\n- Examination of multiple variables (emotions, cognitions, behaviors) simultaneously\n\n- High ecological validity due to assessments in participants’ daily lives\n\n- Inclusion of both positive and negative emotional states\n\n## Limitations\n\n- Low power for some analyses due to fewer behavioral gains detected\n\n- Potential issues with change-point detection accuracy, especially for variables with high autocorrelation\n\n- Sample primarily consisted of women receiving cognitive-behavioral therapy, limiting generalizability\n\n- Inability to control for effects of different treatment types or medication use\n\n- Possible reactivity effects from intensive self-monitoring\n\n- Lack of follow-up data to examine long-term implications of change sequences\n\nThese limitations impact the certainty and generalizability of the findings.\n\nThe low number of behavioral gains detected makes it difficult to draw firm conclusions about their temporal relationship with other variables.\n\nThe sample characteristics and treatment variability limit the extent to which results can be applied to other populations or treatment approaches.\n\n## Clinical Implications\n\nThe results have significant implications for understanding mechanisms of change in depression treatment and potentially improving therapeutic approaches:\n\n- Early emotional improvements may be important markers of treatment progress and could be used to guide intervention strategies.\n\n- The close temporal relationship between cognitive and emotional changes supports integrated treatment approaches targeting both domains.\n\n- The lag in behavioral improvements suggests that patients might benefit from additional support or motivation to engage in activities even after mood begins to improve.\n\n- Individual differences in change sequences highlight the need for personalized treatment approaches.\n\n- The method introduced (combining EMA and change-point analysis) offers a new tool for examining within-person change processes in psychotherapy research and potentially in clinical practice.\n\n## Variables that may influence the results include:\n\n- Type and intensity of psychotherapy received\n\n- Use of antidepressant medication\n\n- Individual characteristics (e.g., depression severity, comorbidities)\n\n- External life events occurring during treatment\n\nThe findings underscore the complexity of the change process in depression treatment and suggest that a one-size-fits-all approach to sequencing interventions may not be optimal.\n\nMcLeod, S. (2024). Depression Symptoms During Psychotherapy: Ecological Momentary Assessment. Simply Psychology. https://www.simplypsychology.org/news/depression-ecological-momentary-assessment/\n\nMcLeod, Saul. \"Depression Symptoms During Psychotherapy: Ecological Momentary Assessment.\" Simply Psychology, 15 October 2024, https://www.simplypsychology.org/news/depression-ecological-momentary-assessment/.\n\nMcLeod, S. (2024) Depression Symptoms During Psychotherapy: Ecological Momentary Assessment. Simply Psychology. Available at: https://www.simplypsychology.org/news/depression-ecological-momentary-assessment/ (Accessed: 22 September 2026).\n\n## Primary reference\n\nSnippe, E., Elmer, T., Ceulemans, E., Smit, A. C., Lutz, W., & Helmich, M. A. (2024). The temporal order of emotional, cognitive, and behavioral gains in daily life during treatment of depression.Journal of Consulting and Clinical Psychology, 92(8), 466–478.https://doi.org/10.1037/ccp0000890\n\n## Other references\n\nFitzpatrick, O. M., Whelen, M. L., Falkenström, F., & Strunk, D. R. (2020). Who benefits the most from cognitive change in cognitive therapy of depression? A study of interpersonal factors.Journal of Consulting and Clinical Psychology, 88(2), 128–136.https://doi.org/10.1037/ccp0000463\n\nKazdin, A. E. (2007). Mediators and mechanisms of change in psychotherapy research.Annual Review of Clinical Psychology, 3(1), 1–27.https://doi.org/10.1146/annurev.clinpsy.3.022806.091432\n\nRubel, J. A., Rosenbaum, D., & Lutz, W. (2017). Patients’ in-session experiences and symptom change: Session-to-session effects on a within- and between-patient level.Behaviour Research and Therapy, 90,58–66.https://doi.org/10.1016/j.brat.2016.12.007\n\nWebb, C. A., Stanton, C. H., Bondy, E., Singleton, P., Pizzagalli, D. A., & Auerbach, R. P. (2019). Cognitive versus behavioral skills in CBT for depressed adolescents: Disaggregating within-patient versus between-patient effects on symptom change.Journal of Consulting and Clinical Psychology, 87(5), 484–490.https://doi.org/10.1037/ccp0000393\n\nZilcha-Mano, S. (2019). Major developments in methods addressing for whom psychotherapy may work and why.Psychotherapy Research, 29(6), 693–708.https://doi.org/10.1080/10503307.2018.1429691\n\n## Keep Learning\n\nSocratic questions for a college class to discuss this paper:\n\n- How might the finding that emotional improvements often precede behavioral changes challenge or support existing theories of depression and its treatment?\n\n- What are the potential advantages and disadvantages of using ecological momentary assessment (EMA) to study psychotherapy processes compared to traditional session-by-session measures?\n\n- How could the methods used in this study be applied to research on other mental health conditions or types of psychological interventions?\n\n- What ethical considerations should be taken into account when conducting intensive longitudinal studies like this one with individuals undergoing mental health treatment?\n\n- How might the results of this study inform the development of more personalized or adaptive treatment approaches for depression?\n\n- What additional variables or factors not measured in this study might be important to consider in future research on the temporal order of changes in depression treatment?\n\n- How do the findings of this study relate to your personal experiences or observations of the process of recovering from depression or other mental health challenges?\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:34:21.436034"
+}

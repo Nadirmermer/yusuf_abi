@@ -1,0 +1,199 @@
+{
+  "id": "normal_distribution_html_42e8d0d6",
+  "url": "https://www.simplypsychology.org/normal-distribution.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Introduction to the Normal Distribution (Bell Curve)",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2026-05-14T11:11:23+00:00",
+  "date_modified": null,
+  "read_time_minutes": 9,
+  "word_count": 1758,
+  "summary": "Psychology»Statistics",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Statistics\n\nA normal distribution (or Gaussian distribution) is a symmetric, bell-shaped probability distribution where most data points cluster around a central mean, tapering off towards the tails.\n\nBecause it describes so many natural phenomena, from heights to test scores, it is the cornerstone of modern statistics.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Properties of normal distribution",
+      "content": "A normal distribution isperfectly symmetrical, meaning a vertical line drawn through the center of the curve divides it into two identical mirror images.\n\nBecause of this perfect symmetry, the measures of central tendency, the mean, the median (middle value), and the mode (most frequent value), all fall at the exact same point in the center of the distribution.\n\nTwo specific parameters, themeanandstandard deviation, dictate the curve’s geometry. These values provide all the information required to construct the distribution.\n\nThe mean acts as the location parameter. It determines the position of the peak along the horizontal axis. Shifting the mean moves the entire curve left or right without changing its width.\n\nThe standard deviation serves as the scale parameter. It measures the spread or “dispersion” of the data points. A low standard deviation produces a tall, narrow curve. Conversely, a high standard deviation results in a shorter, wider bell shape.\n\nBecause the normal distribution is a continuous distribution, probability is represented by thearea under the curve. The total area under the entire bell curve is exactly equal to 1 (or 100%).\n\nMost of the continuous data values in a normal distribution tend to cluster around the mean, and the further a value is from the mean, the less likely it is to occur.\n\nThe tails are asymptotic, which means that they approach but never quite meet the horizon (i.e., the x-axis).\n\nThe normal distribution is often called the bell curve because the graph of its probability density looks like a bell.\n\nIt is also known as called Gaussian distribution, after the German mathematician Carl Gauss who first described it.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "The bell-shaped curve is a common feature of nature and psychology",
+      "content": "The normal distribution is the most important probability distribution in statistics because many continuous data in nature and psychology display this bell-shaped curve when compiled and graphed.\n\nFor example, if we randomly sampled 100 individuals, we would expect to see a normal distribution frequency curve for many continuous variables, such as IQ, height, weight, and blood pressure.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Role in the Central Limit Theorem",
+      "content": "The normal distribution is exceptionally powerful due to its connection to theCentral Limit Theorem.\n\nThis mathematical theorem states that if you take large enough random samples (generally considered to be 30 or more observations) from any population and calculate their means, the distribution of those sample means will form a normal distribution.\n\nThis happens regardless of the shape of the original underlying population’s distribution.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "How do mean and standard deviation change a bell curve’s shape?",
+      "content": "Because there are an infinite number of possible normal distributions, these two mathematical measures are required to uniquely define any specific curve.\n\nHere is how each parameter alters the bell curve:\n\nThe mean establishes the center point of the distribution. The bell curve is perfectly symmetrical around a vertical line drawn straight down through this mean.\n\nIf the standard deviation is kept constant but the mean is changed, the physical shape (the height and width) of the bell curve does not change at all.\n\nInstead, the entire graph simply shifts its location to the left or the right along the horizontal x-axis.\n\nThe mean tells you exactlywherethe center of the bell curve sits on a graph, while the standard deviation tells you howtall and widethe bell will be.\n\nThe standard deviation measures the variability or spread of the data, indicating how far data values fall from the mean.\n\nBecause the total area under any continuous probability distribution curve must always equal exactly one (or 100%), changing the standard deviation directly dictates how “fat” or “skinny” the curve appears.\n\n- Small Standard Deviation:When the standard deviation is small relative to the mean, it indicates that most data points are tightly concentrated and packed close to the center. To accommodate this lack of spread while keeping the total area at 1, the bell curve becomes taller, narrower, and more “pointy”.\n\n- Large Standard Deviation:When the standard deviation is large relative to the mean, it indicates that the data values are widely dispersed and spread out away from the center. To account for this wide spread across the x-axis, the bell curve stretches out and becomes flatter, wider, and “fatter”.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Parametric significance tests require a normal distribution of the sample’s data points",
+      "content": "The most powerful (parametric) statistical tests psychologists use require data to be normally distributed.\n\nIf the data does not resemble a bell curve, researchers may use a less powerful statistical test called non-parametric statistics.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Converting the raw scores of a normal distribution to z-scores",
+      "content": "Because there is an infinite number of possible normal distributions (depending on the mean and standard deviation of any specific dataset), statisticians convert data into a standardized format called theStandard Normal Distribution.\n\nThe Standard Normal Distribution always has a mean of 0 and a standard deviation of 1.\n\nWe can standardize a normal distribution’s values (raw scores) by converting them intoz-scores.\n\nA z-score precisely measures the distance of a data point from the mean, expressed purely in units of standard deviation.\n\n- A z-score of exactly0indicates that the raw score is perfectly equal to the mean.\n\n- Apositive z-scoreindicates that the raw score falls above (to the right of) the mean.\n\n- Anegative z-scoreindicates that the raw score falls below (to the left of) the mean.\n\n- Theabsolute valueof the z-score reveals exactly how far the score deviates from the center, regardless of the direction.\n\nBy converting raw scores into z-scores, statisticians can meaningfully compare observations from completely different distributions that rely on entirely different scales.\n\nFor example, standardizing scores allows researchers to compare a student’s performance on the SAT (which has a mean around 500) with another student’s performance on the ACT (which has a mean around 21) to objectively determine who performed better relative to their respective testing populations.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "What is the empirical rule formula?",
+      "content": "A highly useful property of a normal distribution is how predictably the data is dispersed around the mean.\n\nKnown as the Empirical Rule, or the 68-95-99.7 rule, it states that in any perfectly bell-shaped and symmetrical distribution:\n\n- Approximately68%of the data values lie within one standard deviation of the mean (μ±1σ).\n\n- Approximately95%of the data values lie within two standard deviations of the mean (μ±2σ).\n\n- Approximately99.7%(almost all) of the data values lie within three standard deviations of the mean (μ±3σ)\n\nIf the data values in a normal distribution are converted tostandard score(z-score) in a standard normal distribution, the empirical rule describes the percentage of the data that fall within specific numbers of standard deviations (σ) from the mean (μ) for bell-shaped curves.\n\nThe empirical rule allows researchers to calculate the probability of randomly obtaining a score from a normal distribution.\n\n68% of data falls within the first standard deviation from the mean. This means there is a 68% probability of randomly selecting a score between -1 and +1 standard deviations from the mean.\n\n95% of the values fall within two standard deviations from the mean. This means there is a 95% probability of randomly selecting a score between -2 and +2 standard deviations from the mean.\n\n99.7% of data will fall within three standard deviations from the mean. This means there is a 99.7% probability of randomly selecting a score between -3 and +3 standard deviations from the mean.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "How to check data",
+      "content": "Statistical software (such as SPSS) can be used to check if your dataset is normally distributed by calculating the three measures of central tendency.\n\nIf the mean, median, and mode are very similar values, there is a good chance that the data follows a bell-shaped distribution (SPSS command here).\n\nIt is also advisable to use a frequency graph too, so you can check the visual shape of your data (If your chart is a histogram, you can add a distribution curve using SPSS: From the menus, choose: Elements > Show Distribution Curve).\n\nNormal distributions become more apparent (i.e., perfect) the finer the level of measurement and the larger the sample from a population.\n\nYou can also calculate coefficients which tell us about the size of the distribution tails in relation to the bump in the middle of the bell curve.\n\nFor example, Kolmogorov Smirnov and Shapiro-Wilk tests can be calculated using SPSS.\n\nThese tests compare your data to a normal distribution and provide a p-value, which, if significant (p < .05), indicates your data is different from a normal distribution (thus, on this occasion, we do not want a significant result and need ap-value higher than 0.05).",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Further Information",
+      "content": "- Deep Definition of the Normal Distribution (Kahn Academy)\n\n- Standard Normal Distribution and the Empirical Rule (Kahn Academy)\n\n- Statistics for Psychology Book Download",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Is a normal distribution kurtosis 0 or 3?",
+      "content": "A normal distribution has akurtosisof 3. However, sometimes people use “excess kurtosis,” which subtracts 3 from the kurtosis of the distribution to compare it to a normal distribution.\n\nIn that case, the excess kurtosis of a normal distribution would be be 3 − 3 = 0.\n\nSo, the normal distribution has kurtosis of 3, but its excess kurtosis is 0.\n\nMcLeod, S. (2026). Introduction to the Normal Distribution (Bell Curve). Simply Psychology. https://www.simplypsychology.org/normal-distribution.html\n\nMcLeod, Saul. \"Introduction to the Normal Distribution (Bell Curve).\" Simply Psychology, 14 May 2026, https://www.simplypsychology.org/normal-distribution.html.\n\nMcLeod, S. (2026) Introduction to the Normal Distribution (Bell Curve). Simply Psychology. Available at: https://www.simplypsychology.org/normal-distribution.html (Accessed: 21 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 11,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bell-curve.jpg",
+      "alt": "Introduction to the Normal Distribution (Bell Curve)",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/bell-curve.jpg",
+      "alt": "Bell curve graphic depicting normal performance distribution outline diagram. Labeled educational expectation measurement or prediction percentage analysis vector illustration.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/normal-distribution.jpg",
+      "alt": "Features of a Normal Distribution (Bell Curve)",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/IQ-Bell-Curve.jpg",
+      "alt": "IQ Bell Curve",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Kurtosis-300x114.gif",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-table-287x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-whisker-plot-300x165.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cohen-d-300x142.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Empirical-Rule.jpg",
+      "alt": "The Empirical Rule (68-95-99.7)",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Empirical-Rule-68.jpg",
+      "alt": "The Empirical Rule 68%",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Empirical-Rule-95.jpg",
+      "alt": "The Empirical Rule 95%",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/Empirical-Rule-99.jpg",
+      "alt": "The Empirical Rule 99%",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/normal-distribution-histogram.jpg",
+      "alt": "Example of a Normal Distribution Curve Overlaid on a Histogram",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/TestofNormality.png",
+      "alt": "Test of Normality SPSS Output",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Introduction to the Normal Distribution (Bell Curve)\n\n> Psychology»Statistics\n\n## Giriş\n\nPsychology»Statistics\n\nA normal distribution (or Gaussian distribution) is a symmetric, bell-shaped probability distribution where most data points cluster around a central mean, tapering off towards the tails.\n\nBecause it describes so many natural phenomena, from heights to test scores, it is the cornerstone of modern statistics.\n\n## Properties of normal distribution\n\nA normal distribution isperfectly symmetrical, meaning a vertical line drawn through the center of the curve divides it into two identical mirror images.\n\nBecause of this perfect symmetry, the measures of central tendency, the mean, the median (middle value), and the mode (most frequent value), all fall at the exact same point in the center of the distribution.\n\nTwo specific parameters, themeanandstandard deviation, dictate the curve’s geometry. These values provide all the information required to construct the distribution.\n\nThe mean acts as the location parameter. It determines the position of the peak along the horizontal axis. Shifting the mean moves the entire curve left or right without changing its width.\n\nThe standard deviation serves as the scale parameter. It measures the spread or “dispersion” of the data points. A low standard deviation produces a tall, narrow curve. Conversely, a high standard deviation results in a shorter, wider bell shape.\n\nBecause the normal distribution is a continuous distribution, probability is represented by thearea under the curve. The total area under the entire bell curve is exactly equal to 1 (or 100%).\n\nMost of the continuous data values in a normal distribution tend to cluster around the mean, and the further a value is from the mean, the less likely it is to occur.\n\nThe tails are asymptotic, which means that they approach but never quite meet the horizon (i.e., the x-axis).\n\nThe normal distribution is often called the bell curve because the graph of its probability density looks like a bell.\n\nIt is also known as called Gaussian distribution, after the German mathematician Carl Gauss who first described it.\n\n## The bell-shaped curve is a common feature of nature and psychology\n\nThe normal distribution is the most important probability distribution in statistics because many continuous data in nature and psychology display this bell-shaped curve when compiled and graphed.\n\nFor example, if we randomly sampled 100 individuals, we would expect to see a normal distribution frequency curve for many continuous variables, such as IQ, height, weight, and blood pressure.\n\n## Role in the Central Limit Theorem\n\nThe normal distribution is exceptionally powerful due to its connection to theCentral Limit Theorem.\n\nThis mathematical theorem states that if you take large enough random samples (generally considered to be 30 or more observations) from any population and calculate their means, the distribution of those sample means will form a normal distribution.\n\nThis happens regardless of the shape of the original underlying population’s distribution.\n\n## How do mean and standard deviation change a bell curve’s shape?\n\nBecause there are an infinite number of possible normal distributions, these two mathematical measures are required to uniquely define any specific curve.\n\nHere is how each parameter alters the bell curve:\n\nThe mean establishes the center point of the distribution. The bell curve is perfectly symmetrical around a vertical line drawn straight down through this mean.\n\nIf the standard deviation is kept constant but the mean is changed, the physical shape (the height and width) of the bell curve does not change at all.\n\nInstead, the entire graph simply shifts its location to the left or the right along the horizontal x-axis.\n\nThe mean tells you exactlywherethe center of the bell curve sits on a graph, while the standard deviation tells you howtall and widethe bell will be.\n\nThe standard deviation measures the variability or spread of the data, indicating how far data values fall from the mean.\n\nBecause the total area under any continuous probability distribution curve must always equal exactly one (or 100%), changing the standard deviation directly dictates how “fat” or “skinny” the curve appears.\n\n- Small Standard Deviation:When the standard deviation is small relative to the mean, it indicates that most data points are tightly concentrated and packed close to the center. To accommodate this lack of spread while keeping the total area at 1, the bell curve becomes taller, narrower, and more “pointy”.\n\n- Large Standard Deviation:When the standard deviation is large relative to the mean, it indicates that the data values are widely dispersed and spread out away from the center. To account for this wide spread across the x-axis, the bell curve stretches out and becomes flatter, wider, and “fatter”.\n\n## Parametric significance tests require a normal distribution of the sample’s data points\n\nThe most powerful (parametric) statistical tests psychologists use require data to be normally distributed.\n\nIf the data does not resemble a bell curve, researchers may use a less powerful statistical test called non-parametric statistics.\n\n## Converting the raw scores of a normal distribution to z-scores\n\nBecause there is an infinite number of possible normal distributions (depending on the mean and standard deviation of any specific dataset), statisticians convert data into a standardized format called theStandard Normal Distribution.\n\nThe Standard Normal Distribution always has a mean of 0 and a standard deviation of 1.\n\nWe can standardize a normal distribution’s values (raw scores) by converting them intoz-scores.\n\nA z-score precisely measures the distance of a data point from the mean, expressed purely in units of standard deviation.\n\n- A z-score of exactly0indicates that the raw score is perfectly equal to the mean.\n\n- Apositive z-scoreindicates that the raw score falls above (to the right of) the mean.\n\n- Anegative z-scoreindicates that the raw score falls below (to the left of) the mean.\n\n- Theabsolute valueof the z-score reveals exactly how far the score deviates from the center, regardless of the direction.\n\nBy converting raw scores into z-scores, statisticians can meaningfully compare observations from completely different distributions that rely on entirely different scales.\n\nFor example, standardizing scores allows researchers to compare a student’s performance on the SAT (which has a mean around 500) with another student’s performance on the ACT (which has a mean around 21) to objectively determine who performed better relative to their respective testing populations.\n\n## What is the empirical rule formula?\n\nA highly useful property of a normal distribution is how predictably the data is dispersed around the mean.\n\nKnown as the Empirical Rule, or the 68-95-99.7 rule, it states that in any perfectly bell-shaped and symmetrical distribution:\n\n- Approximately68%of the data values lie within one standard deviation of the mean (μ±1σ).\n\n- Approximately95%of the data values lie within two standard deviations of the mean (μ±2σ).\n\n- Approximately99.7%(almost all) of the data values lie within three standard deviations of the mean (μ±3σ)\n\nIf the data values in a normal distribution are converted tostandard score(z-score) in a standard normal distribution, the empirical rule describes the percentage of the data that fall within specific numbers of standard deviations (σ) from the mean (μ) for bell-shaped curves.\n\nThe empirical rule allows researchers to calculate the probability of randomly obtaining a score from a normal distribution.\n\n68% of data falls within the first standard deviation from the mean. This means there is a 68% probability of randomly selecting a score between -1 and +1 standard deviations from the mean.\n\n95% of the values fall within two standard deviations from the mean. This means there is a 95% probability of randomly selecting a score between -2 and +2 standard deviations from the mean.\n\n99.7% of data will fall within three standard deviations from the mean. This means there is a 99.7% probability of randomly selecting a score between -3 and +3 standard deviations from the mean.\n\n## How to check data\n\nStatistical software (such as SPSS) can be used to check if your dataset is normally distributed by calculating the three measures of central tendency.\n\nIf the mean, median, and mode are very similar values, there is a good chance that the data follows a bell-shaped distribution (SPSS command here).\n\nIt is also advisable to use a frequency graph too, so you can check the visual shape of your data (If your chart is a histogram, you can add a distribution curve using SPSS: From the menus, choose: Elements > Show Distribution Curve).\n\nNormal distributions become more apparent (i.e., perfect) the finer the level of measurement and the larger the sample from a population.\n\nYou can also calculate coefficients which tell us about the size of the distribution tails in relation to the bump in the middle of the bell curve.\n\nFor example, Kolmogorov Smirnov and Shapiro-Wilk tests can be calculated using SPSS.\n\nThese tests compare your data to a normal distribution and provide a p-value, which, if significant (p < .05), indicates your data is different from a normal distribution (thus, on this occasion, we do not want a significant result and need ap-value higher than 0.05).\n\n## Further Information\n\n- Deep Definition of the Normal Distribution (Kahn Academy)\n\n- Standard Normal Distribution and the Empirical Rule (Kahn Academy)\n\n- Statistics for Psychology Book Download\n\n## Is a normal distribution kurtosis 0 or 3?\n\nA normal distribution has akurtosisof 3. However, sometimes people use “excess kurtosis,” which subtracts 3 from the kurtosis of the distribution to compare it to a normal distribution.\n\nIn that case, the excess kurtosis of a normal distribution would be be 3 − 3 = 0.\n\nSo, the normal distribution has kurtosis of 3, but its excess kurtosis is 0.\n\nMcLeod, S. (2026). Introduction to the Normal Distribution (Bell Curve). Simply Psychology. https://www.simplypsychology.org/normal-distribution.html\n\nMcLeod, Saul. \"Introduction to the Normal Distribution (Bell Curve).\" Simply Psychology, 14 May 2026, https://www.simplypsychology.org/normal-distribution.html.\n\nMcLeod, S. (2026) Introduction to the Normal Distribution (Bell Curve). Simply Psychology. Available at: https://www.simplypsychology.org/normal-distribution.html (Accessed: 21 September 2026).\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-21T22:38:09.015974"
+}

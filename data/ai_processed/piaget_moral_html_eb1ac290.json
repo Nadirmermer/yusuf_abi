@@ -1,0 +1,127 @@
+{
+  "id": "piaget_moral_html_eb1ac290",
+  "original_title": "Piaget’s Theory of Moral Development",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/piaget-moral.html",
+  "published_date": "2026-09-17T11:38:54+00:00",
+  "read_time_minutes": 20,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/moral-choice.jpg",
+      "alt": "Piaget’s Theory of Moral Development",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/kohlberg-moral-development-300x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/piaget-stages-300x163.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/child-development-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Vygotsky-vs-Piaget-300x174.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/continuous-vs-discontinuous-300x141.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Piaget-Conservation-1-300x293.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4061,
+  "turkce_baslik": "Ahlaki Gelişim ve İçsel Kurallar: Çocukluktan Yetişkinliğe Otoriteye İtaatten Karşılıklı Saygıya Geçiş",
+  "kanca_sorusu": "Bir hatayı yaparken ki niyetiniz mi daha önemlidir, yoksa ortaya çıkan sonuç mu?",
+  "score": 45,
+  "puan_nedeni": "Makale genel çocuk psikolojisi, Jean Piaget teorileri ve bilişsel gelişim aşamaları üzerine teorik bir inceleme olduğu için doğrudan ilişkisel çatışmalar veya güncel romantik dinamiklere hitap etmemektedir. Bu nedenle akademik tabanlı konulara uygulanan katı puanlama kuralı gereği orta-düşük puan almıştır.",
+  "category": "İçsel İyileşme & Travma",
+  "editoryal_genis_metin": "Jean Piaget'nin ahlaki gelişim kuramı, insan zihninin kuralları ve otoriteyi algılayış biçiminin çocukluktan yetişkinliğe nasıl evrildiğini inceler. Hayatın ilk yıllarında ahlak, dışarıdan dayatılan kurallara körü körüne itaatten ibarettir. Bu dönemde birey, niyetleri değil, doğrudan görünen sonuçları ve cezayı baz alır. Otorite figürlerinin her dediği kutsal ve değiştirilemez kabul edilir. Ancak zihinsel olgunlaşma ve akran ilişkileri arttıkça yapısal bir dönüşüm yaşanır. Kuralların insanlar tarafından uzlaşıyla yapılabileceği, adaletin ise sadece korkuyla değil karşılıklı saygı ve niyetlerin anlaşılmasıyla ilgili olduğu kavranır. Bu geçiş, bireyin kendi içsel pusulasını bulma yolculuğudur.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Ahlaki Gelişim ve Kurallar",
+      "body": "Kurallara neden uyarsınız? Korkudan mı, yoksa karşılıklı saygıdan mı?",
+      "highlight_box": "Ahlak, ezberlenmiş kurallar bütünü değildir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Otoriteye İtaat Dönemi",
+      "body": "Çocukluk evresinde kurallar dışsal, kutsal ve değiştirilemez olarak algılanır.",
+      "highlight_box": "Niyetler değil, sadece sonuçlar cezalandırılır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Heteronom Ahlak",
+      "body": "Bu dönemde adalet anlayışı tamamen ceza ve otoritenin onayına dayanır.",
+      "highlight_box": "Kuralları sorgulamak suç gibi hissedilir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİrtİLER",
+      "title": "Otonom Ahlak",
+      "body": "Büyüdükçe kuralların insanlar tarafından ortak uzlaşıyla yapıldığı anlaşılır.",
+      "highlight_box": "Niyetler, fiziksel sonuçlardan daha önemli hale gelir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "İçsel Sorumluluk",
+      "body": "İlişkilerde ve hayatta dışsal baskılardan arınıp karşılıklı uzlaşıya geçiş.",
+      "highlight_box": "Olgunluk, kuralların arkasındaki nedeni anlamaktır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış",
+      "body": "Kendi kararlarınızı korkuyla mı yoksa vicdan ve niyetle mi alıyorsunuz?",
+      "highlight_box": "Bu analizi ileride tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden bazı insanlar hala kurallara körü körüne uyar ve niyetleri asla önemsemez biliyor musunuz?",
+    "konusma_metni": "Çocuklukta ahlak, otoritenin koyduğu kurallara itaatten ibarettir. Kimin ne niyetle yaptığına değil, ortaya çıkan zarara bakılır. Ancak büyüdükçe bu değişmeli. Piaget'ye göre olgunlaşmak, kuralların değiştirilebilir olduğunu ve niyetin sonuçtan daha önemli olduğunu fark etmektir. Eğer hala cezalandırılma korkusuyla yaşıyorsanız, çocukluk aidiyetlerinizde sıkışmış olabilirsiniz."
+  },
+  "caption": "Jean Piaget'nin ahlaki gelişim kuramı, insan zihninin kuralları ve otoriteyi algılayış biçiminin çocukluktan yetişkinliğe nasıl evrildiğini inceler. İlk yıllarda ahlak, dışarıdan dayatılan kurallara körü körüne itaattir ve niyetler değil sonuçlar yargılanır. Büyüdükçe ise kuralların değiştirilebileceği, adaletin karşılıklı saygı ve niyetlerle şekillendiği otonom bir yapıya geçilir. İçsel pusulanızı bulma sürecinde niyetleri mi yoksa sonuçları mı baz aldığınızı gözden geçirin. psikoloji, gelişimselpsikoloji, ahlakigelişim, jeanpiaget, insanpiskolojisi, bilinç, içselgelişim",
+  "processed_at": "2026-09-26 02:42:49"
+}

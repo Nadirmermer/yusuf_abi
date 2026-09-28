@@ -1,0 +1,247 @@
+{
+  "id": "synapse_html_38584123",
+  "url": "https://www.simplypsychology.org/synapse.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "What Happens At The Synapse Between Two Neurons?",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2025-06-16T12:52:21+00:00",
+  "date_modified": null,
+  "read_time_minutes": 11,
+  "word_count": 2114,
+  "summary": "Psychology»Biopsychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Biopsychology\n\nA synapse is the junction wheretwo neurons communicate without physically touching.\n\n- The sending (pre-synaptic) neuron’s axon terminal\n\n- A tiny gap called the synaptic cleft\n\n- The receiving (post-synaptic) neuron’s dendrite or cell body\n\nChemical messengers calledneurotransmittersbridge this gap to transmit signals between neurons.\n\nTerminal buttonsat the ends of neurons contain vesicles filled withneurotransmitters.\n\nWhen an electrical signal (action potential) reaches these terminals, it triggers the release of these chemical messengers.\n\nThe neurotransmitters cross thesynaptic cleftand bind to receptors on the receiving neuron.\n\nImportantly, neurons can receive signals from many terminal buttons, and each neuron’s terminals can form synapses with multiple other neurons, creating complex communication networks.\n\n- Synaptic Transmission\n\n- When Do Neurons Fire?\n\n- Excitatory vs. Inhibitory Signals\n\n- Reuptake of Neurotransmitters\n\n- Synaptic Dysfunction\n\n- Synaptic Plasticity",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Synaptic Transmission",
+      "content": "Synapses are essential for systemic neural activity.\n\nNeuroscientists understand that synapses play a vital role in a variety of cognitive functions, includinglearning and memory formation.\n\nThere are two types of synapses:chemical and electrical.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Chemical synaptic transmission",
+      "content": "In chemical synapses, information flows through neurotransmitters in four steps:\n\n1. An electrical signal reaches the sending neuron’s terminal\n\n2. This triggers release of neurotransmitter chemicals\n\n3. These chemicals cross the synaptic gap and bind to receptors on the receiving neuron\n\n4. The receiving neuron converts this chemical signal back to electrical\n\nThe effect can be eitherexcitatory(triggering the next neuron to fire) orinhibitory(preventing it from firing).\n\nCommon excitatory neurotransmitters include noradrenaline, whileserotonincan have inhibitory effects.\n\nThe release of neurotransmitters is triggered by calcium (Ca²⁺), which acts like a key unlocking a door. Here’s how it works:\n\n- When an electrical signal reaches the end of a neuron, it opens special channels in the cell membrane called “voltage-gated calcium channels”\n\n- Calcium ions rush into the neuron through these channels (calcium is more concentrated outside the cell than inside)\n\n- Inside the neuron, calcium binds to special proteins on synaptic vesicles (the tiny packages containing neurotransmitters)\n\n- This binding causes the vesicles to fuse with the cell membrane, like a bubble merging with another bubble\n\n- When the vesicles fuse, they release their neurotransmitters into the synaptic cleft\n\nUnderstanding calcium’s role helps explain:\n\nHow some neurological conditions affect synaptic transmission\n\nHow certain medications affect neuron communication\n\nWhy calcium levels in the brain are carefully regulated",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Electrical synaptic transmission",
+      "content": "Electrical synapses use direct connections calledgap junctions– protein channels that connect two neurons.\n\nThis allows electrical signals to flow directly between cells, making transmission nearly instantaneous.\n\nWhile faster than chemical synapses, these connections can only excite (not inhibit) the next neuron, and their signals weaken over distance.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "How Neurons Know When to Fire a Signal?",
+      "content": "Neurons receive multiple signals and must “decide” whether to fire based on their combined effect. This process, calledsummation, happens in two ways:",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Spatial Summation (Different Places, Same Time)",
+      "content": "- Imagine different fingers pressing on a button – no single finger is strong enough to press it, but multiple fingers pressing together can\n\n- Example: Two weak excitatory signals from different locations can combine to trigger the neuron to fire\n\n- An inhibitory signal can cancel out these excitatory signals, like someone pulling the button back up",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Temporal Summation (Same Place, Different Times)",
+      "content": "- Like quickly tapping a button multiple times before it can reset\n\n- Signals that arrive slightly apart in time can add up because each signal takes a moment to fade\n\n- Example: Two weak signals arriving shortly after each other at the same spot can combine to trigger firing\n\nThis summation process lets neurons act as sophisticated signal processors, responding to both the timing and location of incoming signals.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Excitatory vs. Inhibitory Signals",
+      "content": "The effect of the presynaptic neuron on the postsynaptic neuron can be eitherexcitatory or inhibitory.\n\nChemicals released from the presynaptic neuron may either excite or inhibit the postsynaptic neuron, telling it to release neurotransmitters or to slow down or stop signaling.\n\n- Inhibitory neurotransmittersdecrease the likelihood of the neuron firing. They are generally responsible for calming the mind and inducing sleep. This is the case forserotonin.\n\n- Excitatory neurotransmittersincrease the likelihood that an excitatory signal is sent to the post-synaptic cell.Adrenalinwhich is both a neurotransmitter and a hormone has an excitatory effect.\n\nWhen the axon fires and the terminal buttons release a neurotransmitter that excites the postsynaptic neuron, this is excitatory postsynaptic potential(EPSP).\n\nThis effect of excitation makes it more likely that the axons of the postsynaptic neuron will also fire.\n\nThe inhibitory postsynaptic potential(IPSP)has the opposite effect. Inhibition is caused by inhibitory neurotransmitters.\n\nWhen the neurotransmitter binds with the post-synaptic receptor, it results in a IPSP, and the cell is less likely to fire.\n\nThe rate at which the axon fires is determined by the activity of the synapses on the dendrites and soma of the neuron.\n\nIf the excitatory synapses are more active, then the axons fire at a high rate, compared to firing at a low rate, or not at all when inhibitory synapses are active.\n\n- An EPSP isdepolarizing, meaning it makes the inside of the neuron more positive, which causes more action potential.\n\n- IPSPs, however, bring the potential down, meaning they will be less likely to cause action potential and can cancel out the excitatory effect of the EPSPs.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Reuptake of Neurotransmitters",
+      "content": "For a synapse to function effectively, it must be shut off once the signal is sent.\n\nThissignal terminationallows the postsynaptic neuron to return to its resting potential state, ready for new signals.\n\nWhen neurotransmitters get released into the synaptic cleft, not all of them can attach to the receptors of the next neuron.\n\nThe synaptic cleft must be cleared of all neurotransmitters at signal termination, which can be done by either beingbroken down by enzymes, diffused away, or re-uptake occurs.\n\nRe-uptake is when neurotransmitters get reabsorbed back into the presynaptic neuron from which they came from.\n\nTransporter proteinsfrom the presynaptic membrane remove the neurotransmitters from the synaptic cleft, carrying the neurotransmitter back into the presynaptic neuron.\n\nThe neurotransmitter then either gets re-packaged into the synaptic vesicles and stored until it is next needed again, or enzymes break them down.\n\nSerotoninis a type of neurotransmitter that is associated with a variety of psychological and bodily functions, such as mood, sexual desire, appetite, sleep, and memory.\n\nIf there are imbalances in the way serotonin is transmitted between neurons through too much reuptake of this neurotransmitter, then this has implications for contributing tomood disorders,specifically depression.\n\nSelective serotonin reuptake inhibitors (SSRIs) are a type of medication, also known asantidepressants, that work in a way to increase the amount of serotonin being transmitted between cells.\n\nSSRIs essentially aid in blocking the reuptake of serotonin into the presynaptic cell, meaning there is more serotonin in the synaptic cleft.\n\nIf there is more serotonin in the synaptic cleft, it is more likely that serotonin will reach the receptors of the postsynaptic cell.\n\nAs SSRIs allow more serotonin to pass along between neurons, they have been shown to alleviate mood disorders, making them acommon therapy for depression.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Synaptic Dysfunction",
+      "content": "Synapses are essential for healthy brain communication, so when they don’t work properly, the effects can be serious.\n\nSynaptic dysfunction—whether due to disrupted neurotransmitter release, faulty receptors, or damaged synaptic structures—has been linked to several neurological and psychiatric conditions.\n\n- Epilepsy: Abnormal synaptic activity can lead to uncontrolled bursts of electrical signals in the brain. This hyperexcitability is often caused by too much excitatory signaling (like glutamate) or not enough inhibitory control (like GABA).\n\n- Alzheimer’s disease: One of the earliest signs of Alzheimer’s is a loss of synaptic connections, especially in brain regions involved in memory. Toxic proteins like beta-amyloid may interfere with synaptic signaling before brain cells begin to die.\n\n- Schizophrenia: Research suggests that imbalances in dopamine and glutamate transmission at synapses may underlie symptoms like hallucinations, disorganized thinking, and cognitive disruption.\n\n- Parkinson’s disease: The hallmark symptoms of Parkinson’s—tremors, rigidity, and slowed movement—are tied to the loss ofdopamine-producing neurons and weakened synaptic communication in movement-related brain circuits.\n\nUnderstanding synaptic dysfunction not only helps explain the causes of these disorders but also guides the development of treatments—like medications that enhance or inhibit specific neurotransmitters to restore balance in the brain.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Synaptic Plasticity",
+      "content": "Synaptic plasticityis the brain’s ability to strengthen or weaken synaptic connections based on activity.\n\nIt was once believed that once synapses were formed, they remained the same forever, never changing.\n\nHowever, it is now understood that activity, or lack of activity, can affect the strength of synapses or even change the number and structure of synapses in the brain.\n\nTherefore, the more the synapses are used, the stronger they can become and the more influence they can have over postsynaptic neurons.\n\nLikewise, not fully using synapses can weaken them and have a detrimental long-term impact.\n\nRepeated use of certain pathways can make synapses more efficient,which supports learning, memory, and skill development. It also allows the brain to adapt after injury or in response to new experiences.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "What are the most important neurotransmitters and what do they do?",
+      "content": "Several key neurotransmitters play vital roles in brain and body function, each binds to specific receptors to either excite or inhibit the next neuron:\n\nDopamineinfluences reward, motivation, and movement.Serotoninhelps regulate mood, appetite, and sleep.Glutamateis the brain’s primary excitatory neurotransmitter, essential for learning and memory.GABA(gamma-aminobutyric acid) is the main inhibitory neurotransmitter, helping to calm neural activity.Acetylcholinesupports attention, arousal, and muscle activation.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "What types of receptors do neurotransmitters bind to?",
+      "content": "Neurotransmitters bind to two main types of receptors:\n\nIonotropic receptorsact like gates—when a neurotransmitter binds, the receptor opens and lets ions flow directly into the cell, creating a quick response.Metabotropic receptorstrigger slower, longer-lasting effects by activating internal cell processes via second messengers.The type of receptor determines how a signal affects the postsynaptic neuron.",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "How do SSRIs work to treat depression?",
+      "content": "Selective serotonin reuptake inhibitors (SSRIs) are a common class ofantidepressants.\n\nThey work by blocking the reabsorption (reuptake) of serotonin into the presynaptic neuron.\n\nThis leaves more serotonin available in the synaptic cleft to bind to receptors on the next neuron, helping improve mood and emotional regulation over time.",
+      "order": 14,
+      "items": []
+    },
+    {
+      "heading": "What role does calcium play in neurotransmitter release?",
+      "content": "When an electrical impulse reaches the end of a neuron, it opens voltage-gated calcium channels.\n\nCalcium ions flood into the neuron and trigger synaptic vesicles to fuse with the cell membrane, releasing neurotransmitters into the synaptic cleft. Without calcium, this release—and synaptic communication—wouldn’t occur.",
+      "order": 15,
+      "items": []
+    },
+    {
+      "heading": "How do neurons know when to fire a signal?",
+      "content": "Neurons receive many signals at once—some excitatory (telling it to fire) and some inhibitory (telling it not to). These signals are added together in a process calledsummation.\n\nIf the combined input reaches a certain threshold, the neuron fires an action potential. If not, it stays silent. The brain uses this balancing act to process information efficiently.",
+      "order": 16,
+      "items": []
+    },
+    {
+      "heading": "Further Reading",
+      "content": "- Nicholls, J. G., Martin, A. R., Wallace, B. G., & Fuchs, P. A. (2001). From neuron to brain (Vol. 271). Sunderland, MA: Sinauer Associates.\n\n- Pereda, A. E. (2014). Electrical synapses and their functional interactions with chemical synapses. Nature Reviews Neuroscience, 15(4), 250-263.\n\nGuy-Evans, O. (2025). What Happens At The Synapse Between Two Neurons?. Simply Psychology. https://www.simplypsychology.org/synapse.html\n\nGuy-Evans, Olivia. \"What Happens At The Synapse Between Two Neurons?.\" Simply Psychology, 16 June 2025, https://www.simplypsychology.org/synapse.html.\n\nGuy-Evans, O. (2025) What Happens At The Synapse Between Two Neurons?. Simply Psychology. Available at: https://www.simplypsychology.org/synapse.html (Accessed: 22 September 2026).\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nKarina Ascunce González\n\nPhD Neuroscience (in progress)\n\nDoctoral Student & GTA\n\nKarina Ascunce González is a Neuroscience PhD candidate at Yale University, where her research focuses on nervous system regeneration and stem cell biology. She holds an AB in Neuroscience with a secondary in Global Health and Health Policy from Harvard University, and has published research in Frontiers in Cell and Developmental Biology and the Journal of the American Academy of Child and Adolescent Psychiatry.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.",
+      "order": 17,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Chemical-synapse.png",
+      "alt": "What Happens At The Synapse Between Two Neurons?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/synapse.jpeg",
+      "alt": "a diagram of two neurons with a close up included of a synapse",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/synapse.png",
+      "alt": "Neuron Synapse illustration. Connection between pre and post synaptic neuron illustration",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/synapse.jpg",
+      "alt": "synapse",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/electrical-synapse-1-300x251.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitter-formulas-300x152.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/excitatory-vs-inhibitory-neurotransmitters-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/action-potential-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitters-hormones-300x248.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/interneuron-function-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/synapse.gif",
+      "alt": "synapse",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Neurotransmitter.jpeg",
+      "alt": "Diagram of two neurons with a part focused in on the process of neurotransmission at the synpase. Labelled vesicles, receptors, reuptake, enzymes.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/synapse-2.jpeg",
+      "alt": "a diagram of a neuron with a section focused on a synapse with labelled parts",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/synapse-gap.jpg",
+      "alt": "synapse gap",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/chemical-synapse.jpg",
+      "alt": "Transmission of the nerve signal between two neurons with axon and synapse. Close-up of a chemical synapse",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/electrical-synapse-1.jpg",
+      "alt": "A diagram of a close up of an electrical synapse.",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/synapse-types.png",
+      "alt": "synapse types",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Karina-Ascunce.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# What Happens At The Synapse Between Two Neurons?\n\n> Psychology»Biopsychology\n\n## Giriş\n\nPsychology»Biopsychology\n\nA synapse is the junction wheretwo neurons communicate without physically touching.\n\n- The sending (pre-synaptic) neuron’s axon terminal\n\n- A tiny gap called the synaptic cleft\n\n- The receiving (post-synaptic) neuron’s dendrite or cell body\n\nChemical messengers calledneurotransmittersbridge this gap to transmit signals between neurons.\n\nTerminal buttonsat the ends of neurons contain vesicles filled withneurotransmitters.\n\nWhen an electrical signal (action potential) reaches these terminals, it triggers the release of these chemical messengers.\n\nThe neurotransmitters cross thesynaptic cleftand bind to receptors on the receiving neuron.\n\nImportantly, neurons can receive signals from many terminal buttons, and each neuron’s terminals can form synapses with multiple other neurons, creating complex communication networks.\n\n- Synaptic Transmission\n\n- When Do Neurons Fire?\n\n- Excitatory vs. Inhibitory Signals\n\n- Reuptake of Neurotransmitters\n\n- Synaptic Dysfunction\n\n- Synaptic Plasticity\n\n## Synaptic Transmission\n\nSynapses are essential for systemic neural activity.\n\nNeuroscientists understand that synapses play a vital role in a variety of cognitive functions, includinglearning and memory formation.\n\nThere are two types of synapses:chemical and electrical.\n\n## Chemical synaptic transmission\n\nIn chemical synapses, information flows through neurotransmitters in four steps:\n\n1. An electrical signal reaches the sending neuron’s terminal\n\n2. This triggers release of neurotransmitter chemicals\n\n3. These chemicals cross the synaptic gap and bind to receptors on the receiving neuron\n\n4. The receiving neuron converts this chemical signal back to electrical\n\nThe effect can be eitherexcitatory(triggering the next neuron to fire) orinhibitory(preventing it from firing).\n\nCommon excitatory neurotransmitters include noradrenaline, whileserotonincan have inhibitory effects.\n\nThe release of neurotransmitters is triggered by calcium (Ca²⁺), which acts like a key unlocking a door. Here’s how it works:\n\n- When an electrical signal reaches the end of a neuron, it opens special channels in the cell membrane called “voltage-gated calcium channels”\n\n- Calcium ions rush into the neuron through these channels (calcium is more concentrated outside the cell than inside)\n\n- Inside the neuron, calcium binds to special proteins on synaptic vesicles (the tiny packages containing neurotransmitters)\n\n- This binding causes the vesicles to fuse with the cell membrane, like a bubble merging with another bubble\n\n- When the vesicles fuse, they release their neurotransmitters into the synaptic cleft\n\nUnderstanding calcium’s role helps explain:\n\nHow some neurological conditions affect synaptic transmission\n\nHow certain medications affect neuron communication\n\nWhy calcium levels in the brain are carefully regulated\n\n## Electrical synaptic transmission\n\nElectrical synapses use direct connections calledgap junctions– protein channels that connect two neurons.\n\nThis allows electrical signals to flow directly between cells, making transmission nearly instantaneous.\n\nWhile faster than chemical synapses, these connections can only excite (not inhibit) the next neuron, and their signals weaken over distance.\n\n## How Neurons Know When to Fire a Signal?\n\nNeurons receive multiple signals and must “decide” whether to fire based on their combined effect. This process, calledsummation, happens in two ways:\n\n## Spatial Summation (Different Places, Same Time)\n\n- Imagine different fingers pressing on a button – no single finger is strong enough to press it, but multiple fingers pressing together can\n\n- Example: Two weak excitatory signals from different locations can combine to trigger the neuron to fire\n\n- An inhibitory signal can cancel out these excitatory signals, like someone pulling the button back up\n\n## Temporal Summation (Same Place, Different Times)\n\n- Like quickly tapping a button multiple times before it can reset\n\n- Signals that arrive slightly apart in time can add up because each signal takes a moment to fade\n\n- Example: Two weak signals arriving shortly after each other at the same spot can combine to trigger firing\n\nThis summation process lets neurons act as sophisticated signal processors, responding to both the timing and location of incoming signals.\n\n## Excitatory vs. Inhibitory Signals\n\nThe effect of the presynaptic neuron on the postsynaptic neuron can be eitherexcitatory or inhibitory.\n\nChemicals released from the presynaptic neuron may either excite or inhibit the postsynaptic neuron, telling it to release neurotransmitters or to slow down or stop signaling.\n\n- Inhibitory neurotransmittersdecrease the likelihood of the neuron firing. They are generally responsible for calming the mind and inducing sleep. This is the case forserotonin.\n\n- Excitatory neurotransmittersincrease the likelihood that an excitatory signal is sent to the post-synaptic cell.Adrenalinwhich is both a neurotransmitter and a hormone has an excitatory effect.\n\nWhen the axon fires and the terminal buttons release a neurotransmitter that excites the postsynaptic neuron, this is excitatory postsynaptic potential(EPSP).\n\nThis effect of excitation makes it more likely that the axons of the postsynaptic neuron will also fire.\n\nThe inhibitory postsynaptic potential(IPSP)has the opposite effect. Inhibition is caused by inhibitory neurotransmitters.\n\nWhen the neurotransmitter binds with the post-synaptic receptor, it results in a IPSP, and the cell is less likely to fire.\n\nThe rate at which the axon fires is determined by the activity of the synapses on the dendrites and soma of the neuron.\n\nIf the excitatory synapses are more active, then the axons fire at a high rate, compared to firing at a low rate, or not at all when inhibitory synapses are active.\n\n- An EPSP isdepolarizing, meaning it makes the inside of the neuron more positive, which causes more action potential.\n\n- IPSPs, however, bring the potential down, meaning they will be less likely to cause action potential and can cancel out the excitatory effect of the EPSPs.\n\n## Reuptake of Neurotransmitters\n\nFor a synapse to function effectively, it must be shut off once the signal is sent.\n\nThissignal terminationallows the postsynaptic neuron to return to its resting potential state, ready for new signals.\n\nWhen neurotransmitters get released into the synaptic cleft, not all of them can attach to the receptors of the next neuron.\n\nThe synaptic cleft must be cleared of all neurotransmitters at signal termination, which can be done by either beingbroken down by enzymes, diffused away, or re-uptake occurs.\n\nRe-uptake is when neurotransmitters get reabsorbed back into the presynaptic neuron from which they came from.\n\nTransporter proteinsfrom the presynaptic membrane remove the neurotransmitters from the synaptic cleft, carrying the neurotransmitter back into the presynaptic neuron.\n\nThe neurotransmitter then either gets re-packaged into the synaptic vesicles and stored until it is next needed again, or enzymes break them down.\n\nSerotoninis a type of neurotransmitter that is associated with a variety of psychological and bodily functions, such as mood, sexual desire, appetite, sleep, and memory.\n\nIf there are imbalances in the way serotonin is transmitted between neurons through too much reuptake of this neurotransmitter, then this has implications for contributing tomood disorders,specifically depression.\n\nSelective serotonin reuptake inhibitors (SSRIs) are a type of medication, also known asantidepressants, that work in a way to increase the amount of serotonin being transmitted between cells.\n\nSSRIs essentially aid in blocking the reuptake of serotonin into the presynaptic cell, meaning there is more serotonin in the synaptic cleft.\n\nIf there is more serotonin in the synaptic cleft, it is more likely that serotonin will reach the receptors of the postsynaptic cell.\n\nAs SSRIs allow more serotonin to pass along between neurons, they have been shown to alleviate mood disorders, making them acommon therapy for depression.\n\n## Synaptic Dysfunction\n\nSynapses are essential for healthy brain communication, so when they don’t work properly, the effects can be serious.\n\nSynaptic dysfunction—whether due to disrupted neurotransmitter release, faulty receptors, or damaged synaptic structures—has been linked to several neurological and psychiatric conditions.\n\n- Epilepsy: Abnormal synaptic activity can lead to uncontrolled bursts of electrical signals in the brain. This hyperexcitability is often caused by too much excitatory signaling (like glutamate) or not enough inhibitory control (like GABA).\n\n- Alzheimer’s disease: One of the earliest signs of Alzheimer’s is a loss of synaptic connections, especially in brain regions involved in memory. Toxic proteins like beta-amyloid may interfere with synaptic signaling before brain cells begin to die.\n\n- Schizophrenia: Research suggests that imbalances in dopamine and glutamate transmission at synapses may underlie symptoms like hallucinations, disorganized thinking, and cognitive disruption.\n\n- Parkinson’s disease: The hallmark symptoms of Parkinson’s—tremors, rigidity, and slowed movement—are tied to the loss ofdopamine-producing neurons and weakened synaptic communication in movement-related brain circuits.\n\nUnderstanding synaptic dysfunction not only helps explain the causes of these disorders but also guides the development of treatments—like medications that enhance or inhibit specific neurotransmitters to restore balance in the brain.\n\n## Synaptic Plasticity\n\nSynaptic plasticityis the brain’s ability to strengthen or weaken synaptic connections based on activity.\n\nIt was once believed that once synapses were formed, they remained the same forever, never changing.\n\nHowever, it is now understood that activity, or lack of activity, can affect the strength of synapses or even change the number and structure of synapses in the brain.\n\nTherefore, the more the synapses are used, the stronger they can become and the more influence they can have over postsynaptic neurons.\n\nLikewise, not fully using synapses can weaken them and have a detrimental long-term impact.\n\nRepeated use of certain pathways can make synapses more efficient,which supports learning, memory, and skill development. It also allows the brain to adapt after injury or in response to new experiences.\n\n## What are the most important neurotransmitters and what do they do?\n\nSeveral key neurotransmitters play vital roles in brain and body function, each binds to specific receptors to either excite or inhibit the next neuron:\n\nDopamineinfluences reward, motivation, and movement.Serotoninhelps regulate mood, appetite, and sleep.Glutamateis the brain’s primary excitatory neurotransmitter, essential for learning and memory.GABA(gamma-aminobutyric acid) is the main inhibitory neurotransmitter, helping to calm neural activity.Acetylcholinesupports attention, arousal, and muscle activation.\n\n## What types of receptors do neurotransmitters bind to?\n\nNeurotransmitters bind to two main types of receptors:\n\nIonotropic receptorsact like gates—when a neurotransmitter binds, the receptor opens and lets ions flow directly into the cell, creating a quick response.Metabotropic receptorstrigger slower, longer-lasting effects by activating internal cell processes via second messengers.The type of receptor determines how a signal affects the postsynaptic neuron.\n\n## How do SSRIs work to treat depression?\n\nSelective serotonin reuptake inhibitors (SSRIs) are a common class ofantidepressants.\n\nThey work by blocking the reabsorption (reuptake) of serotonin into the presynaptic neuron.\n\nThis leaves more serotonin available in the synaptic cleft to bind to receptors on the next neuron, helping improve mood and emotional regulation over time.\n\n## What role does calcium play in neurotransmitter release?\n\nWhen an electrical impulse reaches the end of a neuron, it opens voltage-gated calcium channels.\n\nCalcium ions flood into the neuron and trigger synaptic vesicles to fuse with the cell membrane, releasing neurotransmitters into the synaptic cleft. Without calcium, this release—and synaptic communication—wouldn’t occur.\n\n## How do neurons know when to fire a signal?\n\nNeurons receive many signals at once—some excitatory (telling it to fire) and some inhibitory (telling it not to). These signals are added together in a process calledsummation.\n\nIf the combined input reaches a certain threshold, the neuron fires an action potential. If not, it stays silent. The brain uses this balancing act to process information efficiently.\n\n## Further Reading\n\n- Nicholls, J. G., Martin, A. R., Wallace, B. G., & Fuchs, P. A. (2001). From neuron to brain (Vol. 271). Sunderland, MA: Sinauer Associates.\n\n- Pereda, A. E. (2014). Electrical synapses and their functional interactions with chemical synapses. Nature Reviews Neuroscience, 15(4), 250-263.\n\nGuy-Evans, O. (2025). What Happens At The Synapse Between Two Neurons?. Simply Psychology. https://www.simplypsychology.org/synapse.html\n\nGuy-Evans, Olivia. \"What Happens At The Synapse Between Two Neurons?.\" Simply Psychology, 16 June 2025, https://www.simplypsychology.org/synapse.html.\n\nGuy-Evans, O. (2025) What Happens At The Synapse Between Two Neurons?. Simply Psychology. Available at: https://www.simplypsychology.org/synapse.html (Accessed: 22 September 2026).\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nKarina Ascunce González\n\nPhD Neuroscience (in progress)\n\nDoctoral Student & GTA\n\nKarina Ascunce González is a Neuroscience PhD candidate at Yale University, where her research focuses on nervous system regeneration and stem cell biology. She holds an AB in Neuroscience with a secondary in Global Health and Health Policy from Harvard University, and has published research in Frontiers in Cell and Developmental Biology and the Journal of the American Academy of Child and Adolescent Psychiatry.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:29:31.627692"
+}

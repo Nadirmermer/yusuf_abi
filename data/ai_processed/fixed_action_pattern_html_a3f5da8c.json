@@ -1,0 +1,127 @@
+{
+  "id": "fixed_action_pattern_html_a3f5da8c",
+  "original_title": "Fixed Action Pattern: Definition & Examples",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/fixed-action-pattern.html",
+  "published_date": "2026-05-11T14:46:15+00:00",
+  "read_time_minutes": 18,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/fixed-action-pattern.jpeg",
+      "alt": "Fixed Action Pattern: Definition & Examples",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/basal-ganglia-1-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sympathetic-vs-parasympathetic-nervous-system-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mirror-neurons-266x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/nervous-system-1-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/child-development-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/freudian-slip-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/headshot.webp",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3610,
+  "turkce_baslik": "Aynı Tetikleyici, Aynı Döngü: İlişkilerdeki Sabit Davranış Kalıpları",
+  "kanca_sorusu": "Neden aynı tartışmalarda hep aynı kelimeleri seçiyor ve aynı tuzağa düşüyorsunuz?",
+  "score": 45,
+  "puan_nedeni": "Metin, Konrad Lorenz'in etoloji temelli 'Sabit Davranış Kalıpları' (Fixed Action Pattern) teorisini ve hayvan davranışlarını incelemektedir. İnsan ilişkilerine dair doğrudan bir bağ kurulmadığı ve saf akademik/biyolojik temelli olduğu için klinik puanımız düşüktür.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Doğada bazı davranışlar vardır ki, bir kez tetiklendiğinde ortadaki uyaran kaldırılsa dahi durdurulamaz; başından sonuna kadar aynı sıra ile oynanır. Etolojide sabit davranış kalıpları olarak bilinen bu mekanizma, aslında insan zihninin otomatik pilotta nasıl çalıştığına dair derin ipuçları barındırır. Günlük hayatta karşımızdaki kişiden aldığımız tek bir mimik, geçmişin o karanlık odasını açar ve biz farkında olmadan otomatik bir savunma zinciri başlatırız. Bu mekanizma devreye girdiğinde, mantıklı düşünmek yerini ezbere tepkilere bırakır. Zihnimiz, tehlike algıladığı an en eski ve en katı hayatta kalma senaryolarını sahneye koyar. Bu döngüyü kırmanın yolu, o ilk tetikleyici anı fark etmek ve otomatik pilotun direksiyonunu bilinçli bir şekilde geri alabilmektir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Otomatik Pilotun Sessiz Yasaları",
+      "body": "Bazı anlar vardır ki, kelimeler ağzınızdan sizden bağımsız dökülür ve durduramazsınız.",
+      "highlight_box": "Aynı uyaran, istisnasız aynı sonuç.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Sabit Davranış Kalıpları Nedir",
+      "body": "Bir tetikleyici ile harekete geçen, dış müdahalelerle durdurulamayan katı davranış zincirleridir.",
+      "highlight_box": "Başlayan bir döngü, sonuna kadar gitmek zorundadır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Tetikleyici ve Kaçınılmaz Son",
+      "body": "Küçük bir jest veya eleştiri, tüm savunma mekanizmalarını tek bir hamleyle ayağa kaldırır.",
+      "highlight_box": "Uyaran kalksa bile öfke devam eder.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Değişmeyen Sıralama",
+      "body": "Tartışmaların her seferinde aynı haritayı izlemesi bir tesadüf değil, zihinsel bir programdır.",
+      "highlight_box": "Senaryo hep aynı, sadece tarihler değişir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Döngüyü Kırma Zamanı",
+      "body": "Otomatik tepkiyi durdurmanın tek yolu, tetikleyici an ile verdiğiniz yanıt arasına bilinçli bir durak koymaktır.",
+      "highlight_box": "Refleksleri durdurmak zaman ve farkındalık ister.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Her otomatik tepki, iyileşmeyi bekleyen eski bir yaranın sesidir.",
+      "highlight_box": "Tekrar okumak ve döngüyü kırmak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Neden her tartışmada tıpatıp aynı cümleleri kurup aynı tuzağa düşüyorsunuz?",
+    "konusma_metni": "Hayatınızda bazı döngüler var ki, sanki biri düğmeye basıyor ve siz otomatik olarak aynı senaryoyu oynamaya başlıyorsunuz. Karşınızdaki kişi değişiyor, ortam değişiyor ama sizin verdiğiniz o tepki hep aynı kalıyor. Etolojide buna sabit davranış kalıpları denir. Bir kez tetiklendiğinde, mantık devre dışı kalır ve o zincir sonuna kadar gider. Bu video, zihninizin hangi otomatik pilotta kilitlendiğini fark etmeniz için hazırlandı."
+  },
+  "caption": "İlişkilerde veya bireysel hayatımızda neden sürekli aynı tuzaklara düşeriz? Bazı davranışlar o kadar kökleşmiştir ki, bir kez tetiklendiğinde mantık devre dışı kalır ve otomatik pilot tüm süreci devralır. Bu mekanizma, zihnimizin tehlike anında başvurduğu en katı savunma biçimidir. Döngüyü kırmak, ancak o ilk tetiklenme anını fark edebilmekle mümkündür. Zihninizin sizi hangi otomatik döngülerde tuttuğunu keşfetmek ve bu kalıpları fark etmek için bu içeriği kaydedebilir, kendi süreçlerinizi gözden geçirebilirsiniz.\n\n#psikoloji #otomatiktepki #zihinseldöngüler #davranışbilimi #farkındalık #ilişkipsikolojisi #ya_da_psikoloji",
+  "processed_at": "2026-09-26 17:16:04"
+}

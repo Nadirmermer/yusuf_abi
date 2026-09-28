@@ -1,0 +1,139 @@
+{
+  "id": "episodic_memory_html_c045483c",
+  "original_title": "Episodic Memory: Definition & Examples",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/episodic-memory.html",
+  "published_date": "2026-09-17T11:03:26+00:00",
+  "read_time_minutes": 18,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/episodic-memory.jpg",
+      "alt": "Episodic Memory: Definition & Examples",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/episodic-memory-1024x576.jpg",
+      "alt": "episodic memory",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Declarative-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--300x97.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/flashbulb-memories-300x171.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/schemas-300x200.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Procedural-Memory-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Ayesh-Perera.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3654,
+  "turkce_baslik": "Zihinsel Zaman Yolculuğu: Geçmişi Hatırlamak mı Yoksa Yeniden Yaşamak mı?",
+  "kanca_sorusu": "Çocukluğunuzdaki bir anıyı sadece bildiğinizi mi yoksa o anın içine tekrar ışınlandığınızı mı hissediyorsunuz?",
+  "score": 45,
+  "puan_nedeni": "Makale, epizodik bellek, hipokampüs ve bilişsel nöroloji üzerine akademik bir temele dayanmaktadır. Doğrudan ilişkisel bir patoloji, travma veya toksik dinamik barındırmadığı, daha çok bilişsel psikoloji teorilerini incelediği için puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Epizodik bellek, sadece geçmişteki bir bilgiyi raflardan alıp okumak değildir; zihnin zaman içinde seyahat ederek o anı, o duyguyu ve hatta o kokuyu bugüne taşımasıdır. Kanadalı psikolog Endel Tulving'in 'hatırlamak' ile 'bilmek' arasında çektiği keskin çizgi, insan bilincinin en büyüleyici yanlarından birini gözler önüne serer. Bir olayın sadece başımıza geldiğini bilmek semantik belleğin işiyken, o anın içinde yeniden var olmak, o günkü ürpermeyi tekrar hissetmek otonoetik bilincin, yani epizodik belleğin eseridir. Günlük hayatta taşıdığımız travmalar, unutamadığımız eski partner bakışları ya da çocukluk anılarımız, bu zihinsel zaman yolculuğunun ne kadar canlı ve keskin olabileceğini bize her gün hatırlatır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Hatırlamak ve Bilmek Arasındaki Görünmez Çizgi",
+      "body": "Geçmişi zihnimizde nasıl saklarız? Bazı anılar sadece birer bilgi, bazıları ise yeniden yaşanan birer gerçektir.",
+      "highlight_box": "Zihinsel zaman yolculuğu nedir?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Otonoetik Bilinç: İçeriden Yeniden Yaşamak",
+      "body": "Epizodik bellek, sadece olayın varlığından haberdar olmak değildir. O anın duygusunu, yerini ve zamanını bugüne taşımaktır.",
+      "highlight_box": "Bunu sadece bilir misiniz, yoksa hisseder misiniz?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Semantik Bellek (Bilmek)",
+      "body": "Ankara'nın başkent olduğunu bilirsiniz ama o bilginin zihninize ilk kazındığı saniyeyi yeniden yaşamazsınız. Bu sadece bilgidir.",
+      "highlight_box": "Duygusuz ve nötr bilgi deposu.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Epizotik Bellek (Hatırlamak)",
+      "body": "İlk okul gününüzün kokusu, ilk hayal kırıklığınızın göğsünüze oturan ağırlığı... Bunlar epizodik belleğin yaşayan kanıtlarıdır.",
+      "highlight_box": "Zamanı geri sarmak gibidir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Geçmişin Bugünü Esir Almasına İzin Vermemek",
+      "body": "Epizodik hafızanın gücü yüksektir çünkü duygular anıları canlandırır. Travmatik ya da acı veren anıları dönüştürmek, onlara yüklenen duygusal tonu değiştirmekle başlar.",
+      "highlight_box": "Unutmayın: Anılar değiştirilemez ama bugünkü anlamları dönüştürülebilir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Zihninizin Zaman Kapsülü",
+      "body": "Geçmişte takılı kalmak yerine, anılarınızı bilinçli bir gözlemci olarak inceleyin. Onlar sadece geçmişte yaşandı.",
+      "highlight_box": "Bu derinlemesine analizi kaydetmeyi unutmayın.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Eski bir anıyı hatırladığınızda, o anı gerçekten yeniden mi yaşarsınız yoksa sadece bildiğinizi mi zannedersiniz?",
+    "konusma_metni": "Beynimiz geçmişi kaydederken iki farklı yol izler. Birincisi sadece kuru bilgiyi bilmektir, ikincisi ise o anın içine tekrar ışınlanmaktır. Endel Tulving buna otonoetik bilinç diyor. Yani zihinsel zaman yolculuğu. Bir ilişki bittiğinde ya da bir travma yaşadığımızda beynimiz o anı sadece bir bilgi olarak saklamaz, o saniyenin içine bizi tekrar hapseder. Hatırlamak ile bilmek arasındaki bu fark, neden bazı geçmiş anıların canımızı bu kadar çok yaktığını açıklar."
+  },
+  "caption": "Zihnimiz geçmişi kaydederken iki farklı mekanizma kullanır: Sadece bilmek ve o anı yeniden yaşamak. Kanadalı psikolog Endel Tulving'in yıllar önce ortaya koyduğu bu ayrım, hatırlama eyleminin ardındaki bilinç katmanlarını gözler önüne seriyor. Epizodik bellek, bireyin otonoetik bilinci sayesinde zamanda yolculuk etmesini, geçmişteki bir olayın duygusunu ve bağlamını bugüne taşımasını sağlar. Kimi zaman bizi iyileştiren, kimi zaman ise eski yaraları tazeleyen bu zihinsel mekanizma, kim olduğumuzun da temelini oluşturur. Konu hakkında kendi deneyimlerinizi yorumlarda paylaşabilirsiniz.\n\n#bilişselpsikoloji #bellek #zihin #nöropsikoloji #bilinç #psikolojianalizleri #ya_da_psikoloji",
+  "processed_at": "2026-09-26 02:43:41"
+}

@@ -1,0 +1,163 @@
+{
+  "id": "peterson_peterson_html_3659a82f",
+  "url": "https://www.simplypsychology.org/peterson-peterson.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Peterson & Peterson (1959)",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2026-09-21T11:27:31+00:00",
+  "date_modified": null,
+  "read_time_minutes": 11,
+  "word_count": 2139,
+  "summary": "Psychology»Cognitive Psychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Cognitive Psychology\n\nPeterson and Peterson (1959) tested how long short-term memory lasts without rehearsal. Twenty-four participants recalled trigrams after counting backwards for delays of 3 to 18 seconds, which blocked rehearsal. Recall fell from 80% to under 10% as the delay grew, so memory fades within about 18 seconds unrehearsed.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Key Takeaways",
+      "content": "- Study Design:Twenty-four participants recalled meaningless three-consonant trigrams after counting backwards for 3 to 18 seconds, a task designed to block rehearsal.\n\n- Rapid Forgetting:Recall fell from about 80% after 3 seconds to under 10% after 18 seconds once rehearsal was blocked.\n\n- Trace Decay:Peterson and Peterson concluded that unrehearsed short-term memories fade within about 18 seconds, supporting the multi-store model.\n\n- Interference Critique:Keppel and Underwood (1962) showed much of this decay actually reflected interference from earlier trials, not time alone.\n\n- Modern View:Ricker, Vergauwe and Cowan (2016) argue that both decay and interference contribute, reopening a debate the original study helped start.\n\n- Ecological Validity:Recalling nonsense trigrams differs from everyday remembering, so the findings may not generalize to meaningful, real-world material.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "What Is the Brown-Peterson Technique?",
+      "content": "The Brown-Peterson technique measures unrehearsed short-term memory. A person hears one short item, then performs a task that blocks rehearsal for a set delay, before trying to recall it.\n\nIt takes its hyphenated name from two independent studies published a year apart: John Brown (1958) in Britain and Lloyd and Margaret Peterson (1959) in the United States. Both used a different distractor task (a filler activity that blocks rehearsal), yet reached the same conclusion.\n\nUnrehearsed verbal memory fades within seconds. Because neither team published first by any wide margin, the paradigm carries both surnames.\n\nThe Peterson and Peterson version below became the standard procedure taught in psychology courses. It remains one of the clearest experimental demonstrations in the study offorgetting.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Aim",
+      "content": "To investigate the duration of short-term memory.\n\nLloyd and Margaret Peterson aimed to test the hypothesis that information that is not rehearsed is lost quickly from short-term memory.\n\nSpecifically, they wanted to plot a forgetting curve for a single item. As the distractor-filled delay grew longer, they tracked how quickly unrehearsed memory faded.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Procedure",
+      "content": "Alab experimentwas conducted in which 24 participants (psychology students) had to recall trigrams (meaningless three-consonant syllables), such as TGH, CLS.\n\nThe trigrams were presented one at a time, each recalled after a retention interval (the gap between hearing the trigram and being cued to recall it). The interval was 3, 6, 9, 12, 15 or 18 seconds, varied within participants across the six trials.\n\nNo two successive trigrams shared any of the same letters. This reduced overlap between one trigram and the next.\n\nAfter hearing a trigram, participants counted backward in threes or fours from a random number, out loud, until a red light appeared. This blocks the silent rehearsal people normally rely on. It also gave every trial the same filler task, so only the delay length varied between conditions.\n\nThis gave the technique its name.\n\nTheindependent variablewas the retention interval, ranging from 3 to 18 seconds across trials. Thedependent variablewas the number of trigrams correctly recalled after each of the six trials.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Findings",
+      "content": "Recall accuracy fell sharply as the retention interval grew longer. Most of the loss happened fast.\n\n- After 3 seconds 80% of the trigrams were recalled correctly.\n\n- After 6 seconds this fell to 50%.\n\n- By 9 seconds, nearly 70% of the trigrams had been lost.\n\n- After 18 seconds less than 10% of the trigrams were recalled correctly.\n\nThe steepest drop came within the first six seconds. The curve then flattened toward the floor by 18 seconds.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Conclusion",
+      "content": "Short-term memoryhas a limited duration of about 18 seconds when rehearsal is prevented. Peterson and Peterson attributed this loss to trace decay.\n\nShort-term memory is therefore shorter-lived than long-term memory, supporting themulti-store model of memory. Information that cannot be rehearsed fails to transfer intolong-term memory.\n\nThe finding shaped later theory too. Baddeley and Hitch (1974) took the fragility of unrehearsed verbal material as one reason to propose a dedicated rehearsal loop within theirworking memory model. This component was built specifically to fight the fading that Brown and the Petersons had documented.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Critical Evaluation",
+      "content": "The Peterson and Peterson study has clear strengths and important limitations, summarized below.\n\n- Experimental Control:Fixed retention intervals and standardized procedures, with noise and other distractions eliminated, gave every participant the same experience.\n\n- Replicability:Because the procedure is standardized, the study can be repeated to check whether the findings are a one-off result.\n\n- Isolates One Phenomenon:A trigram carries so little information that memory capacity cannot explain any drop in recall. This isolates the fate of a single unrehearsed trace.\n\n- Ecological Validity:Theexperimental methodlacked mundane realism andexternal validity, since people rarely try to recall meaningless trigrams in everyday life.\n\n- Material Specificity:The study only tested short-term memory for consonant trigrams, so it says nothing about how other material, such as pictures or melodies, is retained.\n\n- Small Sample:Only 24 participants took part, so the size and consistency of the effect across ages and populations remain uncertain.\n\n- Interference, Not Just Decay:Keppel and Underwood (1962) showed that much of this forgetting reflected interference from earlier trials, not decay alone. Wickens et al. (1963) found the same pattern using a category-switch design.\n\n- Distractor as Interference:The counting task itself uses attention and phonological resources, so it could cause forgetting through interference, not just time passing.\n\nOne important practical application of this study is that it demonstrates howinterferencein the form of verbal distractions can affect our ability to retain information. This implies that when revising for an exam, or memorizing a shopping list, we should take care to avoid distractions.\n\nAim:John Brown tested whether a trace in immediate memory decays within seconds unless rehearsal renews it. He designed the study to show a result decay theory predicted but a simple capacity account could not.\n\nMethod:Participants tried to remember small strings of consonants, then read a list of digits aloud for a short interval before recalling the letters. Reading aloud blocked rehearsal. It also avoided asking participants to memorize anything similar to the target letters.\n\nResults:Recall fell sharply across only a few seconds whenever the reading task filled the interval. With no distractor, recall stayed almost perfect.\n\nConclusion:Brown concluded that an unrehearsed trace decays rapidly. Time alone did not explain the collapse; the missing rehearsal did.\n\nParticipants in a Brown-Peterson study complete many trials, each with a different trigram. Earlier trigrams can compete with later ones for retrieval. This is called proactive interference (PI).\n\nAim:Keppel and Underwood asked whether Peterson and Peterson’s forgetting curve reflected decay of a single trigram, or interference building up from earlier trials in the same session.\n\nMethod:They re-ran the task at 3 and 18 second intervals. Recall was analyzed by trial position. The very first trial was compared with later trials at the same intervals.\n\nResults:Recall on the first trial was almost perfect at every interval, including 18 seconds. The curve only appeared from the second trial. It grew steeper as the session went on.\n\nThe famous drop from 80% to under 10% built up across trials. Time alone did not cause it.\n\nConclusion:Interference from earlier trigrams, not time alone, explained most of the forgetting. Wickens, Born and Allen (1963) corroborated this with a similar category-switch design.\n\nAim:Waugh and Norman wanted to separate two rival explanations. Decay is loss with time. Displacement is loss caused by the number of items that follow the one being remembered.\n\nMethod:Participants heard a sequence of digits. They recalled the digit that had followed a probe digit given earlier in the list. Item count and presentation speed were varied independently.\n\nResults:Recall depended strongly on how many items came after the probe. It depended only weakly on how much time had passed.\n\nConclusion:Displacement, not decay, better fit the data. Time and item count are not the same thing. This is one reason the decay-versus-interference debate remains unresolved today.\n\nNot every psychologist accepted the interference-first reading. Nairne (2002) reviewed the field and argued that most short-term forgetting could be explained without any special decay mechanism at all. Ricker, Vergauwe and Cowan (2016) wrote a direct response to that claim.\n\nAim:Ricker, Vergauwe and Cowan (2016) reassessed six decades of evidence descended from Brown (1958) to ask whether time-based decay contributes to forgetting in immediate memory at all.\n\nMethod:They reviewed three kinds of evidence. One type blocks attention, not just rehearsal. Another holds the item count steady while the interval varies. A third separates time and memory load using complex-span tasks.\n\nResults:Memory still weakened with time in these tightly controlled designs, even after interference was accounted for. The effect was smaller than Peterson and Peterson’s original curve suggested.\n\nConclusion:Ricker and colleagues argue that both decay and interference contribute to short-term forgetting. Neither alone explains the classic curve. This reopens a debate that many textbooks had treated as settled in favor of interference alone.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Real-World Applications",
+      "content": "Beyond the laboratory, the Brown-Peterson logic has three practical uses.\n\n- Clinical assessment:Testing recall under a distractor interval can reveal memory problems, such as inamnesia, that a simple recall test misses.\n\n- Attention research:Because the task loads attention while testing memory, researchers use similar protocols to study working-memory weaknesses inADHD.\n\n- Study skills:Unrehearsed information fades within seconds. Pause to rehearse it, or write it down, before moving on.\n\nMcLeod, S. (2026). Peterson & Peterson (1959). Simply Psychology. https://www.simplypsychology.org/peterson-peterson.html\n\nMcLeod, Saul. \"Peterson & Peterson (1959).\" Simply Psychology, 21 September 2026, https://www.simplypsychology.org/peterson-peterson.html.\n\nMcLeod, S. (2026) Peterson & Peterson (1959). Simply Psychology. Available at: https://www.simplypsychology.org/peterson-peterson.html (Accessed: 22 September 2026).",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "References",
+      "content": "Brown, J. (1958). Some tests of the decay theory of immediate memory.Quarterly Journal of Experimental Psychology, 10(1), 12-21. https://doi.org/10.1080/17470215808416249\n\nKeppel, G., & Underwood, B. J. (1962). Proactive inhibition in short-term retention of single items.Journal of Verbal Learning and Verbal Behavior, 1(3), 153-161. https://doi.org/10.1016/S0022-5371(62)80023-1\n\nPeterson, L. R., & Peterson, M. J. (1959). Short-term retention of individual verbal items.Journal of Experimental Psychology, 58(3), 193-198. https://doi.org/10.1037/h0049234\n\nRicker, T. J., Vergauwe, E., & Cowan, N. (2016). Decay theory of immediate memory: From Brown (1958) to today (2014).Quarterly Journal of Experimental Psychology, 69(10), 1969-1995. https://doi.org/10.1080/17470218.2014.914546\n\nWaugh, N. C., & Norman, D. A. (1965). Primary memory.Psychological Review, 72(2), 89-104. https://doi.org/10.1037/h0021797\n\nWickens, D. D., Born, D. G., & Allen, C. K. (1963). Proactive inhibition and item similarity in short-term memory.Journal of Verbal Learning and Verbal Behavior, 2(5-6), 440-445. https://doi.org/10.1016/S0022-5371(63)80045-6",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "What is the Brown Peterson task method?",
+      "content": "The Brown Peterson task is a cognitive psychology experimental method used to study the duration of short-term memory. Participants are presented with a series of items to remember, and then engaged in a distracting task to prevent rehearsal. They are later tested on their ability to recall the original items.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "What was the dependent variable in Peterson and Peterson’s 1959 study on short-term memory?",
+      "content": "The dependent variable in Peterson and Peterson’s 1959 study on short-term memory was the participants’ ability to recall and correctly reproduce the trigram (three-letter nonsense syllables) after a specified delay interval. The researchers measured the accuracy of recall to assess the duration of short-term memory.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "What was the independent variable in Peterson and Peterson’s 1959 study on short-term memory?",
+      "content": "The independent variable was the length of the delay interval between the presentation of the trigram (three-letter nonsense syllables) and the recall task. Different delay intervals, such as 3, 6, 9, 12, 15, or 18 seconds, were used to examine the effect of time on the decay of information in short-term memory.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.",
+      "order": 13,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/peterson.jpg",
+      "alt": "Peterson & Peterson (1959)",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Multi-Store-Model--300x97.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-memory-300x111.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/photographic-memory-199x300.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/State-Dependent-Memory-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/flashbulb-memories-300x171.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Zeigarnik-Effect-300x203.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/peterson.jpg",
+      "alt": "peterson and peterson",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Peterson & Peterson (1959)\n\n> Psychology»Cognitive Psychology\n\n## Giriş\n\nPsychology»Cognitive Psychology\n\nPeterson and Peterson (1959) tested how long short-term memory lasts without rehearsal. Twenty-four participants recalled trigrams after counting backwards for delays of 3 to 18 seconds, which blocked rehearsal. Recall fell from 80% to under 10% as the delay grew, so memory fades within about 18 seconds unrehearsed.\n\n## Key Takeaways\n\n- Study Design:Twenty-four participants recalled meaningless three-consonant trigrams after counting backwards for 3 to 18 seconds, a task designed to block rehearsal.\n\n- Rapid Forgetting:Recall fell from about 80% after 3 seconds to under 10% after 18 seconds once rehearsal was blocked.\n\n- Trace Decay:Peterson and Peterson concluded that unrehearsed short-term memories fade within about 18 seconds, supporting the multi-store model.\n\n- Interference Critique:Keppel and Underwood (1962) showed much of this decay actually reflected interference from earlier trials, not time alone.\n\n- Modern View:Ricker, Vergauwe and Cowan (2016) argue that both decay and interference contribute, reopening a debate the original study helped start.\n\n- Ecological Validity:Recalling nonsense trigrams differs from everyday remembering, so the findings may not generalize to meaningful, real-world material.\n\n## What Is the Brown-Peterson Technique?\n\nThe Brown-Peterson technique measures unrehearsed short-term memory. A person hears one short item, then performs a task that blocks rehearsal for a set delay, before trying to recall it.\n\nIt takes its hyphenated name from two independent studies published a year apart: John Brown (1958) in Britain and Lloyd and Margaret Peterson (1959) in the United States. Both used a different distractor task (a filler activity that blocks rehearsal), yet reached the same conclusion.\n\nUnrehearsed verbal memory fades within seconds. Because neither team published first by any wide margin, the paradigm carries both surnames.\n\nThe Peterson and Peterson version below became the standard procedure taught in psychology courses. It remains one of the clearest experimental demonstrations in the study offorgetting.\n\n## Aim\n\nTo investigate the duration of short-term memory.\n\nLloyd and Margaret Peterson aimed to test the hypothesis that information that is not rehearsed is lost quickly from short-term memory.\n\nSpecifically, they wanted to plot a forgetting curve for a single item. As the distractor-filled delay grew longer, they tracked how quickly unrehearsed memory faded.\n\n## Procedure\n\nAlab experimentwas conducted in which 24 participants (psychology students) had to recall trigrams (meaningless three-consonant syllables), such as TGH, CLS.\n\nThe trigrams were presented one at a time, each recalled after a retention interval (the gap between hearing the trigram and being cued to recall it). The interval was 3, 6, 9, 12, 15 or 18 seconds, varied within participants across the six trials.\n\nNo two successive trigrams shared any of the same letters. This reduced overlap between one trigram and the next.\n\nAfter hearing a trigram, participants counted backward in threes or fours from a random number, out loud, until a red light appeared. This blocks the silent rehearsal people normally rely on. It also gave every trial the same filler task, so only the delay length varied between conditions.\n\nThis gave the technique its name.\n\nTheindependent variablewas the retention interval, ranging from 3 to 18 seconds across trials. Thedependent variablewas the number of trigrams correctly recalled after each of the six trials.\n\n## Findings\n\nRecall accuracy fell sharply as the retention interval grew longer. Most of the loss happened fast.\n\n- After 3 seconds 80% of the trigrams were recalled correctly.\n\n- After 6 seconds this fell to 50%.\n\n- By 9 seconds, nearly 70% of the trigrams had been lost.\n\n- After 18 seconds less than 10% of the trigrams were recalled correctly.\n\nThe steepest drop came within the first six seconds. The curve then flattened toward the floor by 18 seconds.\n\n## Conclusion\n\nShort-term memoryhas a limited duration of about 18 seconds when rehearsal is prevented. Peterson and Peterson attributed this loss to trace decay.\n\nShort-term memory is therefore shorter-lived than long-term memory, supporting themulti-store model of memory. Information that cannot be rehearsed fails to transfer intolong-term memory.\n\nThe finding shaped later theory too. Baddeley and Hitch (1974) took the fragility of unrehearsed verbal material as one reason to propose a dedicated rehearsal loop within theirworking memory model. This component was built specifically to fight the fading that Brown and the Petersons had documented.\n\n## Critical Evaluation\n\nThe Peterson and Peterson study has clear strengths and important limitations, summarized below.\n\n- Experimental Control:Fixed retention intervals and standardized procedures, with noise and other distractions eliminated, gave every participant the same experience.\n\n- Replicability:Because the procedure is standardized, the study can be repeated to check whether the findings are a one-off result.\n\n- Isolates One Phenomenon:A trigram carries so little information that memory capacity cannot explain any drop in recall. This isolates the fate of a single unrehearsed trace.\n\n- Ecological Validity:Theexperimental methodlacked mundane realism andexternal validity, since people rarely try to recall meaningless trigrams in everyday life.\n\n- Material Specificity:The study only tested short-term memory for consonant trigrams, so it says nothing about how other material, such as pictures or melodies, is retained.\n\n- Small Sample:Only 24 participants took part, so the size and consistency of the effect across ages and populations remain uncertain.\n\n- Interference, Not Just Decay:Keppel and Underwood (1962) showed that much of this forgetting reflected interference from earlier trials, not decay alone. Wickens et al. (1963) found the same pattern using a category-switch design.\n\n- Distractor as Interference:The counting task itself uses attention and phonological resources, so it could cause forgetting through interference, not just time passing.\n\nOne important practical application of this study is that it demonstrates howinterferencein the form of verbal distractions can affect our ability to retain information. This implies that when revising for an exam, or memorizing a shopping list, we should take care to avoid distractions.\n\nAim:John Brown tested whether a trace in immediate memory decays within seconds unless rehearsal renews it. He designed the study to show a result decay theory predicted but a simple capacity account could not.\n\nMethod:Participants tried to remember small strings of consonants, then read a list of digits aloud for a short interval before recalling the letters. Reading aloud blocked rehearsal. It also avoided asking participants to memorize anything similar to the target letters.\n\nResults:Recall fell sharply across only a few seconds whenever the reading task filled the interval. With no distractor, recall stayed almost perfect.\n\nConclusion:Brown concluded that an unrehearsed trace decays rapidly. Time alone did not explain the collapse; the missing rehearsal did.\n\nParticipants in a Brown-Peterson study complete many trials, each with a different trigram. Earlier trigrams can compete with later ones for retrieval. This is called proactive interference (PI).\n\nAim:Keppel and Underwood asked whether Peterson and Peterson’s forgetting curve reflected decay of a single trigram, or interference building up from earlier trials in the same session.\n\nMethod:They re-ran the task at 3 and 18 second intervals. Recall was analyzed by trial position. The very first trial was compared with later trials at the same intervals.\n\nResults:Recall on the first trial was almost perfect at every interval, including 18 seconds. The curve only appeared from the second trial. It grew steeper as the session went on.\n\nThe famous drop from 80% to under 10% built up across trials. Time alone did not cause it.\n\nConclusion:Interference from earlier trigrams, not time alone, explained most of the forgetting. Wickens, Born and Allen (1963) corroborated this with a similar category-switch design.\n\nAim:Waugh and Norman wanted to separate two rival explanations. Decay is loss with time. Displacement is loss caused by the number of items that follow the one being remembered.\n\nMethod:Participants heard a sequence of digits. They recalled the digit that had followed a probe digit given earlier in the list. Item count and presentation speed were varied independently.\n\nResults:Recall depended strongly on how many items came after the probe. It depended only weakly on how much time had passed.\n\nConclusion:Displacement, not decay, better fit the data. Time and item count are not the same thing. This is one reason the decay-versus-interference debate remains unresolved today.\n\nNot every psychologist accepted the interference-first reading. Nairne (2002) reviewed the field and argued that most short-term forgetting could be explained without any special decay mechanism at all. Ricker, Vergauwe and Cowan (2016) wrote a direct response to that claim.\n\nAim:Ricker, Vergauwe and Cowan (2016) reassessed six decades of evidence descended from Brown (1958) to ask whether time-based decay contributes to forgetting in immediate memory at all.\n\nMethod:They reviewed three kinds of evidence. One type blocks attention, not just rehearsal. Another holds the item count steady while the interval varies. A third separates time and memory load using complex-span tasks.\n\nResults:Memory still weakened with time in these tightly controlled designs, even after interference was accounted for. The effect was smaller than Peterson and Peterson’s original curve suggested.\n\nConclusion:Ricker and colleagues argue that both decay and interference contribute to short-term forgetting. Neither alone explains the classic curve. This reopens a debate that many textbooks had treated as settled in favor of interference alone.\n\n## Real-World Applications\n\nBeyond the laboratory, the Brown-Peterson logic has three practical uses.\n\n- Clinical assessment:Testing recall under a distractor interval can reveal memory problems, such as inamnesia, that a simple recall test misses.\n\n- Attention research:Because the task loads attention while testing memory, researchers use similar protocols to study working-memory weaknesses inADHD.\n\n- Study skills:Unrehearsed information fades within seconds. Pause to rehearse it, or write it down, before moving on.\n\nMcLeod, S. (2026). Peterson & Peterson (1959). Simply Psychology. https://www.simplypsychology.org/peterson-peterson.html\n\nMcLeod, Saul. \"Peterson & Peterson (1959).\" Simply Psychology, 21 September 2026, https://www.simplypsychology.org/peterson-peterson.html.\n\nMcLeod, S. (2026) Peterson & Peterson (1959). Simply Psychology. Available at: https://www.simplypsychology.org/peterson-peterson.html (Accessed: 22 September 2026).\n\n## References\n\nBrown, J. (1958). Some tests of the decay theory of immediate memory.Quarterly Journal of Experimental Psychology, 10(1), 12-21. https://doi.org/10.1080/17470215808416249\n\nKeppel, G., & Underwood, B. J. (1962). Proactive inhibition in short-term retention of single items.Journal of Verbal Learning and Verbal Behavior, 1(3), 153-161. https://doi.org/10.1016/S0022-5371(62)80023-1\n\nPeterson, L. R., & Peterson, M. J. (1959). Short-term retention of individual verbal items.Journal of Experimental Psychology, 58(3), 193-198. https://doi.org/10.1037/h0049234\n\nRicker, T. J., Vergauwe, E., & Cowan, N. (2016). Decay theory of immediate memory: From Brown (1958) to today (2014).Quarterly Journal of Experimental Psychology, 69(10), 1969-1995. https://doi.org/10.1080/17470218.2014.914546\n\nWaugh, N. C., & Norman, D. A. (1965). Primary memory.Psychological Review, 72(2), 89-104. https://doi.org/10.1037/h0021797\n\nWickens, D. D., Born, D. G., & Allen, C. K. (1963). Proactive inhibition and item similarity in short-term memory.Journal of Verbal Learning and Verbal Behavior, 2(5-6), 440-445. https://doi.org/10.1016/S0022-5371(63)80045-6\n\n## What is the Brown Peterson task method?\n\nThe Brown Peterson task is a cognitive psychology experimental method used to study the duration of short-term memory. Participants are presented with a series of items to remember, and then engaged in a distracting task to prevent rehearsal. They are later tested on their ability to recall the original items.\n\n## What was the dependent variable in Peterson and Peterson’s 1959 study on short-term memory?\n\nThe dependent variable in Peterson and Peterson’s 1959 study on short-term memory was the participants’ ability to recall and correctly reproduce the trigram (three-letter nonsense syllables) after a specified delay interval. The researchers measured the accuracy of recall to assess the duration of short-term memory.\n\n## What was the independent variable in Peterson and Peterson’s 1959 study on short-term memory?\n\nThe independent variable was the length of the delay interval between the presentation of the trigram (three-letter nonsense syllables) and the recall task. Different delay intervals, such as 3, 6, 9, 12, 15, or 18 seconds, were used to examine the effect of time on the decay of information in short-term memory.\n\nOlivia Guy-Evans, MSc\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nAssociate Editor for Simply Psychology\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\nChartered Psychologist (CPsychol)\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:31:22.590002"
+}

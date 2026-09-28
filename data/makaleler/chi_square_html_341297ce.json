@@ -1,0 +1,205 @@
+{
+  "id": "chi_square_html_341297ce",
+  "url": "https://www.simplypsychology.org/chi-square.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "Chi-Square (Χ²) Test & How To Calculate Formula Equation",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2023-08-29T13:16:22+00:00",
+  "date_modified": null,
+  "read_time_minutes": 11,
+  "word_count": 2268,
+  "summary": "Psychology»Statistics",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Statistics\n\nChi-square (χ2) is used to test hypotheses about the distribution of observations into categories with no inherent ranking.",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "What Is a Chi-Square Statistic?",
+      "content": "The Chi-square test (pronounced Kai) looks at the pattern of observations and will tell us if certain combinations of the categories occur more frequently than we would expect by chance, given the total number of times each category occurred.\n\nIt looks for an association between the variables. We cannot use a correlation coefficient to look for the patterns in this data because the categories often do not form a continuum.\n\nThere are three main types of Chi-square tests, tests of goodness of fit, the test of independence, and the test for homogeneity. All three tests rely on the same formula to compute a test statistic.\n\nThese tests function by deciphering relationships between observed sets of data and theoretical or “expected” sets of data that align with the null hypothesis.\n\n- What is a Contingency Table?\n\n- Formula Calculation\n\n- Interpretation\n\n- How to Report\n\n- p -value Interpretation\n\n- Goodness-of-Fit Test\n\n- Test for Independence\n\n- Test for Homogeneity",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "What is a Contingency Table?",
+      "content": "Contingency tables (also known as two-way tables) are grids in which Chi-square data is organized and displayed.\n\nThey provide a basic picture of the interrelation between two variables and can help find interactions between them.\n\nIn contingency tables, one variable and each of its categories are listed vertically, and the other variable and each of its categories are listed horizontally.\n\nAdditionally, including column and row totals, also known as “marginal frequencies,” will help facilitate the Chi-square testing process.\n\nIn order for the Chi-square test to be considered trustworthy, each cell of your expected contingency table must have a value of at least five.\n\nEach Chi-square test will have one contingency table representing observed counts (see Fig. 1) and one contingency table representing expected counts (see Fig. 2).\n\nFigure 1.Observed table (which contains the observed counts).\n\nTo obtain the expected frequencies for any cell in any cross-tabulation in which the two variables are assumed independent, multiply the row and column totals for that cell and divide the product by the total number of cases in the table.\n\nFigure 2.Expected table (what we expect the two-way table to look like if the two categorical variables are independent).\n\nTo decide if our calculated value for χ2 is significant, we also need to work out the degrees of freedom for our contingency table using the following formula: df= (rows – 1) x (columns – 1).",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "Formula Calculation",
+      "content": "Calculate the chi-square statistic (χ2) by completing the following steps:\n\n- Calculate the expected frequencies and the observed frequencies.\n\n- For each observed number in the table, subtract the corresponding expected number (O — E).\n\n- Square the difference (O —E)².\n\n- Divide the squares obtained for each cell in the table by the expected number for that cell (O – E)² / E.\n\n- Sum all the values for (O – E)² / E. This is the chi-square statistic.\n\n- Calculate the degrees of freedom for the contingency table using the following formula; df= (rows – 1) x (columns – 1).\n\nOnce we have calculated the degrees of freedom (df) and the chi-squared value (χ2), we can use the χ2 table (often at the back of a statistics book) to check if our value for χ2 is higher than the critical value given in the table. If it is, then our result is significant at the level given.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "Interpretation",
+      "content": "The chi-square statistic tells you how much difference exists between the observed count in each table cell to the counts you would expect if there were no relationship at all in the population.",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Small Chi-Square Statistic:",
+      "content": "If the chi-square statistic is small and the p-value is large (usually greater than 0.05), this often indicates that the observed frequencies in the sample are close to what would be expected under the null hypothesis.\n\nThe null hypothesis usually states no association between the variables being studied or that the observed distribution fits the expected distribution.\n\nIn theory, if the observed and expected values were equal (no difference), then the chi-square statistic would be zero — but this is unlikely to happen in real life.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Large Chi-Square Statistic:",
+      "content": "If the chi-square statistic is large and the p-value is small (usually less than 0.05), then the conclusion is often that the data does not fit the model well, i.e., the observed and expected values are significantly different.\n\nThis often leads to the rejection of the null hypothesis.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "How to Report",
+      "content": "To report a chi-square output in an APA-style results section, always rely on the following template:\n\nχ2 (degrees of freedom, N =sample size) =chi-square statistic value,p=pvalue.\n\nIn the case of the above example, the results would be written as follows:\n\nA chi-square test of independence showed that there was a significant association between gender and post-graduation education plans,χ2(4, N = 101) = 54.50, p < .001.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "APA Style Rules",
+      "content": "- Do not use a zero before a decimal when the statistic cannot be greater than 1 (proportion, correlation, level of statistical significance).\n\n- Report exact p values to two or three decimals (e.g.,p= .006, p = .03).\n\n- However, report p values less than .001 as “p< .001.”\n\n- Put a space before and after a mathematical operator (e.g., minus, plus, greater than, less than, equals sign).\n\n- Do not repeat statistics in both the text and a table or figure.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "p-value Interpretation",
+      "content": "You test whether a given χ2 is statistically significant by testing it against atable of chi-square distributions, according to the number of degrees of freedom for your sample, which is the number of categories minus 1.\n\nThe chi-square assumes that you have at least 5 observations per category.\n\nIf you are using SPSS then you will have an expectedp-value.\n\nFor a chi-square test, ap-valuethat is less than or equal to the .05 significance level indicates that the observed values are different to the expected values.\n\nThus, low p-values (p< .05) indicate a likely difference between the theoretical population and the collected sample. You can conclude that a relationship exists between the categorical variables.\n\nRemember thatp-values do not indicate the odds that the null hypothesis is true but rather provide the probability that one would obtain the sample distribution observed (or a more extreme distribution) if the null hypothesis was true.\n\nA level of confidence necessary toaccept the null hypothesiscan never be reached.\n\nTherefore, conclusions must choose to either fail to reject the null or accept the alternative hypothesis, depending on the calculated p-value.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "Using SPSS",
+      "content": "The four steps below show you how to analyze your data using achi-square goodness-of-fittest in SPSS (when you have hypothesized that you have equal expected proportions).\n\nStep 1: Analyze > Nonparametric Tests > Legacy Dialogs > Chi-square… on the top menu as shown below:\n\nStep 2: Move the variable indicating categories into the “Test Variable List:” box.\n\nStep 3: If you want to test the hypothesis that all categories are equally likely, click “OK.”\n\nStep 4: Specify the expected count for each category by first clicking the “Values” button under “Expected Values.”\n\nStep 5: Then, in the box to the right of “Values,” enter the expected count for category one and click the “Add” button. Now enter the expected count for category two and click “Add.” Continue in this way until all expected counts have been entered.\n\nStep 6: Then click “OK.”\n\nThe four steps below show you how to analyze your data using achi-square test of independencein SPSS Statistics.\n\nStep 1: Open the Crosstabs dialog (Analyze > Descriptive Statistics > Crosstabs).\n\nStep 2: Select the variables you want to compare using the chi-square test. Click one variable in the left window and then click the arrow at the top to move the variable. Select the row variable and the column variable.\n\nStep 3: Click Statistics (a new pop-up window will appear). Check Chi-square, then click Continue.\n\nStep 4: (Optional) Check the box for Display clustered bar charts.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "Goodness-of-Fit Test",
+      "content": "The Chi-square goodness of fit test is used to compare a randomly collected sample containing a single, categorical variable to a larger population.\n\nThis test is most commonly used to compare a random sample to the population from which it was potentially collected.\n\nThe test begins with the creation of a null and alternative hypothesis. In this case, the hypotheses are as follows:\n\nNull Hypothesis (Ho): The null hypothesis (Ho) is that the observed frequencies are the same (except for chance variation) as the expected frequencies. The collected data is consistent with the population distribution.\n\nAlternative Hypothesis (Ha): The collected data is not consistent with the population distribution.\n\nThe next step is to create a contingency table that represents how the data would be distributed if the null hypothesis were exactly correct.\n\nThe sample’s overall deviation from this theoretical/expected data will allow us to draw a conclusion, with a more severe deviation resulting in smaller p-values.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Test for Independence",
+      "content": "The Chi-square test for independence looks for an association between two categorical variables within the same population.\n\nUnlike the goodness of fit test, the test for independence does not compare a single observed variable to a theoretical population but rather two variables within a sample set to one another.\n\nThe hypotheses for a Chi-square test of independence are as follows:\n\nNull Hypothesis (Ho): There is no association between the two categorical variables in the population of interest.\n\nAlternative Hypothesis (Ha): There is no association between the two categorical variables in the population of interest.\n\nThe next step is to create a contingency table of expected values that reflects how a data set that perfectly aligns the null hypothesis would appear.\n\nThe simplest way to do this is to calculate the marginal frequencies of each row and column; the expected frequency of each cell is equal to the marginal frequency of the row and column that corresponds to a given cell in the observed contingency table divided by the total sample size.",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "Test for Homogeneity",
+      "content": "The Chi-square test for homogeneity is organized and executed exactly the same as the test for independence.\n\nThe main difference to remember between the two is that the test for independence looks for an association between two categorical variables within the same population, while the test for homogeneity determines if the distribution of a variable is the same in each of several populations (thus allocating population itself as the second categorical variable).\n\nThe hypotheses for a Chi-square test of independence are as follows:\n\nNull Hypothesis(Ho): There is no difference in the distribution of a categorical variable for several populations or treatments.\n\nAlternative Hypothesis (Ha): There is a difference in the distribution of a categorical variable for several populations or treatments.\n\nThe difference between these two tests can be a bit tricky to determine, especially in the practical applications of a Chi-square test. A reliable rule of thumb is to determine how the data was collected.\n\nIf the data consists of only one random sample with the observations classified according to two categorical variables, it is a test for independence. If the data consists of more than one independent random sample, it is a test for homogeneity.",
+      "order": 14,
+      "items": []
+    },
+    {
+      "heading": "What is the chi-square test?",
+      "content": "The Chi-square test is a non-parametric statistical test used to determine if there’s a significant association between two or more categorical variables in a sample.\n\nIt works by comparing the observed frequencies in each category of a cross-tabulation with the frequencies expected under the null hypothesis, which assumes there is no relationship between the variables.\n\nThis test is often used in fields like biology, marketing, sociology, and psychology for hypothesis testing.",
+      "order": 15,
+      "items": []
+    },
+    {
+      "heading": "What does chi-square tell you?",
+      "content": "The Chi-square test informs whether there is a significant association between two categorical variables. Suppose the calculated Chi-square value is above the critical value from the Chi-square distribution.\n\nIn that case, it suggests a significant relationship between the variables, rejecting the null hypothesis of no association.",
+      "order": 16,
+      "items": []
+    },
+    {
+      "heading": "How to calculate chi-square?",
+      "content": "To calculate the Chi-square statistic, follow these steps:\n\n1. Create a contingency table of observed frequencies for each category.\n\n2. Calculate expected frequencies for each category under the null hypothesis.\n\n3. Compute the Chi-square statistic using the formula: Χ² = Σ [ (O_i – E_i)² / E_i ], where O_i is the observed frequency and E_i is the expected frequency.\n\n4. Compare the calculated statistic with the critical value from the Chi-square distribution to draw a conclusion.\n\nFrimodig, B. (2023). Chi-Square (Χ²) Test & How To Calculate Formula Equation. Simply Psychology. https://www.simplypsychology.org/chi-square.html\n\nFrimodig, Benjamin. \"Chi-Square (Χ²) Test & How To Calculate Formula Equation.\" Simply Psychology, 29 August 2023, https://www.simplypsychology.org/chi-square.html.\n\nFrimodig, B. (2023) Chi-Square (Χ²) Test & How To Calculate Formula Equation. Simply Psychology. Available at: https://www.simplypsychology.org/chi-square.html (Accessed: 22 September 2026).\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nB.A., History and Science, Harvard University\n\nBen Frimodig is a 2021 graduate of Harvard College, where he studied the History of Science.",
+      "order": 17,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Chi-Square-Test-of-Independence.jpg",
+      "alt": "Chi-Square (Χ²) Test & How To Calculate Formula Equation",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/contingency-table-observed.png",
+      "alt": "contingency table representing observed counts ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/contingency-table-expected.png",
+      "alt": "contingency table representing observed counts ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/chi-squared-equation-300x169.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/one-way-ind-anova-300x183.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-whisker-plot-300x165.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/chi-squared-equation.png",
+      "alt": "chi-squared-equation ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/spss-chi-square-independence-test-significance-output.png",
+      "alt": "chi-squared-spss output ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/themes/generatepress_child/images/user-placeholder.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# Chi-Square (Χ²) Test & How To Calculate Formula Equation\n\n> Psychology»Statistics\n\n## Giriş\n\nPsychology»Statistics\n\nChi-square (χ2) is used to test hypotheses about the distribution of observations into categories with no inherent ranking.\n\n## What Is a Chi-Square Statistic?\n\nThe Chi-square test (pronounced Kai) looks at the pattern of observations and will tell us if certain combinations of the categories occur more frequently than we would expect by chance, given the total number of times each category occurred.\n\nIt looks for an association between the variables. We cannot use a correlation coefficient to look for the patterns in this data because the categories often do not form a continuum.\n\nThere are three main types of Chi-square tests, tests of goodness of fit, the test of independence, and the test for homogeneity. All three tests rely on the same formula to compute a test statistic.\n\nThese tests function by deciphering relationships between observed sets of data and theoretical or “expected” sets of data that align with the null hypothesis.\n\n- What is a Contingency Table?\n\n- Formula Calculation\n\n- Interpretation\n\n- How to Report\n\n- p -value Interpretation\n\n- Goodness-of-Fit Test\n\n- Test for Independence\n\n- Test for Homogeneity\n\n## What is a Contingency Table?\n\nContingency tables (also known as two-way tables) are grids in which Chi-square data is organized and displayed.\n\nThey provide a basic picture of the interrelation between two variables and can help find interactions between them.\n\nIn contingency tables, one variable and each of its categories are listed vertically, and the other variable and each of its categories are listed horizontally.\n\nAdditionally, including column and row totals, also known as “marginal frequencies,” will help facilitate the Chi-square testing process.\n\nIn order for the Chi-square test to be considered trustworthy, each cell of your expected contingency table must have a value of at least five.\n\nEach Chi-square test will have one contingency table representing observed counts (see Fig. 1) and one contingency table representing expected counts (see Fig. 2).\n\nFigure 1.Observed table (which contains the observed counts).\n\nTo obtain the expected frequencies for any cell in any cross-tabulation in which the two variables are assumed independent, multiply the row and column totals for that cell and divide the product by the total number of cases in the table.\n\nFigure 2.Expected table (what we expect the two-way table to look like if the two categorical variables are independent).\n\nTo decide if our calculated value for χ2 is significant, we also need to work out the degrees of freedom for our contingency table using the following formula: df= (rows – 1) x (columns – 1).\n\n## Formula Calculation\n\nCalculate the chi-square statistic (χ2) by completing the following steps:\n\n- Calculate the expected frequencies and the observed frequencies.\n\n- For each observed number in the table, subtract the corresponding expected number (O — E).\n\n- Square the difference (O —E)².\n\n- Divide the squares obtained for each cell in the table by the expected number for that cell (O – E)² / E.\n\n- Sum all the values for (O – E)² / E. This is the chi-square statistic.\n\n- Calculate the degrees of freedom for the contingency table using the following formula; df= (rows – 1) x (columns – 1).\n\nOnce we have calculated the degrees of freedom (df) and the chi-squared value (χ2), we can use the χ2 table (often at the back of a statistics book) to check if our value for χ2 is higher than the critical value given in the table. If it is, then our result is significant at the level given.\n\n## Interpretation\n\nThe chi-square statistic tells you how much difference exists between the observed count in each table cell to the counts you would expect if there were no relationship at all in the population.\n\n## Small Chi-Square Statistic:\n\nIf the chi-square statistic is small and the p-value is large (usually greater than 0.05), this often indicates that the observed frequencies in the sample are close to what would be expected under the null hypothesis.\n\nThe null hypothesis usually states no association between the variables being studied or that the observed distribution fits the expected distribution.\n\nIn theory, if the observed and expected values were equal (no difference), then the chi-square statistic would be zero — but this is unlikely to happen in real life.\n\n## Large Chi-Square Statistic:\n\nIf the chi-square statistic is large and the p-value is small (usually less than 0.05), then the conclusion is often that the data does not fit the model well, i.e., the observed and expected values are significantly different.\n\nThis often leads to the rejection of the null hypothesis.\n\n## How to Report\n\nTo report a chi-square output in an APA-style results section, always rely on the following template:\n\nχ2 (degrees of freedom, N =sample size) =chi-square statistic value,p=pvalue.\n\nIn the case of the above example, the results would be written as follows:\n\nA chi-square test of independence showed that there was a significant association between gender and post-graduation education plans,χ2(4, N = 101) = 54.50, p < .001.\n\n## APA Style Rules\n\n- Do not use a zero before a decimal when the statistic cannot be greater than 1 (proportion, correlation, level of statistical significance).\n\n- Report exact p values to two or three decimals (e.g.,p= .006, p = .03).\n\n- However, report p values less than .001 as “p< .001.”\n\n- Put a space before and after a mathematical operator (e.g., minus, plus, greater than, less than, equals sign).\n\n- Do not repeat statistics in both the text and a table or figure.\n\n## p-value Interpretation\n\nYou test whether a given χ2 is statistically significant by testing it against atable of chi-square distributions, according to the number of degrees of freedom for your sample, which is the number of categories minus 1.\n\nThe chi-square assumes that you have at least 5 observations per category.\n\nIf you are using SPSS then you will have an expectedp-value.\n\nFor a chi-square test, ap-valuethat is less than or equal to the .05 significance level indicates that the observed values are different to the expected values.\n\nThus, low p-values (p< .05) indicate a likely difference between the theoretical population and the collected sample. You can conclude that a relationship exists between the categorical variables.\n\nRemember thatp-values do not indicate the odds that the null hypothesis is true but rather provide the probability that one would obtain the sample distribution observed (or a more extreme distribution) if the null hypothesis was true.\n\nA level of confidence necessary toaccept the null hypothesiscan never be reached.\n\nTherefore, conclusions must choose to either fail to reject the null or accept the alternative hypothesis, depending on the calculated p-value.\n\n## Using SPSS\n\nThe four steps below show you how to analyze your data using achi-square goodness-of-fittest in SPSS (when you have hypothesized that you have equal expected proportions).\n\nStep 1: Analyze > Nonparametric Tests > Legacy Dialogs > Chi-square… on the top menu as shown below:\n\nStep 2: Move the variable indicating categories into the “Test Variable List:” box.\n\nStep 3: If you want to test the hypothesis that all categories are equally likely, click “OK.”\n\nStep 4: Specify the expected count for each category by first clicking the “Values” button under “Expected Values.”\n\nStep 5: Then, in the box to the right of “Values,” enter the expected count for category one and click the “Add” button. Now enter the expected count for category two and click “Add.” Continue in this way until all expected counts have been entered.\n\nStep 6: Then click “OK.”\n\nThe four steps below show you how to analyze your data using achi-square test of independencein SPSS Statistics.\n\nStep 1: Open the Crosstabs dialog (Analyze > Descriptive Statistics > Crosstabs).\n\nStep 2: Select the variables you want to compare using the chi-square test. Click one variable in the left window and then click the arrow at the top to move the variable. Select the row variable and the column variable.\n\nStep 3: Click Statistics (a new pop-up window will appear). Check Chi-square, then click Continue.\n\nStep 4: (Optional) Check the box for Display clustered bar charts.\n\n## Goodness-of-Fit Test\n\nThe Chi-square goodness of fit test is used to compare a randomly collected sample containing a single, categorical variable to a larger population.\n\nThis test is most commonly used to compare a random sample to the population from which it was potentially collected.\n\nThe test begins with the creation of a null and alternative hypothesis. In this case, the hypotheses are as follows:\n\nNull Hypothesis (Ho): The null hypothesis (Ho) is that the observed frequencies are the same (except for chance variation) as the expected frequencies. The collected data is consistent with the population distribution.\n\nAlternative Hypothesis (Ha): The collected data is not consistent with the population distribution.\n\nThe next step is to create a contingency table that represents how the data would be distributed if the null hypothesis were exactly correct.\n\nThe sample’s overall deviation from this theoretical/expected data will allow us to draw a conclusion, with a more severe deviation resulting in smaller p-values.\n\n## Test for Independence\n\nThe Chi-square test for independence looks for an association between two categorical variables within the same population.\n\nUnlike the goodness of fit test, the test for independence does not compare a single observed variable to a theoretical population but rather two variables within a sample set to one another.\n\nThe hypotheses for a Chi-square test of independence are as follows:\n\nNull Hypothesis (Ho): There is no association between the two categorical variables in the population of interest.\n\nAlternative Hypothesis (Ha): There is no association between the two categorical variables in the population of interest.\n\nThe next step is to create a contingency table of expected values that reflects how a data set that perfectly aligns the null hypothesis would appear.\n\nThe simplest way to do this is to calculate the marginal frequencies of each row and column; the expected frequency of each cell is equal to the marginal frequency of the row and column that corresponds to a given cell in the observed contingency table divided by the total sample size.\n\n## Test for Homogeneity\n\nThe Chi-square test for homogeneity is organized and executed exactly the same as the test for independence.\n\nThe main difference to remember between the two is that the test for independence looks for an association between two categorical variables within the same population, while the test for homogeneity determines if the distribution of a variable is the same in each of several populations (thus allocating population itself as the second categorical variable).\n\nThe hypotheses for a Chi-square test of independence are as follows:\n\nNull Hypothesis(Ho): There is no difference in the distribution of a categorical variable for several populations or treatments.\n\nAlternative Hypothesis (Ha): There is a difference in the distribution of a categorical variable for several populations or treatments.\n\nThe difference between these two tests can be a bit tricky to determine, especially in the practical applications of a Chi-square test. A reliable rule of thumb is to determine how the data was collected.\n\nIf the data consists of only one random sample with the observations classified according to two categorical variables, it is a test for independence. If the data consists of more than one independent random sample, it is a test for homogeneity.\n\n## What is the chi-square test?\n\nThe Chi-square test is a non-parametric statistical test used to determine if there’s a significant association between two or more categorical variables in a sample.\n\nIt works by comparing the observed frequencies in each category of a cross-tabulation with the frequencies expected under the null hypothesis, which assumes there is no relationship between the variables.\n\nThis test is often used in fields like biology, marketing, sociology, and psychology for hypothesis testing.\n\n## What does chi-square tell you?\n\nThe Chi-square test informs whether there is a significant association between two categorical variables. Suppose the calculated Chi-square value is above the critical value from the Chi-square distribution.\n\nIn that case, it suggests a significant relationship between the variables, rejecting the null hypothesis of no association.\n\n## How to calculate chi-square?\n\nTo calculate the Chi-square statistic, follow these steps:\n\n1. Create a contingency table of observed frequencies for each category.\n\n2. Calculate expected frequencies for each category under the null hypothesis.\n\n3. Compute the Chi-square statistic using the formula: Χ² = Σ [ (O_i – E_i)² / E_i ], where O_i is the observed frequency and E_i is the expected frequency.\n\n4. Compare the calculated statistic with the critical value from the Chi-square distribution to draw a conclusion.\n\nFrimodig, B. (2023). Chi-Square (Χ²) Test & How To Calculate Formula Equation. Simply Psychology. https://www.simplypsychology.org/chi-square.html\n\nFrimodig, Benjamin. \"Chi-Square (Χ²) Test & How To Calculate Formula Equation.\" Simply Psychology, 29 August 2023, https://www.simplypsychology.org/chi-square.html.\n\nFrimodig, B. (2023) Chi-Square (Χ²) Test & How To Calculate Formula Equation. Simply Psychology. Available at: https://www.simplypsychology.org/chi-square.html (Accessed: 22 September 2026).\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nB.A., History and Science, Harvard University\n\nBen Frimodig is a 2021 graduate of Harvard College, where he studied the History of Science.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-22T12:42:02.401916"
+}

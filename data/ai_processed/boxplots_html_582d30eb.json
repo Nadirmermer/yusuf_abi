@@ -1,0 +1,205 @@
+{
+  "id": "boxplots_html_582d30eb",
+  "original_title": "Reading a Box and Whisker Plot",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/boxplots.html",
+  "published_date": "2025-03-12T11:46:30+00:00",
+  "read_time_minutes": 22,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-whisker-plot.jpg",
+      "alt": "Reading a Box and Whisker Plot",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/image-3.jpeg",
+      "alt": "Box and whisker plot showing five-number summary",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/boxplot-quartiles.jpg",
+      "alt": "boxplot quartiles",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/bloxplots-skewed.jpg",
+      "alt": "Box Plots Showing Skewness of a Data Set",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/IQR.jpg",
+      "alt": "box plot showing the interquartile range ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/bell-curve-300x250.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confidence-interval-300x178.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/z-score-table-287x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Kurtosis-300x114.gif",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cohen-d-300x142.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/boxplot-outliers.png",
+      "alt": "box plot outliers ",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-plots-comparisons.jpg",
+      "alt": "box plots comparisons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/overlapping-box.jpg",
+      "alt": "compare box plot medians",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/compare-boxplots.jpg",
+      "alt": "compare box plot range and IQR",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/box-plots-distribution.jpg",
+      "alt": "box plots showing skewness of a data set compared with distribution curves",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/boxplot.jpg",
+      "alt": "Features of a Box Plot (also called a box and whisker plot)",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/boxplot-1.jpg",
+      "alt": "boxplot 1",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-and-whisker-plot-for-the-standard-normal-distribution.jpg",
+      "alt": "box and whisker plot for the standard normal distribution",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-plot.png",
+      "alt": "box plot",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 4475,
+  "turkce_baslik": "İlişkilerimizde Uç Noktalar ve Ortalamalar: Duygusal Dağılımımızı Okumak",
+  "kanca_sorusu": "İlişkilerinizde sürekli olarak ortalamada mı kalıyorsunuz, yoksa ani krizler ve uç noktalarla mı savruluyorsunuz?",
+  "score": 45,
+  "puan_nedeni": "Metin tamamen temel istatistik ve veri analizi (kutu grafiği, medyan, çeyreklikler) üzerine kuruludur. Doğrudan ilişkisel bir dinamik veya travma barındırmadığı, kuru akademik/teknik bir makale olduğu için katı puanlama kuralına göre düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "İstatistiksel bir grafiği okumak, insan zihninin karmaşık yapısını anlamakla şaşırtıcı derecede benzerlik gösterir. Hayatımızda ve ilişkilerimizde de tıpkı istatistikte olduğu gibi bir ortalama (medyan) ve bu ortalamadan ne kadar uzaklaştığımızı gösteren uç noktalar (outliers) vardır. Çoğu zaman duygusal tepkilerimizin nerede kümelendiğini, ne kadar esnek olabildiğimizi ya da hangi noktalarda tamamen sistem dışına çıktığımızı fark edemeyiz. Oysa kendimizi tıpkı bir veri seti gibi ele aldığımızda, günlük tepkilerimizin arkasındaki o görünmeyen dağılımı ve istatistiksel sapmaları net bir şekilde görebiliriz.\n\nİlişkilerde yaşanan krizler, aslında bu veri setindeki beklenmeyen uç değerlere benzer. Her şey normal seyrederken birdenbire ortaya çıkan o aşırı tepkiler veya tamamen içe kapanmalar, sistemin sınırlarını zorlayan anlardır. Bir insanın duygusal esnekliğini anlamak, onun orta %50'lik dilimde nasıl davrandığını ve uç durumlarda nerede konumlandığını bilmekten geçer. Kendi iç dünyamızın grafiklerini okumayı öğrenmek, bizi anlık tepkilerin körlüğünden kurtararak daha bilinçli bir öz-farkındalığa taşır.\n\nBu analitik yaklaşım, bize sadece verileri değil, kendi duygusal iniş çıkışlarımızı da nesnelleştirme şansı verir. Hangi durumlarda ortalamanın dışına çıktığımızı, hangi tetikleyicilerin bizi normal dağılımın dışına ittiğini görmek, içsel dengemizi kurmanın ilk adımıdır. Kendinizi bir bütün olarak ele alırken, sadece ortalamalarınıza değil, sizi siz yapan o uçlardaki istisnai durumlara da şefkatle bakabilmek gerekir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "İçsel Dağılımınızı Okumak",
+      "body": "Zihnimiz ve ilişkilerimiz de tıpkı karmaşık bir veri seti gibi belirli eğilimler ve uç noktalar barındırır.",
+      "highlight_box": "Tepkilerinizin arkasındaki istatistiği hiç düşündünüz mü?",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Ortalama ve Uç Noktalar",
+      "body": "Günlük hayatın akışında nerede durduğumuz, ilişkilerimizin kalitesini doğrudan belirler.",
+      "highlight_box": "Duygusal ortalamanız nerede?",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Orta Kesit: Güvenli Alan",
+      "body": "Zihnimizin ve ilişkilerimizin en çok vakit geçirdiği, olağan tepkilerin üretildiği orta yüzdelik dilim.",
+      "highlight_box": "Günlük alışkanlıkların ve rutinlerin merkezi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Uç Değerler: Kriz Anları",
+      "body": "Normal akışın dışına çıkan, sistemi zorlayan ve nadir görülen aşırı duygusal patlamalar.",
+      "highlight_box": "Beklenmeyen anlarda verilen aşırı tepkiler.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Dengeyi Yeniden Kurmak",
+      "body": "Aşırı uçlarda gezinmeyi bırakıp kendi duygusal dağılımınızı şefkatle ve nesnellikle gözlemleyin.",
+      "highlight_box": "Farkındalık, uçları törpülemenin ilk adımıdır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Kendinizi bir bütün olarak kabul edin; ortalamalarınızla ve sizi sarsan o uç noktalarınızla.",
+      "highlight_box": "Gerektiğinde tekrar okumak için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "İlişkilerinizdeki krizler aslında sizin duygusal grafiğinizin neresinde duruyor?",
+    "konusma_metni": "Hayatımızda her şeyin normal gittiğini sandığımız anlar vardır. Tıpkı istatistikteki gibi, duygularımızın da bir ortalaması ve uç noktaları var. Sürekli ortalamada mı kalıyorsunuz, yoksa en ufak bir olayda grafiğin dışına taşan o uç değerler gibi mi davranıyorsunuz? Kendi içsel dağılımınızı okumayı öğrenmediğiniz sürece, aynı döngüleri yaşamaya devam edersiniz."
+  },
+  "caption": "Hayatımızdaki her olay, tıpkı istatistiki bir veri seti gibi belirli bir dağılım gösterir. Kimi zaman ortalamada kalır, kimi zaman ise o uç noktalar gibi sistemin dışına taşarız. Kendi içsel dağılımımızı ve duygusal tepkilerimizin nerede yoğunlaştığını fark etmek, zihin yönetiminin en temel adımıdır. Uçlarda yaşamak yerine ortalamayı ve esnekliği bulabilmek bir süreçtir.\n\nPsikoloji, Özfarkındalık, ZihinYönetimi, DuygusalDenge, İçselYolculuk, KişiselGelişim, YaDaPsikoloji",
+  "processed_at": "2026-09-26 17:34:52"
+}

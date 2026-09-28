@@ -1,0 +1,133 @@
+{
+  "id": "abstract_html_bdc78437",
+  "original_title": "How to Write an Abstract APA Format",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/abstract.html",
+  "published_date": "2026-09-17T10:49:01+00:00",
+  "read_time_minutes": 17,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/apa-abstract-example.jpg",
+      "alt": "How to Write an Abstract APA Format",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/how-to-write-a-lab-report-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/apa-title-page-format-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/apa-references-page-formatting-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/essay-structure-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/how-to-synthesize-information-1-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/gibbs-reflective-cycle-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "/wp-content/uploads/apa-abstract-example.jpg",
+      "alt": "APA Style Abstract Example",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3486,
+  "turkce_baslik": "Akademik Yazımda Öz Yazma Rehberi ve Kuralları",
+  "kanca_sorusu": "Bilimsel bir çalışmanın özünü en doğru ve eksiksiz şekilde nasıl aktarırsınız?",
+  "score": 45,
+  "puan_nedeni": "Metin tamamen akademik makale yazım kuralları (APA formatı) ile ilgili teknik bir rehber olduğundan, takipçinin iç dünyasına veya ilişkisel dinamiklerine hitap etmemektedir. Bu nedenle editoryal puanımız düşüktür.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Akademik dünyada bir araştırmanın kalbi, kuşkusuz özet kısmıdır. APA formatına uygun bir özet yazmak, sadece teknik kuralları yerine getirmek değil, aynı zamanda aylarca süren bir emeğin özünü birkaç cümlede okuyucuya aktarabilme sanatıdır. Gerekçeden metodolojiye, bulgulardan sonuçlara kadar her adımın belirli bir disiplinle ele alınması gerekir. Bu süreç, araştırmacının kendi çalışmasına dışarıdan bakabilmesini ve en kritik bilgiyi süzüp çıkarabilmesini zorunlu kılar. Teknik bir zorunluluk gibi görünse de, aslında bilginin en yalın ve net haliyle paylaşılmasının temelidir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Akademik Öz Nedir?",
+      "body": "Araştırmanın bütünü hakkında okuyucuya hızlı ve kapsamlı bir bakış sunan metindir.",
+      "highlight_box": "Çalışmanın ilk ve en kritik adımıdır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Neden En Sonda Yazılır?",
+      "body": "Makalenin bütünü tamamlanmadan, neyi özetleyeceğinizi tam olarak bilemezsiniz.",
+      "highlight_box": "Özeti her zaman en son taslak haline getirin.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Gerekçe ve Amaç",
+      "body": "Çalışmanın neden yapıldığını ve literatürdeki hangi boşluğu doldurduğunu açıklayın.",
+      "highlight_box": "Araştırmanın önemini bir veya iki cümleyle özetleyin.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. Yöntem ve Bulgular",
+      "body": "Katılımcı sayısını, kullanılan araçları ve elde edilen ana eğilimleri net bir şekilde belirtin.",
+      "highlight_box": "Okuyucunun çalışmanın kapsamını anlamasını sağlayın.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Anahtar Kelimelerin Rolü",
+      "body": "Akademik veritabanlarında makalenizin keşfedilebilirliğini artırmak için üç ile beş arası terim seçin.",
+      "highlight_box": "Doğru anahtar kelimeler görünürlüğü artırır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kapanış ve Hatırlatma",
+      "body": "Öz kısmının bağımsız okunabilir olması ve makalenin geri kalanından bağımsız anlam taşıması gerekir.",
+      "highlight_box": "Rehber niteliğindeki bu içeriği kaydetmeyi unutmayın.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Akademik bir makalenin en zor kısmı olan öz yazımının inceliklerini inceliyoruz.",
+    "konusma_metni": "Bir araştırma makalesi yazarken öz kısmı genellikle en sona bırakılır çünkü tüm çalışmanın özetidir. APA formatına göre hazırlanan etkili bir öz; gerekçe, yöntem, bulgular ve sonuçları tek bir paragrafta toplar. Bu videoda, akademik yazım sürecinde sık yapılan hataları ve mükemmel bir özün nasıl yapılandırılması gerektiğini ele alıyoruz."
+  },
+  "caption": "Akademik yazım sürecinde en çok zorlanılan aşamalardan biri olan APA formatında özet hazırlama rehberi, bu alanda çalışkan araştırmacılar için temel kuralları ortaya koyuyor. Çalışmanın amacından yöntemine, bulgularından sonuçlarına kadar her detayın tek bir paragrafta kusursuzca harmanlanması, bilimsel iletişimin en önemli adımıdır.\n\n#akademikyazım #apaformatı #psikolojiaraştırmaları #bilimselaraştırma #makaleyazımı #akademiktavsiye #araştırmayöntemleri",
+  "processed_at": "2026-09-26 02:44:04"
+}

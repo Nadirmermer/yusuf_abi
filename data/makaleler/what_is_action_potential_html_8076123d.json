@@ -1,0 +1,223 @@
+{
+  "id": "what_is_action_potential_html_8076123d",
+  "url": "https://www.simplypsychology.org/what-is-action-potential.html",
+  "source": "Simply Psychology",
+  "blog_name": null,
+  "title": "What Is Action Potential?",
+  "subtitle": null,
+  "author": null,
+  "author_title": null,
+  "reviewer": null,
+  "published_date": "2026-09-17T14:56:19+00:00",
+  "date_modified": null,
+  "read_time_minutes": 12,
+  "word_count": 2372,
+  "summary": "Psychology»Biopsychology",
+  "topics": [],
+  "key_points": [],
+  "sections": [
+    {
+      "heading": "Giriş",
+      "content": "Psychology»Biopsychology\n\nAn action potential is an electrical nerve impulse that travels along aneuron’saxon. It’s a transient, all-or-nothing electrical current that is conducted down the axon when the neuron’s membrane potential reaches a specific “threshold of excitation” (a critical voltage, around −55mV, that the signal must reach to fire).\n\nThink of an action potential as a nerve message: an electrical signal that either fires or stays silent.\n\nIt works like pulling a gun’s trigger. A neuron either fires completely or not at all, and pulling harder never makes the signal stronger.\n\nOnce it starts, the signal cannot be stopped. It races down the axon like a flame along a fuse, travelling at full strength the whole way. Nothing slows it down.\n\n- Why They Matter\n\n- Where They Occur\n\n- What Triggers Firing\n\n- The 3 Phases\n\n- Ions and Channels\n\n- How They Travel\n\n- Critical Evaluation",
+      "order": 1,
+      "items": []
+    },
+    {
+      "heading": "Why are action potentials important?",
+      "content": "Action potentials are theelectrical impulsesthat let the nervous system process and transmit information. They matter for several connected reasons.\n\n- Neural Communication:Reaching theaxon terminal, the impulse triggers the release ofneurotransmittersinto thesynapse, passing the signal onward and underlying thought, memory, and emotion.\n\n- Muscle Control:Motor neuronscarry these impulses fromthe central nervous systemto muscles, enabling voluntary movement.\n\n- Sensory Processing:They form the rapid electrical basis ofbrain signaling, sensory detection (e.g., light, touch), and pain perception.\n\n- Reflexes:They trigger immediate, involuntary responses, like withdrawing a hand from a hot object, without waiting for the brain, saving crucial seconds for survival.\n\nLocal anaesthetics such as lidocaine exploit this same system. They block the sodium channels an action potential needs to fire, which is why an anaesthetised nerve can no longer signal pain.\n\nOverall, action potentials are essential for coordinated bodily control and interaction with the environment.",
+      "order": 2,
+      "items": []
+    },
+    {
+      "heading": "Where do action potentials occur?",
+      "content": "Action potentials are typically generated in a neuron’saxon hillock, the specialized region where the axon extends from the cell body, once the “threshold of excitation” is reached.\n\nFrom there, this “all-or-none” electrical signal rapidly travels down the entire length of the axon to the axon terminals (or terminal buttons), which trigger neurotransmitter release, at its end.\n\nBeyond neurons, action potentials are fundamental to other excitable cells.\n\nFor instance, motor neurons use action potentials to transmit commands from the nervous system to muscle fibers, initiatingmuscle contraction.\n\nSimilarly, sensory neurons convert external stimuli into action potentials to relay information about touch, sight, hearing, and pain to the central nervous system.",
+      "order": 3,
+      "items": []
+    },
+    {
+      "heading": "What causes an action potential to fire?",
+      "content": "An action potential fires when a neuron gets enough stimulation, typically from neurotransmitters binding to its dendrites. This opens smallvoltage-gated channelsin the membrane.\n\nPositively charged sodium (Na+) ions rush in. This influx depolarizes the cell, making its charge more positive.\n\nIf the charge reaches a threshold of excitation, around -55mV, the neuron fires an action potential.\n\nFiring follows the all-or-nothing principle: it fires completely, at full strength, or not at all.\n\nSodium gates then close. Voltage-gated potassium (K+) channels open, and K+ ions exit to repolarize the cell.",
+      "order": 4,
+      "items": []
+    },
+    {
+      "heading": "The 3 phases of an action potential",
+      "content": "The transmission of a nerve impulse, known as an action potential, involves a rapid sequence of electrical changes across the neuron’s membrane.\n\nThis dynamic process typically proceeds through three distinct phases:",
+      "order": 5,
+      "items": []
+    },
+    {
+      "heading": "Depolarization (Rising Phase)",
+      "content": "A neuron at rest holds a negative charge inside, usually around -70mV, with more sodium (Na+) outside and more potassium (K+) inside. A sodium-potassium pump keeps it this way.\n\nIt actively pushes three Na+ ions out for every two K+ ions it lets in, constantly resupplying the gradient the neuron is about to spend.\n\nWhen sufficiently stimulated, voltage-gated sodium (Na+) channels open, and positively charged Na+ ions rapidly rush into the cell. This influx makes the inside of the cell more positive.\n\nIf this charge reaches the threshold of excitation, around -55mV, a massive influx of Na+ creates a positive spike in the membrane potential. This operates on an all-or-nothing principle.",
+      "order": 6,
+      "items": []
+    },
+    {
+      "heading": "Repolarization (Falling Phase)",
+      "content": "Immediately following the peak of depolarization, sodium (Na+) channels close, halting the influx of positive ions.\n\nSimultaneously, potassium (K+) channels open, leading to a rapid outward flow of positively charged K+ ions from the neuron.\n\nThis efflux of positive charge quickly restores the membrane potential to a negative charge inside the cell.",
+      "order": 7,
+      "items": []
+    },
+    {
+      "heading": "Hyperpolarization (Undershoot)",
+      "content": "This brief phase, also called the undershoot, happens because potassium (K+) channels close relatively slowly. A slight excess of K+ keeps leaving the cell.\n\nThe membrane briefly turns even more negative than its normal resting level, e.g. dropping to -80mV. This is a refractory period: a short window when the neuron resists firing again.\n\nMore precisely, it is the relative refractory period, meaning a stronger-than-normal stimulus can still trigger a second signal, making it harder, but not impossible, to fire right away.\n\nFinally, the sodium-potassium pump restores the resting ion balance.",
+      "order": 8,
+      "items": []
+    },
+    {
+      "heading": "Which ions and channels are involved?",
+      "content": "Voltage-gated sodium (Na⁺) channelsopen when a stimulus arrives. A voltage sensor in the channel protein detects the change and swings the pore wide, letting positively charged Na⁺ ions rush in and depolarize the membrane.\n\nThe channel then closes itself again, or inactivates, within about a millisecond, regardless of voltage.\n\nRepolarization follows. Na⁺ channels stay inactivated, and voltage-gated potassium (K⁺) channels open, letting K⁺ ions exit.\n\nThe sodium-potassium pump then actively transports three Na⁺ ions out and two K⁺ ions in, restoring the resting membrane potential.",
+      "order": 9,
+      "items": []
+    },
+    {
+      "heading": "Hodgkin and Huxley’s Squid Axon Experiments",
+      "content": "British physiologists Alan Hodgkin and Andrew Huxley set out to find exactly which ions carry the current during an action potential. They needed an unusually large nerve fibre.\n\nThe giant axon of the squid, almost a millimetre across, was wide enough for the electrodes of the time to thread inside it.\n\nAim:to establish which ionic currents cross the axon membrane during an action potential, and whether they alone explain its rise, fall, and spread.\n\nMethod:Hodgkin and Huxley developed the voltage clamp. This technique holds the membrane at a fixed voltage and measures the current needed to keep it there.\n\nThat current reveals exactly which ions are flowing. By replacing the sodium in the seawater bathing the axon, they isolated the sodium and potassium currents in turn.\n\nFindings:depolarization caused a rapid rise in sodium permeability, followed by a slower rise in potassium permeability. Crucially, it also caught the inactivation gate itself.\n\nThe gate was captured mid-fold, plugging the pore from inside the cell to block further current.\n\nConclusion:voltage-dependent changes in sodium and then potassium permeability fully explain the action potential. It closed a gap that had been open since the 1950s: Hodgkin and Huxley shared the 1963 Nobel Prize in Physiology or Medicine for the work.",
+      "order": 10,
+      "items": []
+    },
+    {
+      "heading": "How do action potentials travel down a neuron?",
+      "content": "Action potentials propagate down a neuron’s axon as an electrical signal.The myelin sheath, a fatty covering, insulates the axon and speeds up transmission significantly.\n\nThe myelin is not continuous, though. It is interrupted at regular intervals by theNodes of Ranvier, small gaps of bare, exposed axon membrane.\n\nThe impulse appears to jump from one node to the next, in a process calledsaltatory conduction, letting signals travel much faster than in unmyelinated axons.\n\nBecause the membrane just behind the signal is briefly refractory, unable to fire again, the impulse can only move forward. It never travels backward.",
+      "order": 11,
+      "items": []
+    },
+    {
+      "heading": "How long does an action potential last?",
+      "content": "An action potential typically lasts for a few milliseconds.\n\nNeurons can fire multiple times per second, with some capable of firing up to 1,000 times per second.\n\nImmediately after firing, a neuron enters arefractory period. During the absolute refractory period, it cannot fire again at all.\n\nIn the subsequent relative refractory period, it can fire, but only with a stronger-than-normal stimulus.",
+      "order": 12,
+      "items": []
+    },
+    {
+      "heading": "Critical Evaluation",
+      "content": "The ionic account of the action potential is one of the most thoroughly tested models in physiological science, but it has real limits worth knowing.",
+      "order": 13,
+      "items": []
+    },
+    {
+      "heading": "Strengths",
+      "content": "The model rests on direct, quantitative measurement rather than speculation. It predicts conduction velocity, threshold, and refractory period accurately across an enormous range of species and cell types, from squid to mammals to cardiac muscle.\n\nThat evidence runs deep, and it keeps getting deeper. Electrophysiology, single-channel recording, gene sequencing, and now the direct imaging of channel structures all confirm the same basic mechanism.\n\nEach new technique adds a finer-grained layer of confirmation rather than overturning the last.\n\nThe practical payoff is just as large. Understanding the mechanism has let researchers design anaesthetics, antiepileptic drugs, and antiarrhythmic heart medications that target specific channel states with real precision, rather than by trial and error. Few models in biology have earned this much convergent support.",
+      "order": 14,
+      "items": []
+    },
+    {
+      "heading": "Limitations",
+      "content": "The model also has clear limits. It describes events within and along a single axon, so it explains how a triggered signal travels without loss, not why a neuron fires when it does.\n\nThat decision depends on synaptic summation across a whole dendritic tree, a process the model does not cover. Other gaps remain too.\n\nThe model doesn’t explain how firing patterns across many neurons create a sensation, a memory, or a decision.\n\nThis work came from one large invertebrate axon. Its basic logic holds up well across vertebrate neurons, cardiac cells, and skeletal muscle.\n\nDifferent tissues vary in their channel subtypes, conduction speeds, and vulnerability to specific drugs and toxins, and that difference matters enormously in clinical practice.\n\nNot all brain communication even fits this single-neuron model. Some cells release chemicals more diffusely into the surrounding fluid instead, a slower process called volume transmission that works alongside classical synapses.",
+      "order": 15,
+      "items": []
+    },
+    {
+      "heading": "Contemporary Research",
+      "content": "Cryo-electron microscopy has since let researchers see the sodium channel itself. The technique freezes protein samples in ice, then rebuilds their shape from thousands of microscope images. Shen and colleagues (2017) used it on a full-length sodium channel. Their aim was simple.\n\nAim:to determine the near-atomic structure of a full sodium channel and how its voltage sensors and pore move to open and close.\n\nMethod:they purified the channel from the American cockroach. Insect channels purify more easily than mammalian ones for cryo-EM, and share the same basic four-domain structure. The team imaged the purified protein, resolving its structure down to individual amino acids.\n\nFindings:the structure showed four domains around a central pore, the voltage sensors that detect membrane voltage, and a selectivity filter that lets sodium through and blocks other ions. Crucially, it also caught the inactivation gate itself.\n\nThe gate was captured mid-fold, plugging the pore from inside the cell to block further current.\n\nConclusion:this structure gave a direct, physical picture of the fast inactivation that Hodgkin and Huxley had only inferred from electrical recordings decades earlier. It closed a gap that had been open since the 1950s.",
+      "order": 16,
+      "items": []
+    },
+    {
+      "heading": "Is action potential graded or all-or-nothing?",
+      "content": "Action potentials operate on the all-or-nothing principle. This means that once the threshold of excitation is reached, the neuron fires completely at its full strength, or it does not fire at all; there is no partial firing.",
+      "order": 17,
+      "items": []
+    },
+    {
+      "heading": "Can action potentials occur in every type of cell?",
+      "content": "No, action potentials do not occur in every type of cell. They are characteristic of neurons (nerve cells), which are the fundamental functional units of the nervous system.\n\nThey also occur in other excitable cells, like sensory receptor cells, and are involved in communication with muscle fibers.",
+      "order": 18,
+      "items": []
+    },
+    {
+      "heading": "Are they involved in neurotransmitter release?",
+      "content": "Yes, action potentials are directly involved in neurotransmitter release. When the electrical impulse of an action potential reaches the axon terminals, it triggers the release of neurotransmitters into the synaptic cleft. Neurotransmitters are the chemical messengers neurons use to signal each other.\n\nThis release is mediated by the influx of calcium ions into the terminal bouton.",
+      "order": 19,
+      "items": []
+    },
+    {
+      "heading": "Is this process electrical or chemical?",
+      "content": "Neuronal communication, including the action potential, is often called an electrochemical event. It has two parts.\n\nThe signal’s movement down the axon is the electrical part. Neurotransmitters then crossing the synapse to the next neuron is the chemical part.",
+      "order": 20,
+      "items": []
+    },
+    {
+      "heading": "Key Takeaways",
+      "content": "- Definition:An action potential is a brief, all-or-none reversal of electrical charge that travels down a neuron’s axon.\n\n- Threshold:The membrane must depolarize to about −55mV to trigger a full, unstoppable signal.\n\n- Ion Basis:Sodium rushing in causes depolarization; potassium leaving causes repolarization.\n\n- Refractory Period:After firing, a brief window makes the neuron resist firing again, which also keeps signals travelling in one direction.\n\n- Saltatory Conduction:Myelin lets impulses leap between the Nodes of Ranvier, making transmission much faster.\n\n- Modern Evidence:Cryo-electron microscopy has revealed the sodium channel’s exact molecular structure, confirming decades-old predictions.\n\nGuy-Evans, O. (2026). What Is Action Potential?. Simply Psychology. https://www.simplypsychology.org/what-is-action-potential.html\n\nGuy-Evans, Olivia. \"What Is Action Potential?.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/what-is-action-potential.html.\n\nGuy-Evans, O. (2026) What Is Action Potential?. Simply Psychology. Available at: https://www.simplypsychology.org/what-is-action-potential.html (Accessed: 21 September 2026).",
+      "order": 21,
+      "items": []
+    },
+    {
+      "heading": "References",
+      "content": "Hodgkin, A. L., & Huxley, A. F. (1952). A quantitative description of membrane current and its application to conduction and excitation in nerve.The Journal of Physiology, 117(4), 500–544. https://doi.org/10.1113/jphysiol.1952.sp004764\n\nShen, H., Zhou, Q., Pan, X., Li, Z., Wu, J., & Yan, N. (2017). Structure of a eukaryotic voltage-gated sodium channel at near-atomic resolution.Science, 355(6328), eaal4326. https://doi.org/10.1126/science.aal4326\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.",
+      "order": 22,
+      "items": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/action-potential.jpg",
+      "alt": "What Is Action Potential?",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Action-Membrane-Potential.jpeg",
+      "alt": "an infographic with diagram of neurons and descriptions of how action potential works on the neurons",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/electrical-synapse-1-300x251.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/excitatory-vs-inhibitory-neurotransmitters-240x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/neurotransmitter-formulas-300x152.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sensory-motor-relay-neurons-300x253.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cerebral-hemispheres-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/basal-ganglia-1-300x300.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/nerve-impulse.jpg",
+      "alt": "Passage,Of,The,Nerve,Impulse,Through,The,Axon,Infographic,Diagram",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "raw_markdown": "# What Is Action Potential?\n\n> Psychology»Biopsychology\n\n## Giriş\n\nPsychology»Biopsychology\n\nAn action potential is an electrical nerve impulse that travels along aneuron’saxon. It’s a transient, all-or-nothing electrical current that is conducted down the axon when the neuron’s membrane potential reaches a specific “threshold of excitation” (a critical voltage, around −55mV, that the signal must reach to fire).\n\nThink of an action potential as a nerve message: an electrical signal that either fires or stays silent.\n\nIt works like pulling a gun’s trigger. A neuron either fires completely or not at all, and pulling harder never makes the signal stronger.\n\nOnce it starts, the signal cannot be stopped. It races down the axon like a flame along a fuse, travelling at full strength the whole way. Nothing slows it down.\n\n- Why They Matter\n\n- Where They Occur\n\n- What Triggers Firing\n\n- The 3 Phases\n\n- Ions and Channels\n\n- How They Travel\n\n- Critical Evaluation\n\n## Why are action potentials important?\n\nAction potentials are theelectrical impulsesthat let the nervous system process and transmit information. They matter for several connected reasons.\n\n- Neural Communication:Reaching theaxon terminal, the impulse triggers the release ofneurotransmittersinto thesynapse, passing the signal onward and underlying thought, memory, and emotion.\n\n- Muscle Control:Motor neuronscarry these impulses fromthe central nervous systemto muscles, enabling voluntary movement.\n\n- Sensory Processing:They form the rapid electrical basis ofbrain signaling, sensory detection (e.g., light, touch), and pain perception.\n\n- Reflexes:They trigger immediate, involuntary responses, like withdrawing a hand from a hot object, without waiting for the brain, saving crucial seconds for survival.\n\nLocal anaesthetics such as lidocaine exploit this same system. They block the sodium channels an action potential needs to fire, which is why an anaesthetised nerve can no longer signal pain.\n\nOverall, action potentials are essential for coordinated bodily control and interaction with the environment.\n\n## Where do action potentials occur?\n\nAction potentials are typically generated in a neuron’saxon hillock, the specialized region where the axon extends from the cell body, once the “threshold of excitation” is reached.\n\nFrom there, this “all-or-none” electrical signal rapidly travels down the entire length of the axon to the axon terminals (or terminal buttons), which trigger neurotransmitter release, at its end.\n\nBeyond neurons, action potentials are fundamental to other excitable cells.\n\nFor instance, motor neurons use action potentials to transmit commands from the nervous system to muscle fibers, initiatingmuscle contraction.\n\nSimilarly, sensory neurons convert external stimuli into action potentials to relay information about touch, sight, hearing, and pain to the central nervous system.\n\n## What causes an action potential to fire?\n\nAn action potential fires when a neuron gets enough stimulation, typically from neurotransmitters binding to its dendrites. This opens smallvoltage-gated channelsin the membrane.\n\nPositively charged sodium (Na+) ions rush in. This influx depolarizes the cell, making its charge more positive.\n\nIf the charge reaches a threshold of excitation, around -55mV, the neuron fires an action potential.\n\nFiring follows the all-or-nothing principle: it fires completely, at full strength, or not at all.\n\nSodium gates then close. Voltage-gated potassium (K+) channels open, and K+ ions exit to repolarize the cell.\n\n## The 3 phases of an action potential\n\nThe transmission of a nerve impulse, known as an action potential, involves a rapid sequence of electrical changes across the neuron’s membrane.\n\nThis dynamic process typically proceeds through three distinct phases:\n\n## Depolarization (Rising Phase)\n\nA neuron at rest holds a negative charge inside, usually around -70mV, with more sodium (Na+) outside and more potassium (K+) inside. A sodium-potassium pump keeps it this way.\n\nIt actively pushes three Na+ ions out for every two K+ ions it lets in, constantly resupplying the gradient the neuron is about to spend.\n\nWhen sufficiently stimulated, voltage-gated sodium (Na+) channels open, and positively charged Na+ ions rapidly rush into the cell. This influx makes the inside of the cell more positive.\n\nIf this charge reaches the threshold of excitation, around -55mV, a massive influx of Na+ creates a positive spike in the membrane potential. This operates on an all-or-nothing principle.\n\n## Repolarization (Falling Phase)\n\nImmediately following the peak of depolarization, sodium (Na+) channels close, halting the influx of positive ions.\n\nSimultaneously, potassium (K+) channels open, leading to a rapid outward flow of positively charged K+ ions from the neuron.\n\nThis efflux of positive charge quickly restores the membrane potential to a negative charge inside the cell.\n\n## Hyperpolarization (Undershoot)\n\nThis brief phase, also called the undershoot, happens because potassium (K+) channels close relatively slowly. A slight excess of K+ keeps leaving the cell.\n\nThe membrane briefly turns even more negative than its normal resting level, e.g. dropping to -80mV. This is a refractory period: a short window when the neuron resists firing again.\n\nMore precisely, it is the relative refractory period, meaning a stronger-than-normal stimulus can still trigger a second signal, making it harder, but not impossible, to fire right away.\n\nFinally, the sodium-potassium pump restores the resting ion balance.\n\n## Which ions and channels are involved?\n\nVoltage-gated sodium (Na⁺) channelsopen when a stimulus arrives. A voltage sensor in the channel protein detects the change and swings the pore wide, letting positively charged Na⁺ ions rush in and depolarize the membrane.\n\nThe channel then closes itself again, or inactivates, within about a millisecond, regardless of voltage.\n\nRepolarization follows. Na⁺ channels stay inactivated, and voltage-gated potassium (K⁺) channels open, letting K⁺ ions exit.\n\nThe sodium-potassium pump then actively transports three Na⁺ ions out and two K⁺ ions in, restoring the resting membrane potential.\n\n## Hodgkin and Huxley’s Squid Axon Experiments\n\nBritish physiologists Alan Hodgkin and Andrew Huxley set out to find exactly which ions carry the current during an action potential. They needed an unusually large nerve fibre.\n\nThe giant axon of the squid, almost a millimetre across, was wide enough for the electrodes of the time to thread inside it.\n\nAim:to establish which ionic currents cross the axon membrane during an action potential, and whether they alone explain its rise, fall, and spread.\n\nMethod:Hodgkin and Huxley developed the voltage clamp. This technique holds the membrane at a fixed voltage and measures the current needed to keep it there.\n\nThat current reveals exactly which ions are flowing. By replacing the sodium in the seawater bathing the axon, they isolated the sodium and potassium currents in turn.\n\nFindings:depolarization caused a rapid rise in sodium permeability, followed by a slower rise in potassium permeability. Crucially, it also caught the inactivation gate itself.\n\nThe gate was captured mid-fold, plugging the pore from inside the cell to block further current.\n\nConclusion:voltage-dependent changes in sodium and then potassium permeability fully explain the action potential. It closed a gap that had been open since the 1950s: Hodgkin and Huxley shared the 1963 Nobel Prize in Physiology or Medicine for the work.\n\n## How do action potentials travel down a neuron?\n\nAction potentials propagate down a neuron’s axon as an electrical signal.The myelin sheath, a fatty covering, insulates the axon and speeds up transmission significantly.\n\nThe myelin is not continuous, though. It is interrupted at regular intervals by theNodes of Ranvier, small gaps of bare, exposed axon membrane.\n\nThe impulse appears to jump from one node to the next, in a process calledsaltatory conduction, letting signals travel much faster than in unmyelinated axons.\n\nBecause the membrane just behind the signal is briefly refractory, unable to fire again, the impulse can only move forward. It never travels backward.\n\n## How long does an action potential last?\n\nAn action potential typically lasts for a few milliseconds.\n\nNeurons can fire multiple times per second, with some capable of firing up to 1,000 times per second.\n\nImmediately after firing, a neuron enters arefractory period. During the absolute refractory period, it cannot fire again at all.\n\nIn the subsequent relative refractory period, it can fire, but only with a stronger-than-normal stimulus.\n\n## Critical Evaluation\n\nThe ionic account of the action potential is one of the most thoroughly tested models in physiological science, but it has real limits worth knowing.\n\n## Strengths\n\nThe model rests on direct, quantitative measurement rather than speculation. It predicts conduction velocity, threshold, and refractory period accurately across an enormous range of species and cell types, from squid to mammals to cardiac muscle.\n\nThat evidence runs deep, and it keeps getting deeper. Electrophysiology, single-channel recording, gene sequencing, and now the direct imaging of channel structures all confirm the same basic mechanism.\n\nEach new technique adds a finer-grained layer of confirmation rather than overturning the last.\n\nThe practical payoff is just as large. Understanding the mechanism has let researchers design anaesthetics, antiepileptic drugs, and antiarrhythmic heart medications that target specific channel states with real precision, rather than by trial and error. Few models in biology have earned this much convergent support.\n\n## Limitations\n\nThe model also has clear limits. It describes events within and along a single axon, so it explains how a triggered signal travels without loss, not why a neuron fires when it does.\n\nThat decision depends on synaptic summation across a whole dendritic tree, a process the model does not cover. Other gaps remain too.\n\nThe model doesn’t explain how firing patterns across many neurons create a sensation, a memory, or a decision.\n\nThis work came from one large invertebrate axon. Its basic logic holds up well across vertebrate neurons, cardiac cells, and skeletal muscle.\n\nDifferent tissues vary in their channel subtypes, conduction speeds, and vulnerability to specific drugs and toxins, and that difference matters enormously in clinical practice.\n\nNot all brain communication even fits this single-neuron model. Some cells release chemicals more diffusely into the surrounding fluid instead, a slower process called volume transmission that works alongside classical synapses.\n\n## Contemporary Research\n\nCryo-electron microscopy has since let researchers see the sodium channel itself. The technique freezes protein samples in ice, then rebuilds their shape from thousands of microscope images. Shen and colleagues (2017) used it on a full-length sodium channel. Their aim was simple.\n\nAim:to determine the near-atomic structure of a full sodium channel and how its voltage sensors and pore move to open and close.\n\nMethod:they purified the channel from the American cockroach. Insect channels purify more easily than mammalian ones for cryo-EM, and share the same basic four-domain structure. The team imaged the purified protein, resolving its structure down to individual amino acids.\n\nFindings:the structure showed four domains around a central pore, the voltage sensors that detect membrane voltage, and a selectivity filter that lets sodium through and blocks other ions. Crucially, it also caught the inactivation gate itself.\n\nThe gate was captured mid-fold, plugging the pore from inside the cell to block further current.\n\nConclusion:this structure gave a direct, physical picture of the fast inactivation that Hodgkin and Huxley had only inferred from electrical recordings decades earlier. It closed a gap that had been open since the 1950s.\n\n## Is action potential graded or all-or-nothing?\n\nAction potentials operate on the all-or-nothing principle. This means that once the threshold of excitation is reached, the neuron fires completely at its full strength, or it does not fire at all; there is no partial firing.\n\n## Can action potentials occur in every type of cell?\n\nNo, action potentials do not occur in every type of cell. They are characteristic of neurons (nerve cells), which are the fundamental functional units of the nervous system.\n\nThey also occur in other excitable cells, like sensory receptor cells, and are involved in communication with muscle fibers.\n\n## Are they involved in neurotransmitter release?\n\nYes, action potentials are directly involved in neurotransmitter release. When the electrical impulse of an action potential reaches the axon terminals, it triggers the release of neurotransmitters into the synaptic cleft. Neurotransmitters are the chemical messengers neurons use to signal each other.\n\nThis release is mediated by the influx of calcium ions into the terminal bouton.\n\n## Is this process electrical or chemical?\n\nNeuronal communication, including the action potential, is often called an electrochemical event. It has two parts.\n\nThe signal’s movement down the axon is the electrical part. Neurotransmitters then crossing the synapse to the next neuron is the chemical part.\n\n## Key Takeaways\n\n- Definition:An action potential is a brief, all-or-none reversal of electrical charge that travels down a neuron’s axon.\n\n- Threshold:The membrane must depolarize to about −55mV to trigger a full, unstoppable signal.\n\n- Ion Basis:Sodium rushing in causes depolarization; potassium leaving causes repolarization.\n\n- Refractory Period:After firing, a brief window makes the neuron resist firing again, which also keeps signals travelling in one direction.\n\n- Saltatory Conduction:Myelin lets impulses leap between the Nodes of Ranvier, making transmission much faster.\n\n- Modern Evidence:Cryo-electron microscopy has revealed the sodium channel’s exact molecular structure, confirming decades-old predictions.\n\nGuy-Evans, O. (2026). What Is Action Potential?. Simply Psychology. https://www.simplypsychology.org/what-is-action-potential.html\n\nGuy-Evans, Olivia. \"What Is Action Potential?.\" Simply Psychology, 17 September 2026, https://www.simplypsychology.org/what-is-action-potential.html.\n\nGuy-Evans, O. (2026) What Is Action Potential?. Simply Psychology. Available at: https://www.simplypsychology.org/what-is-action-potential.html (Accessed: 21 September 2026).\n\n## References\n\nHodgkin, A. L., & Huxley, A. F. (1952). A quantitative description of membrane current and its application to conduction and excitation in nerve.The Journal of Physiology, 117(4), 500–544. https://doi.org/10.1113/jphysiol.1952.sp004764\n\nShen, H., Zhou, Q., Pan, X., Li, Z., Wu, J., & Yan, N. (2017). Structure of a eukaryotic voltage-gated sodium channel at near-atomic resolution.Science, 355(6328), eaal4326. https://doi.org/10.1126/science.aal4326\n\nBSc (Hons) Psychology, MRes, PhD, University of Manchester\n\nChartered Psychologist (CPsychol)\n\nSaul McLeod, PhD, is a qualified psychology teacher with over 18 years of experience in further and higher education. He has been published in peer-reviewed journals, including the Journal of Clinical Psychology.\n\nOlivia Guy-Evans, MSc\n\nAssociate Editor for Simply Psychology\n\nBSc (Hons) Psychology, MSc Psychology of Education\n\nOlivia Guy-Evans is a writer and associate editor for Simply Psychology, where she contributes accessible content on psychological topics. She is also an autistic PhD student at the University of Birmingham, researching autistic camouflaging in higher education.\n\n",
+  "metadata": {},
+  "scraped_at": "2026-09-21T19:05:49.937232"
+}

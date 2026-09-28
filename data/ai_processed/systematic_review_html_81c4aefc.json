@@ -1,0 +1,151 @@
+{
+  "id": "systematic_review_html_81c4aefc",
+  "original_title": "Doing a Systematic Review: A Student’s Guide",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/systematic-review.html",
+  "published_date": "2024-07-22T08:51:14+00:00",
+  "read_time_minutes": 37,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/systematic-review3.jpg",
+      "alt": "Doing a Systematic Review: A Student’s Guide",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/systematic-review.png",
+      "alt": "systematic review",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Validity-Reliability-300x217.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/IPA.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/confirmability-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Reflexivity-300x200.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Qualitative-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/social-construction-reality-300x157.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/prisma-flowchart.png",
+      "alt": "prisma flowchart",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/quality-assessment-table-e1721414351960.png",
+      "alt": "quality assessment table e1721414351960",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Systematic-Review-Data-Extraction-Form-Patient-Outcomes-e1721413775469.jpg",
+      "alt": "Systematic Review Data Extraction Form Patient Outcomes e1721413775469",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 7357,
+  "turkce_baslik": "Akademik Metodolojide Sistematik Derleme Rehberi",
+  "kanca_sorusu": "Bilimsel bir araştırmanın arkasındaki titiz metodoloji, bilginin güvenilirliğini nasıl belirler?",
+  "score": 45,
+  "puan_nedeni": "Metin, doğrudan ilişkisel dinamikler, bağlanma stilleri veya duygusal örüntüler içermeyip tamamen akademik araştırma metodolojisi ve sistematik derleme yapma rehberine odaklandığı için editoryal puanımız düşüktür.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Akademik dünyada bilgi üretimi, sıradan bir makale taramasından çok daha katı ve yapılandırılmış süreçler gerektirir. Sistematik derlemeler, mevcut bilimsel kanıtları tarafsız, şeffaf ve tekrarlanabilir bir biçimde sentezlemek için tasarlanmıştır. Geleneksel anlatı derlemelerinden farklı olarak, önyargıları en aza indiren net kriterler ve veri çıkarma formları içerir. Bu süreç, sadece veri toplamakla kalmaz, aynı zamanda bilginin kalitesini titizlikle değerlendiren çok katmanlı bir ekip çalışmasını zorunlu kılar.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Akademik Araştırmada Derinlemesine Bakış",
+      "body": "Bilimsel kanıtların güvenilirliği, kullanılan metodolojinin şeffaflığı ile doğrudan ilişkilidir.",
+      "highlight_box": "Sistematik derlemeler bilginin tarafsız özetidir.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Geleneksel ve Sistematik Farkı",
+      "body": "Anlatı derlemeleri öznel seçimler barındırabilirken, sistematik derlemeler önceden belirlenmiş katı kriterler izler.",
+      "highlight_box": "Yöntemdeki netlik, sonuçlardaki yanlılığı önler.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "1. Veri Çıkarma Formu Geliştirme",
+      "body": "Araştırma verilerinin standart ve tutarlı bir şekilde toparlanması için yapılandırılmış formlar oluşturulur.",
+      "highlight_box": "Standartlaştırılmış veri toplama süreci.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "2. İkili Bağımsız İnceleme",
+      "body": "Çalışmaların değerlendirilmesinde insan faktörlü önyargıları azaltmak için süreç bağımsız araştırmacılar tarafından yürütülür.",
+      "highlight_box": "Tarafsızlık için çift gözetim.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Literatür Tarama Kaynakları",
+      "body": "PsycINFO, MEDLINE ve Cochrane gibi uluslararası veritabanları doğru kanıta ulaşmada kritik rol oynar.",
+      "highlight_box": "Doğru kaynak, doğru sonuç demektir.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Bilimsel Şeffaflık",
+      "body": "Metodolojik sağlamlık, üretilen bilginin toplumsal ve akademik karşılığını belirleyen temel unsurdur.",
+      "highlight_box": "Bilimsel okuryazarlık için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Bilimsel bir araştırmanın gerçekten güvenilir olup olmadığını nasıl anlarsınız?",
+    "konusma_metni": "Her okuduğumuz makale aynı ağırlığa sahip değildir. Sistematik derlemeler, önyargıları ortadan kaldırmak için katı kurallar ve veri formları kullanır. Araştırma metodolojisindeki bu şeffaflık, bilginin temellerini sağlamlaştırır."
+  },
+  "caption": "Akademik araştırmalarda metodolojinin önemi ve sistematik derleme süreçlerinin yapısı üzerine yapılandırılmış bir rehber. Bilimsel bilginin güvenilirliği, arkasındaki şeffaf ve sistematik süreçlerden geçer. #bilimselaraştırma #metodoloji #sistematikderleme #psikoloji #akademikaraştırma #bilim",
+  "processed_at": "2026-09-26 15:55:34"
+}

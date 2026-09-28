@@ -1,0 +1,127 @@
+{
+  "id": "linguistic_intelligence_html_e74d8a77",
+  "original_title": "Linguistic intelligence",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/linguistic-intelligence.html",
+  "published_date": "2026-09-17T11:33:22+00:00",
+  "read_time_minutes": 17,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/mother-reads-book.jpg",
+      "alt": "Linguistic intelligence",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/My-project-1-51-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/piaget-stages-300x163.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/formal-operational-stage-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/brain-critical-development-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/ZPD-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/sally-anne-false-belief-task-161x300.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 3324,
+  "turkce_baslik": "Kelimelerin Ötesinde: Çocuklukta Dil Zekası ve Ebeveyn İletişiminin Gizli Gücü",
+  "kanca_sorusu": "Çocuklukta kurulan cümleler, yetişkinlikteki iç sesimizi ve sınırlarımızı nasıl şekillendirir?",
+  "score": 45,
+  "puan_nedeni": "Metin genel olarak Howard Gardner'ın çoklu zeka kuramından ve çocuk psikolojisindeki dil gelişiminden bahsettiği için kuru akademik ve gelişimsel bir çerçevede kalmaktadır. Takipçinin doğrudan ilişkisel yaralarına veya toksik dinamiklerine dokunmadığı için puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Dil zekası, sadece kelimeleri bilmek veya akıcı konuşmak değildir; insanın kendi iç dünyasını, öfkesini, sevgisini ve sınırlarını dış dünyaya aktarabilmesinin en temel aracıdır. Howard Gardner'ın tanımladığı bu kapasite, çocukluk yıllarında ebeveynlerin kurduğu ilişkisel bağlarla doğrudan şekillenir. Çocuğun duygularının kelimelere dökülebildiği bir ev ortamı, ileride kendi duygusal yükünü taşıyabilen bireyler yaratır. Sadece akademik başarı veya kelime ezberi değil, çocuğun duyulduğunu hissetmesi dilin iyileştirici gücünü ortaya çıkarır. Konuşulan her kelime, çocuğun zihninde sadece bir lügat değil, aynı zamanda dünyaya ve kendine bakacağı bir ayna oluşturur.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Kelimelerin Dünyası",
+      "body": "Dil zekası, yalnızca kelimeleri bilmek değil, duyguları ve düşünceleri anlamlı bir formda dünyaya yansıtabilmektir.",
+      "highlight_box": "Her kelime bir içsel yansımadır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Çocukluk ve İletişim",
+      "body": "Çocukların dil gelişimi, sadece konuşma becerisi değil, aynı zamanda duygusal regülasyonun da temelini oluşturur.",
+      "highlight_box": "Duygular kelime bulamadığında beden konuşur.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Zengin Kelime Dağarcığı",
+      "body": "Güçlü dil zekasına sahip bireyler, anlam inceliklerini fark eder ve duygularını en ince detayına kadar ifade etmek ister.",
+      "highlight_box": "Detaylardaki anlam arayışı.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Aktif Dinleme ve İfade",
+      "body": "Sadece konuşmak değil, doğru dinlemek ve karşı tarafa aktarmak bu zeka türünün en belirgin özelliğidir.",
+      "highlight_box": "Anlaşılmanın verdiği güven.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Ebeveynlerin Rolü",
+      "body": "Çocuklarla sık sık konuşmak, onları dinlemek ve anlamaya çalışmak bilişsel olduğu kadar duygusal gelişimi de besler.",
+      "highlight_box": "Tutarlı ve samimi iletişim şarttır.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "İçsel Hatırlatma",
+      "body": "Kullandığımız kelimeler sadece başkalarına değil, kendi içimizdeki çocuğa da hitap eder.",
+      "highlight_box": "Daha derin bir bağ için kaydedin.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Çocukken duyduğunuz o ilk kelimeler, bugün kendi iç sesinizi nasıl oluşturdu biliyor musunuz?",
+    "konusma_metni": "Dil zekası sadece güzel konuşmak ya da çok kitap okumakla ilgili değildir. Çocuklukta ebeveynlerin çocukla kurduğu diyaloglar, bireyin sadece kelime dağarcığını değil, öfkesini ifade etme biçimini ve sınır koyma becerisini de belirler. Eğer bir çocuk duygularını kelimelere dökemiyorsa, içindeki sessizliği öfkeyle ya da kaçınmayla dışa vurur. Kelimeler yaralar, kelimeler iyileştirir."
+  },
+  "caption": "Dil zekası ve iletişim becerileri, bireyin hem iç dünyasıyla hem de dış dünya ile kurduğu bağın temelini oluşturur. Howard Gardner'ın çoklu zeka kuramında yer alan sözel-dilsel zeka, sadece kelime bilgisi veya edebi bir yatkınlık değildir. Aynı zamanda bireyin duygularını anlamlandırma, ifade etme ve karmaşık düşünceleri yapılandırma kapasitesidir. Çocukluk döneminde başlayan bu gelişim, ebeveynlerin çocuklarıyla kurduğu nitelikli iletişimle doğrudan ilişkilidir. Duyguların kelimelere dökülebildiği evler, bireylerin kendi iç sesleriyle daha barışık yaşamasını sağlar. #dilzekasi #cocukpsikolojisi #iletisim #icselelestiri #psikolojinotlari #cocukgelisimi",
+  "processed_at": "2026-09-26 17:02:33"
+}

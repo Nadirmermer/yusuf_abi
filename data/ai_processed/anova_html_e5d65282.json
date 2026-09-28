@@ -1,0 +1,127 @@
+{
+  "id": "anova_html_e5d65282",
+  "original_title": "What Is An ANOVA Test In Statistics: Analysis Of Variance",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/anova.html",
+  "published_date": "2023-10-11T09:12:27+00:00",
+  "read_time_minutes": 7,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/one-way-ind-anova.jpg",
+      "alt": "What Is An ANOVA Test In Statistics: Analysis Of Variance",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/anova-calculator-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Chi-Square-Test-of-Independence-300x186.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/p-value-300x225.jpeg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/t-test-formula-300x129.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/cohen-d-300x142.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/box-whisker-plot-300x165.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Julia-Simkus.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 1371,
+  "turkce_baslik": "İstatistiğin Soğuk Yüzü: Psikolojide ANOVA Testi ve Varyans Analizi",
+  "kanca_sorusu": "İki veya daha fazla grubun ortalamaları arasındaki farkın sadece tesadüf olmadığını nasıl kanıtlarsınız?",
+  "score": 40,
+  "puan_nedeni": "Metin tamamen akademik istatistik ve metodoloji (ANOVA) teorisi içermektedir. Okuyucunun günlük ilişkisel dünyasına, bağlanma stillerine veya içsel travmalarına doğrudan dokunmadığı, klinik bir formülü açıkladığı için düşük puan almıştır.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Psikoloji biliminin temelleri sadece insan ruhunu anlamaktan ibaret değildir; aynı zamanda bu ruhsal süreçlerin veriye dökülmesini ve ampirik olarak kanıtlanmasını gerektirir. ANOVA (Varyans Analizi), tam da bu noktada devreye giren ve birden fazla grubun ortalamaları arasındaki istatistiksel farkları incelememizi sağlayan kritik bir araçtır. Günlük hayatımızda ilişkileri analiz ederken sezgilerimize güveniriz, ancak bilimsel psikoloji araştırmalarında öznelliği ortadan kaldırmak için bu tarz parametrik testlere ihtiyaç duyarız. Terapi ekollerinin, ilaç tedavilerinin veya farklı demografik grupların insan psikolojisi üzerindeki etkilerini ölçerken kullanılan One-Way veya Two-Way ANOVA gibi testler, gözlemlerimizin rastlantısal olup olmadığını bize söyler. Bilim, sezgileri rakamlarla doğrultma sanatıdır ve istatistik bu sanatın görünmeyen iskeletidir.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Varyans Analizi Nedir?",
+      "body": "İki veya daha fazla kategorik grup arasındaki istatistiksel farkı anlamamızı sağlayan temel test.",
+      "highlight_box": "Bilimsel verinin arkasındaki matematik.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "Gruplar ve Seviyeler",
+      "body": "Bağımsız değişkenin alt kategorileri, karşılaştırma yapmamız için bize zemin hazırlar.",
+      "highlight_box": "Gruplar arası farkı incelemek.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "One-Way ANOVA",
+      "body": "Tek bir bağımsız değişkenin iki veya daha fazla grup üzerindeki etkisini inceler.",
+      "highlight_box": "Örneğin; farklı terapi ekollerinin depresyon üzerindeki etkisi.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Two-Way ANOVA",
+      "body": "İki veya daha fazla bağımsız değişkenin bağımlı değişken üzerindeki ortak etkisini analiz eder.",
+      "highlight_box": "Faktöriyel analiz yaklaşımı.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "F-Değeri ve Anlamlılık",
+      "body": "Tedavi varyansının rastgele şansa oranını gösteren F değeri, gruplar arası farkın anlamlılığını ortaya koyar.",
+      "highlight_box": "p < .05 eşik değeri.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Araştırma Metodolojisi",
+      "body": "Psikolojide her iddia, sıkı istatistiksel varsayımlar ve testlerle doğrulanmak zorundadır.",
+      "highlight_box": "Bilimsel okuryazarlık için kaydet.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Psikolojide bir bulgunun gerçek mi yoksa sadece tesadüf mü olduğunu nasıl anlarız?",
+    "konusma_metni": "Bugün psikoloji araştırmalarının en temel ama en çok korkulan konularından birine bakıyoruz: ANOVA yani Varyans Analizi. İki ya da daha fazla grubun ortalamaları arasında anlamlı bir fark olup olmadığını test etmek için kullandığımız bu istatistiksel yöntem, teorilerimizi somut verilere dönüştürür. Terapilerin etkisinden gruplar arası farklara kadar her şey bu testin matematiğinden geçer."
+  },
+  "caption": "Psikoloji araştırmalarının arkasındaki istatistiksel temelleri inceledik. ANOVA testi, gözlemlerimizin tesadüfi mi yoksa gerçek bir etkiye mi dayandığını anlamamız için kritik bir araçtır. Bilimsel araştırma yöntemleri ve istatistik hakkında daha fazla içerik için takipte kalın.\n\n#psikoloji #istatistik #anovatest #araştırmayöntemleri #bilimselaraştırma #klinikpsikoloji #veri",
+  "processed_at": "2026-09-26 17:45:04"
+}

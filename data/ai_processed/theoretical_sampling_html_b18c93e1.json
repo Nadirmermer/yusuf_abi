@@ -1,0 +1,127 @@
+{
+  "id": "theoretical_sampling_html_b18c93e1",
+  "original_title": "Theoretical Sampling in Grounded Theory",
+  "source": "Simply Psychology",
+  "source_url": "https://www.simplypsychology.org/theoretical-sampling.html",
+  "published_date": "2024-10-30T11:25:57+00:00",
+  "read_time_minutes": 13,
+  "original_images": [
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Sample-Target-Population.jpeg",
+      "alt": "Theoretical Sampling in Grounded Theory",
+      "caption": "Header Image",
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/thematic-grounded-300x169.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/coding-saturation-300x129.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/axial-coding-300x154.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/constant-comparison-300x225.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/qualitative-coding-300x193.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/SelectiveCoding-300x129.png",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/Olivia-Guy-Evans-1.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    },
+    {
+      "url": "https://www.simplypsychology.org/wp-content/uploads/saul-mcleod.jpg",
+      "alt": "",
+      "caption": null,
+      "is_cover": false
+    }
+  ],
+  "word_count": 2575,
+  "turkce_baslik": "Araştırma Metodolojisinin Ötesinde: Hayatımızın Verilerini Nasıl Kodluyoruz?",
+  "kanca_sorusu": "Kendi hayatınızın araştırmacısı olsaydınız, yaşadığınız döngüleri hangi teorik temele oturturdunuz?",
+  "score": 45,
+  "puan_nedeni": "Metin tamamen akademik araştırma metodolojisi ve veri toplama süreçleriyle ilgilidir. Doğrudan ilişkisel bir dinamik, travma veya bağlanma stili barındırmadığı, akademik metodolojiye dayandığı için puanı düşük tutulmuştur.",
+  "category": "Kaygı & Zihin Yönetimi",
+  "editoryal_genis_metin": "Grounded theory ve teorik örnekleme, akademik dünyada verinin toplandığı ve analiz edildiği iteratif bir süreci tanımlar. Ancak bu metodolojik yaklaşım, insan zihninin kendi yaşam öyküsünü anlamlandırma biçimiyle derin bir benzerlik taşır. Hayatımızdaki olayları, ilişkisel hayal kırıklıklarını ve tekrarlayan döngüleri anlamaya çalışırken zihnimiz de benzer bir kodlama ve kategori yaratma süreci işletir. Başlangıçta rastgele görünen deneyimler, zamanla zihinsel notlar ve içgörüler aracılığıyla belirli temalara dönüşür. Bilimsel bir teorinin inşası gibi, insan da kendi içsel gerçeğini anlamlandırmak için topladığı verileri süzgeçten geçirir ve nihayetinde bir farkındalık doygunluğuna ulaşır.",
+  "karosel_slaytlari": [
+    {
+      "slide_number": 1,
+      "section_tag": "FARKINDALIK",
+      "title": "Zihnimiz Nasıl Veri Toplar?",
+      "body": "Hayatımız boyunca edindiğimiz deneyimler rastgele değildir; zihnimiz sürekli bir kodlama ve kategori yaratma çabasındadır.",
+      "highlight_box": "Her ilişki, gelecekteki seçimlerimizi şekillendiren bir veri kaynağıdır.",
+      "action_label": "KAYDIR →"
+    },
+    {
+      "slide_number": 2,
+      "section_tag": "DİNAMİK",
+      "title": "İlk İzlenimler ve Purposive Örnekleme",
+      "body": "Bir olayla ilk karşılaştığımızda, elimizdeki sınırlı veriyle bir varsayım oluştururuz ve dünyayı bu mercekten okumaya başlarız.",
+      "highlight_box": "Önyargılarımız, veri toplama sürecimizin ilk adımıdır.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 3,
+      "section_tag": "BELİRTİLER",
+      "title": "Kodlama ve Zihinsel Notlar",
+      "body": "Yaşadığımız her hayal kırıklığını zihnimizde etiketler ve benzer durumlarda bu etiketleri hızla öne sürtürüz.",
+      "highlight_box": "Geçmişin kodları, bugünün kararlarını yönetir.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 4,
+      "section_tag": "BELİRTİLER",
+      "title": "Tekrarlayan Temalar",
+      "body": "Farkında olmadan sürekli aynı tip insanları hayatımıza çekmemiz, zihnimizin eksik kalan temaları tamamlama çabasından kaynaklanır.",
+      "highlight_box": "Çözülmemiş meseleler yeni verilerle sürekli karşımıza çıkar.",
+      "action_label": "DEVAM ET →"
+    },
+    {
+      "slide_number": 5,
+      "section_tag": "DÖNÜŞÜM",
+      "title": "Doygunluğa Ulaşmak",
+      "body": "Aynı acı döngüleri tekrar etmek yerine, veri akışını durdurup bu kategorileri sorgulamak gerçek değişimin başlangıcıdır.",
+      "highlight_box": "Farkındalık, döngünün kırıldığı noktada başlar.",
+      "action_label": "SON ADIM →"
+    },
+    {
+      "slide_number": 6,
+      "section_tag": "ÖZET",
+      "title": "Kendi Hikayenizin Araştırmacısı Olun",
+      "body": "Zihninizin topladığı verileri körü körüne kabul etmek yerine, onları sorgulayın ve kendi teorinizi yeniden yazın.",
+      "highlight_box": "Bu analitik yaklaşımı kaydetmeyi unutmayın.",
+      "action_label": "KAYDET"
+    }
+  ],
+  "reels_kancasi": {
+    "acilis_cumlesi": "Hayatınızda hep aynı hatalı döngüleri yaşamaya devam etmenizin aslında zihinsel bir veri toplama hatası olduğunu biliyor musunuz?",
+    "konusma_metni": "Bilimsel araştırmalarda teorik örnekleme adı verilen bir süreç vardır. Araştırmacı yeni verilere ulaştıkça hipotezini değiştirir ve derinleşir. İlişkilerimizde de tam olarak bunu yaparız. Geçmişten topladığımız verileri kodlar, yeni insanlarla aynı kategorilere koyar ve doyum noktasına ulaşana kadar aynı döngüyü tekrarlarız. Ne zaman ki bu veri toplama mekanizmasının farkına varırız, işte o zaman kendi hikayemizin yönünü değiştirebiliriz."
+  },
+  "caption": "Bilimsel araştırma metodolojisinde kullanılan teorik örnekleme süreci, aslında insan zihninin deneyimlerini anlamlandırma biçiminin birebir yansımasıdır. Zihnimiz sürekli olarak geçmişten veriler toplar, bunları kodlar ve kategorize eder. Ancak bu döngünün farkına varmadığımız sürece, aynı sonuçları doğuran ilişkisel senaryoları tekrar etmeye mahkum oluruz. Kendi içsel araştırmanızda hangi verileri topladığınızı ve bu verilerin sizi nereye götürdüğünü hiç sorguladınız mı?\n\n#Psikoloji #ZihinYönetimi #Farkındalık #BilişselSüreç #İçgörü #YaşamDöngüsü #Metodoloji",
+  "processed_at": "2026-09-26 03:17:45"
+}
