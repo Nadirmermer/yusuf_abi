@@ -815,6 +815,10 @@ def start_scraper_task(payload: Dict[str, Any] = Body(...)):
                 scraper_args = ["--crawl-simply"]
             elif site == "psychologytoday":
                 scraper_args = ["--crawl-pt-core", "--max-pages", "1"]
+            elif site == "decisionlab":
+                scraper_args = ["--crawl-decision"]
+            elif site == "all":
+                scraper_args = ["--only-new"]
             else:
                 raise ValueError(f"Desteklenmeyen kaynak: {site}")
 
