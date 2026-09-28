@@ -1,4 +1,3 @@
-import os
 import re
 import json
 import base64
@@ -8,21 +7,6 @@ from jinja2 import Template
 from playwright.sync_api import sync_playwright
 
 from analyzer.carousel_models import CarouselPost, CarouselSlide
-
-def get_browser_executable_path() -> Optional[str]:
-    """Sistemde mevcut olan Chrome veya Edge tarayıcı yürütülebilir dosyasını bulur."""
-    candidates = [
-        r"C:\Program Files\Google\Chrome\Application\chrome.exe",
-        r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
-        os.path.expandvars(r"%LOCALAPPDATA%\Google\Chrome\Application\chrome.exe"),
-        r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",
-        r"C:\Program Files\Microsoft\Edge\Application\msedge.exe",
-        os.path.expandvars(r"%LOCALAPPDATA%\Microsoft\Edge\Application\msedge.exe"),
-    ]
-    for c in candidates:
-        if os.path.exists(c):
-            return c
-    return None
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 AVATAR_PATH = PROJECT_ROOT / "analyzer" / "assets" / "logo.jpg"
@@ -456,13 +440,10 @@ def render_carousel_slides(carousel: CarouselPost, output_dir: Path) -> List[Pat
         slide_contents.append((s.slide_number, html))
 
     # Tek Playwright oturumunda tüm slaytları doğrudan bellekten ekran görüntüsü al
-    exec_path = get_browser_executable_path()
     launch_kwargs = {
         "headless": True,
         "args": ["--disable-gpu", "--no-sandbox", "--disable-dev-shm-usage"]
     }
-    if exec_path:
-        launch_kwargs["executable_path"] = exec_path
 
     with sync_playwright() as p:
         browser = p.chromium.launch(**launch_kwargs)
