@@ -27,8 +27,7 @@ def get_saved_urls_cache() -> Set[str]:
 
 def save_article(article: Article) -> Dict[str, Path]:
     """
-    Article nesnesini doğrudan kök dizindeki 'makaleler/' klasörüne
-    hem zengin JSON hem de AI Markdown olarak kaydeder.
+    Article nesnesini doğrudan kök dizindeki 'makaleler/' klasörüne JSON olarak kaydeder.
     """
     out_dir = settings.MAKALELER_DIR
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -39,12 +38,6 @@ def save_article(article: Article) -> Dict[str, Path]:
     with open(json_path, "w", encoding="utf-8") as f:
         f.write(article.model_dump_json(indent=2))
 
-    # 2. AI-Dostu Formatlanmış Markdown Kaydetme
-    md_path = out_dir / f"{file_stem}.md"
-    md_content = _build_ai_ready_markdown(article)
-    with open(md_path, "w", encoding="utf-8") as f:
-        f.write(md_content)
-
     # Önbelleğe ekle
     if article.url:
         get_saved_urls_cache().add(article.url.strip().lower())
@@ -52,10 +45,7 @@ def save_article(article: Article) -> Dict[str, Path]:
     # Bellekteki katalog listesine de ekle
     _append_to_catalog_cache(article)
 
-    return {
-        "json": json_path,
-        "markdown": md_path
-    }
+    return {"json": json_path}
 
 class BatchArticleSaver:
     """
@@ -97,74 +87,12 @@ class BatchArticleSaver:
 batch_saver = BatchArticleSaver(batch_size=5)
 atexit.register(lambda: batch_saver.flush())
 
-def _build_ai_ready_markdown(article: Article) -> str:
-    """Yapay zeka ajanı tarafından işlenecek zengin ve düzenli markdown üretir."""
-    lines: List[str] = []
-    
-    lines.append(f"# {article.title}\n")
-    if article.subtitle:
-        lines.append(f"**Alt Başlık**: {article.subtitle}\n")
-        
-    lines.append(f"- **Kaynak Platform**: {article.source}")
-    if article.blog_name:
-        lines.append(f"- **Blog / Kategori**: {article.blog_name}")
-    lines.append(f"- **Orijinal URL**: {article.url}")
-    if article.author:
-        title_str = f" ({article.author_title})" if article.author_title else ""
-        lines.append(f"- **Yazar / Uzman**: {article.author}{title_str}")
-    if article.reviewer:
-        lines.append(f"- **Hakem / Editör**: {article.reviewer}")
-    if article.published_date:
-        lines.append(f"- **Yayın Tarihi**: {article.published_date}")
-    if article.date_modified:
-        lines.append(f"- **Son Güncelleme**: {article.date_modified}")
-    if article.read_time_minutes:
-        lines.append(f"- **Okuma Süresi / Kelime**: ~{article.read_time_minutes} dk ({article.word_count} kelime)")
-    if article.topics:
-        lines.append(f"- **Konu Etiketleri**: {', '.join(article.topics)}")
-    lines.append(f"- **Çekilme Zamanı**: {article.scraped_at}")
-    lines.append("\n---\n")
-
-    if article.summary:
-        lines.append("## 📌 Giriş / Özet")
-        lines.append(article.summary)
-        lines.append("\n")
-
-    if article.key_points:
-        lines.append("## 🎯 Ana Maddeler & Odak Noktaları (Carousel / Post Çekirdeği)")
-        for i, kp in enumerate(article.key_points, 1):
-            lines.append(f"{i}. {kp}")
-        lines.append("\n")
-
-    if article.images:
-        lines.append("## 🖼️ Konuyla İlgili Görseller (Arka Plan & Tasarım İçin)")
-        for img in article.images:
-            caption_str = f" - *{img.caption}*" if img.caption else ""
-            cover_tag = " `[Kapak Görseli]`" if img.is_cover else ""
-            lines.append(f"- ![{img.alt or 'Görsel'}]({img.url}){cover_tag}{caption_str}")
-        lines.append("\n")
-
-    lines.append("## 📝 Makale Bölümleri ve Detaylı İçerik\n")
-    if article.sections:
-        for sec in article.sections:
-            lines.append(f"### {sec.heading}\n")
-            lines.append(f"{sec.content}\n")
-            if sec.items:
-                lines.append("**Alt Maddeler:**")
-                for itm in sec.items:
-                    lines.append(f"- {itm}")
-                lines.append("\n")
-    else:
-        lines.append(article.raw_markdown)
-
-    return "\n".join(lines)
-
 def list_saved_articles() -> List[Path]:
     """Tüm kayıtlı JSON dosyalarını listeler."""
     return list(settings.MAKALELER_DIR.glob("*.json"))
 
 def migrate_existing_data():
-    """Mevcut 'data/' içindeki tüm JSON ve Markdown dosyalarını doğrudan 'makaleler/' klasörüne taşır/kopyalar."""
+    """Mevcut 'data/' içindeki JSON dosyalarını 'makaleler/' klasörüne taşır/kopyalar."""
     settings.MAKALELER_DIR.mkdir(parents=True, exist_ok=True)
     
     # 1. JSON dosyalarını taşı
@@ -172,12 +100,6 @@ def migrate_existing_data():
         target_json = settings.MAKALELER_DIR / jf.name
         if not target_json.exists():
             shutil.copy2(str(jf), str(target_json))
-
-    # 2. Markdown dosyalarını taşı
-    for mf in settings.DATA_DIR.glob("*/markdown/*.md"):
-        target_md = settings.MAKALELER_DIR / mf.name
-        if not target_md.exists():
-            shutil.copy2(str(mf), str(target_md))
 
 CATALOG_INDEX_FILE = settings.DATA_DIR / "catalog_index.json"
 
@@ -280,14 +202,13 @@ def write_master_catalog_file() -> Path:
         read_time = f"{a.get('read_time_minutes', 1)} dk"
         stem = a.get("_file_stem", "")
 
-        md_rel = f"makaleler/{stem}.md"
         json_rel = f"makaleler/{stem}.json"
-        dosya_linki = f"[MD]({md_rel}) • [JSON]({json_rel})"
+        dosya_linki = f"[JSON]({json_rel})"
 
         lines.append(f"| {i} | `{short_date}` | **{source}** | `{blog}` | {title} | {kp_count} | {img_count} | {read_time} | {dosya_linki} |")
 
     lines.append("\n---\n")
-    lines.append("> 💡 **Kullanım:** Yukarıdaki tablodan istediğiniz makalenin [MD] veya [JSON] linkine tıklayarak doğrudan içeriğine gidebilir, sosyal medya postlarınız veya carousel tasarımlarınız için içerikten faydalanabilirsiniz.\n")
+    lines.append("> 💡 **Kullanım:** Yukarıdaki tablodan istediğiniz makalenin JSON linkine tıklayarak içeriğine gidebilir, sosyal medya postlarınız veya carousel tasarımlarınız için içerikten faydalanabilirsiniz.\n")
 
     with open(catalog_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))

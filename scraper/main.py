@@ -47,7 +47,7 @@ def process_single_url(url: str, force_jina: bool = False, quiet: bool = False, 
             did_flush = batch_saver.add(article)
             if did_flush and not quiet:
                 console.print("[dim green]💾 [SSD Koruma] 5 makale blok halinde diske yazıldı ve katalog güncellendi.[/dim green]")
-            paths = {"json": settings.MAKALELER_DIR / f"{article.id}.json", "markdown": settings.MAKALELER_DIR / f"{article.id}.md"}
+            paths = {"json": settings.MAKALELER_DIR / f"{article.id}.json"}
         else:
             paths = save_article(article)
         
@@ -67,7 +67,6 @@ def process_single_url(url: str, force_jina: bool = False, quiet: bool = False, 
             table.add_row("Madde / Çıkarım", str(len(article.key_points)))
             table.add_row("Görsel Sayısı", str(len(article.images)))
             table.add_row("JSON Çıktısı", str(paths["json"].relative_to(settings.BASE_DIR)))
-            table.add_row("Markdown Çıktısı", str(paths["markdown"].relative_to(settings.BASE_DIR)))
 
             console.print(table)
 
