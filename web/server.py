@@ -810,7 +810,15 @@ def start_scraper_task(payload: Dict[str, Any] = Body(...)):
         global SCRAPER_RUNNING
         SCRAPER_RUNNING = True
         try:
-            cmd = [sys.executable, "-m", "scraper.runner", "--site", site, "--limit", str(limit)]
+            scraper_script = PROJECT_ROOT / "scraper" / "main.py"
+            if site == "simplypsychology":
+                scraper_args = ["--crawl-simply"]
+            elif site == "psychologytoday":
+                scraper_args = ["--crawl-pt-core", "--max-pages", "1"]
+            else:
+                raise ValueError(f"Desteklenmeyen kaynak: {site}")
+
+            cmd = [sys.executable, str(scraper_script), *scraper_args, "--limit", str(limit)]
             subprocess.run(cmd, cwd=str(PROJECT_ROOT))
             # Kazıma bitince kataloğu yeniden indeksle
             global SORTED_CATALOG
