@@ -1,0 +1,37 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Large local content and generated output
+# Keep the folders in the repository with .gitkeep files if needed.
+data/makaleler/*.json
+data/makaleler/*.md
+data/ai_processed/*
+!data/ai_processed/.gitkeep
+data/carousels/*
+!data/carousels/.gitkeep
+
+# Runtime state created by the application
+data/islenmis_makaleler.json
+data/liked_articles.json
+data/passed_articles.json

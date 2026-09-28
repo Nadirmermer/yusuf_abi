@@ -1,0 +1,1330 @@
+<!DOCTYPE html>
+<html lang="tr" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>@ya_da_psikoloji • İçerik Stüdyosu</title>
+  <link rel="icon" type="image/jpeg" href="/static/logo.jpg">
+  
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              gold: '#F6C90E',
+              green: '#10B981',
+              red: '#EF4444',
+              dark: '#080A10',
+              card: '#111522',
+              surface: '#161C2E',
+              border: '#1E263D'
+            }
+          },
+          fontFamily: {
+            sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+            display: ['"Space Grotesk"', 'sans-serif']
+          }
+        }
+      }
+    }
+  </script>
+  
+  <!-- Vue 3 CDN -->
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet">
+  
+  <style>
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      background-color: #080A10;
+      color: #F8FAFC;
+      overscroll-behavior-y: none;
+      -webkit-tap-highlight-color: transparent;
+    }
+    
+    ::-webkit-scrollbar { width: 4px; height: 4px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: #1E263D; border-radius: 4px; }
+
+    .swipe-card {
+      touch-action: pan-y;
+      will-change: transform, opacity;
+      user-select: none;
+    }
+    
+    .card-fly-left {
+      transform: translate(-140%, -10px) rotate(-16deg) !important;
+      opacity: 0 !important;
+      transition: all 0.26s ease-out !important;
+    }
+    .card-fly-right {
+      transform: translate(140%, -10px) rotate(16deg) !important;
+      opacity: 0 !important;
+      transition: all 0.26s ease-out !important;
+    }
+    .card-spring {
+      transform: translate(0, 0) rotate(0deg) !important;
+      transition: transform 0.22s cubic-bezier(0.175, 0.885, 0.32, 1.275) !important;
+    }
+
+    .aspect-instagram {
+      aspect-ratio: 4 / 5;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col bg-[#080A10] text-slate-100 antialiased pb-20 md:pb-6">
+
+<div id="app" class="flex flex-col min-h-screen">
+
+  <!-- ==================== ÜST GEZİNTİ BARI ==================== -->
+  <header class="border-b border-[#1E263D] bg-[#0B0E17]/95 backdrop-blur-md sticky top-0 z-40 px-4 md:px-8 py-2.5 flex items-center justify-between">
+    <!-- Profil & Logo -->
+    <div class="flex items-center gap-2.5 cursor-pointer" @click="activeTab = 'discovery'">
+      <img src="/static/logo.jpg" class="w-8 h-8 rounded-full border border-white/20 object-cover bg-black shadow shrink-0" alt="@ya_da_psikoloji">
+      <div>
+        <span class="font-extrabold tracking-tight text-white text-sm md:text-base font-display">@ya_da_psikoloji</span>
+      </div>
+    </div>
+
+    <!-- Masaüstü Sekme Butonları -->
+    <nav class="hidden md:flex items-center gap-1 bg-[#111522] p-1 rounded-xl border border-[#1E263D] text-xs font-semibold">
+      <button 
+        @click="activeTab = 'discovery'" 
+        :class="activeTab === 'discovery' ? 'bg-[#1C2338] text-white shadow' : 'text-slate-400 hover:text-white'"
+        class="px-3.5 py-1.5 rounded-lg transition flex items-center gap-1.5">
+        <svg class="w-3.5 h-3.5 text-brand-gold" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+        <span>Keşfet</span>
+      </button>
+
+      <button 
+        @click="activeTab = 'liked'; loadLikedArticles()" 
+        :class="activeTab === 'liked' ? 'bg-[#1C2338] text-white shadow' : 'text-slate-400 hover:text-white'"
+        class="px-3.5 py-1.5 rounded-lg transition flex items-center gap-1.5">
+        <svg class="w-3.5 h-3.5 text-brand-green" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/></svg>
+        <span>Havuz</span>
+        <span v-if="likedArticles.length" class="text-[10px] px-1.5 py-0.2 rounded-full bg-brand-green/20 text-brand-green font-bold">
+          {{ likedArticles.length }}
+        </span>
+      </button>
+
+      <button 
+        @click="activeTab = 'studio'" 
+        :class="activeTab === 'studio' ? 'bg-[#1C2338] text-white shadow' : 'text-slate-400 hover:text-white'"
+        class="px-3.5 py-1.5 rounded-lg transition flex items-center gap-1.5">
+        <svg class="w-3.5 h-3.5 text-purple-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/></svg>
+        <span>Stüdyo</span>
+        <span v-if="activeCarousel" class="w-1.5 h-1.5 rounded-full bg-brand-green animate-pulse"></span>
+      </button>
+
+      <button 
+        @click="activeTab = 'archive'; loadRecentCarousels()" 
+        :class="activeTab === 'archive' ? 'bg-[#1C2338] text-white shadow' : 'text-slate-400 hover:text-white'"
+        class="px-3.5 py-1.5 rounded-lg transition flex items-center gap-1.5">
+        <svg class="w-3.5 h-3.5 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4"/></svg>
+        <span>Arşiv</span>
+      </button>
+
+      <button 
+        @click="activeTab = 'settings'; loadSystemStatus(); loadBatchStatus()" 
+        :class="activeTab === 'settings' ? 'bg-[#1C2338] text-white shadow' : 'text-slate-400 hover:text-white'"
+        class="px-3.5 py-1.5 rounded-lg transition flex items-center gap-1.5">
+        <svg class="w-3.5 h-3.5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+        <span>Ayarlar</span>
+      </button>
+    </nav>
+
+    <!-- Küçük Durum Sayacı -->
+    <div class="text-xs text-slate-400 font-mono flex items-center gap-2">
+      <span v-if="activeTab === 'discovery'">Kalan: <strong class="text-white">{{ remainingCount }}</strong></span>
+      <span v-else-if="activeTab === 'liked'">Havuz: <strong class="text-brand-green">{{ likedArticles.length }}</strong></span>
+      <span v-else-if="activeTab === 'archive'">Arşiv: <strong class="text-blue-400">{{ recentCarousels.length }}</strong></span>
+      <span v-else-if="activeTab === 'settings'">Hazır: <strong class="text-purple-400">{{ batchStatus.processed_count || 0 }}</strong></span>
+    </div>
+  </header>
+
+  <!-- ==================== BİLDİRİM (TOAST) ==================== -->
+  <!-- ==================== BİLDİRİM (SADE & SESSİZ) ==================== -->
+  <div v-if="toastMessage" class="fixed bottom-6 right-6 z-50 bg-[#161C2E] text-white border border-brand-gold/40 px-4 py-2.5 rounded-xl shadow-2xl flex items-center gap-2 text-xs font-semibold transition-all">
+    <span class="w-2 h-2 rounded-full bg-brand-gold"></span>
+    <span>{{ toastMessage }}</span>
+  </div>
+
+  <!-- ==================== ANA ALAN ==================== -->
+  <main class="flex-1 p-3 md:p-6 max-w-5xl w-full mx-auto flex flex-col justify-center">
+
+    <!-- ============================================================== -->
+    <!-- 1. SEKME: KEŞFET (SEZGİSEL & ODAKLI EDİTORYAL KART) -->
+    <!-- ============================================================== -->
+    <div v-if="activeTab === 'discovery'" class="w-full max-w-lg mx-auto my-auto flex flex-col justify-center">
+
+      <!-- Yükleniyor Durumu -->
+      <div v-if="loadingCard" class="h-[460px] flex flex-col items-center justify-center bg-[#111522] rounded-3xl border border-[#1E263D] text-center p-6 shadow-2xl">
+        <div class="w-8 h-8 border-2 border-brand-gold border-t-transparent rounded-full animate-spin mb-3"></div>
+        <p class="text-xs font-semibold text-slate-300">Sıradaki editoryal konu hazırlanıyor...</p>
+      </div>
+
+      <!-- SÜRÜKLENEBİLİR EDİTORYAL KART -->
+      <div v-else-if="currentCard" 
+           ref="swipeCardEl"
+           class="swipe-card bg-[#111522] rounded-3xl border border-[#1E263D] p-6 shadow-2xl relative overflow-hidden flex flex-col justify-between min-h-[460px]"
+           :class="cardFlyClass"
+           :style="cardTransformStyle"
+           @mousedown="startDrag"
+           @touchstart="startDrag">
+
+        <!-- Sürükleme Rozetleri -->
+        <div v-if="dragDistance > 30" 
+             class="absolute top-5 right-5 z-30 px-3.5 py-1.5 rounded-xl border-2 border-brand-green bg-brand-green/20 text-brand-green font-black uppercase text-xs tracking-wider rotate-12 pointer-events-none shadow-lg">
+          HAVUZA AL
+        </div>
+        <div v-if="dragDistance < -30" 
+             class="absolute top-5 left-5 z-30 px-3.5 py-1.5 rounded-xl border-2 border-red-500 bg-red-500/20 text-red-400 font-black uppercase text-xs tracking-wider -rotate-12 pointer-events-none shadow-lg">
+          PAS GEÇ
+        </div>
+
+        <!-- Kart İçerik Gövdesi -->
+        <div class="space-y-4">
+          <!-- Üst Satır: Kategori & Puan -->
+          <div class="flex items-center justify-between">
+            <span class="text-[10px] uppercase font-bold tracking-wider px-3 py-1 rounded-full bg-brand-gold/15 text-brand-gold border border-brand-gold/30">
+              {{ currentCard.category || 'İlişkiler & Psikoloji' }}
+            </span>
+
+            <div class="flex items-center gap-1.5 bg-[#161C2E] px-3 py-1 rounded-xl border border-brand-gold/30">
+              <span class="text-[11px] text-slate-400 font-medium">Potansiyel:</span>
+              <span class="text-sm font-black text-brand-gold font-display">{{ currentCard.score }}</span>
+              <span class="text-[10px] text-slate-500">/ 100</span>
+            </div>
+          </div>
+
+          <!-- Türkçe Vurucu Başlık -->
+          <h2 class="text-lg md:text-xl font-extrabold text-white leading-snug font-display">
+            {{ currentCard.title }}
+          </h2>
+
+          <!-- Kanca Sorusu (Ayna Etkisi) -->
+          <div v-if="currentCard.kanca_sorusu" class="p-3.5 rounded-2xl bg-gradient-to-r from-brand-gold/10 to-transparent border-l-4 border-brand-gold">
+            <span class="text-[10px] text-brand-gold font-bold uppercase tracking-wider block mb-1">Ayna Kancası</span>
+            <p class="text-xs md:text-sm text-slate-100 italic leading-relaxed">
+              "{{ currentCard.kanca_sorusu }}"
+            </p>
+          </div>
+
+          <!-- Neden Tutar? / Editoryal Öz -->
+          <div class="bg-[#080A10]/70 p-3.5 rounded-2xl border border-white/5 space-y-1">
+            <span class="text-[10px] text-slate-400 font-bold uppercase tracking-wider block">Psikolojik İçgörü</span>
+            <p class="text-xs text-slate-300 leading-relaxed">
+              {{ currentCard.puan_nedeni || currentCard.intro_text || 'İlişkisel empati ve yüksek kaydetme potansiyeline sahip konu.' }}
+            </p>
+          </div>
+
+          <!-- İsteğe Bağlı Açılır Detaylar (Akordeon: Slaytlar & Reels) -->
+          <div class="border-t border-white/5 pt-2">
+            <button 
+              @click.stop="showDiscoveryDetails = !showDiscoveryDetails"
+              class="w-full py-1.5 px-2 rounded-xl bg-[#161C2E]/60 hover:bg-[#161C2E] text-slate-300 hover:text-white transition flex items-center justify-between text-[11px] font-semibold">
+              <span class="flex items-center gap-1.5">
+                <span>📑 {{ currentCard.slides_count || 6 }} Slayt & Reels Taslağı</span>
+              </span>
+              <span class="text-xs text-brand-gold">{{ showDiscoveryDetails ? 'Kapat ▲' : 'Detayları Gör ▼' }}</span>
+            </button>
+
+            <!-- Açılan Detay Bölümü -->
+            <div v-if="showDiscoveryDetails" class="mt-2.5 space-y-2 p-3 rounded-2xl bg-[#080A10] border border-white/5 text-xs max-h-48 overflow-y-auto">
+              <div v-if="currentCard.reels_kancasi && currentCard.reels_kancasi.acilis_cumlesi" class="pb-2 border-b border-white/5">
+                <span class="text-[10px] font-bold text-brand-gold uppercase block mb-0.5">🎬 Reels Açılışı:</span>
+                <p class="text-slate-200 italic text-[11px]">"{{ currentCard.reels_kancasi.acilis_cumlesi }}"</p>
+              </div>
+
+              <div v-if="currentCard.karosel_slaytlari && currentCard.karosel_slaytlari.length">
+                <span class="text-[10px] font-bold text-slate-400 uppercase block mb-1.5">📑 Karosel Slayt İskeleti:</span>
+                <div class="space-y-1">
+                  <div v-for="(slide, sIdx) in currentCard.karosel_slaytlari" :key="sIdx" class="flex items-start gap-1.5 text-[11px]">
+                    <span class="text-brand-gold font-mono font-bold">{{ sIdx + 1 }}.</span>
+                    <span class="text-slate-200 font-medium truncate">{{ slide.title }}</span>
+                  </div>
+                </div>
+              </div>
+
+              <div v-if="currentCard.url" class="pt-2 border-t border-white/5 flex items-center justify-between text-[11px]">
+                <span class="text-slate-400">Kaynak: {{ currentCard.source }}</span>
+                <a :href="currentCard.url" target="_blank" @click.stop class="text-brand-gold hover:underline flex items-center gap-1 font-semibold">
+                  <span>Orijinal Makaleyi Aç ↗</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ALT AKSİYON BUTONLARI -->
+        <div class="pt-4 mt-3 border-t border-[#1E263D] flex items-center justify-between gap-2.5">
+          <!-- Pas Butonu -->
+          <button 
+            @click="swipeCard('pass')"
+            class="flex-1 py-3 rounded-2xl bg-[#161C2E] hover:bg-red-950/40 text-slate-300 hover:text-red-400 border border-[#1E263D] font-bold text-xs transition flex items-center justify-center gap-1.5 active:scale-95 shadow">
+            <svg class="w-4 h-4 text-red-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M6 18L18 6M6 6l12 12"/></svg>
+            <span>Pas Geç</span>
+          </button>
+
+          <!-- Doğrudan Stüdyoya Al -->
+          <button 
+            @click="swipeAndStartStudio(currentCard.id)"
+            class="p-3 rounded-2xl bg-[#161C2E] hover:bg-purple-900/40 text-purple-400 border border-purple-500/30 transition active:scale-95 shadow"
+            title="Doğrudan Stüdyoda Aç">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/></svg>
+          </button>
+
+          <!-- Havuza Ekle Butonu -->
+          <button 
+            @click="swipeCard('like')"
+            class="flex-1 py-3 rounded-2xl bg-gradient-to-r from-brand-gold to-yellow-500 hover:from-yellow-400 hover:to-yellow-500 text-black font-black text-xs transition flex items-center justify-center gap-1.5 active:scale-95 shadow-lg shadow-brand-gold/15">
+            <svg class="w-4 h-4 fill-black" viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>
+            <span>Havuza Al</span>
+          </button>
+        </div>
+
+      </div>
+
+      <!-- KART KALMADI EKRANI -->
+      <div v-else class="py-12 text-center bg-[#111522] rounded-3xl border border-[#1E263D] p-6 space-y-4 shadow-2xl">
+        <div class="w-12 h-12 rounded-full bg-brand-gold/15 text-brand-gold flex items-center justify-center mx-auto text-xl font-bold">
+          ✓
+        </div>
+        <div>
+          <h3 class="text-base font-bold text-white">İncelenecek Yeni Konu Kalmadı</h3>
+          <p class="text-xs text-slate-400 mt-1">Havuzda {{ likedArticles.length }} adet onaylanmış içerik bulunuyor.</p>
+        </div>
+        <div class="flex flex-col gap-2 pt-2">
+          <button @click="activeTab = 'liked'; loadLikedArticles()" class="w-full py-3 rounded-2xl bg-brand-gold text-black font-extrabold text-xs">
+            Havuza Git ({{ likedArticles.length }})
+          </button>
+          <button @click="resetPassedArticles" class="w-full py-2.5 rounded-2xl bg-[#161C2E] hover:bg-[#1C2338] text-slate-300 border border-white/10 text-xs font-semibold">
+            Pas Geçilenleri Sıfırla
+          </button>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ============================================================== -->
+    <!-- 2. SEKME: HAVUZ (ONAYLANAN KONULAR) -->
+    <!-- ============================================================== -->
+    <div v-if="activeTab === 'liked'" class="space-y-4">
+      <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+        <div>
+          <h2 class="text-base font-bold text-white">Havuzdaki Konular</h2>
+          <p class="text-xs text-slate-400">Üretilmeye hazır bekleyen içerikler ({{ filteredLikedArticles.length }})</p>
+        </div>
+
+        <!-- Arama Filtresi -->
+        <div class="relative w-full sm:w-64">
+          <input 
+            type="text" 
+            v-model="poolSearchQuery" 
+            placeholder="Konularda ara..." 
+            class="w-full bg-[#111522] border border-[#1E263D] rounded-xl px-3 py-1.5 text-xs text-white placeholder-slate-500 focus:border-brand-gold focus:outline-none">
+          <span v-if="poolSearchQuery" @click="poolSearchQuery = ''" class="absolute right-2.5 top-2 text-slate-500 cursor-pointer text-xs">✕</span>
+        </div>
+      </div>
+
+      <div v-if="!likedArticles.length" class="py-16 text-center bg-[#111522] rounded-2xl border border-[#1E263D] p-6 text-xs text-slate-400">
+        Henüz havuza eklenmiş konu yok. Keşfet sekmesinden beğendiğiniz konular burada toplanır.
+      </div>
+
+      <div v-else-if="!filteredLikedArticles.length" class="py-12 text-center bg-[#111522] rounded-2xl border border-[#1E263D] p-6 text-xs text-slate-400">
+        Aramanızla eşleşen konu bulunamadı.
+      </div>
+
+      <div v-else class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+        <div v-for="item in filteredLikedArticles" :key="item.id" 
+             class="bg-[#111522] rounded-2xl border border-[#1E263D] p-4 flex flex-col justify-between hover:border-brand-gold/40 transition">
+          <div>
+            <div class="flex items-center justify-between text-[10px] mb-2">
+              <span class="font-bold uppercase text-brand-gold">{{ item.category }}</span>
+              <span class="font-black text-brand-gold bg-[#161C2E] px-2 py-0.5 rounded">{{ item.score }}/100</span>
+            </div>
+            <h3 class="text-sm font-bold text-white line-clamp-2 mb-2 leading-snug">{{ item.title }}</h3>
+            <p class="text-xs text-slate-400 line-clamp-2 leading-relaxed mb-3">{{ item.kanca_sorusu || item.intro_text }}</p>
+          </div>
+
+          <div class="flex items-center justify-between gap-2 pt-2 border-t border-white/5">
+            <a v-if="item.url" :href="item.url" target="_blank" class="text-[11px] text-slate-400 hover:text-brand-gold flex items-center gap-0.5">
+              <span>Kaynak</span>
+              <span>↗</span>
+            </a>
+            <div class="flex items-center gap-2 ml-auto">
+              <button @click="loadDraftToStudio(item.id)" :disabled="loadingStudio"
+                      class="py-1.5 px-3 rounded-xl bg-purple-600 hover:bg-purple-500 text-white font-bold text-xs transition flex items-center justify-center gap-1">
+                <span>{{ loadingStudioId === item.id ? 'Açılıyor...' : 'Stüdyoda Aç →' }}</span>
+              </button>
+              <button @click="removeLiked(item.id)" class="p-1.5 rounded-xl bg-[#161C2E] hover:text-red-400 text-slate-500 transition" title="Havuzdan Çıkar">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/></svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============================================================== -->
+    <!-- 3. SEKME: KAROSEL & REELS STÜDYOSU -->
+    <!-- ============================================================== -->
+    <div v-if="activeTab === 'studio'">
+
+      <div v-if="!activeCarousel" class="py-20 text-center bg-[#111522] rounded-3xl border border-[#1E263D] max-w-sm mx-auto p-6 space-y-3">
+        <p class="text-sm font-bold text-white">Henüz Konu Seçilmedi</p>
+        <p class="text-xs text-slate-400">Üretim yapmak için Keşfet veya Havuz sekmesinden bir konu seçin.</p>
+        <button @click="activeTab = 'discovery'" class="px-4 py-2 rounded-xl bg-brand-gold text-black font-bold text-xs">
+          Keşfe Git
+        </button>
+      </div>
+
+      <div v-else class="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
+
+        <!-- CANLI ÖNİZLEME (MOBİLDE ÜSTTE, MASAÜSTÜNDE SAĞDA) -->
+        <div class="lg:col-span-5 lg:order-2 sticky top-16 space-y-3">
+          <div class="bg-[#111522] rounded-3xl border border-[#1E263D] p-3 shadow-2xl">
+            <div class="flex items-center justify-between mb-2 px-1 text-xs">
+              <span class="font-bold text-white flex items-center gap-1.5">
+                <span class="w-2 h-2 rounded-full bg-brand-green"></span>
+                <span>Önizleme (4:5)</span>
+              </span>
+              <span class="text-slate-400 font-mono text-[11px]">
+                Slayt {{ selectedSlideIndex + 1 }} / {{ activeCarousel.slides.length }}
+              </span>
+            </div>
+
+            <!-- Instagram Karosel Kartı Mockup (4:5) -->
+            <div class="relative w-full max-w-[340px] md:max-w-[360px] mx-auto aspect-instagram rounded-2xl overflow-hidden bg-black flex flex-col justify-between p-5 select-none shadow-2xl border border-white/10">
+              <img :src="activeCarousel.selected_image" class="absolute inset-0 w-full h-full object-cover object-center pointer-events-none">
+              
+              <div class="absolute inset-0 pointer-events-none"
+                   :style="{
+                     backgroundColor: 'rgba(7, 9, 14, ' + activeCarousel.overlay_opacity + ')',
+                     backgroundImage: 'linear-gradient(to top, rgba(7,9,14,0.95) 0%, rgba(7,9,14,' + activeCarousel.overlay_opacity + ') 50%, rgba(7,9,14,0.7) 100%)'
+                   }">
+              </div>
+
+              <!-- Header (Kategori & Slayt Sayacı) -->
+              <div class="relative z-10 flex items-center justify-between">
+                <span class="text-[9px] uppercase font-bold tracking-wider px-2 py-0.5 rounded-full bg-[#161C2E] text-slate-300 border border-white/10 font-mono">
+                  {{ activeCarousel.category || 'İlişkiler & Psikoloji' }}
+                </span>
+                <span class="text-[9px] font-mono text-slate-300 bg-black/60 px-2 py-0.5 rounded-full border border-white/10">
+                  {{ String(selectedSlideIndex + 1).padStart(2, '0') }} / {{ String(activeCarousel.slides.length).padStart(2, '0') }}
+                </span>
+              </div>
+
+              <!-- Gövde -->
+              <div class="relative z-10 my-auto py-2">
+                <div class="space-y-2">
+                  <span v-if="currentSlide.section_tag && currentSlide.section_tag.trim()" class="text-[9px] uppercase font-bold tracking-wider px-2.5 py-0.5 rounded-full bg-brand-gold text-black inline-block font-mono shadow-sm">
+                    {{ currentSlide.section_tag }}
+                  </span>
+                  <h3 class="text-base md:text-lg font-extrabold text-white leading-snug font-display line-clamp-3">
+                    {{ currentSlide.title }}
+                  </h3>
+                  <p class="text-xs text-slate-200 leading-relaxed line-clamp-4">
+                    {{ currentSlide.body }}
+                  </p>
+                  <div v-if="currentSlide.highlight_box && currentSlide.highlight_box.trim()" class="mt-2 p-2 rounded-lg bg-black/60 border border-brand-gold/40 text-[11px] text-brand-gold line-clamp-2">
+                    {{ currentSlide.highlight_box }}
+                  </div>
+                </div>
+              </div>
+
+              <!-- Footer (Marka & Aksiyon Butonu) -->
+              <div class="relative z-10 flex items-center justify-between pt-2 border-t border-white/10 text-[9px]">
+                <div class="flex items-center gap-1.5">
+                  <img src="/static/logo.jpg" class="w-5 h-5 rounded-full border border-white/20 object-cover bg-black shrink-0" alt="@ya_da_psikoloji">
+                  <span class="text-[11px] font-bold text-white tracking-tight">@ya_da_psikoloji</span>
+                </div>
+                <span class="text-[9px] font-bold text-brand-gold bg-brand-gold/10 px-2 py-0.5 rounded-full border border-brand-gold/30">
+                  {{ currentSlide.action_label || 'KAYDIR →' }}
+                </span>
+              </div>
+            </div>
+
+            <!-- Gezinti Butonları -->
+            <div class="flex items-center justify-between mt-3 px-2">
+              <button @click="prevSlide" :disabled="selectedSlideIndex === 0"
+                      class="px-3.5 py-1.5 rounded-xl bg-[#161C2E] hover:bg-[#1C2338] text-xs font-semibold disabled:opacity-30 transition">
+                ← Önceki
+              </button>
+              
+              <div class="flex gap-1.5">
+                <span v-for="(_, idx) in activeCarousel.slides" :key="idx"
+                      @click="selectedSlideIndex = idx"
+                      :class="selectedSlideIndex === idx ? 'w-4 bg-brand-gold' : 'w-1.5 bg-slate-600'"
+                      class="h-1.5 rounded-full cursor-pointer transition-all"></span>
+              </div>
+
+              <button @click="nextSlide" :disabled="selectedSlideIndex === activeCarousel.slides.length - 1"
+                      class="px-3.5 py-1.5 rounded-xl bg-[#161C2E] hover:bg-[#1C2338] text-xs font-semibold disabled:opacity-30 transition">
+                Sonraki →
+              </button>
+            </div>
+          </div>
+
+          <!-- BÜYÜK ÜRETİM BUTONU -->
+          <button 
+            @click="renderFinalCarousel" 
+            :disabled="rendering"
+            class="w-full py-3.5 px-4 rounded-2xl bg-gradient-to-r from-brand-gold to-yellow-500 hover:from-yellow-400 hover:to-yellow-500 text-black font-black text-xs transition flex items-center justify-center gap-2 shadow-xl shadow-brand-gold/15 active:scale-98 disabled:opacity-50">
+            <div v-if="rendering" class="w-4 h-4 border-2 border-black border-t-transparent rounded-full animate-spin"></div>
+            <span>{{ rendering ? '1080x1350 Baskı Kalitesinde Render Ediliyor...' : '🎨 PNG Karoseli Üret (1080x1350)' }}</span>
+          </button>
+
+          <!-- Render Tamamlandı Kutusu & İndirme / Açma Merkezi -->
+          <div v-if="renderResult" class="bg-[#111522] border border-brand-green/50 p-4 rounded-2xl shadow-xl space-y-3">
+            <div class="flex items-center justify-between">
+              <span class="text-brand-green font-bold text-xs flex items-center gap-1.5">
+                <span class="w-2 h-2 rounded-full bg-brand-green animate-pulse"></span>
+                <span>✓ {{ renderResult.total_slides }} Slayt Başarıyla Üretildi</span>
+              </span>
+              <span class="text-slate-400 font-mono text-[10px]">{{ renderResult.folder_name }}</span>
+            </div>
+
+            <!-- Hızlı Aksiyon Butonları -->
+            <div class="grid grid-cols-2 gap-2">
+              <a :href="'/api/carousels/download/' + renderResult.folder_name" 
+                 class="py-2.5 px-3 rounded-xl bg-brand-green hover:bg-emerald-400 text-black font-black text-xs transition flex items-center justify-center gap-1.5 shadow">
+                <span>📦 ZIP Olarak İndir</span>
+              </a>
+              <button @click="openFolder(renderResult.folder_name)" 
+                      class="py-2.5 px-3 rounded-xl bg-[#161C2E] hover:bg-[#1C2338] text-white font-bold text-xs border border-white/10 transition flex items-center justify-center gap-1.5">
+                <span>📂 Klasörü Aç</span>
+              </button>
+            </div>
+
+            <!-- Üretilen Slaytların Küçük Önizleme Şeridi -->
+            <div v-if="renderResult.slides && renderResult.slides.length" class="space-y-1.5 pt-1 border-t border-white/5">
+              <span class="text-[10px] text-slate-400 block font-medium">Üretilen Slaytlar (Büyütmek için tıklayın):</span>
+              <div class="grid grid-cols-6 gap-1.5">
+                <a v-for="(slideUrl, sIdx) in renderResult.slides" :key="sIdx"
+                   :href="slideUrl" target="_blank"
+                   class="aspect-[4/5] rounded-lg overflow-hidden border border-white/10 hover:border-brand-gold transition block bg-black"
+                   :title="'Slayt ' + (sIdx + 1)">
+                  <img :src="slideUrl" class="w-full h-full object-cover">
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- DÜZENLEME KONTROLLERİ (SOL / FORM TARAFI) -->
+        <div class="lg:col-span-7 lg:order-1 space-y-4">
+
+          <!-- İKİ BÜYÜK BELİRGİN SEKME -->
+          <div class="grid grid-cols-2 gap-2 bg-[#080A10] p-1.5 rounded-2xl border border-[#1E263D]">
+            <button 
+              @click="studioSubTab = 'carousel'" 
+              :class="studioSubTab === 'carousel' ? 'bg-[#1C2338] text-brand-gold font-bold shadow' : 'text-slate-400 hover:text-white'"
+              class="py-2.5 rounded-xl text-xs font-bold transition flex items-center justify-center gap-2">
+              <span>📑 Karosel Tasarımı & Slaytlar</span>
+            </button>
+            <button 
+              @click="studioSubTab = 'reels'" 
+              :class="studioSubTab === 'reels' ? 'bg-[#1C2338] text-brand-gold font-bold shadow' : 'text-slate-400 hover:text-white'"
+              class="py-2.5 rounded-xl text-xs font-bold transition flex items-center justify-center gap-2">
+              <span>🎬 Reels Video Senaryosu</span>
+            </button>
+          </div>
+
+          <!-- KAROSEL DÜZENLEME SEKMESİ -->
+          <div v-if="studioSubTab === 'carousel'" class="space-y-3.5">
+            <!-- 1. Arka Plan Görseli & Karartma -->
+            <div class="bg-[#111522] rounded-2xl border border-[#1E263D] p-4 space-y-3">
+              <div class="flex items-center justify-between text-xs">
+                <span class="font-bold text-white">Arka Plan Fotoğrafı</span>
+                <button @click="searchAlternativeImages" class="text-brand-gold text-[11px] font-semibold hover:underline">
+                  ↻ Başka Fotoğraflar Ara
+                </button>
+              </div>
+
+              <!-- 4'lü Küçük Resim -->
+              <div class="grid grid-cols-4 gap-2">
+                <div v-for="(img, idx) in activeCarousel.image_suggestions" :key="idx"
+                     @click="activeCarousel.selected_image = img"
+                     :class="activeCarousel.selected_image === img ? 'ring-2 ring-brand-gold scale-[1.02]' : 'opacity-60 hover:opacity-100'"
+                     class="aspect-[4/5] rounded-xl overflow-hidden border border-white/10 cursor-pointer transition bg-black">
+                  <img :src="img" class="w-full h-full object-cover">
+                </div>
+              </div>
+
+              <!-- Opaklık Slider'ı -->
+              <div class="flex items-center gap-3 pt-1">
+                <span class="text-[11px] text-slate-400 shrink-0">Karartma: %{{ Math.round(activeCarousel.overlay_opacity * 100) }}</span>
+                <input type="range" min="0.15" max="0.85" step="0.05" v-model.number="activeCarousel.overlay_opacity"
+                       class="w-full h-1.5 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-brand-gold">
+              </div>
+            </div>
+
+            <!-- 2. Slayt Metinleri & Rozet Kontrolü -->
+            <div class="bg-[#111522] rounded-2xl border border-[#1E263D] p-4 space-y-3">
+              <div class="flex items-center justify-between text-xs">
+                <span class="font-bold text-white">Slayt İçeriği Düzenle</span>
+                <!-- Slayt Hapları -->
+                <div class="flex gap-1.5 overflow-x-auto">
+                  <button v-for="(_, sIdx) in activeCarousel.slides" :key="sIdx"
+                          @click="selectedSlideIndex = sIdx"
+                          :class="selectedSlideIndex === sIdx ? 'bg-brand-gold text-black font-extrabold shadow' : 'bg-[#161C2E] text-slate-400 hover:text-white'"
+                          class="w-7 h-7 rounded-xl text-xs flex items-center justify-center font-mono transition">
+                    {{ sIdx + 1 }}
+                  </button>
+                </div>
+              </div>
+
+              <div class="space-y-3 pt-1">
+                <!-- Slayt Etiketi (Rozet) - KULLANICI ARTIK KARIŞABİLİYOR VEYA SİLEBİLİYOR -->
+                <div>
+                  <div class="flex items-center justify-between mb-1">
+                    <label class="text-[10px] text-slate-400 font-bold uppercase tracking-wider">Slayt Rozeti / Etiketi</label>
+                    <span class="text-[9px] text-slate-500 font-mono">Boş bırakılırsa rozet gizlenir</span>
+                  </div>
+                  <input v-model="currentSlide.section_tag" type="text" placeholder="Örn: FARKINDALIK, DİNAMİK, ÇÖZÜM ADIMI veya boş bırakın" 
+                         class="w-full bg-[#080A10] border border-[#1E263D] rounded-xl px-3 py-2 text-xs text-brand-gold font-mono focus:border-brand-gold focus:outline-none">
+                </div>
+
+                <!-- Slayt Başlığı -->
+                <div>
+                  <label class="text-[10px] text-slate-400 font-bold uppercase tracking-wider block mb-1">Slayt Başlığı</label>
+                  <input v-model="currentSlide.title" type="text" class="w-full bg-[#080A10] border border-[#1E263D] rounded-xl px-3 py-2 text-xs text-white font-semibold focus:border-brand-gold focus:outline-none">
+                </div>
+
+                <!-- Slayt Gövdesi -->
+                <div>
+                  <label class="text-[10px] text-slate-400 font-bold uppercase tracking-wider block mb-1">Açıklama Metni</label>
+                  <textarea v-model="currentSlide.body" rows="3" class="w-full bg-[#080A10] border border-[#1E263D] rounded-xl p-3 text-xs text-slate-300 leading-relaxed focus:border-brand-gold focus:outline-none"></textarea>
+                </div>
+
+                <!-- Vurgu Kutusu -->
+                <div>
+                  <div class="flex items-center justify-between mb-1">
+                    <label class="text-[10px] text-slate-400 font-bold uppercase tracking-wider">Vurgu Kutusu (Alt Çizgi)</label>
+                    <span class="text-[9px] text-slate-500 font-mono">Boş bırakılabilir</span>
+                  </div>
+                  <input v-model="currentSlide.highlight_box" type="text" placeholder="Örn: Bunu sık sık fark ediyor musunuz?" 
+                         class="w-full bg-[#080A10] border border-[#1E263D] rounded-xl px-3 py-2 text-xs text-brand-gold focus:border-brand-gold focus:outline-none">
+                </div>
+              </div>
+            </div>
+
+            <!-- 3. Instagram Paylaşım Paketi (Caption & Hashtag'ler) -->
+            <div class="bg-[#111522] rounded-2xl border border-[#1E263D] p-4 space-y-2.5">
+              <div class="flex items-center justify-between text-xs">
+                <span class="font-bold text-white">Instagram Açıklaması & Hashtag'ler</span>
+                <button @click="copyCaption" class="py-1 px-3 rounded-lg bg-brand-green/20 text-brand-green font-bold text-[11px] hover:bg-brand-green/30 transition flex items-center gap-1">
+                  <span>📋 Metni Kopyala</span>
+                </button>
+              </div>
+              <textarea v-model="activeCarousel.caption" rows="4" class="w-full bg-[#080A10] border border-[#1E263D] rounded-xl p-3 text-xs text-slate-300 font-mono leading-relaxed focus:border-brand-gold focus:outline-none"></textarea>
+            </div>
+          </div>
+
+          <!-- REELS KURGUSU SEKMESİ -->
+          <div v-else-if="studioSubTab === 'reels'" class="bg-[#111522] rounded-2xl border border-[#1E263D] p-4 space-y-4">
+            <div class="flex items-center justify-between">
+              <div>
+                <h3 class="text-xs font-bold text-white uppercase tracking-wider">Reels Video Senaryosu</h3>
+                <p class="text-[11px] text-slate-400">Kamera karşısında konuşulacak 30-60 saniyelik metin</p>
+              </div>
+              <button @click="copyReelsText" class="py-1.5 px-3 rounded-xl bg-brand-green text-black font-extrabold text-xs hover:bg-emerald-400 transition flex items-center gap-1">
+                <span>📋 Senaryoyu Kopyala</span>
+              </button>
+            </div>
+
+            <div class="space-y-3">
+              <div>
+                <label class="text-[10px] text-brand-gold font-bold uppercase tracking-wider block mb-1">İlk 3 Saniye Kancası (Kameraya Giriş):</label>
+                <input v-model="activeCarousel.reels_kancasi.acilis_cumlesi" type="text" class="w-full bg-[#080A10] border border-[#1E263D] rounded-xl px-3 py-2 text-xs text-white font-medium focus:border-brand-gold focus:outline-none">
+              </div>
+
+              <div>
+                <label class="text-[10px] text-slate-400 font-bold uppercase tracking-wider block mb-1">Konuşma Metni (Akıcı Senaryo):</label>
+                <textarea v-model="activeCarousel.reels_kancasi.konusma_metni" rows="6" class="w-full bg-[#080A10] border border-[#1E263D] rounded-xl p-3 text-xs text-slate-200 leading-relaxed font-sans focus:border-brand-gold focus:outline-none"></textarea>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- ============================================================== -->
+    <!-- 4. SEKME: ARŞİV (ÜRETİLENLER) -->
+    <!-- ============================================================== -->
+    <div v-if="activeTab === 'archive'" class="space-y-4">
+      <div class="flex items-center justify-between">
+        <div>
+          <h2 class="text-base font-bold text-white">Üretilen Karoseller</h2>
+          <p class="text-xs text-slate-400">Yüksek çözünürlüklü olarak kaydedilen çalışmalar ({{ recentCarousels.length }})</p>
+        </div>
+        <button @click="loadRecentCarousels" class="text-xs text-brand-gold font-semibold hover:underline">↻ Yenile</button>
+      </div>
+
+      <div v-if="!recentCarousels.length" class="py-16 text-center bg-[#111522] rounded-2xl border border-[#1E263D] text-xs text-slate-400">
+        Henüz üretilmiş bir karosel yok. Stüdyo sekmesinden ilk karoselinizi üretebilirsiniz.
+      </div>
+
+      <div v-else class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
+        <div v-for="car in recentCarousels" :key="car.folder_name" 
+             class="bg-[#111522] rounded-2xl border border-[#1E263D] overflow-hidden flex flex-col justify-between">
+          <div class="relative aspect-instagram bg-black">
+            <img v-if="car.cover_slide" :src="car.cover_slide" class="w-full h-full object-cover">
+            <div class="absolute top-2 right-2 bg-black/80 px-2 py-0.5 rounded text-[10px] font-black text-brand-gold font-display">
+              {{ car.puan }}
+            </div>
+          </div>
+          <div class="p-2.5 flex items-center justify-between gap-1 border-t border-white/5">
+            <span class="text-[11px] text-slate-300 truncate" :title="car.folder_name">{{ car.folder_name }}</span>
+            <div class="flex items-center gap-2 shrink-0">
+              <a :href="'/api/carousels/download/' + car.folder_name" class="text-[11px] text-brand-green font-bold hover:underline" title="ZIP İndir">ZIP</a>
+              <button @click="openFolder(car.folder_name)" class="text-[11px] text-blue-400 hover:underline">Aç</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============================================================== -->
+    <!-- 5. SEKME: SÜREÇ & AYARLAR -->
+    <!-- ============================================================== -->
+    <div v-if="activeTab === 'settings'" class="space-y-4 max-w-2xl mx-auto">
+      
+      <!-- Sayaçlar -->
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-2.5">
+        <div class="bg-[#111522] p-3 rounded-2xl border border-[#1E263D]">
+          <div class="text-[10px] text-slate-400 uppercase font-semibold">Toplam Arşiv</div>
+          <div class="text-base font-black text-white font-mono mt-0.5">{{ systemStatus.total_articles || '7639' }}</div>
+        </div>
+        <div class="bg-[#111522] p-3 rounded-2xl border border-[#1E263D]">
+          <div class="text-[10px] text-slate-400 uppercase font-semibold">Hazır Konular</div>
+          <div class="text-base font-black text-purple-400 font-mono mt-0.5">{{ batchStatus.processed_count || 0 }}</div>
+        </div>
+        <div class="bg-[#111522] p-3 rounded-2xl border border-[#1E263D]">
+          <div class="text-[10px] text-slate-400 uppercase font-semibold">Havuz</div>
+          <div class="text-base font-black text-brand-green font-mono mt-0.5">{{ systemStatus.liked_count || likedArticles.length }}</div>
+        </div>
+        <div class="bg-[#111522] p-3 rounded-2xl border border-[#1E263D]">
+          <div class="text-[10px] text-slate-400 uppercase font-semibold">Analiz Motoru</div>
+          <div class="text-base font-black text-brand-gold font-mono mt-0.5">{{ systemStatus.api_keys_count || 11 }} Hat</div>
+        </div>
+      </div>
+
+      <!-- OTOMATİK İÇERİK ANALİZ MOTORU -->
+      <div class="bg-[#111522] rounded-2xl border border-purple-500/30 p-4 space-y-3">
+        <div class="flex items-center justify-between">
+          <div class="flex items-center gap-2">
+            <span class="w-2.5 h-2.5 rounded-full" :class="batchStatus.is_running ? 'bg-brand-green animate-pulse' : 'bg-slate-500'"></span>
+            <h3 class="text-xs uppercase font-bold text-white tracking-wider">Otomatik İçerik Analiz Motoru</h3>
+          </div>
+          <span class="text-xs font-mono" :class="batchStatus.is_running ? 'text-brand-green font-bold' : 'text-slate-400'">
+            {{ batchStatus.is_running ? 'Aktif' : 'Durduruldu' }}
+          </span>
+        </div>
+
+        <p class="text-[11px] text-slate-400 leading-relaxed">
+          Kütüphanedeki makaleleri sırayla inceleyip Türkçeye uyarlar ve hazır slayt kurgusu oluşturur.
+        </p>
+
+        <!-- İlerleme Sayacı -->
+        <div class="bg-[#080A10] p-3 rounded-xl border border-white/5 space-y-1.5">
+          <div class="flex items-center justify-between text-[11px]">
+            <span class="text-slate-400">İlerleyiş:</span>
+            <span class="text-white font-mono font-bold">{{ batchStatus.processed_count }} / {{ batchStatus.total_eligible || '7639' }}</span>
+          </div>
+          <div v-if="batchStatus.current_article" class="text-[11px] text-brand-gold truncate">
+            <strong>Şu an:</strong> {{ batchStatus.current_article }}
+          </div>
+        </div>
+
+        <!-- Butonlar -->
+        <div class="flex gap-2">
+          <button v-if="!batchStatus.is_running" 
+                  @click="startBatch" 
+                  class="flex-1 py-2.5 px-3 rounded-xl bg-purple-600 hover:bg-purple-500 text-white font-bold text-xs transition flex items-center justify-center gap-1.5 shadow-lg shadow-purple-900/30">
+            <span>▶️ Analizi Başlat</span>
+          </button>
+          <button v-else 
+                  @click="stopBatch" 
+                  class="flex-1 py-2.5 px-3 rounded-xl bg-red-600/20 hover:bg-red-600/30 text-red-300 border border-red-500/30 font-bold text-xs transition flex items-center justify-center gap-1.5">
+            <span>⏸️ Duraklat</span>
+          </button>
+          <button @click="loadBatchStatus" class="p-2.5 rounded-xl bg-[#161C2E] hover:bg-[#1C2338] text-slate-300 text-xs" title="Durumu Güncelle">
+            ↻
+          </button>
+        </div>
+      </div>
+
+      <!-- İçerik Yönetimi -->
+      <div class="bg-[#111522] rounded-2xl border border-[#1E263D] p-4 space-y-2.5">
+        <h3 class="text-xs uppercase font-bold text-slate-400 tracking-wider">İçerik Yönetimi</h3>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-2">
+          <button @click="resetPassedArticles" class="p-3 rounded-xl bg-[#161C2E] hover:bg-[#1C2338] border border-white/5 text-left transition flex items-center justify-between">
+            <div>
+              <strong class="text-xs text-white block">Pas Geçilenleri Sıfırla</strong>
+              <span class="text-[10px] text-slate-400">Konuları tekrar Keşfet listesine getirir.</span>
+            </div>
+            <span class="text-slate-500 text-sm">🔄</span>
+          </button>
+
+          <button @click="reindexCatalog" class="p-3 rounded-xl bg-[#161C2E] hover:bg-[#1C2338] border border-white/5 text-left transition flex items-center justify-between">
+            <div>
+              <strong class="text-xs text-white block">Kataloğu Yenile</strong>
+              <span class="text-[10px] text-slate-400">Konu puanlarını ve sırasını tazeler.</span>
+            </div>
+            <span class="text-slate-500 text-sm">⚡</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Yeni Makale Çekme -->
+      <div class="bg-[#111522] rounded-2xl border border-[#1E263D] p-4 space-y-2.5">
+        <div class="flex items-center justify-between">
+          <h3 class="text-xs uppercase font-bold text-slate-400 tracking-wider">Kaynaklardan Makale Çek</h3>
+          <span v-if="scraperRunning" class="text-xs text-brand-gold animate-pulse font-mono">Taranıyor...</span>
+        </div>
+
+        <div class="grid grid-cols-2 gap-2">
+          <button @click="triggerScraper('simplypsychology', 20)" :disabled="scraperRunning"
+                  class="py-2.5 px-3 rounded-xl bg-[#161C2E] hover:bg-[#1C2338] border border-white/5 text-xs text-slate-300 font-semibold disabled:opacity-50">
+            Simply Psychology (+20)
+          </button>
+          <button @click="triggerScraper('psychologytoday', 20)" :disabled="scraperRunning"
+                  class="py-2.5 px-3 rounded-xl bg-[#161C2E] hover:bg-[#1C2338] border border-white/5 text-xs text-slate-300 font-semibold disabled:opacity-50">
+            Psychology Today (+20)
+          </button>
+        </div>
+      </div>
+
+    </div>
+
+  </main>
+
+  <!-- ==================== MOBİL ALT GEZİNTİ BARI ==================== -->
+  <nav class="md:hidden fixed bottom-0 left-0 right-0 z-40 bg-[#0B0E17]/95 backdrop-blur-md border-t border-[#1E263D] px-2 py-2 flex items-center justify-around">
+    <button @click="activeTab = 'discovery'" 
+            :class="activeTab === 'discovery' ? 'text-brand-gold' : 'text-slate-400'"
+            class="flex flex-col items-center gap-0.5">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+      <span class="text-[9px]">Keşfet</span>
+    </button>
+
+    <button @click="activeTab = 'liked'; loadLikedArticles()" 
+            :class="activeTab === 'liked' ? 'text-brand-green' : 'text-slate-400'"
+            class="flex flex-col items-center gap-0.5 relative">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/></svg>
+      <span class="text-[9px]">Havuz</span>
+      <span v-if="likedArticles.length" class="absolute -top-1 -right-1.5 w-3.5 h-3.5 rounded-full bg-brand-green text-black text-[8px] font-extrabold flex items-center justify-center">
+        {{ likedArticles.length }}
+      </span>
+    </button>
+
+    <button @click="activeTab = 'studio'" 
+            :class="activeTab === 'studio' ? 'text-purple-400' : 'text-slate-400'"
+            class="flex flex-col items-center gap-0.5">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/></svg>
+      <span class="text-[9px]">Stüdyo</span>
+    </button>
+
+    <button @click="activeTab = 'archive'; loadRecentCarousels()" 
+            :class="activeTab === 'archive' ? 'text-blue-400' : 'text-slate-400'"
+            class="flex flex-col items-center gap-0.5">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4"/></svg>
+      <span class="text-[9px]">Arşiv</span>
+    </button>
+
+    <button @click="activeTab = 'settings'; loadSystemStatus(); loadBatchStatus()" 
+            :class="activeTab === 'settings' ? 'text-slate-200' : 'text-slate-400'"
+            class="flex flex-col items-center gap-0.5">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+      <span class="text-[9px]">Ayarlar</span>
+    </button>
+  </nav>
+
+</div>
+
+<!-- ==================== VUE 3 ==================== -->
+<script>
+  const { createApp, ref, computed, onMounted } = Vue;
+
+  createApp({
+    setup() {
+      const activeTab = ref('discovery');
+      const studioSubTab = ref('carousel');
+      const showDiscoveryDetails = ref(false);
+      const toastMessage = ref('');
+      const poolSearchQuery = ref('');
+      
+      const showToast = (msg, duration = 2500) => {
+        toastMessage.value = msg;
+        setTimeout(() => {
+          if (toastMessage.value === msg) toastMessage.value = '';
+        }, duration);
+      };
+
+      // --- KEŞFET STATE ---
+      const loadingCard = ref(false);
+      const currentCard = ref(null);
+      const remainingCount = ref(0);
+      const likedCount = ref(0);
+      const passedCount = ref(0);
+
+      // Sürükleme (Drag / Swipe)
+      const isDragging = ref(false);
+      const dragStartX = ref(0);
+      const dragDistance = ref(0);
+      const cardFlyClass = ref('');
+
+      const cardTransformStyle = computed(() => {
+        if (!isDragging.value || dragDistance.value === 0) return {};
+        const rotate = (dragDistance.value / 18).toFixed(2);
+        return {
+          transform: `translate(${dragDistance.value}px, 0px) rotate(${rotate}deg)`,
+          transition: 'none'
+        };
+      });
+
+      const startDrag = (e) => {
+        if (['BUTTON', 'INPUT', 'TEXTAREA', 'A'].includes(e.target.tagName)) return;
+        isDragging.value = true;
+        dragStartX.value = e.type.startsWith('touch') ? e.touches[0].clientX : e.clientX;
+        dragDistance.value = 0;
+
+        window.addEventListener('mousemove', onDragMove);
+        window.addEventListener('mouseup', onDragEnd);
+        window.addEventListener('touchmove', onDragMove, { passive: true });
+        window.addEventListener('touchend', onDragEnd);
+      };
+
+      const onDragMove = (e) => {
+        if (!isDragging.value) return;
+        const currentX = e.type.startsWith('touch') ? e.touches[0].clientX : e.clientX;
+        dragDistance.value = currentX - dragStartX.value;
+      };
+
+      const onDragEnd = () => {
+        if (!isDragging.value) return;
+        isDragging.value = false;
+
+        window.removeEventListener('mousemove', onDragMove);
+        window.removeEventListener('mouseup', onDragEnd);
+        window.removeEventListener('touchmove', onDragMove);
+        window.removeEventListener('touchend', onDragEnd);
+
+        if (dragDistance.value > 60) {
+          swipeCard('like');
+        } else if (dragDistance.value < -60) {
+          swipeCard('pass');
+        } else {
+          cardFlyClass.value = 'card-spring';
+          setTimeout(() => {
+            cardFlyClass.value = '';
+            dragDistance.value = 0;
+          }, 200);
+        }
+      };
+
+      const fetchNextCard = async () => {
+        loadingCard.value = true;
+        cardFlyClass.value = '';
+        dragDistance.value = 0;
+        showDiscoveryDetails.value = false;
+        try {
+          const res = await fetch('/api/discovery/next');
+          if (res.ok) {
+            const data = await res.json();
+            if (data.has_next && data.card) {
+              currentCard.value = data.card;
+              remainingCount.value = data.remaining;
+              likedCount.value = data.total_liked;
+              passedCount.value = data.total_passed;
+            } else {
+              currentCard.value = null;
+              remainingCount.value = 0;
+            }
+          }
+        } catch (e) {
+          showToast("Yüklenemedi.");
+        } finally {
+          loadingCard.value = false;
+        }
+      };
+
+      const swipeCard = async (action) => {
+        if (!currentCard.value || loadingCard.value) return;
+        const artId = currentCard.value.id;
+        cardFlyClass.value = action === 'like' ? 'card-fly-right' : 'card-fly-left';
+
+        try {
+          const res = await fetch('/api/discovery/swipe', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ article_id: artId, action: action })
+          });
+          const nextData = await res.json();
+          if (action === 'like') showToast("❤️ Havuza Eklendi");
+
+          setTimeout(() => {
+            cardFlyClass.value = '';
+            dragDistance.value = 0;
+            showDiscoveryDetails.value = false;
+            if (nextData.has_next && nextData.card) {
+              currentCard.value = nextData.card;
+              remainingCount.value = nextData.remaining;
+              likedCount.value = nextData.total_liked;
+              passedCount.value = nextData.total_passed;
+            } else {
+              currentCard.value = null;
+              remainingCount.value = 0;
+            }
+          }, 260);
+        } catch (e) {
+          cardFlyClass.value = '';
+          dragDistance.value = 0;
+        }
+      };
+
+      const swipeAndStartStudio = async (articleId) => {
+        await fetch('/api/discovery/swipe', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ article_id: articleId, action: 'like' })
+        });
+        await loadDraftToStudio(articleId);
+      };
+
+      // --- HAVUZ ---
+      const likedArticles = ref([]);
+      const loadLikedArticles = async () => {
+        try {
+          const res = await fetch('/api/liked');
+          likedArticles.value = await res.json();
+        } catch (e) {}
+      };
+
+      const filteredLikedArticles = computed(() => {
+        if (!poolSearchQuery.value.trim()) return likedArticles.value;
+        const q = poolSearchQuery.value.toLowerCase().trim();
+        return likedArticles.value.filter(it => 
+          (it.title && it.title.toLowerCase().includes(q)) ||
+          (it.category && it.category.toLowerCase().includes(q)) ||
+          (it.kanca_sorusu && it.kanca_sorusu.toLowerCase().includes(q))
+        );
+      });
+
+      const removeLiked = async (articleId) => {
+        try {
+          await fetch(`/api/liked/${articleId}`, { method: 'DELETE' });
+          likedArticles.value = likedArticles.value.filter(it => it.id !== articleId);
+          showToast("Havuzdan çıkarıldı.");
+        } catch (e) {}
+      };
+
+      // --- STÜDYO ---
+      const loadingStudio = ref(false);
+      const loadingStudioId = ref(null);
+      const activeCarousel = ref(null);
+      const selectedSlideIndex = ref(0);
+      const rendering = ref(false);
+      const renderResult = ref(null);
+
+      const currentSlide = computed(() => {
+        if (!activeCarousel.value || !activeCarousel.value.slides) return {};
+        return activeCarousel.value.slides[selectedSlideIndex.value] || {};
+      });
+
+      const nextSlide = () => {
+        if (selectedSlideIndex.value < activeCarousel.value.slides.length - 1) selectedSlideIndex.value++;
+      };
+      const prevSlide = () => {
+        if (selectedSlideIndex.value > 0) selectedSlideIndex.value--;
+      };
+
+      const loadDraftToStudio = async (articleId) => {
+        loadingStudio.value = true;
+        loadingStudioId.value = articleId;
+        studioSubTab.value = 'carousel';
+        try {
+          const res = await fetch('/api/carousel/draft', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ article_id: articleId })
+          });
+          const data = await res.json();
+          activeCarousel.value = data;
+          selectedSlideIndex.value = 0;
+          renderResult.value = null;
+          activeTab.value = 'studio';
+        } catch (e) {
+          showToast("Kurgu hatası: " + e.message);
+        } finally {
+          loadingStudio.value = false;
+          loadingStudioId.value = null;
+        }
+      };
+
+      const searchAlternativeImages = async () => {
+        if (!activeCarousel.value) return;
+        try {
+          const res = await fetch('/api/carousel/search-images', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ category: activeCarousel.value.category })
+          });
+          const data = await res.json();
+          if (data.images && data.images.length) {
+            activeCarousel.value.image_suggestions = data.images;
+            activeCarousel.value.selected_image = data.images[0];
+          }
+        } catch (e) {}
+      };
+
+      const copyCaption = () => {
+        if (!activeCarousel.value) return;
+        navigator.clipboard.writeText(activeCarousel.value.caption);
+        showToast("✓ Metin Kopyalandı!");
+      };
+
+      const copyReelsText = () => {
+        if (!activeCarousel.value || !activeCarousel.value.reels_kancasi) return;
+        const text = `AÇILIŞ:\n${activeCarousel.value.reels_kancasi.acilis_cumlesi}\n\nKONUŞMA METNİ:\n${activeCarousel.value.reels_kancasi.konusma_metni}`;
+        navigator.clipboard.writeText(text);
+        showToast("✓ Reels Metni Kopyalandı!");
+      };
+
+      const renderFinalCarousel = async () => {
+        if (!activeCarousel.value) return;
+        rendering.value = true;
+        renderResult.value = null;
+        showToast("1080x1350 PNG karosel üretiliyor...", 4000);
+        try {
+          const res = await fetch('/api/carousel/render', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(activeCarousel.value)
+          });
+          renderResult.value = await res.json();
+          showToast("✓ Karosel Hazır!");
+          loadLikedArticles();
+        } catch (e) {
+          showToast("Render hatası.");
+        } finally {
+          rendering.value = false;
+        }
+      };
+
+      // --- ARŞİV ---
+      const recentCarousels = ref([]);
+      const loadRecentCarousels = async () => {
+        try {
+          const res = await fetch('/api/carousels/recent');
+          recentCarousels.value = await res.json();
+        } catch (e) {}
+      };
+
+      const openFolder = async (folderName) => {
+        try {
+          const res = await fetch('/api/carousels/open', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ folder_name: folderName })
+          });
+          const d = await res.json();
+          if (d.status === 'ok') {
+            showToast("✓ Klasör Açıldı");
+          } else {
+            showToast("Açılamadı: " + (d.message || ''));
+          }
+        } catch (e) {
+          showToast("İstek hatası.");
+        }
+      };
+
+      // --- AYARLAR & SÜREÇ ---
+      const systemStatus = ref({});
+      const batchStatus = ref({ is_running: false, processed_count: 0, total_eligible: 0, current_article: '' });
+      const scraperRunning = ref(false);
+
+      const loadSystemStatus = async () => {
+        try {
+          const res = await fetch('/api/system/status');
+          systemStatus.value = await res.json();
+        } catch (e) {}
+      };
+
+      const loadBatchStatus = async () => {
+        try {
+          const res = await fetch('/api/batch/status');
+          batchStatus.value = await res.json();
+          if (batchStatus.value.is_running) {
+            setTimeout(loadBatchStatus, 3000);
+          }
+        } catch (e) {}
+      };
+
+      const startBatch = async () => {
+        try {
+          await fetch('/api/batch/start', { method: 'POST' });
+          showToast("İçerik analiz motoru başlatıldı!");
+          loadBatchStatus();
+        } catch (e) {
+          showToast("Başlatılamadı.");
+        }
+      };
+
+      const stopBatch = async () => {
+        try {
+          await fetch('/api/batch/stop', { method: 'POST' });
+          showToast("Analiz duraklatıldı.");
+          loadBatchStatus();
+        } catch (e) {
+          showToast("Durdurulamadı.");
+        }
+      };
+
+      const resetPassedArticles = async () => {
+        try {
+          await fetch('/api/system/reset-passed', { method: 'POST' });
+          showToast("Pas geçilenler sıfırlandı!");
+          fetchNextCard();
+          loadSystemStatus();
+        } catch (e) {
+          showToast("Sıfırlama başarısız.");
+        }
+      };
+
+      const reindexCatalog = async () => {
+        showToast("Katalog taranıyor...", 3000);
+        try {
+          const res = await fetch('/api/system/reindex-catalog', { method: 'POST' });
+          const d = await res.json();
+          showToast(`Katalog güncellendi (${d.total_indexed} makale)`);
+          fetchNextCard();
+          loadSystemStatus();
+        } catch (e) {
+          showToast("İndeksleme hatası.");
+        }
+      };
+
+      const triggerScraper = async (site, limit) => {
+        scraperRunning.value = true;
+        showToast(`Kazıma başlatıldı...`, 3000);
+        try {
+          const res = await fetch('/api/scraper/start', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ site: site, limit: limit })
+          });
+          const d = await res.json();
+          showToast(d.message);
+          setTimeout(checkScraperStatus, 4000);
+        } catch (e) {
+          showToast("Scraper başlatılamadı.");
+          scraperRunning.value = false;
+        }
+      };
+
+      const checkScraperStatus = async () => {
+        try {
+          const res = await fetch('/api/scraper/status');
+          const d = await res.json();
+          scraperRunning.value = d.running;
+          if (d.running) {
+            setTimeout(checkScraperStatus, 4000);
+          } else {
+            loadSystemStatus();
+          }
+        } catch (e) {}
+      };
+
+      // Klavye Kısayolları
+      window.addEventListener('keydown', (e) => {
+        if (['INPUT', 'TEXTAREA'].includes(document.activeElement.tagName)) return;
+        if (activeTab.value === 'discovery') {
+          if (e.key === 'a' || e.key === 'A' || e.key === 'ArrowLeft') {
+            e.preventDefault(); swipeCard('pass');
+          } else if (e.key === 'd' || e.key === 'D' || e.key === 'ArrowRight') {
+            e.preventDefault(); swipeCard('like');
+          }
+        } else if (activeTab.value === 'studio') {
+          if (e.key === 'ArrowLeft') prevSlide();
+          else if (e.key === 'ArrowRight') nextSlide();
+        }
+      });
+
+      onMounted(() => {
+        fetchNextCard();
+        loadLikedArticles();
+        loadBatchStatus();
+      });
+
+      return {
+        activeTab,
+        studioSubTab,
+        showDiscoveryDetails,
+        toastMessage,
+        loadingCard,
+        currentCard,
+        fetchNextCard,
+        remainingCount,
+        likedCount,
+        passedCount,
+        isDragging,
+        dragDistance,
+        cardTransformStyle,
+        cardFlyClass,
+        startDrag,
+        swipeCard,
+        swipeAndStartStudio,
+        likedArticles,
+        loadLikedArticles,
+        poolSearchQuery,
+        filteredLikedArticles,
+        removeLiked,
+        loadingStudio,
+        loadingStudioId,
+        activeCarousel,
+        selectedSlideIndex,
+        currentSlide,
+        nextSlide,
+        prevSlide,
+        loadDraftToStudio,
+        searchAlternativeImages,
+        copyCaption,
+        copyReelsText,
+        renderFinalCarousel,
+        rendering,
+        renderResult,
+        recentCarousels,
+        loadRecentCarousels,
+        openFolder,
+        systemStatus,
+        batchStatus,
+        startBatch,
+        stopBatch,
+        loadBatchStatus,
+        scraperRunning,
+        loadSystemStatus,
+        resetPassedArticles,
+        reindexCatalog,
+        triggerScraper
+      };
+    }
+  }).mount('#app');
+</script>
+
+</body>
+</html>
