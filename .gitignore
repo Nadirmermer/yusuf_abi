@@ -27,6 +27,5 @@ data/carousels/*
 !data/carousels/.gitkeep
 
 # Runtime state created by the application
-data/islenmis_makaleler.json
 data/liked_articles.json
 data/passed_articles.json

@@ -322,9 +322,7 @@ def main():
         cat = build_master_catalog()
         console.print(f"[bold green]Master katalog güncellendi:[/bold green] {cat}")
     else:
-        # Hiçbir argüman verilmediğinde otomatik interaktif CMD menüsünü başlat
-        from menu import main_menu
-        main_menu()
+        parser.print_help()
 
 if __name__ == "__main__":
     main()

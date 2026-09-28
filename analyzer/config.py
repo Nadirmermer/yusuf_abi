@@ -12,9 +12,6 @@ if dotenv_path.exists():
 DATA_DIR = PROJECT_ROOT / "data"
 MAKALELER_DIR = DATA_DIR / "makaleler"
 
-# Tek ve Ana JSON Dosyası
-ISLENMIS_MAKALELER_PATH = DATA_DIR / "islenmis_makaleler.json"
-
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 os.environ["PYDANTIC_DISABLE_PLUGINS"] = "1"
