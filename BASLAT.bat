@@ -1,67 +1,110 @@
 @echo off
-chcp 65001 > nul
-title @ya_da_psikoloji - İçerik Stüdyosu
-cd /d "%~dp0"
+setlocal EnableExtensions
+chcp 65001 >nul
 
+set "PROJECT_ROOT=%~dp0"
+cd /d "%PROJECT_ROOT%"
+set "PYTHON_EXE=%PROJECT_ROOT%.venv\Scripts\python.exe"
+
+title YAPAY ZEKA ICERIK STUDYOSU
 echo ========================================================
-echo   @ya_da_psikoloji - İÇERİK KEŞFİ VE KAROSEL STÜDYOSU
+echo          YAPAY ZEKA ICERIK STUDYOSU
 echo ========================================================
+echo.
+echo Bu uygulama ilk acilista su islemleri yapar:
+echo   1. Projeye ozel Python ortami olusturur.
+echo   2. Gerekli kutuphaneleri kurar.
+echo   3. Karosel uretimi icin Playwright Chromium'u kurar.
+echo.
+echo Kurulum tamamlandiktan sonra .env dosyasina Gemini API anahtarinizi ekleyin.
+echo Bu pencereyi kapatmayin; kurulum internet hizina gore birkac dakika surebilir.
 echo.
 
 where py >nul 2>nul
-if %errorlevel% neq 0 (
-    echo [HATA] Python sisteminizde bulunamadi!
-    echo Lutfen python.org adresinden Python 3.10+ yukleyin ve "Add to PATH" secenegini isaretleyin.
-    echo.
+if errorlevel 1 (
+    echo [HATA] Python bulunamadi.
+    echo Python 3.10 veya daha yeni bir surumu python.org adresinden kurun.
+    echo Kurulumda Python Launcher secenegini etkinlestirin.
     pause
-    exit /b
+    exit /b 1
 )
 
-py -3 -c "import sys; assert sys.version_info >= (3, 10)" >nul 2>nul
-if %errorlevel% neq 0 (
+py -3 -c "import sys; raise SystemExit(0 if sys.version_info >= (3, 10) else 1)" >nul 2>nul
+if errorlevel 1 (
     echo [HATA] Python 3.10 veya daha yeni bir surum gerekli.
-    echo.
     pause
-    exit /b
+    exit /b 1
 )
 
-if not exist ".venv\Scripts\python.exe" (
-    echo [KURULUM] Projeye ozel Python ortami olusturuluyor...
-    py -3 -m venv .venv
-    if %errorlevel% neq 0 (
+if not exist "%PYTHON_EXE%" (
+    echo [1/4] Projeye ozel Python ortami olusturuluyor...
+    py -3 -m venv "%PROJECT_ROOT%.venv"
+    if errorlevel 1 (
         echo [HATA] Python sanal ortami olusturulamadi.
         pause
-        exit /b
+        exit /b 1
     )
 )
 
-if not exist ".env" (
-    if exist ".env.example" (
-        copy .env.example .env > nul
-        echo [.env] Yapilandirma dosyasi hazirlandi.
+if not exist ".env" if exist ".env.example" (
+    copy /Y ".env.example" ".env" >nul
+    echo [2/4] .env yapilandirma dosyasi olusturuldu.
+)
+
+findstr /c:"AIzaSy...1" ".env" >nul 2>nul
+if not errorlevel 1 (
+    echo.
+    echo [UYARI] Gemini API anahtari henuz ayarlanmamis.
+    echo .env dosyasini Not Defteri ile acip GEMINI_API_KEYS alanini doldurun.
+    echo Ornek anahtari silip kendi Gemini API anahtarinizi yazin.
+    echo Sonra BASLAT.bat dosyasini yeniden calistirin.
+    pause
+    exit /b 1
+)
+
+"%PYTHON_EXE%" -c "import fastapi, uvicorn, google.genai, playwright" >nul 2>nul
+if errorlevel 1 (
+    echo [3/4] Gerekli Python kutuphaneleri kuruluyor...
+    echo Bu adim internet hizina gore birkac dakika surebilir.
+    "%PYTHON_EXE%" -m pip install --upgrade pip
+    if errorlevel 1 (
+        echo [HATA] pip guncellenemedi. Internet baglantinizi kontrol edin.
+        pause
+        exit /b 1
     )
+    "%PYTHON_EXE%" -m pip install -r "%PROJECT_ROOT%requirements.txt"
+    if errorlevel 1 (
+        echo [HATA] Python kutuphaneleri kurulamadi.
+        pause
+        exit /b 1
+    )
+) else (
+    echo [3/4] Python kutuphaneleri hazir.
 )
 
-echo [KONTROL] Sistem ve bilesenler kontrol ediliyor...
-.venv\Scripts\python.exe -c "import fastapi, uvicorn, google.genai, playwright" >nul 2>nul
-if %errorlevel% neq 0 (
-    echo.
-    echo ========================================================
-    echo   GEREKLI KUTUPHANELER KURULUYOR (Ilk Calistirma)
-    echo   Bu islem internet hizina gore 1-2 dakika surebilir...
-    echo ========================================================
-    echo.
-    .venv\Scripts\python.exe -m pip install --upgrade pip
-    .venv\Scripts\python.exe -m pip install -r requirements.txt
-    .venv\Scripts\python.exe -m playwright install chromium
-    echo.
-    echo [BASARILI] Tum kurulumlar tamamlandi!
-    echo.
+"%PYTHON_EXE%" -c "from pathlib import Path; from playwright.sync_api import sync_playwright; p=sync_playwright().start(); ready=Path(p.chromium.executable_path).exists(); p.stop(); raise SystemExit(0 if ready else 1)" >nul 2>nul
+if errorlevel 1 (
+    echo [4/4] Playwright Chromium kuruluyor...
+    "%PYTHON_EXE%" -m playwright install chromium
+    if errorlevel 1 (
+        echo [HATA] Playwright Chromium kurulamadi.
+        pause
+        exit /b 1
+    )
+) else (
+    echo [4/4] Playwright Chromium hazir.
 )
 
-.venv\Scripts\python.exe launcher.py
-if %errorlevel% neq 0 (
+echo.
+echo .env dosyanizi kontrol edin ve GEMINI_API_KEYS alanini doldurun.
+echo Uygulama baslatiliyor...
+echo.
+"%PYTHON_EXE%" "%PROJECT_ROOT%launcher.py"
+if errorlevel 1 (
     echo.
     echo [HATA] Uygulama calisirken bir sorun olustu.
     pause
+    exit /b 1
 )
+
+endlocal
