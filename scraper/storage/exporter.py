@@ -103,6 +103,13 @@ def migrate_existing_data():
 
 CATALOG_INDEX_FILE = settings.DATA_DIR / "catalog_index.json"
 
+def _write_json_atomically(path: Path, data: Any) -> None:
+    """JSON'u önce geçici dosyaya yazıp tamamlanınca hedefe taşır."""
+    temp_path = path.with_suffix(path.suffix + ".tmp")
+    with open(temp_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False)
+    temp_path.replace(path)
+
 def _load_catalog_cache() -> List[Dict[str, Any]]:
     """Katalog metaverilerini diskteki tek bir özet indeks dosyasından yükler (0.02 sn). 5000 dosyayı tek tek açmaz!"""
     global _CATALOG_DATA_CACHE
@@ -141,8 +148,7 @@ def _load_catalog_cache() -> List[Dict[str, Any]]:
     _CATALOG_DATA_CACHE = articles_data
     settings.DATA_DIR.mkdir(parents=True, exist_ok=True)
     try:
-        with open(CATALOG_INDEX_FILE, "w", encoding="utf-8") as f:
-            json.dump(articles_data, f, ensure_ascii=False)
+        _write_json_atomically(CATALOG_INDEX_FILE, articles_data)
     except Exception:
         pass
 
@@ -214,8 +220,7 @@ def write_master_catalog_file() -> Path:
         f.write("\n".join(lines))
 
     try:
-        with open(CATALOG_INDEX_FILE, "w", encoding="utf-8") as f:
-            json.dump(sorted_articles, f, ensure_ascii=False)
+        _write_json_atomically(CATALOG_INDEX_FILE, sorted_articles)
     except Exception:
         pass
 

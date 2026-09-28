@@ -130,6 +130,21 @@ class EditorialBatchProcessor:
                 logger.error(f"Catalog okunamadı: {e}")
                 catalog_items = []
 
+            if not isinstance(catalog_items, list) or not catalog_items:
+                catalog_items = []
+                for json_path in ARTICLES_DIR.glob("*.json"):
+                    try:
+                        with open(json_path, "r", encoding="utf-8") as f:
+                            article = json.load(f)
+                        catalog_items.append({
+                            "_file_stem": json_path.stem,
+                            "title": article.get("title", ""),
+                            "source": article.get("source", ""),
+                            "key_points": article.get("key_points", []),
+                        })
+                    except Exception:
+                        continue
+
             for it in catalog_items:
                 stem = it.get("_file_stem") or ""
                 if not stem or stem in already_processed:

@@ -6,7 +6,10 @@ import sys
 import json
 import logging
 import random
+import re
 import subprocess
+import tempfile
+import threading
 from datetime import datetime
 from pathlib import Path
 from typing import List, Dict, Any, Optional
@@ -46,6 +49,22 @@ PASSED_ARTICLES_PATH = DATA_DIR / "passed_articles.json"
 
 # Bellekteki Sıralı Katalog Önbelleği (Yüksek puandan düşüğe)
 SORTED_CATALOG: List[Dict[str, Any]] = []
+JSON_STATE_LOCK = threading.Lock()
+SAFE_PATH_COMPONENT = re.compile(r"^[A-Za-z0-9\[\]][A-Za-z0-9_.\-\[\]]{0,180}$")
+
+def validate_path_component(value: Any, field_name: str) -> str:
+    component = str(value or "").strip()
+    if not SAFE_PATH_COMPONENT.fullmatch(component) or component in {".", ".."}:
+        raise HTTPException(status_code=400, detail=f"Geçersiz {field_name}.")
+    return component
+
+def resolve_child_path(root: Path, component: Any, field_name: str) -> Path:
+    safe_component = validate_path_component(component, field_name)
+    root_resolved = root.resolve()
+    target = (root_resolved / safe_component).resolve()
+    if target.parent != root_resolved:
+        raise HTTPException(status_code=400, detail=f"Geçersiz {field_name}.")
+    return target
 
 def load_or_init_json(path: Path, default: Any):
     if not path.exists():
@@ -60,10 +79,19 @@ def load_or_init_json(path: Path, default: Any):
         return default
 
 def save_json(path: Path, data: Any):
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with JSON_STATE_LOCK:
+        with tempfile.NamedTemporaryFile(mode="w", encoding="utf-8", dir=path.parent, delete=False, prefix=f".{path.name}.", suffix=".tmp") as temp_file:
+            json.dump(data, temp_file, ensure_ascii=False, indent=2)
+            temp_path = Path(temp_file.name)
+        try:
+            temp_path.replace(path)
+        finally:
+            if temp_path.exists():
+                temp_path.unlink()
 
 def get_article_full_data(article_id: str) -> Dict[str, Any]:
+    article_id = validate_path_component(article_id, "article_id")
     json_path = MAKALELER_DIR / f"{article_id}.json"
     if not json_path.exists():
         matches = list(MAKALELER_DIR.glob(f"*{article_id}*.json"))
@@ -82,16 +110,37 @@ def init_sorted_catalog():
     global SORTED_CATALOG
     if SORTED_CATALOG:
         return SORTED_CATALOG
-    if not CATALOG_PATH.exists():
-        SORTED_CATALOG = []
-        return SORTED_CATALOG
 
+    raw_items = []
     try:
-        with open(CATALOG_PATH, "r", encoding="utf-8") as f:
-            raw_items = json.load(f)
+        if CATALOG_PATH.exists():
+            with open(CATALOG_PATH, "r", encoding="utf-8") as f:
+                raw_items = json.load(f)
+            if not isinstance(raw_items, list):
+                raw_items = []
     except Exception as e:
         logger.error(f"Katalog okuma hatası: {e}")
         raw_items = []
+
+    if not raw_items:
+        for article_path in MAKALELER_DIR.glob("*.json"):
+            try:
+                with open(article_path, "r", encoding="utf-8") as f:
+                    article = json.load(f)
+                article.setdefault("_file_stem", article_path.stem)
+                raw_items.append(article)
+            except Exception:
+                continue
+
+        if raw_items:
+            temp_path = CATALOG_PATH.with_suffix(CATALOG_PATH.suffix + ".tmp")
+            try:
+                with open(temp_path, "w", encoding="utf-8") as f:
+                    json.dump(raw_items, f, ensure_ascii=False)
+                temp_path.replace(CATALOG_PATH)
+                logger.info(f"Katalog ham makalelerden yeniden oluşturuldu: {len(raw_items)} kayıt")
+            except Exception as repair_error:
+                logger.error(f"Katalog onarım hatası: {repair_error}")
 
     scored_items = []
     for it in raw_items:
@@ -454,7 +503,7 @@ def generate_draft_carousel(payload: Optional[Dict[str, Any]] = Body(None), arti
         
     if not target_id:
         raise HTTPException(status_code=400, detail="article_id gereklidir.")
-        
+    target_id = validate_path_component(target_id, "article_id")
     json_path = MAKALELER_DIR / f"{target_id}.json"
     if not json_path.exists():
         matches = list(MAKALELER_DIR.glob(f"*{target_id}*.json"))
@@ -583,7 +632,7 @@ def search_images(payload: Dict[str, Any] = Body(...)):
 @app.post("/api/carousel/render")
 def render_carousel_endpoint(payload: Dict[str, Any] = Body(...)):
     """Son onayı verilen karoseli 1080x1350 PNG ve caption.txt olarak kaydeder."""
-    article_id = payload.get("article_id") or "custom_carousel"
+    article_id = validate_path_component(payload.get("article_id") or "custom_carousel", "article_id")
     url = payload.get("url", "")
     category = strip_emojis(payload.get("category", "İLİŞKİLER & PSİKOLOJİ"))
     puan = int(payload.get("puan", 90))
@@ -597,8 +646,10 @@ def render_carousel_endpoint(payload: Dict[str, Any] = Body(...)):
         raise HTTPException(status_code=400, detail="En az 1 slayt gereklidir.")
 
     folder_name = f"[{puan:02d}]_{article_id}"
-    target_dir = CAROUSELS_DIR / folder_name
+    target_dir = resolve_child_path(CAROUSELS_DIR, folder_name, "karosel klasörü")
     target_dir.mkdir(parents=True, exist_ok=True)
+    for old_slide in target_dir.glob("slide_*.png"):
+        old_slide.unlink()
 
     local_bg_uri = None
     if selected_image:
@@ -705,7 +756,7 @@ def open_carousel_folder(payload: Dict[str, Any] = Body(...)):
     folder_name = payload.get("folder_name")
     if not folder_name:
         raise HTTPException(status_code=400, detail="folder_name gereklidir.")
-    target_dir = CAROUSELS_DIR / folder_name
+    target_dir = resolve_child_path(CAROUSELS_DIR, folder_name, "folder_name")
     if not target_dir.exists():
         raise HTTPException(status_code=404, detail="Klasör bulunamadı.")
     
@@ -725,7 +776,7 @@ def open_carousel_folder(payload: Dict[str, Any] = Body(...)):
 @app.get("/api/carousels/download/{folder_name}")
 def download_carousel_zip(folder_name: str):
     """Karosel klasörünü zip arşivi olarak tarayıcıya doğrudan indirir."""
-    target_dir = CAROUSELS_DIR / folder_name
+    target_dir = resolve_child_path(CAROUSELS_DIR, folder_name, "folder_name")
     if not target_dir.exists():
         raise HTTPException(status_code=404, detail="Klasör bulunamadı.")
     
@@ -823,7 +874,9 @@ def start_scraper_task(payload: Dict[str, Any] = Body(...)):
                 raise ValueError(f"Desteklenmeyen kaynak: {site}")
 
             cmd = [sys.executable, str(scraper_script), *scraper_args, "--limit", str(limit)]
-            subprocess.run(cmd, cwd=str(PROJECT_ROOT))
+            result = subprocess.run(cmd, cwd=str(PROJECT_ROOT), check=False)
+            if result.returncode != 0:
+                raise RuntimeError(f"Scraper {result.returncode} koduyla başarısız oldu.")
             # Kazıma bitince kataloğu yeniden indeksle
             global SORTED_CATALOG
             SORTED_CATALOG = []
@@ -876,4 +929,4 @@ def serve_index():
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run("web.server:app", host="127.0.0.1", port=8000, reload=True)
+    uvicorn.run("web.server:app", host="127.0.0.1", port=8000, reload=False)
