@@ -78,10 +78,10 @@ class EditorialBatchProcessor:
         logger.info(f"⚡ In-Memory AI Katalog hazır: {self.processed_count} makale yüklendi.")
 
     def get_catalog_list(self) -> List[Dict[str, Any]]:
-        """Hafızadaki kataloğu en yüksek puandan en düşüğe sıralı liste olarak anında döner (0.01 ms)."""
+        """Hafızadaki kataloğu başlığa göre alfabetik sıralı liste olarak anında döner."""
         with self.lock:
             items = list(self.catalog_cache.values())
-        items.sort(key=lambda x: x.get("score", 0), reverse=True)
+        items.sort(key=lambda x: (x.get("turkce_baslik") or x.get("original_title") or x.get("title") or "").lower())
         return items
 
     def _flush_catalog_to_disk(self, items: Optional[List[Dict[str, Any]]] = None):

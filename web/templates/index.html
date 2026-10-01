@@ -194,10 +194,7 @@
         <div class="space-y-4">
           <!-- Üst Satır: Kategori & Puan -->
           <div class="flex items-center justify-between">
-            <span class="text-[10px] uppercase font-bold tracking-wider px-3 py-1 rounded-full bg-brand-gold/15 text-brand-gold border border-brand-gold/30">
-              {{ currentCard.category || 'İlişkiler & Psikoloji' }}
-            </span>
-
+            <!-- Kategori etiketi kaldırıldı -->
             <div class="flex items-center gap-1.5 bg-[#161C2E] px-3 py-1 rounded-xl border border-brand-gold/30">
               <span class="text-[11px] text-slate-400 font-medium">Potansiyel:</span>
               <span class="text-sm font-black text-brand-gold font-display">{{ currentCard.score }}</span>
@@ -415,9 +412,7 @@
 
               <!-- Header (Kategori & Slayt Sayacı) -->
               <div class="relative z-10 flex items-center justify-between">
-                <span class="text-[9px] uppercase font-bold tracking-wider px-2 py-0.5 rounded-full bg-[#161C2E] text-slate-300 border border-white/10 font-mono">
-                  {{ activeCarousel.category || 'İlişkiler & Psikoloji' }}
-                </span>
+                <!-- Kategori etiketi kaldırıldı -->
                 <span class="text-[9px] font-mono text-slate-300 bg-black/60 px-2 py-0.5 rounded-full border border-white/10">
                   {{ String(selectedSlideIndex + 1).padStart(2, '0') }} / {{ String(activeCarousel.slides.length).padStart(2, '0') }}
                 </span>
@@ -545,18 +540,31 @@
             <div class="bg-[#111522] rounded-2xl border border-[#1E263D] p-4 space-y-3">
               <div class="flex items-center justify-between text-xs">
                 <span class="font-bold text-white">Arka Plan Fotoğrafı</span>
-                <button @click="searchAlternativeImages" class="text-brand-gold text-[11px] font-semibold hover:underline">
-                  ↻ Başka Fotoğraflar Ara
-                </button>
+                <div class="flex items-center gap-3">
+                  <!-- Kendi Fotoğrafını Yükle -->
+                  <input ref="photoUploadInput" type="file" accept="image/*" class="hidden" @change="handleCustomPhotoUpload">
+                  <button @click="$refs.photoUploadInput.click()" class="text-purple-400 text-[11px] font-semibold hover:underline flex items-center gap-1">
+                    📁 Kendi Fotoğrafını Ekle
+                  </button>
+                  <button @click="searchAlternativeImages" class="text-brand-gold text-[11px] font-semibold hover:underline">
+                    ↻ Başka Fotoğraflar Ara
+                  </button>
+                </div>
               </div>
 
-              <!-- 4'lü Küçük Resim -->
+              <!-- Küçük Resim Grid'i (önerilen + yüklenenler) -->
               <div class="grid grid-cols-4 gap-2">
                 <div v-for="(img, idx) in activeCarousel.image_suggestions" :key="idx"
                      @click="activeCarousel.selected_image = img"
                      :class="activeCarousel.selected_image === img ? 'ring-2 ring-brand-gold scale-[1.02]' : 'opacity-60 hover:opacity-100'"
-                     class="aspect-[4/5] rounded-xl overflow-hidden border border-white/10 cursor-pointer transition bg-black">
+                     class="aspect-[4/5] rounded-xl overflow-hidden border border-white/10 cursor-pointer transition bg-black relative group">
                   <img :src="img" class="w-full h-full object-cover">
+                  <!-- Yüklenen fotoğraflar için X butonu -->
+                  <button v-if="img.startsWith('data:')"
+                          @click.stop="removeCustomPhoto(idx)"
+                          class="absolute top-0.5 right-0.5 w-4 h-4 rounded-full bg-black/70 text-red-400 text-[9px] flex items-center justify-center opacity-0 group-hover:opacity-100 transition font-bold">
+                    ✕
+                  </button>
                 </div>
               </div>
 
@@ -1006,6 +1014,12 @@
       };
 
       const swipeAndStartStudio = async (articleId) => {
+        if (activeCarousel.value && activeCarousel.value.article_id !== articleId) {
+          if (!window.confirm("Stüdyoda başka bir çalışmanız açık. Yeni konuyu açarsanız mevcut çalışmanız kaydedilmeden silinecektir. Onaylıyor musunuz?")) {
+            return;
+          }
+        }
+        activeCarousel.value = null;
         await fetch('/api/discovery/swipe', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
@@ -1062,6 +1076,18 @@
       };
 
       const loadDraftToStudio = async (articleId) => {
+        if (activeCarousel.value) {
+          if (activeCarousel.value.article_id === articleId) {
+            if (!window.confirm("Bu konu zaten stüdyoda açık. Orijinal (ham) halini yeniden yükleyip mevcut değişikliklerinizi silmek ister misiniz?\n\n'İptal' diyerek kaldığınız yerden devam edebilirsiniz.")) {
+              activeTab.value = 'studio';
+              return;
+            }
+          } else {
+            if (!window.confirm("Stüdyoda başka bir çalışmanız açık. Yeni konuyu açarsanız mevcut çalışmanız kaydedilmeden silinecektir. Onaylıyor musunuz?")) {
+              return;
+            }
+          }
+        }
         loadingStudio.value = true;
         loadingStudioId.value = articleId;
         studioSubTab.value = 'carousel';
@@ -1098,6 +1124,32 @@
             activeCarousel.value.selected_image = data.images[0];
           }
         } catch (e) {}
+      };
+
+      const handleCustomPhotoUpload = (event) => {
+        const file = event.target.files[0];
+        if (!file || !activeCarousel.value) return;
+        const reader = new FileReader();
+        reader.onload = (e) => {
+          const dataUrl = e.target.result;
+          // Kendi yüklediği fotoğrafı başa ekle ve seç
+          activeCarousel.value.image_suggestions = [dataUrl, ...activeCarousel.value.image_suggestions];
+          activeCarousel.value.selected_image = dataUrl;
+          showToast("✓ Fotoğraf eklendi!");
+        };
+        reader.readAsDataURL(file);
+        // Input'u sıfırla ki aynı dosya tekrar seçilebilsin
+        event.target.value = '';
+      };
+
+      const removeCustomPhoto = (idx) => {
+        if (!activeCarousel.value) return;
+        const removing = activeCarousel.value.image_suggestions[idx];
+        activeCarousel.value.image_suggestions.splice(idx, 1);
+        // Eğer silinen fotoğraf seçiliyse ilk fotoğrafı seç
+        if (activeCarousel.value.selected_image === removing && activeCarousel.value.image_suggestions.length) {
+          activeCarousel.value.selected_image = activeCarousel.value.image_suggestions[0];
+        }
       };
 
       const copyCaption = () => {
@@ -1311,6 +1363,8 @@
         prevSlide,
         loadDraftToStudio,
         searchAlternativeImages,
+        handleCustomPhotoUpload,
+        removeCustomPhoto,
         copyCaption,
         copyReelsText,
         renderFinalCarousel,

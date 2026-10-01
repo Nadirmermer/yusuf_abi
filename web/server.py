@@ -176,10 +176,10 @@ def init_sorted_catalog():
         }
         scored_items.append(item_dict)
 
-    # En yüksek puandan en düşük puana sırala (Gerçek veri!)
-    scored_items.sort(key=lambda x: x["score"], reverse=True)
+    # Alfabetik sıraya göre sırala (Müşteri isteği)
+    scored_items.sort(key=lambda x: x["title"].lower())
     SORTED_CATALOG = scored_items
-    logger.info(f"Katalog sıralandı: {len(SORTED_CATALOG)} makale hazır (En yüksek puan: {SORTED_CATALOG[0]['score'] if SORTED_CATALOG else 0}).")
+    logger.info(f"Katalog sıralandı: {len(SORTED_CATALOG)} makale hazır.")
     return SORTED_CATALOG
 
 def enrich_card_with_full_details(card: Dict[str, Any]) -> Dict[str, Any]:
